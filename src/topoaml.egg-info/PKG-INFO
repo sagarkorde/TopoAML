@@ -1,0 +1,22 @@
+Metadata-Version: 2.4
+Name: topoaml
+Version: 0.1.0
+Summary: Historical graph topology for reproducible Bitcoin AML research
+Requires-Python: >=3.10
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scipy
+Requires-Dist: scikit-learn
+Requires-Dist: networkx
+Requires-Dist: gudhi>=3.10
+Requires-Dist: requests
+Requires-Dist: matplotlib
+Requires-Dist: joblib
+Requires-Dist: psutil
+Requires-Dist: xgboost
+Requires-Dist: torch
+Requires-Dist: torch-geometric
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: python-docx; extra == "dev"
+Requires-Dist: openpyxl; extra == "dev"

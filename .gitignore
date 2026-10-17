@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+data/raw/
+data/processed/
+*.pt
+*.joblib
+*.part
+docs/*_readme.txt
+docs/elliptic2_preprocess.txt
+results/logs/
+manuscript/rendered/

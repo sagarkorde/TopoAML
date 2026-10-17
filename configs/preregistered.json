@@ -1,0 +1,16 @@
+{
+  "title": "TopoAML: Persistent Homology-Guided Graph Learning for Leakage-Free Bitcoin Anti-Money Laundering",
+  "status": "locked before examining test predictions; local timestamp is not a public preregistration",
+  "split": {"train": [1,30], "validation": [31,39], "test": [40,49]},
+  "primary_metric": "average_precision (stepwise PR-AUC; not trapezoidal integration)",
+  "primary_comparison": "XGBoost X+S+P minus XGBoost X+S",
+  "seeds": [11,22,33,44,55],
+  "radius": 2,
+  "max_nodes": 32,
+  "filtration": "distance",
+  "max_scale": 4,
+  "threshold": "validation F1 maximum",
+  "uncertainty": "paired temporal-step block bootstrap, descriptive with only ten test steps",
+  "feature_policy": "explicit on-chain transaction fields only; exclude opaque local and aggregate fields and out_txs_degree",
+  "scope": "step-close historical graph; within-step and label-availability timestamps are not released"
+}

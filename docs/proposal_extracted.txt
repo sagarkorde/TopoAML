@@ -1,0 +1,219 @@
+TOPOAML
+Persistent Homology-Guided Graph Learning for Leakage-Free Bitcoin Anti-Money Laundering
+Complete research proposal, dataset protocol, experimental methodology, reproducibility plan and 40-reference working bibliography
+Research type: Computational fintech / blockchain forensics / topological data analysis
+Publication target: Scopus Q1/Q2 journal (verify journal category and year at submission)
+Prepared: 18 October 2026
+STATUS: Pre-experimental proposal. No experiments have been run or results claimed.
+BIBLIOGRAPHIC CAUTION: The 40 DOI leads are a working bibliography, not independently certified Scopus-indexed references. Verify full metadata and DOI matches before submission.
+
+1. Executive summary and research motivation
+This proposal evaluates whether topological descriptions of Bitcoin transaction networks, specifically Betti numbers
+and persistent homology, add measurable value to anti-money-laundering (AML) and illicit transaction classification.
+The work is deliberately designed around out-of-time evaluation, structural confounding controls, dataset-specific
+graph construction and publicly reproducible experiments.
+Primary research question: Do persistent topological signatures add statistically significant and operationally
+useful predictive information beyond transaction attributes, conventional graph statistics and established graph
+neural networks?
+Primary proposed title: TopoAML: Persistent Homology-Guided Graph Learning for Leakage-Free Bitcoin
+Anti-Money Laundering.
+Alternative titles: BettiTrace: Multiscale Topological Signatures for Explainable Illicit Transaction Detection in
+Bitcoin Networks; TopoFin: A Persistent Homology Framework for Detecting Financial Crime Patterns in Blockchain
+Transaction Networks.
+2. Objectives, hypotheses and novelty tests
+ID Hypothesis / question Falsifiable evidence
+H1 Licit and illicit network neighborhoods exhibit differing topological signatures.
+Label-conditioned distributions and paired tests, with size/density controls.
+H2 Static Betti features improve AML detection. Matched classifier with and without Betti features.
+H3 Persistent homology improves on static Betti features.
+Incremental PR-AUC with uncertainty intervals.
+H4 Topology helps future-period generalization. Locked later-time test on Elliptic++.
+H5 Topology supports external subgraph classification. Separate Elliptic2 test; do not equate different label granularity.
+H6 Improvements are robust and interpretable. Radius/threshold perturbation, runtime and case-level review.
+Novelty must be established against current 2024-2026 literature. Adding two Betti counts to a GNN is likely
+insufficient by itself. Potentially defensible contributions include a time-respecting financial graph filtration,
+directed-versus-undirected topological comparison, independent financial validation, and rigorous evidence of added
+value beyond classical structural features.
+3. Dataset plan and acquisition
+Dataset Use Key restrictions / cautions
+Elliptic / Elliptic++ Primary Bitcoin transaction-node benchmark; labeled/unlabeled nodes and temporal steps.
+Check original node/edge/feature counts and version-specific schema. Elliptic++ includes related Elliptic data; not independent replication.
+Elliptic2 Independent subgraph-level financial benchmark.
+Its prediction unit and labels differ from Elliptic transaction-node classification; report separately.
+BitcoinHeist (optional) Ransomware-related auxiliary classification. Feature tables do not by themselves contain adequate raw edges to reconstruct persistent homology. Requires independently sourced aligned graph.
+Dataset links: Elliptic++ https://github.com/juicy-candy/Elliptic ; Elliptic2 https://github.com/MITIBMxGraph/Elliptic2 .
+Record exact archive version, acquisition date, license and checksum. Access to full raw Bitcoin graph data may
+require additional infrastructure.
+4. Data integrity, leakage prevention and split policy
+• Maintain immutable raw files and preserve original transaction IDs, edge direction, time step and any unknown
+class labels.
+• Suggested Elliptic++ time split: steps 1-30 train; 31-39 validation; 40-49 test. This is a proposed protocol, not a
+claimed official baseline. Publish lists of node IDs and per-class counts.
+• No label-derived features, future transactions, training-on-test graph embeddings, target encoding from held-out
+labels, or threshold tuning on test data.
+• Explicitly state whether training-time message passing uses only historical observed nodes/edges (strict inductive)
+or transductive observed topology. Report any allowed cross-boundary connectivity.
+• Fit normalizers, feature selectors, resampling rules and imputation on training data only. Keep unknown-label
+vertices distinct from negative examples.
+The strict historical setting should reconstruct a graph snapshot at each decision time. Historical topology is
+permissible; future transactions and labels are not. Cross-dataset validation may require retraining with
+corresponding graph features rather than direct feature transfer.
+5. Graph formulations and topology
+5.1 Directed finance graph
+At an observation time t, let G_t=(V_t,E_t,X_t) denote transactions, observed transfer-dependency edges and node
+attributes. Bitcoin transaction-dependency graphs are normally directed acyclic, but their undirected projections may
+contain cycles. An undirected cycle is not proof of funds cycling or money laundering.
+5.2 Local neighborhoods and graph cycle rank
+Construct target-centered neighborhoods with k in {1,2,3}; use a validation-set decision for the preferred scale. For
+an undirected graph with V nodes, E edges, and C connected components, beta_0=C and beta_1=E-V+C. For a
+graph treated as a one-dimensional complex, beta_2=0. Graph size, edge count and component count must be
+included as controls because cycle rank is determined by these counts.
+5.3 Persistent topology
+Define a nested family of simplicial complexes K(a_1) subset K(a_2) subset ... subset K(a_m). For homological
+dimension k, beta_k(a)=rank H_k(K(a)). Record finite persistence intervals (birth b_i, death d_i), lifetimes d_i-b_i,
+maximum/mean lifetime, persistence entropy, Betti curves and vectorized persistence images or landscapes. Clearly
+specify treatment of essential/infinite intervals.
+Graph cycles in a one-dimensional complex and H1 of the associated flag/clique complex differ: filling a triangle
+removes that triangle as a 1-dimensional homology class. H2 can only be meaningfully claimed when the chosen
+simplicial construction supports higher-dimensional cells. Do not expect nonzero H2 by default.
+5.4 Filtration alternatives
+Filtration How to implement Potential pitfall
+Structural-distance Reveal subgraph relationships by well-defined graph-distance threshold.
+Prove nestedness; graph shortest paths can obscure financial direction.
+Edge-weight Reveal edges by decreasing similarity or increasing distance, with consistent simplex filtration values.
+Do not claim financial transfer amounts if only derived structural weights exist.
+Temporal Add only edges/nodes visible by each timestamp, using synchronized historical snapshots.
+No future graph information or post-event exposure.
+Directed path homology Research path-homology representation retaining directed edges.
+Mathematically and computationally more involved; benchmark separately.
+6. Models and baselines
+First establish a simple fusion baseline z_v=[x_v || s_v || T_v || h_v], where x_v are transaction features, s_v
+conventional structural features, T_v topological descriptors and h_v learned GraphSAGE/GAT embeddings. A
+multilayer perceptron predicts illicit probability. The proposed advanced model uses a learnable topological encoder
+and gated feature fusion; only introduce it after simple topology is informative.
+Group Models / comparisons
+Tabular Logistic regression, random forest, XGBoost
+Graph GraphSAGE, GAT
+Structural controls Tabular + node degree, edge count, density, clustering, triangles, component size, cycle rank
+Static topology XGBoost + static Betti; GAT + static Betti
+Persistent topology XGBoost + persistence; GAT + persistence
+Advanced TopoAML gated fusion vs naive feature concatenation
+Use the same split, observed data, training budget and selection objective wherever possible. Report parameter
+counts and inference latency. Separate task-specific baselines for Elliptic2 subgraph labels from transaction-node
+baselines.
+7. Seven required experiments and statistical design
+ID Protocol Outputs
+E1 Topological profiling of labels with structural confounder adjustment. Density plots; persistence diagrams; effect sizes.
+E2 Ten-model comparison, same test protocol. PR-AUC; ROC-AUC; precision; recall; F1.
+E3 Remove static beta, persistent descriptors, encoder, gating. Ablation deltas with intervals.
+E4 Evaluate later times without tuning. Temporal performance and drift plots.
+E5 Elliptic2 subgraph task as external validation. Independent task results and limitations.
+E6 k-radius, filtration choice, perturbation, seeds. Sensitivity and robustness plots.
+ID Protocol Outputs
+E7 Runtime, memory, throughput on bounded graphs. Complexity and deployment practicality.
+Primary metric: illicit-class area under the precision-recall curve (PR-AUC). Also report ROC-AUC, recall at a fixed
+false-positive rate, precision at investigation budget (top-K), calibration, model size, peak RAM, GPU memory and
+elapsed time. Evaluate at least five random seeds, with uncertainty intervals. For paired differences use appropriate
+resampling or paired tests at the independent evaluation unit; account for graph dependence.
+Do not claim statistical significance solely because one run outperforms another. Pre-register the primary objective
+and major comparisons where feasible. Failure to improve over degree/density/cycle-rank baselines is scientifically
+informative and should be disclosed.
+8. Implementation, hardware and reproducibility
+Suggested stack: Python, PyTorch, PyTorch Geometric, scikit-learn, NetworkX, GUDHI/giotto-tda, pandas or
+Parquet. Initial Elliptic++ experiments and sampled bounded neighborhoods are feasible on a 64 GB RAM desktop
+with an 8 GB RTX 4060, though full Elliptic2 preprocessing may exceed local compute or disk limits.
+Repository root: https://github.com/sagarkorde/BettiGraphs . Suggested folders: configs/, data/download.py,
+data/checksums.json, src/preprocessing/, src/graph_construction/, src/topology/, src/models/, src/evaluation/,
+experiments/E1-E7/, results/, tests/, environment.yml, README.md.
+• Publish exact dataset versions, checksum manifest, license conditions, immutable split IDs and seeds.
+• Provide graph filtration code with unit tests for isolated points, a tree, simple cycle, filled triangle and hollow
+tetrahedral boundary.
+• Save model configurations, selected checkpoints, hardware/software environment and figure-generation scripts.
+• Make a one-command or documented pipeline that reproduces tables, plots and statistical intervals without
+raw-data redistribution where forbidden.
+9. Expected deliverables and success criteria
+The expected outputs are a checked dataset manifest, a documented topological feature pipeline, reusable graph
+learning code, full ablation tables, timing studies, reproducibility package and journal manuscript. No numerical
+success threshold is assumed a priori. The strongest paper would establish exactly when topology is useful and
+when it adds no value, with rigorous controls.
+10. Publication targeting and ethics
+Potential outlets, subject to fresh scope and quartile checks: Expert Systems with Applications; FinTech;
+International Journal of Information Management Data Insights. Confirm that the desired Scopus category, year,
+indexing and current APC meet submission requirements; do not treat CiteScore quartiles, SJR quartiles and JCR
+quartiles as interchangeable.
+Ethical language: an anomaly score or graph cycle is not proof of illicit conduct. Avoid deanonymization claims
+unsupported by data, publish limits of labeling, acknowledge class imbalance, false-positive harm and temporal
+leakage risks.
+11. Suggested sequence of work
+Phase Definition of done
+1 - Benchmark Download, validate and reproduce core Elliptic++ baseline with locked temporal split.
+2 - Mathematical checks Validate Betti / persistence implementation on synthetic known-topology graphs.
+3 - Explanatory study Show topology distributions and control for size and density.
+4 - Predictive study Complete XGBoost/GraphSAGE/GAT and topology-enhanced models.
+5 - Robustness Run Elliptic2, ablations, time holdout, confidence intervals and complexity.
+6 - Manuscript Freeze code, regenerate all results and verify complete bibliography and journal requirements.
+12. Working bibliography: 40 post-2023 DOI leads
+Verification status: Draft reference list inherited from prior discussion. Confirm the exact DOI landing page, complete author list, article date, venue, and Scopus document record for each item before scholarly use. An indicated 2024 or 2025 volume may have a DOI containing 2023 due to online-first publishing. Missing authors are marked by year only.
+[1] Ouyang et al. (2024). Bitcoin Money Laundering Detection via Subgraph Contrastive Learning. Entropy 26(3), 211.
+doi:10.3390/e26030211
+[2] Motie & Raahemi (2024). Financial fraud detection using graph neural networks: A systematic review. Expert Systems with Applications 240, 122156. doi:10.1016/j.eswa.2023.122156
+[3] Cheng et al. (2025). Graph neural networks for financial fraud detection: A review. Frontiers of Computer Science 19, 199609.
+doi:10.1007/s11704-024-40474-y
+[4] Li, Jia & Su (2025). Global-local graph attention with cyclic pseudo-labels for bitcoin anti-money laundering detection. Scientific Reports 15, 22668. doi:10.1038/s41598-025-08365-9
+[5] (2025). Enhancing Anti-Money Laundering Frameworks: An Application of Graph Neural Networks in Cryptocurrency Transaction Classification. IEEE Access 13, 50201-50215. doi:10.1109/ACCESS.2025.3552240
+[6] Lin et al. (2026). Detecting illicit transactions in bitcoin: a wavelet-temporal graph transformer approach for anti-money laundering. Scientific Reports 16, 1548. doi:10.1038/s41598-025-23901-3
+[7] (2025). Finding money launderers using heterogeneous graph neural networks. Journal of Finance and Data Science 11, 100175.
+doi:10.1016/j.jfds.2025.100175
+[8] (2025). Metapath-guided graph neural networks for financial fraud detection. Computers and Electrical Engineering 126, 110428.
+doi:10.1016/j.compeleceng.2025.110428
+[9] Devi, Raja & Chin (2025). Reinforcement learning with graph neural network fusion for financial fraud detection. Scientific Reports 15, 42953. doi:10.1038/s41598-025-25200-3
+[10] Patil et al. (2024). Enhancing fraud detection in banking by integration of graph databases with machine learning. MethodsX 12, 102683. doi:10.1016/j.mex.2024.102683
+[11] Lu & Wang (2024). Graph Contrastive Pre-training for Anti-money Laundering. International Journal of Computational Intelligence Systems 17, 307. doi:10.1007/s44196-024-00720-4
+[12] Deprez et al. (2025). Advances in Continual Graph Learning for Anti-Money Laundering Systems: A Comprehensive Review. WIREs Computational Statistics 17(3), e70040. doi:10.1002/wics.70040
+[13] Karim et al. (2024). Scalable Semi-Supervised Graph Learning Techniques for Anti Money Laundering. IEEE Access 12, 50012-50029. doi:10.1109/ACCESS.2024.3383784
+[14] Nicholls, Kuppa & Le-Khac (2025). Large Language Model XAI approach for illicit activity Investigation in Bitcoin. Neural Computing and Applications 37, 24869-24881. doi:10.1007/s00521-024-10510-w
+[15] (2025). Network Analytics for Anti-money Laundering - A Systematic Literature Review and Experimental Evaluation. INFORMS Journal on Data Science. doi:10.1287/ijds.2024.0042
+[16] Asiri & Somasundaram (2025). Graph convolution network for fraud detection in bitcoin transactions. Scientific Reports 15, 11076.
+doi:10.1038/s41598-025-95672-w
+[17] Zia et al. (2024). Topological deep learning: a review of an emerging paradigm. Artificial Intelligence Review 57, 77.
+doi:10.1007/s10462-024-10710-9
+[18] Babu & John (2024). Persistent homology based Bottleneck distance in hypergraph products. Applied Network Science 9, 10.
+doi:10.1007/s41109-024-00617-3
+[19] Ceccaroni et al. (2024). A distributed approach for persistent homology computation on a large scale. Journal of Supercomputing 80, 25510-25532. doi:10.1007/s11227-024-06374-5
+[20] Virk (2024). Persistent Homology with Selective Rips Complexes Detects Geodesic Circles. Mediterranean Journal of Mathematics 21, 170. doi:10.1007/s00009-024-02706-0
+[21] Herick, Joachim & Vahrenhold (2024). Adaptive approximation of persistent homology. Journal of Applied and Computational Topology 8, 2327-2366. doi:10.1007/s41468-024-00192-7
+[22] Bauer, Botnan & Fluhr (2024). Universal distances for extended persistence. Journal of Applied and Computational Topology 8, 475-530. doi:10.1007/s41468-024-00184-7
+[23] Cao, Leung & Monod (2025). k-means clustering for persistent homology. Advances in Data Analysis and Classification 19, 95-119.
+doi:10.1007/s11634-023-00578-y
+[24] Leygonie & Henselman-Petrusek (2024). Algorithmic reconstruction of the fiber of persistent homology on cell complexes. Journal of Applied and Computational Topology 8, 2015-2049. doi:10.1007/s41468-024-00165-w
+[25] Piekenbrock & Perea (2024). Move schedules: fast persistence computations in coarse dynamic settings. Journal of Applied and Computational Topology 8, 301-345. doi:10.1007/s41468-023-00156-3
+[26] Wang et al. (2026). PHGAT: Persistent homology-enhanced graph attention network for IIoT anomaly detection. Expert Systems with Applications 299, 129923. doi:10.1016/j.eswa.2025.129923
+[27] Fang & Yan (2025). Leveraging Persistent Homology Features for Accurate Defect Formation Energy Predictions via Graph Neural Networks. Chemistry of Materials 37(4), 1531-1540. doi:10.1021/acs.chemmater.4c03028
+[28] Song & Li (2025). Can topological transitions in cryptocurrency systems serve as early warning signals for extreme fluctuations in traditional markets? Physica A 657, 130194. doi:10.1016/j.physa.2024.130194
+[29] de Jesus et al. (2025). Enhancing financial time series forecasting through topological data analysis. Neural Computing and Applications 37, 6527-6545. doi:10.1007/s00521-024-10787-x
+[30] Souto et al. (2024). FinTDA: Python package for estimating market change through persistent homology diagrams. Software Impacts 20, 100637. doi:10.1016/j.simpa.2024.100637
+[31] He, Shi & Fang (2024). Bifurcation and chaos analysis of a fractional-order delay financial risk system using dynamic system approach and persistent homology. Mathematics and Computers in Simulation 223, 253-274. doi:10.1016/j.matcom.2024.04.013
+[32] (2024). Investigation of Indian stock markets using topological data analysis and geometry-inspired network measures. Physica A 643, 129785. doi:10.1016/j.physa.2024.129785
+[33] (2024). A generalization of the Topological Tail Dependence theory: From indices to individual stocks. Decision Analytics Journal 12, 100512. doi:10.1016/j.dajour.2024.100512
+[34] (2024). Wasserstein distance loss function for financial time series deep learning. Software Impacts 20, 100639.
+doi:10.1016/j.simpa.2024.100639
+[35] Akingbade et al. (2024). Why topological data analysis detects financial bubbles? Communications in Nonlinear Science and Numerical Simulation 128, 107665. doi:10.1016/j.cnsns.2023.107665
+[36] Chaplin, Harrington & Tillmann (2025). Grounded Persistent Path Homology: A Stable, Topological Descriptor for Weighted Digraphs. Foundations of Computational Mathematics 25, 1711-1776. doi:10.1007/s10208-024-09679-2
+[37] (2025). Topological data analysis and topological deep learning beyond persistent homology: a review. Artificial Intelligence Review.
+doi:10.1007/s10462-025-11462-w
+[38] Alwaeli et al. (2025). A unified spectral-persistent homology framework for stable and generalizable topological deep learning. Discover Computing 28, 255. doi:10.1007/s10791-025-09783-z
+[39] (2025). Effective data reduction algorithm for topological data analysis. Applied Mathematics and Computation 495, 129302.
+doi:10.1016/j.amc.2025.129302
+[40] Yu et al. (2025). Temporal multivariate-factors independence convolution network for anomaly detection in dynamic networks. Neurocomputing, 129439. doi:10.1016/j.neucom.2025.129439
+13. Final evidence and submission checklist
+• No held-out labels or future edges enter feature extraction.
+• All topology computations reproduce known mathematical test cases.
+• Structural feature controls are compared against topological features.
+• The primary performance comparison has confidence intervals.
+• Elliptic2 is presented as a distinct subgraph task, not an identical dataset replication.
+• All plots and tables are regenerated from published scripts.
+• Every reference DOI, full metadata and Scopus status is independently verified.
+• Current Scopus quartile/category, fees and journal scope are reconfirmed before submission.
+Conclusion: TopoAML is a testable proposal, not yet a validated result. Its core value is the planned combination of
+principled topology, time-respecting graph evidence, matched baselines and independently reproducible financial
+experiments.

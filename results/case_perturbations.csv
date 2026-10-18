@@ -1,0 +1,21 @@
+txId,variant,probability,nodes,edges,label,note
+6418,observed,0.0008165349718183279,32,32,2,model sensitivity only; edge removal is not a causal laundering intervention
+6418,remove_first_edge,0.0006345707224681973,32,31,2,model sensitivity only; edge removal is not a causal laundering intervention
+7952,observed,0.00030303868697956204,32,37,2,model sensitivity only; edge removal is not a causal laundering intervention
+7952,remove_first_edge,0.00030834690551273525,32,36,2,model sensitivity only; edge removal is not a causal laundering intervention
+9351,observed,0.015107184648513794,30,33,2,model sensitivity only; edge removal is not a causal laundering intervention
+9351,remove_first_edge,0.022685343399643898,30,32,2,model sensitivity only; edge removal is not a causal laundering intervention
+9363,observed,0.004024771507829428,3,2,2,model sensitivity only; edge removal is not a causal laundering intervention
+9363,remove_first_edge,0.003897274611517787,3,1,2,model sensitivity only; edge removal is not a causal laundering intervention
+9466,observed,0.0003259929071646184,32,32,2,model sensitivity only; edge removal is not a causal laundering intervention
+9466,remove_first_edge,0.00026497349608689547,32,31,2,model sensitivity only; edge removal is not a causal laundering intervention
+9551,observed,0.1406325101852417,32,31,2,model sensitivity only; edge removal is not a causal laundering intervention
+9551,remove_first_edge,0.15067274868488312,32,30,2,model sensitivity only; edge removal is not a causal laundering intervention
+10280,observed,0.0001387853262713179,32,40,2,model sensitivity only; edge removal is not a causal laundering intervention
+10280,remove_first_edge,0.0001344383490504697,32,39,2,model sensitivity only; edge removal is not a causal laundering intervention
+10452,observed,0.001457457896322012,4,3,2,model sensitivity only; edge removal is not a causal laundering intervention
+10452,remove_first_edge,0.001841478399001062,4,2,2,model sensitivity only; edge removal is not a causal laundering intervention
+13646,observed,0.0004259379638824612,32,34,2,model sensitivity only; edge removal is not a causal laundering intervention
+13646,remove_first_edge,0.000332851690473035,32,33,2,model sensitivity only; edge removal is not a causal laundering intervention
+17122,observed,0.046490371227264404,32,35,2,model sensitivity only; edge removal is not a causal laundering intervention
+17122,remove_first_edge,0.05946943908929825,32,34,2,model sensitivity only; edge removal is not a causal laundering intervention

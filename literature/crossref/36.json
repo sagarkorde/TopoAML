@@ -1,0 +1,605 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        17
+      ]
+    ],
+    "date-time": "2026-08-17T15:29:42Z",
+    "timestamp": 1786980582116,
+    "version": "build-2736575974"
+  },
+  "reference-count": 37,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "5",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            23
+          ]
+        ],
+        "date-time": "2024-08-23T00:00:00Z",
+        "timestamp": 1724371200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            23
+          ]
+        ],
+        "date-time": "2024-08-23T00:00:00Z",
+        "timestamp": 1724371200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Found Comput Math"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2025,
+        10
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Weighted digraphs are used to model a variety of natural systems and can exhibit interesting structure across a range of scales. In order to understand and compare these systems, we require stable, interpretable, multiscale descriptors. To this end, we propose grounded persistent path homology (\n                    <jats:sc>GrPPH</jats:sc>\n                    )\u2014a new, functorial, topological descriptor that describes the structure of an edge-weighted digraph via a persistence barcode. We show there is a choice of circuit basis for the graph which yields geometrically interpretable representatives for the features in the barcode. Moreover, we show the barcode is stable, in bottleneck distance, to both numerical and structural perturbations.\n                  </jats:p>",
+  "DOI": "10.1007/s10208-024-09679-2",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        23
+      ]
+    ],
+    "date-time": "2024-08-23T13:37:19Z",
+    "timestamp": 1724420239000
+  },
+  "page": "1711-1776",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 4,
+  "title": [
+    "Grounded Persistent Path Homology: A Stable, Topological Descriptor for Weighted Digraphs"
+  ],
+  "prefix": "10.1007",
+  "volume": "25",
+  "author": [
+    {
+      "given": "Thomas",
+      "family": "Chaplin",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Heather A.",
+      "family": "Harrington",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ulrike",
+      "family": "Tillmann",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        23
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "issue": "2",
+      "key": "9679_CR1",
+      "doi-asserted-by": "publisher",
+      "first-page": "162",
+      "DOI": "10.20382/jocg.v6i2a9",
+      "volume": "6",
+      "author": "U Bauer",
+      "year": "2015",
+      "unstructured": "U. Bauer and M. Lesnick, Induced matchings and the algebraic stability of persistence barcodes, Journal of Computational Geometry 6(2) (2015), 162\u2013191. https://doi.org/10.20382/jocg.v6i2a9",
+      "journal-title": "Journal of Computational Geometry"
+    },
+    {
+      "issue": "201",
+      "key": "9679_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "20220727",
+      "DOI": "10.1098/rsif.2022.0727",
+      "volume": "20",
+      "author": "K Benjamin",
+      "year": "2023",
+      "unstructured": "K. Benjamin, L. Mukta, G. Moryoussef, C. Uren, H.A. Harrington, U. Tillmann, A. Barbensi, Homology of homologous knotted proteins, Journal of the Royal Society Interface 20(201) (2023), 20220727. https://doi.org/10.1098/rsif.2022.0727",
+      "journal-title": "Journal of the Royal Society Interface"
+    },
+    {
+      "key": "9679_CR3",
+      "doi-asserted-by": "publisher",
+      "unstructured": "A. Bittner, B.T. Fasy, M. Grudzien, S. Ghosh\u00a0Hajra, J. Huang, K. Pelatt, C. Thatcher, A. Tumurbaatar and C. Wenk, Comparing directed and weighted road maps, in Research in Computational Topology (E.W. Chambers, B.T. Fasy, and L. Ziegelmeier, eds.), Springer, Cham, 2018, pp. 57\u201370. https://doi.org/10.1007/978-3-319-89593-2_4",
+      "DOI": "10.1007/978-3-319-89593-2_4"
+    },
+    {
+      "key": "9679_CR4",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.pacs.2022.100357",
+      "volume": "26",
+      "author": "EL Brown",
+      "year": "2022",
+      "unstructured": "E.L. Brown, T.L. Lefebvre, P.W. Sweeney, B.J. Stolz, J. Gr\u00f6hl, L. Hacker, Z. Huang, D.L. Couturier, H.A. Harrington, H.M. Byrne and S.E. Bohndiek, Quantification of vascular networks in photoacoustic mesoscopy, Photoacoustics 26 (2022), 100357. https://doi.org/10.1016/j.pacs.2022.100357",
+      "journal-title": "Photoacoustics"
+    },
+    {
+      "issue": "3",
+      "key": "9679_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "600",
+      "DOI": "10.1007/s00454-014-9573-x",
+      "volume": "51",
+      "author": "P Bubenik",
+      "year": "2014",
+      "unstructured": "P. Bubenik and J.A. Scott, Categorification of persistent homology, Discrete & Computational Geometry 51(3) (2014), 600\u2013627. https://doi.org/10.1007/s00454-014-9573-x",
+      "journal-title": "Discrete & Computational Geometry"
+    },
+    {
+      "key": "9679_CR6",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.neuroimage.2021.118245",
+      "volume": "238",
+      "author": "L Caputi",
+      "year": "2021",
+      "unstructured": "L. Caputi, A. Pidnebesna and J. Hlinka, Promises and pitfalls of topological data analysis for brain connectivity analysis, NeuroImage 238 (2021), 118245. https://doi.org/10.1016/j.neuroimage.2021.118245",
+      "journal-title": "NeuroImage"
+    },
+    {
+      "key": "9679_CR7",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s41468-023-00118-9",
+      "author": "L Caputi",
+      "year": "2023",
+      "unstructured": "L. Caputi and H. Riihim\u00e4ki, Hochschild homology, and a persistent approach via connectivity digraphs, Journal of Applied and Computational Topology (2023). https://doi.org/10.1007/s41468-023-00118-9",
+      "journal-title": "Journal of Applied and Computational Topology"
+    },
+    {
+      "key": "9679_CR8",
+      "unstructured": "T. Chaplin, GrPPHATI. https://github.com/tomchaplin/grpphati"
+    },
+    {
+      "key": "9679_CR9",
+      "doi-asserted-by": "publisher",
+      "unstructured": "F. Chazal and B. Michel, An introduction to topological data analysis: Fundamental and practical aspects for data scientists, Frontiers in Artificial Intelligence 4 (2021). https://doi.org/10.3389/frai.2021.667963",
+      "DOI": "10.3389/frai.2021.667963"
+    },
+    {
+      "key": "9679_CR10",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-319-42545-0_2",
+      "author": "F Chazal",
+      "year": "2016",
+      "unstructured": "F. Chazal, V. de\u00a0Silva, M. Glisse and S. Oudot, The Structure and Stability of Persistence Modules, Springer International Publishing, Cham, 2016. https://doi.org/10.1007/978-3-319-42545-0_2",
+      "journal-title": "Cham"
+    },
+    {
+      "key": "9679_CR11",
+      "doi-asserted-by": "publisher",
+      "unstructured": "M. Che, F. Galaz-Garc\u00eda, L. Guijarro, I. Membrillo\u00a0Solis and M. Valiunas, Basic metric geometry of the bottleneck distance, Proceedings of the American Mathematical Society 152 (2024). https://doi.org/10.1090/proc/16776",
+      "DOI": "10.1090/proc/16776"
+    },
+    {
+      "issue": "1",
+      "key": "9679_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "115",
+      "DOI": "10.1007/s41468-018-0020-6",
+      "volume": "2",
+      "author": "S Chowdhury",
+      "year": "2018",
+      "unstructured": "S. Chowdhury and F. M\u00e9moli, A functorial dowker theorem and persistent homology of asymmetric networks, Journal of Applied and Computational Topology 2(1) (2018), 115\u2013175. https://doi.org/10.1007/s41468-018-0020-6",
+      "journal-title": "Journal of Applied and Computational Topology"
+    },
+    {
+      "key": "9679_CR13",
+      "doi-asserted-by": "publisher",
+      "unstructured": "S. Chowdhury and F. M\u00e9moli, Persistent path homology of directed networks, in Proceedings of the 2018 Annual ACM-SIAM Symposium on Discrete Algorithms (SODA) (A. Czumaj, eds.), Society for Industrial and Applied Mathematics, Philadelphia, PA, 2018, pp. 1152\u20131169. https://doi.org/10.1137/1.9781611975031.75",
+      "DOI": "10.1137/1.9781611975031.75"
+    },
+    {
+      "key": "9679_CR14",
+      "doi-asserted-by": "publisher",
+      "unstructured": "D. Cohen-Steiner, H. Edelsbrunner and J. Harer, Stability of persistence diagrams, in SCG \u201905: Proceedings of the twenty-first annual symposium on Computational geometry (J. Mitchell, and G.Rote, eds.), Association for Computing Machinery, New York, NY, USA, 2005, pp. 263\u2013271. https://doi.org/10.1145/1064092.1064133",
+      "DOI": "10.1145/1064092.1064133"
+    },
+    {
+      "issue": "2",
+      "key": "9679_CR15",
+      "doi-asserted-by": "publisher",
+      "first-page": "127",
+      "DOI": "10.1007/s10208-010-9060-6",
+      "volume": "10",
+      "author": "D Cohen-Steiner",
+      "year": "2010",
+      "unstructured": "D. Cohen-Steiner, H. Edelsbrunner, J. Harer and Y. Mileyko, Lipschitz functions have Lp-stable persistence, Foundations of Computational Mathematics 10(2) (2010), 127\u2013139. https://doi.org/10.1007/s10208-010-9060-6",
+      "journal-title": "Foundations of Computational Mathematics"
+    },
+    {
+      "issue": "05",
+      "key": "9679_CR16",
+      "doi-asserted-by": "publisher",
+      "first-page": "1550066",
+      "DOI": "10.1142/S0219498815500668",
+      "volume": "14",
+      "author": "W Crawley-Boevey",
+      "year": "2015",
+      "unstructured": "W. Crawley-Boevey, Decomposition of pointwise finite-dimensional persistence modules, Journal of Algebra and Its Applications 14(05) (2015), 1550066. https://doi.org/10.1142/S0219498815500668",
+      "journal-title": "Journal of Algebra and Its Applications"
+    },
+    {
+      "key": "9679_CR17",
+      "doi-asserted-by": "publisher",
+      "unstructured": "T.K. Dey, T. Li and Y. Wang, An Efficient Algorithm for 1-Dimensional (Persistent) Path Homology, in 36th International Symposium on Computational Geometry (SoCG 2020) (S.\u00a0Cabello, and D.Z. Chen, eds.), Dagstuhl\u2013Leibniz-Zentrum f\u00fcr Informatik, Dagstuhl, Germany, 2020, pp. 36:1-36:15. https://doi.org/10.4230/LIPIcs.SoCG.2020.36",
+      "DOI": "10.4230/LIPIcs.SoCG.2020.36"
+    },
+    {
+      "key": "9679_CR18",
+      "doi-asserted-by": "publisher",
+      "unstructured": "H. Edelsbrunner and J. Harer, Persistent homology-a survey, in Surveys on Discrete and Computational Geometry: Twenty Years Later (J.E. Goodman, J.\u00a0Pach, and R.\u00a0Pollack, eds.), American Mathematical Society, Providence, RI, 2008, pp. 257\u2013282. https://doi.org/10.1090/conm/453",
+      "DOI": "10.1090/conm/453"
+    },
+    {
+      "issue": "1",
+      "key": "9679_CR19",
+      "doi-asserted-by": "publisher",
+      "first-page": "113",
+      "DOI": "10.1007/s10044-008-0141-y",
+      "volume": "13",
+      "author": "X Gao",
+      "year": "2010",
+      "unstructured": "X. Gao, B. Xiao, D. Tao and X. Li, A survey of graph edit distance, Pattern Analysis and Applications 13(1) (2010), 113\u2013129. https://doi.org/10.1007/s10044-008-0141-y",
+      "journal-title": "Pattern Analysis and Applications"
+    },
+    {
+      "key": "9679_CR20",
+      "unstructured": "B. Giunti, TDA-Applications. https://www.zotero.org/groups/2425412/tda-applications."
+    },
+    {
+      "key": "9679_CR21",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s41468-024-00168-7",
+      "author": "C Goodbrake",
+      "year": "2024",
+      "unstructured": "C. Goodbrake, D. Beers, T.B. Thompson, H.A. Harrington and A. Goriely, Brain chains as topological signatures for alzheimer\u2019s disease, Journal of Applied and Computational Topology (2024). https://doi.org/10.1007/s41468-024-00168-7",
+      "journal-title": "Journal of Applied and Computational Topology"
+    },
+    {
+      "issue": "2",
+      "key": "9679_CR22",
+      "doi-asserted-by": "publisher",
+      "first-page": "313",
+      "DOI": "10.1007/s41468-021-00068-0",
+      "volume": "5",
+      "author": "D Govc",
+      "year": "2021",
+      "unstructured": "D. Govc, R. Levi and J.P. Smith, Complexes of tournaments, directionality filtrations and persistent homology, Journal of Applied and Computational Topology 5(2) (2021), 313\u2013337. https://doi.org/10.1007/s41468-021-00068-0",
+      "journal-title": "Journal of Applied and Computational Topology"
+    },
+    {
+      "issue": "4",
+      "key": "9679_CR23",
+      "doi-asserted-by": "publisher",
+      "first-page": "619",
+      "DOI": "10.4310/PAMQ.2014.v10.n4.a2",
+      "volume": "10",
+      "author": "A Grigor\u2019yan",
+      "year": "2014",
+      "unstructured": "A. Grigor\u2019yan, Y. Lin, Y. Muranov and S.T. Yau, Homotopy theory for digraphs, Pure and Applied Mathematics Quarterly 10(4) (2014), 619\u2013674. https://doi.org/10.4310/PAMQ.2014.v10.n4.a2",
+      "journal-title": "Pure and Applied Mathematics Quarterly"
+    },
+    {
+      "key": "9679_CR24",
+      "unstructured": "A. Grigor\u2019yan, Y. Lin, Y. Muranov and S.T. Yau, Homologies of path complexes and digraphs (2012). arXiv:1207.2834"
+    },
+    {
+      "issue": "5",
+      "key": "9679_CR25",
+      "doi-asserted-by": "publisher",
+      "first-page": "564",
+      "DOI": "10.1007/s10958-020-04897-9",
+      "volume": "248",
+      "author": "AA Grigor\u2019yan",
+      "year": "2020",
+      "unstructured": "A.A. Grigor\u2019yan, Y. Lin, Y.V. Muranov and S.T. Yau, Path complexes and their homologies, Journal of Mathematical Sciences 248(5) (2020), 564\u2013599. https://doi.org/10.1007/s10958-020-04897-9",
+      "journal-title": "Journal of Mathematical Sciences"
+    },
+    {
+      "key": "9679_CR26",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.physa.2021.126459",
+      "volume": "586",
+      "author": "MS Ismail",
+      "year": "2022",
+      "unstructured": "M.S. Ismail, M.S.M. Noorani, M. Ismail, F.A. Razak and M.A. Alias, Early warning signals of financial crises using persistent homology, Physica A: Statistical Mechanics and its Applications 586 (2022), 126459. https://doi.org/10.1016/j.physa.2021.126459",
+      "journal-title": "Physica A: Statistical Mechanics and its Applications"
+    },
+    {
+      "key": "9679_CR27",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3389/frai.2021.681117",
+      "volume": "4",
+      "author": "L Li",
+      "year": "2021",
+      "unstructured": "L. Li, C. Thompson, G. Henselman-Petrusek, C. Giusti and L. Ziegelmeier, Minimal cycle representatives in persistent homology using linear programming: an empirical study with user\u2019s guide, Frontiers in artificial intelligence 4 (2021), 681117. https://doi.org/10.3389/frai.2021.681117",
+      "journal-title": "Frontiers in artificial intelligence"
+    },
+    {
+      "key": "9679_CR28",
+      "unstructured": "Y. Lin, S. Ren, C. Wang and J. Wu, Weighted path homology of weighted digraphs and persistence (2019). arXiv:1910.09891"
+    },
+    {
+      "key": "9679_CR29",
+      "doi-asserted-by": "publisher",
+      "unstructured": "D. L\u00fctgehetmann, D. Govc, J.P. Smith and R. Levi, Computing persistent homology of directed flag complexes, Algorithms 13(1) (2020). https://doi.org/10.3390/a13010019",
+      "DOI": "10.3390/a13010019"
+    },
+    {
+      "key": "9679_CR30",
+      "doi-asserted-by": "publisher",
+      "first-page": "593",
+      "DOI": "10.1016/j.nic.2017.06.008",
+      "volume": "27",
+      "author": "JD Medaglia",
+      "year": "2017",
+      "unstructured": "J.D. Medaglia, Graph theoretic analysis of resting state functional mr imaging, Neuroimaging clinics of North America 27 (2017), 593\u2013607. https://doi.org/10.1016/j.nic.2017.06.008",
+      "journal-title": "Neuroimaging clinics of North America"
+    },
+    {
+      "key": "9679_CR31",
+      "unstructured": "V. Nanda, Computational algebraic topology \u2014 lecture notes (2021). https://people.maths.ox.ac.uk/nanda/cat/TDANotes.pdf"
+    },
+    {
+      "issue": "6",
+      "key": "9679_CR32",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1371/journal.pcbi.1009094",
+      "volume": "17",
+      "author": "JT Nardini",
+      "year": "2021",
+      "unstructured": "J.T. Nardini, B.J. Stolz, K.B. Flores, H.A. Harrington and H.M. Byrne, Topological data analysis distinguishes parameter regimes in the anderson-chaplain model of angiogenesis, PLOS Computational Biology 17(6) (2021), 1\u201329. https://doi.org/10.1371/journal.pcbi.1009094",
+      "journal-title": "PLOS Computational Biology"
+    },
+    {
+      "key": "9679_CR33",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1140/epjds/s13688-017-0109-5",
+      "volume": "6",
+      "author": "N Otter",
+      "year": "2017",
+      "unstructured": "N. Otter, M.A. Porter, U. Tillmann, P. Grindrod and H.A. Harrington, A roadmap for the computation of persistent homology, EPJ data science 6 (2017), 1\u201338. https://doi.org/10.1140/epjds/s13688-017-0109-5",
+      "journal-title": "EPJ data science"
+    },
+    {
+      "issue": "1",
+      "key": "9679_CR34",
+      "doi-asserted-by": "publisher",
+      "first-page": "115",
+      "DOI": "10.1007/s10827-017-0672-6",
+      "volume": "44",
+      "author": "AE Sizemore",
+      "year": "2018",
+      "unstructured": "A.E. Sizemore, C. Giusti, A. Kahn, J.M. Vettel, R.F. Betzel and D.S. Bassett, Cliques and cavities in the human connectome, Journal of Computational Neuroscience 44(1) (2018), 115\u2013145. https://doi.org/10.1007/s10827-017-0672-6",
+      "journal-title": "Journal of Computational Neuroscience"
+    },
+    {
+      "key": "9679_CR35",
+      "doi-asserted-by": "publisher",
+      "unstructured": "B.J. Stolz, J. Kaeppler, B. Markelc, F. Braun, F. Lipsmeier, R.J. Muschel, H.M. Byrne, H.A. Harrington, Multiscale topology characterizes dynamic tumor vascular networks, Science Advances 8(23) (2022), eabm2456. https://doi.org/10.1126/sciadv.abm2456",
+      "DOI": "10.1126/sciadv.abm2456"
+    },
+    {
+      "issue": "6",
+      "key": "9679_CR36",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pcbi.1006751",
+      "volume": "15",
+      "author": "PW Sweeney",
+      "year": "2019",
+      "unstructured": "P.W. Sweeney, A. d\u2019Esposito, S. Walker-Samuel and R.J. Shipley, Modelling the transport of fluid through heterogeneous, whole tumours in silico, PLOS Computational Biology 15(6) (2019), e1006751. https://doi.org/10.1371/journal.pcbi.1006751",
+      "journal-title": "PLOS Computational Biology"
+    },
+    {
+      "key": "9679_CR37",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3389/fnagi.2022.788571",
+      "volume": "14",
+      "author": "J Xing",
+      "year": "2022",
+      "unstructured": "J. Xing, J. Jia, X. Wu and L. Kuang, A spatiotemporal brain network analysis of alzheimer\u2019s disease based on persistent homology, Frontiers in aging neuroscience 14 (2022), 788571. https://doi.org/10.3389/fnagi.2022.788571",
+      "journal-title": "Frontiers in aging neuroscience"
+    }
+  ],
+  "container-title": [
+    "Foundations of Computational Mathematics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s10208-024-09679-2.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1007/s10208-024-09679-2/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s10208-024-09679-2.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        30
+      ]
+    ],
+    "date-time": "2025-10-30T23:26:06Z",
+    "timestamp": 1761866766000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/s10208-024-09679-2"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        23
+      ]
+    ]
+  },
+  "references-count": 37,
+  "journal-issue": {
+    "issue": "5",
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          10
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "9679"
+  ],
+  "URL": "https://doi.org/10.1007/s10208-024-09679-2",
+  "relation": {},
+  "ISSN": [
+    "1615-3375",
+    "1615-3383"
+  ],
+  "issn-type": [
+    {
+      "value": "1615-3375",
+      "type": "print"
+    },
+    {
+      "value": "1615-3383",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        23
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "8 November 2022",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "25 July 2024",
+      "order": 2,
+      "name": "revised",
+      "label": "Revised",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "31 July 2024",
+      "order": 3,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "23 August 2024",
+      "order": 4,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    }
+  ]
+}

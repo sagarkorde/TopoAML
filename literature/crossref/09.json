@@ -1,0 +1,507 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        13
+      ]
+    ],
+    "date-time": "2026-10-13T15:51:25Z",
+    "timestamp": 1791906685666,
+    "version": "4.3.4"
+  },
+  "reference-count": 26,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            12,
+            1
+          ]
+        ],
+        "date-time": "2025-12-01T00:00:00Z",
+        "timestamp": 1764547200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            12,
+            1
+          ]
+        ],
+        "date-time": "2025-12-01T00:00:00Z",
+        "timestamp": 1764547200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Sci Rep"
+  ],
+  "DOI": "10.1038/s41598-025-25200-3",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        1
+      ]
+    ],
+    "date-time": "2025-12-01T12:07:38Z",
+    "timestamp": 1764590858000
+  },
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 15,
+  "title": [
+    "Reinforcement learning with graph neural network (RL-GNN) fusion for real-time financial fraud detection: a context-aware community mining approach"
+  ],
+  "prefix": "10.1038",
+  "volume": "15",
+  "author": [
+    {
+      "given": "R. Renuga",
+      "family": "Devi",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Joseph Emerson",
+      "family": "Raja",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Yeo Boon",
+      "family": "Chin",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        1
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "issue": "5",
+      "key": "25200_CR1",
+      "doi-asserted-by": "publisher",
+      "first-page": "3637",
+      "DOI": "10.1109/JIOT.2018.2816007",
+      "volume": "5",
+      "author": "C Jiang",
+      "year": "2018",
+      "unstructured": "Jiang, C., Song, J., Liu, G., Zheng, L. & Luan, W. Credit card fraud detection: A novel approach using aggregation strategy and feedback mechanism. IEEE Internet Things J. 5(5), 3637\u20133647 (2018).",
+      "journal-title": "IEEE Internet Things J."
+    },
+    {
+      "issue": "1",
+      "key": "25200_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "37",
+      "DOI": "10.1109/TDSC.2007.70228",
+      "volume": "5",
+      "author": "A Srivastava",
+      "year": "2008",
+      "unstructured": "Srivastava, A., Kundu, A., Sural, S. & Majumdar, A. Credit card fraud detection using hidden Markov model. IEEE Trans. Dependable Secure Comput. 5(1), 37\u201348 (2008).",
+      "journal-title": "IEEE Trans. Dependable Secure Comput."
+    },
+    {
+      "key": "25200_CR3",
+      "doi-asserted-by": "publisher",
+      "first-page": "14277",
+      "DOI": "10.1109/ACCESS.2018.2806420",
+      "volume": "6",
+      "author": "K Randhawa",
+      "year": "2018",
+      "unstructured": "Randhawa, K., Loo, C. K., Seera, M., Lim, C. P. & Nandi, A. K. Credit card fraud detection using AdaBoost and majority voting. IEEE Access 6, 14277\u201314284 (2018).",
+      "journal-title": "IEEE Access"
+    },
+    {
+      "issue": "1",
+      "key": "25200_CR4",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1186/s40537-022-00573-8",
+      "volume": "9",
+      "author": "E Ileberi",
+      "year": "2022",
+      "unstructured": "Ileberi, E., Sun, Y. & Wang, Z. A machine learning based credit card fraud detection using the GA algorithm for feature selection. J. Big Data 9(1), 1\u201317 (2022).",
+      "journal-title": "J. Big Data"
+    },
+    {
+      "key": "25200_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "39700",
+      "DOI": "10.1109/ACCESS.2022.3166891",
+      "volume": "10",
+      "author": "FK Alarfaj",
+      "year": "2022",
+      "unstructured": "Alarfaj, F. K. et al. Credit card fraud detection using state-of-the-art machine learning and deep learning algorithms. IEEE Access 10, 39700\u201339715 (2022).",
+      "journal-title": "IEEE Access"
+    },
+    {
+      "key": "25200_CR6",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Melo-Acosta, G. E., Duitama-Munoz, F. & Arias-Londo\u00f1o, J. D. Fraud detection in big data using supervised and semi-supervised learning techniques. In 2017 IEEE Colombian Conference on Communications and Computing (COLCOM), 1\u20136 (IEEE, 2017).",
+      "DOI": "10.1109/ColComCon.2017.8088206"
+    },
+    {
+      "key": "25200_CR7",
+      "unstructured": "Goyal, R. & Manjhvar, A. K. Review on credit card fraud detection using data mining classification techniques & machine learning algorithms. IJRAR-International Journal of Research and Analytical Reviews (IJRAR), E-ISSN 2348\u20131269."
+    },
+    {
+      "key": "25200_CR8",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.asoc.2020.106883",
+      "volume": "99",
+      "author": "J Forough",
+      "year": "2021",
+      "unstructured": "Forough, J. & Momtazi, S. Ensemble of deep sequential models for credit card fraud detection. Appl. Soft Comput. 99, 106883 (2021).",
+      "journal-title": "Appl. Soft Comput."
+    },
+    {
+      "key": "25200_CR9",
+      "doi-asserted-by": "publisher",
+      "first-page": "302",
+      "DOI": "10.1016/j.ins.2019.05.023",
+      "volume": "557",
+      "author": "X Zhang",
+      "year": "2021",
+      "unstructured": "Zhang, X., Han, Y., Xu, W. & Wang, Q. HOBA: A novel feature engineering methodology for credit card fraud detection with a deep learning architecture. Inf. Sci. 557, 302\u2013316 (2021).",
+      "journal-title": "Inf. Sci."
+    },
+    {
+      "key": "25200_CR10",
+      "doi-asserted-by": "publisher",
+      "first-page": "25579",
+      "DOI": "10.1109/ACCESS.2020.2971354",
+      "volume": "8",
+      "author": "A Taha",
+      "year": "2020",
+      "unstructured": "Taha, A. & Malebary, S. J. An intelligent approach to credit card fraud detection using an optimized light gradient boosting machine. IEEE Access 8, 25579\u201325587 (2020).",
+      "journal-title": "IEEE Access"
+    },
+    {
+      "key": "25200_CR11",
+      "volume": "55",
+      "author": "N Rtayli",
+      "year": "2020",
+      "unstructured": "Rtayli, N. & Enneya, N. Enhanced credit card fraud detection based on SVM-recursive feature elimination and hyper-parameters optimization. J. Inf. Secur. Appl. 55, 102596 (2020).",
+      "journal-title": "J. Inf. Secur. Appl."
+    },
+    {
+      "key": "25200_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "393",
+      "DOI": "10.1016/j.future.2019.08.029",
+      "volume": "102",
+      "author": "Y Lucas",
+      "year": "2020",
+      "unstructured": "Lucas, Y. et al. Towards automated feature engineering for credit card fraud detection using multi-perspective HMMs. Futur. Gener. Comput. Syst. 102, 393\u2013402 (2020).",
+      "journal-title": "Futur. Gener. Comput. Syst."
+    },
+    {
+      "key": "25200_CR13",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Saheed, Y. K., Hambali, M. A., Arowolo, M. O. & Olasupo, Y. A. Application of GA feature selection on Naive Bayes, random forest and SVM for credit card fraud detection. In 2020 International Conference on Decision Aid Sciences and Application (DASA), 1091\u20131097 (IEEE, 2020).",
+      "DOI": "10.1109/DASA51403.2020.9317228"
+    },
+    {
+      "issue": "2",
+      "key": "25200_CR14",
+      "doi-asserted-by": "publisher",
+      "first-page": "569",
+      "DOI": "10.1109/TCSS.2020.2970805",
+      "volume": "7",
+      "author": "Z Li",
+      "year": "2020",
+      "unstructured": "Li, Z., Liu, G. & Jiang, C. Deep representation learning with full center loss for credit card fraud detection. IEEE Trans. Comput. Soc. Syst. 7(2), 569\u2013579 (2020).",
+      "journal-title": "IEEE Trans. Comput. Soc. Syst."
+    },
+    {
+      "key": "25200_CR15",
+      "doi-asserted-by": "publisher",
+      "first-page": "448",
+      "DOI": "10.1016/j.ins.2017.12.030",
+      "volume": "479",
+      "author": "U Fiore",
+      "year": "2019",
+      "unstructured": "Fiore, U. et al. Using generative adversarial networks for improving classification effectiveness in credit card fraud detection. Inf. Sci. 479, 448\u2013455 (2019).",
+      "journal-title": "Inf. Sci."
+    },
+    {
+      "key": "25200_CR16",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Pumsirirat, A. & Liu, Y. Credit card fraud detection using deep learning based on auto-encoder and restricted Boltzmann machine. Int. J. Adv. Comput. Sci. Appl. 9(1), 18\u201325 (2018).",
+      "DOI": "10.14569/IJACSA.2018.090103"
+    },
+    {
+      "key": "25200_CR17",
+      "doi-asserted-by": "publisher",
+      "first-page": "381",
+      "DOI": "10.1016/j.eswa.2018.06.011",
+      "volume": "110",
+      "author": "S Nami",
+      "year": "2018",
+      "unstructured": "Nami, S. & Shajari, M. Cost-sensitive payment card fraud detection based on dynamic random forest and k-nearest neighbors. Expert Syst. Appl. 110, 381\u2013392 (2018).",
+      "journal-title": "Expert Syst. Appl."
+    },
+    {
+      "key": "25200_CR18",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Xuan, S. et al. Random forest for credit card fraud detection. In 2018 IEEE 15th International Conference on Networking, Sensing and Control (ICNSC), 1\u20136 (IEEE, 2018).",
+      "DOI": "10.1109/ICNSC.2018.8361343"
+    },
+    {
+      "key": "25200_CR19",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Sountharrajan, S., Nivashini, M., Shandilya, S. K., Suganya, E., Banu, A. B. & Karthiga, M. Dynamic recognition of phishing URLs using deep learning techniques. In Advances in Cyber Security Analytics and Decision Systems 27\u201356 (2020).",
+      "DOI": "10.1007/978-3-030-19353-9_3"
+    },
+    {
+      "issue": "4",
+      "key": "25200_CR20",
+      "doi-asserted-by": "publisher",
+      "first-page": "1349",
+      "DOI": "10.1007/s11276-021-02825-6",
+      "volume": "28",
+      "author": "M Karthiga",
+      "year": "2022",
+      "unstructured": "Karthiga, M. & Santhi, V. A wireless sensor network for remote detection of arrhythmias using convolutional neural network. Wirel. Netw. 28(4), 1349\u20131360 (2022).",
+      "journal-title": "Wirel. Netw."
+    },
+    {
+      "key": "25200_CR21",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.bspc.2022.103731",
+      "volume": "76",
+      "author": "M Karthiga",
+      "year": "2022",
+      "unstructured": "Karthiga, M., Santhi, V. & Sountharrajan, S. Hybrid optimized convolutional neural network for efficient classification of ECG signals in healthcare monitoring. Biomed. Signal Process. Control 76, 103731. https://doi.org/10.1016/j.bspc.2022.103731 (2022).",
+      "journal-title": "Biomed. Signal Process. Control"
+    },
+    {
+      "key": "25200_CR22",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Karthiga, M., Nandhini, S. S., Tharsanee, R. M., Nivaashini, M. & Soundariya, R. S. Blockchain for automotive security and privacy with related use cases. In Transforming Cybersecurity Solutions Using Blockchain, 185\u2013214 (Springer, 2021).",
+      "DOI": "10.1007/978-981-33-6858-3_10"
+    },
+    {
+      "key": "25200_CR23",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Tharsanee, R. M., Soundariya, R. S., Kumar, A. S., Karthiga, M. & Sountharrajan, S. Deep convolutional neural network\u2013based image classification for COVID-19 diagnosis. In Data Science for COVID-19, 117\u2013145 (Academic Press, 2021).",
+      "DOI": "10.1016/B978-0-12-824536-1.00012-5"
+    },
+    {
+      "key": "25200_CR24",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Prakhar, K., Sountharrajan, S., Suganya, E., Karthiga, M. & Kumar, S. Effective stock price prediction using time series forecasting. In 2022 6th International Conference on Trends in Electronics and Informatics (ICOEI), 1636\u20131640 (IEEE, 2022).",
+      "DOI": "10.1109/ICOEI53556.2022.9776830"
+    },
+    {
+      "issue": "4",
+      "key": "25200_CR25",
+      "first-page": "350",
+      "volume": "14",
+      "author": "D Trisanto",
+      "year": "2021",
+      "unstructured": "Trisanto, D., Rismawati, N., Muhamad Femy, M. & Felix Indra, K. Modified focal loss in imbalanced XGBoost for credit card fraud detection. Int. J. Intell. Eng. Syst. 14(4), 350\u2013358 (2021).",
+      "journal-title": "Int. J. Intell. Eng. Syst."
+    },
+    {
+      "issue": "2",
+      "key": "25200_CR26",
+      "first-page": "173",
+      "volume": "13",
+      "author": "D Trisanto",
+      "year": "2020",
+      "unstructured": "Trisanto, D., Rismawati, N., Muhamad Femy, M. & Felix Indra, K. Effectiveness undersampling method and feature reduction in credit card fraud detection. Int. J. Intell. Eng. Syst. 13(2), 173\u2013181 (2020).",
+      "journal-title": "Int. J. Intell. Eng. Syst."
+    }
+  ],
+  "container-title": [
+    "Scientific Reports"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.nature.com/articles/s41598-025-25200-3.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s41598-025-25200-3",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s41598-025-25200-3.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        2
+      ]
+    ],
+    "date-time": "2025-12-02T11:01:44Z",
+    "timestamp": 1764673304000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.nature.com/articles/s41598-025-25200-3"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        1
+      ]
+    ]
+  },
+  "references-count": 26,
+  "journal-issue": {
+    "issue": "1",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          12
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "25200"
+  ],
+  "URL": "https://doi.org/10.1038/s41598-025-25200-3",
+  "relation": {},
+  "ISSN": [
+    "2045-2322"
+  ],
+  "issn-type": [
+    {
+      "value": "2045-2322",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        1
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "29 July 2025",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "17 October 2025",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "1 December 2025",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Declarations"
+      }
+    },
+    {
+      "value": "The authors declare no competing interests.",
+      "order": 2,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Competing interests"
+      }
+    }
+  ],
+  "article-number": "42953"
+}

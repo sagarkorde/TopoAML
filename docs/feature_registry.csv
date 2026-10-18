@@ -1,0 +1,36 @@
+feature,group,earliest_observation,transform,limitation
+total_BTC,X,transaction record at step close (assumption),training median + standardization,exact source extraction timestamps unavailable
+fees,X,transaction record at step close (assumption),training median + standardization,exact source extraction timestamps unavailable
+size,X,transaction record at step close (assumption),training median + standardization,exact source extraction timestamps unavailable
+num_input_addresses,X,transaction record at step close (assumption),training median + standardization,exact source extraction timestamps unavailable
+num_output_addresses,X,transaction record at step close (assumption),training median + standardization,exact source extraction timestamps unavailable
+in_BTC_min,X,transaction record at step close (assumption),training median + standardization,exact source extraction timestamps unavailable
+in_BTC_max,X,transaction record at step close (assumption),training median + standardization,exact source extraction timestamps unavailable
+in_BTC_mean,X,transaction record at step close (assumption),training median + standardization,exact source extraction timestamps unavailable
+in_BTC_median,X,transaction record at step close (assumption),training median + standardization,exact source extraction timestamps unavailable
+in_BTC_total,X,transaction record at step close (assumption),training median + standardization,exact source extraction timestamps unavailable
+out_BTC_min,X,transaction record at step close (assumption),training median + standardization,exact source extraction timestamps unavailable
+out_BTC_max,X,transaction record at step close (assumption),training median + standardization,exact source extraction timestamps unavailable
+out_BTC_mean,X,transaction record at step close (assumption),training median + standardization,exact source extraction timestamps unavailable
+out_BTC_median,X,transaction record at step close (assumption),training median + standardization,exact source extraction timestamps unavailable
+out_BTC_total,X,transaction record at step close (assumption),training median + standardization,exact source extraction timestamps unavailable
+nodes,S,historical neighborhood at target step close,training standardization,bounded undirected projection; graph-construction dependence
+edges,S,historical neighborhood at target step close,training standardization,bounded undirected projection; graph-construction dependence
+components,S,historical neighborhood at target step close,training standardization,bounded undirected projection; graph-construction dependence
+density,S,historical neighborhood at target step close,training standardization,bounded undirected projection; graph-construction dependence
+degree_mean,S,historical neighborhood at target step close,training standardization,bounded undirected projection; graph-construction dependence
+degree_std,S,historical neighborhood at target step close,training standardization,bounded undirected projection; graph-construction dependence
+degree_max,S,historical neighborhood at target step close,training standardization,bounded undirected projection; graph-construction dependence
+triangles,S,historical neighborhood at target step close,training standardization,bounded undirected projection; graph-construction dependence
+clustering,S,historical neighborhood at target step close,training standardization,bounded undirected projection; graph-construction dependence
+cycle_rank,S,historical neighborhood at target step close,training standardization,bounded undirected projection; graph-construction dependence
+beta0,B,historical neighborhood at target step close,training standardization,B is algebraically redundant with S
+beta1,B,historical neighborhood at target step close,training standardization,B is algebraically redundant with S
+beta1_per_edge,B,historical neighborhood at target step close,training standardization,B is algebraically redundant with S
+finite_count,P,historical neighborhood at target step close,training standardization,bounded undirected projection; graph-construction dependence
+essential_count,P,historical neighborhood at target step close,training standardization,bounded undirected projection; graph-construction dependence
+lifetime_mean,P,historical neighborhood at target step close,training standardization,bounded undirected projection; graph-construction dependence
+lifetime_max,P,historical neighborhood at target step close,training standardization,bounded undirected projection; graph-construction dependence
+entropy,P,historical neighborhood at target step close,training standardization,bounded undirected projection; graph-construction dependence
+betti_curve,P,historical neighborhood at target step close,training standardization,bounded undirected projection; graph-construction dependence
+persistence_image,P,historical neighborhood at target step close,training standardization,bounded undirected projection; graph-construction dependence

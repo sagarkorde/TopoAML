@@ -1,0 +1,1422 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        13
+      ]
+    ],
+    "date-time": "2026-10-13T03:43:52Z",
+    "timestamp": 1791863032142,
+    "version": "4.3.4"
+  },
+  "reference-count": 154,
+  "publisher": "Institute for Operations Research and the Management Sciences (INFORMS)",
+  "issue": "2",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "INFORMS Journal on Data Science"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2026,
+        4
+      ]
+    ]
+  },
+  "abstract": "<jats:p>Money laundering presents a pervasive challenge, burdening society by financing illegal activities. The use of network information is increasingly being explored to effectively combat money laundering given that it involves connected parties. This led to a surge in research on network analytics for anti-money laundering (AML). The literature is, however, fragmented, and a comprehensive overview of existing work is missing. This results in limited understanding of the methods to apply and their comparative detection power. This paper presents an extensive and unique literature review based on 97 papers from Web of Science and Scopus, resulting in a taxonomy following a recently proposed fraud analytics framework. We conclude that most research relies on expert-based rules and manual features, whereas deep learning methods have been gaining traction. This paper also presents a comprehensive framework to evaluate and compare the performance of prominent methods in a standardized setup. We compare manual feature engineering, random walk-based, and deep learning methods on two publicly available data sets. We conclude (1) that network analytics increases the predictive power but caution is needed when applying graph neural networks in the face of class imbalance and network topology and (2) that care should be taken with synthetic data as they can give overly optimistic results. The open-source implementation facilitates researchers and practitioners to extend this work on proprietary data, promoting a standardized approach for the analysis and evaluation of network analytics for AML.</jats:p>\n                  <jats:p>History: Galit Shmueli served as the senior editor for this article.</jats:p>\n                  <jats:p>Funding: This work was supported by Fonds Wetenschappelijk Onderzoek [Grants 1SHEN24N and G015020N] and the BNP Paribas Fortis [Grant Research Chair on Fraud Analytics]. The resources and services used in this work were provided by the Flemish Supercomputer Center funded by the Fonds Wetenschappelijk Onderzoek and the Flemish Government.</jats:p>\n                  <jats:p>Supplemental Material: The online appendix is available at https://pubsonline.informs.org/doi/suppl/10.1287/ijds.2024.0042 .</jats:p>",
+  "DOI": "10.1287/ijds.2024.0042",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        8
+      ]
+    ],
+    "date-time": "2025-10-08T13:53:38Z",
+    "timestamp": 1759931618000
+  },
+  "page": "119-154",
+  "source": "Crossref",
+  "is-referenced-by-count": 10,
+  "title": [
+    "Network Analytics for Anti-money Laundering\u2014A Systematic Literature Review and Experimental Evaluation"
+  ],
+  "prefix": "10.1287",
+  "volume": "5",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-0817-0501",
+      "authenticated-orcid": false,
+      "given": "Bruno",
+      "family": "Deprez",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Faculty of Economics and Business, KU Leuven, 3000 Leuven, Belgium; and Department of Mathematics, University of Antwerp and imec, 2020 Antwerp, Belgium"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-7202-1589",
+      "authenticated-orcid": false,
+      "given": "Toon",
+      "family": "Vanderschueren",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Faculty of Economics and Business, KU Leuven, 3000 Leuven, Belgium; and Department of Mathematics, University of Antwerp and imec, 2020 Antwerp, Belgium"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5831-5668",
+      "authenticated-orcid": false,
+      "given": "Bart",
+      "family": "Baesens",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Faculty of Economics and Business, KU Leuven, 3000 Leuven, Belgium; and Southampton Business School, University of Southampton, Southampton SO17 1BJ, United Kingdom"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-1105-2028",
+      "authenticated-orcid": false,
+      "given": "Tim",
+      "family": "Verdonck",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Mathematics, University of Antwerp and imec, 2020 Antwerp, Belgium; and Department of Mathematics, KU Leuven, 3001 Leuven, Belgium"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-8438-0535",
+      "authenticated-orcid": false,
+      "given": "Wouter",
+      "family": "Verbeke",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Faculty of Economics and Business, KU Leuven, 3000 Leuven, Belgium"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "109",
+  "reference": [
+    {
+      "key": "B1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Adriaens F, Aslay C, De Bie T, Gionis A, Lijffijt J (2019) Discovering interesting cycles in directed graphs.\n                      Proc. 28th ACM Internat. Conf. Inform. Knowledge Management\n                      (CIKM \u201919)\n                      (Association for Computing Machinery, New York), 1191\u20131200.",
+      "DOI": "10.1145/3357384.3357970"
+    },
+    {
+      "key": "B2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Akiba T, Sano S, Yanase T, Ohta T, Koyama M (2019) Optuna: A next-generation hyperparameter optimization framework.\n                      Proc. 25th ACM SIGKDD Internat. Conf. Knowledge Discovery Data Mining\n                      (KDD \u201919)\n                      (Association for Computing Machinery, New York), 2623\u20132631.",
+      "DOI": "10.1145/3292500.3330701"
+    },
+    {
+      "issue": "3",
+      "key": "B3",
+      "doi-asserted-by": "crossref",
+      "first-page": "626",
+      "DOI": "10.1007/s10618-014-0365-y",
+      "volume": "29",
+      "author": "Akoglu L",
+      "year": "2015",
+      "journal-title": "Data Mining Knowledge Discovery"
+    },
+    {
+      "key": "B4",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Alarab I, Prakoonwit S, Nacer MI (2020a) Comparative analysis using supervised learning methods for anti-money laundering in Bitcoin.\n                      Proc. 2020 5th Internat. Conf. Machine Learn. Technologies ICMLT\u201820\n                      (Association for Computing Machinery, New York), 11\u201317.",
+      "DOI": "10.1145/3409073.3409078"
+    },
+    {
+      "key": "B5",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Alarab I, Prakoonwit S, Nacer MI (2020b) Competence of graph convolutional networks for anti-money laundering in Bitcoin blockchain.\n                      Proc. 2020 5th Internat. Conf. Machine Learn. Technologies ICMLT\u201820\n                      (Association for Computing Machinery, New York), 23\u201327.",
+      "DOI": "10.1145/3409073.3409080"
+    },
+    {
+      "key": "B6",
+      "first-page": "29851",
+      "volume-title": "Adv. Neural Inform. Processing Systems",
+      "volume": "36",
+      "author": "Altman E",
+      "year": "2023"
+    },
+    {
+      "key": "B7",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Angriman E, van der Grinten A, Hamann M, Meyerhenke H, Penschuck M (2022)\n                      Algorithms for Large-Scale Network Analysis and the NetworKit Toolkit\n                      (Springer Nature, Cham, Switzerland), 3\u201320.",
+      "DOI": "10.1007/978-3-031-21534-6_1"
+    },
+    {
+      "key": "B8",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Assump\u00e7\u00e3o HS, Souza F, Campos LL, de Castro Pires VT, de Almeida PML, Murai F (2022) Delator: Money laundering detection via multi-task learning on large transaction graphs.\n                      2022 IEEE Internat. Conf. Big Data (Big Data)\n                      (IEEE, Piscataway, NJ), 709\u2013714.",
+      "DOI": "10.1109/BigData55660.2022.10021010"
+    },
+    {
+      "key": "B9",
+      "unstructured": "Badalov L, Belov S, Kadochnikov I (2018) Checking foreign counterparty companies using big data.\n                      CEUR Workshop Proc\n                      ., vol. 2267 (CEUR-WS.org), 523\u2013527."
+    },
+    {
+      "key": "B10",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1002/9781119146841",
+      "volume-title": "Fraud Analytics Using Descriptive, Predictive, and Social Network Techniques: A Guide to Data Science for Fraud Detection",
+      "author": "Baesens B",
+      "year": "2015"
+    },
+    {
+      "key": "B11",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Bahulkar A, Baycik NO, Sharkey T, Shen Y, Szymanski B, Wallace W (2018) Integrative analytics for detecting and disrupting transnational interdependent criminal smuggling, money, and money-laundering networks.\n                      2018 IEEE Internat. Sympos. Tech. Homeland Security (HST)\n                      (IEEE, Piscataway, NJ), 1\u20136.",
+      "DOI": "10.1109/THS.2018.8574121"
+    },
+    {
+      "key": "B12",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Bellomarini L, Magnanimi D, Nissl M, Sallinger E (2021) Neither in the programs nor in the data: Mining the hidden financial knowledge with knowledge graphs and reasoning.\n                      Mining Data Financial Appl. 5th ECML PKDD Workshop MIDAS 2020 Ghent Belgium September 18 2020 Revised Selected Papers 5\n                      (Springer, Cham, Switzerland), 119\u2013134.",
+      "DOI": "10.1007/978-3-030-66981-2_10"
+    },
+    {
+      "key": "B13",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Bhalerao R, Aliapoulios M, Shumailov I, Afroz S, McCoy D (2019) Mapping the underground: Supervised discovery of cybercrime supply chains.\n                      2019 APWG Sympos. Electronic Crime Res. (eCrime)\n                      (IEEE, Piscataway, NJ), 1\u201316.",
+      "DOI": "10.1109/eCrime47957.2019.9037582"
+    },
+    {
+      "key": "B14",
+      "doi-asserted-by": "crossref",
+      "first-page": "120605",
+      "DOI": "10.1016/j.eswa.2023.120605",
+      "volume": "232",
+      "author": "Bockel-Rickermann C",
+      "year": "2023",
+      "journal-title": "Expert Systems Appl."
+    },
+    {
+      "issue": "3",
+      "key": "B15",
+      "doi-asserted-by": "crossref",
+      "first-page": "235",
+      "DOI": "10.1214/ss/1042727940",
+      "volume": "17",
+      "author": "Bolton RJ",
+      "year": "2002",
+      "journal-title": "Statist. Sci."
+    },
+    {
+      "key": "B16",
+      "unstructured": "Brody S, Alon U, Yahav E (2022) How attentive are graph attention networks? Preprint, submitted January 31, https://arxiv.org/abs/2105.14491."
+    },
+    {
+      "issue": "3",
+      "key": "B17",
+      "doi-asserted-by": "crossref",
+      "first-page": "854",
+      "DOI": "10.35378/gujs.854725",
+      "volume": "35",
+      "author": "\u00c7a\u011flayan M",
+      "year": "2022",
+      "journal-title": "Gazi Univ. J. Sci."
+    },
+    {
+      "issue": "9",
+      "key": "B18",
+      "doi-asserted-by": "crossref",
+      "first-page": "1616",
+      "DOI": "10.1109/TKDE.2018.2807452",
+      "volume": "30",
+      "author": "Cai H",
+      "year": "2018",
+      "journal-title": "IEEE Trans. Knowledge Data Engrg."
+    },
+    {
+      "key": "B19",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Camino RD, State R, Montero L, Valtchev P (2017) Finding suspicious activities in financial transactions and distributed ledgers.\n                      2017 IEEE Internat. Conf. Data Mining Workshops (ICDMW)\n                      (IEEE, Piscataway, NJ), 787\u2013796.",
+      "DOI": "10.1109/ICDMW.2017.109"
+    },
+    {
+      "key": "B20",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Cardoso M, Saleiro P, Bizarro P (2022) Laundrograph: Self-supervised graph representation learning for anti-money laundering.\n                      Proc. Third ACM Internat. Conf. AI Finance ICAIF\u201822\n                      (Association for Computing Machinery, New York), 130\u2013138.",
+      "DOI": "10.1145/3533271.3561727"
+    },
+    {
+      "issue": "3",
+      "key": "B21",
+      "doi-asserted-by": "crossref",
+      "first-page": "15",
+      "DOI": "10.1145/1541880.1541882",
+      "volume": "41",
+      "author": "Chandola V",
+      "year": "2009",
+      "journal-title": "ACM Comput. Surveys"
+    },
+    {
+      "key": "B22",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Chang R, Ghoniem M, Kosara R, Ribarsky W, Yang J, Suma E, Ziemkiewicz C, Kern D, Sudjianto A (2007) WireVis: Visualization of categorical, time-varying data from financial transactions.\n                      2007 IEEE Sympos. Visual Analytics Sci. Tech.\n                      (IEEE, Piscataway, NJ), 155\u2013162.",
+      "DOI": "10.1109/VAST.2007.4389009"
+    },
+    {
+      "key": "B23",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Cheong T-M, Si Y-W (2010) Event-based approach to money laundering data analysis and visualization.\n                      Proc. 3rd Internat. Sympos. Visual Inform. Comm. VINCI\u201810\n                      (Association for Computing Machinery, New York), Article 21, 1\u201311.",
+      "DOI": "10.1145/1865841.1865869"
+    },
+    {
+      "key": "B24",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Chmielewski M, Stkapor P (2017) Money laundering analytics based on contextual analysis. Application of problem solving ontologies in financial fraud identification and recognition.\n                      Inform. Systems Architecture Tech. Proc. 37th Internat. Conf. Information Systems Architecture Tech. ISAT 2016 Part I\n                      (Springer, Cham, Switzerland), 29\u201339.",
+      "DOI": "10.1007/978-3-319-46583-8_3"
+    },
+    {
+      "key": "B25",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Davis J, Goadrich M (2006) The relationship between precision-recall and roc curves.\n                      Proc. 23rd Internat. Conf. Machine Learn. ICML\u201806\n                      (Association for Computing Machinery, New York), 233\u2013240.",
+      "DOI": "10.1145/1143844.1143874"
+    },
+    {
+      "key": "B26",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Day M-Y (2022) Artificial intelligence for knowledge graphs of cryptocurrency anti-money laundering in fintech.\n                      Proc. 2021 IEEE/ACM Internat. Conf. Adv. Soc. Networks Anal. Mining ASONAM\u201821\n                      (Association for Computing Machinery, New York), 439\u2013446.",
+      "DOI": "10.1145/3487351.3488415"
+    },
+    {
+      "issue": "10",
+      "key": "B27",
+      "doi-asserted-by": "crossref",
+      "first-page": "4888",
+      "DOI": "10.1109/TKDE.2020.3048510",
+      "volume": "34",
+      "author": "Devriendt F",
+      "year": "2022",
+      "journal-title": "IEEE Trans. Knowledge Data Engrg."
+    },
+    {
+      "key": "B28",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Didimo W, Liotta G, Montecchiani F (2012) Vis4aui: Visual analysis of banking activity networks.\n                      Proc. Internat. Conf. Comput. Graphics Theory Appl. Internat. Conf. Inform. Visualization Theory Appl. Vol. 1 IVAPP (VISIGRAPP 2012)\n                      (SciTePress, Set\u00fabal, Portugal), 799\u2013802.",
+      "DOI": "10.5220/0003933407990802"
+    },
+    {
+      "key": "B29",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Didimo W, Liotta G, Montecchiani F, Palladino P (2011) An advanced network visualization system for financial crime detection.\n                      2011 IEEE Pacific Visualization Sympos.\n                      (IEEE, Piscataway, NJ), 203\u2013210.",
+      "DOI": "10.1109/PACIFICVIS.2011.5742391"
+    },
+    {
+      "key": "B30",
+      "doi-asserted-by": "crossref",
+      "first-page": "406",
+      "DOI": "10.1016/j.ins.2019.07.097",
+      "volume": "505",
+      "author": "Didimo W",
+      "year": "2019",
+      "journal-title": "Inform. Sci."
+    },
+    {
+      "issue": "1",
+      "key": "B31",
+      "doi-asserted-by": "crossref",
+      "first-page": "7",
+      "DOI": "10.1186/1742-5581-2-7",
+      "volume": "2",
+      "author": "Dong P",
+      "year": "2005",
+      "journal-title": "Biomedical Digital Libraries"
+    },
+    {
+      "key": "B32",
+      "doi-asserted-by": "crossref",
+      "first-page": "18",
+      "DOI": "10.1016/j.ins.2014.10.015",
+      "volume": "295",
+      "author": "Dre\u017cewski R",
+      "year": "2015",
+      "journal-title": "Inform. Sci."
+    },
+    {
+      "key": "B33",
+      "doi-asserted-by": "crossref",
+      "first-page": "47699",
+      "DOI": "10.1109/ACCESS.2022.3170467",
+      "volume": "10",
+      "author": "Dumitrescu B",
+      "year": "2022",
+      "journal-title": "IEEE Access"
+    },
+    {
+      "key": "B34",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Egressy B, von Niederh\u00e4usern L, Blanusa J, Altman E, Wattenhofer R, Atasu K (2024) Provably powerful graph neural networks for directed multigraphs.\n                      Proc. AAAI Conf. Artificial Intelligence\n                      , vol. 38(10) (AAAI Press, Washington, DC), 11838\u201311846.",
+      "DOI": "10.1609/aaai.v38i10.29069"
+    },
+    {
+      "key": "B35",
+      "unstructured": "Elliptic (2024) Accurate, actionable, decisioning with the most comprehensive blockchain analytics. Accessed January 31, 2024, https://www.elliptic.co./."
+    },
+    {
+      "key": "B36",
+      "unstructured": "Europol (2016) Does crime still pay? Criminal asset recovery in the EU. Accessed May 5, 2024, https://www.europol.europa.eu/publications-events/publications/does-crime-still-pay."
+    },
+    {
+      "key": "B37",
+      "unstructured": "Fey M, Lenssen JE (2019) Fast graph representation learning with PyTorch Geometric.\n                      ICLR Workshop Representation Learn. Graphs Manifolds\n                      ."
+    },
+    {
+      "key": "B38",
+      "doi-asserted-by": "crossref",
+      "first-page": "101387",
+      "DOI": "10.1016/j.ribaf.2021.101387",
+      "volume": "56",
+      "author": "Fletcher E",
+      "year": "2021",
+      "journal-title": "Res. Internat. Bus. Finance"
+    },
+    {
+      "key": "B39",
+      "doi-asserted-by": "crossref",
+      "first-page": "49",
+      "DOI": "10.1016/j.eswa.2016.09.029",
+      "volume": "67",
+      "author": "Fronzetti Colladon A",
+      "year": "2017",
+      "journal-title": "Expert Systems Appl."
+    },
+    {
+      "issue": "2",
+      "key": "B40",
+      "doi-asserted-by": "crossref",
+      "first-page": "170",
+      "DOI": "10.1108/13685200710746875",
+      "volume": "10",
+      "author": "Gao Z",
+      "year": "2007",
+      "journal-title": "J. Money Laundering Control"
+    },
+    {
+      "issue": "4",
+      "key": "B41",
+      "doi-asserted-by": "crossref",
+      "first-page": "159",
+      "DOI": "10.7866/HPE-RPE.21.4.5",
+      "volume": "239",
+      "author": "Garc\u00eda IG",
+      "year": "2021",
+      "journal-title": "Hacienda Publica Espanola"
+    },
+    {
+      "issue": "1",
+      "key": "B42",
+      "doi-asserted-by": "crossref",
+      "first-page": "49",
+      "DOI": "10.1108/JMLC-04-2020-0033",
+      "volume": "24",
+      "author": "Garcia-Bedoya O",
+      "year": "2021",
+      "journal-title": "J. Money Laundering Control"
+    },
+    {
+      "issue": "1",
+      "key": "B43",
+      "doi-asserted-by": "crossref",
+      "first-page": "23",
+      "DOI": "10.1140/epjds/s13688-022-00334-w",
+      "volume": "11",
+      "author": "Garcia-Bernardo J",
+      "year": "2022",
+      "journal-title": "EPJ Data Sci."
+    },
+    {
+      "key": "B44",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Gasanova A, Medvedev AN, Komotskiy EI, Spasov KB, Sachkov IN (2018) On the use of data mining methods for money laundering detection based on financial transactions information.\n                      AIP Conf. Proc\n                      ., vol. 2040(1) (AIP Publishing, Melville, NY), 050021.",
+      "DOI": "10.1063/1.5079119"
+    },
+    {
+      "issue": "1",
+      "key": "B45",
+      "doi-asserted-by": "crossref",
+      "first-page": "15",
+      "DOI": "10.1140/epjds/s13688-022-00328-8",
+      "volume": "11",
+      "author": "Gerbrands P",
+      "year": "2022",
+      "journal-title": "EPJ Data Sci."
+    },
+    {
+      "key": "B46",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Gong Y, Chow K-P, Ting H-F, Yiu S-M (2022) Analyzing the error rates of bitcoin clustering heuristics.\n                      Adv. Digital Forensics XVIII 18th IFIP WG 11.9 Internat. Conf. Virtual Event, January 3\u20134 2022 Revised Selected Papers\n                      (Springer, Cham, Switzerland), 187\u2013205.",
+      "DOI": "10.1007/978-3-031-10078-9_11"
+    },
+    {
+      "key": "B47",
+      "volume-title": "Deep Learning",
+      "author": "Goodfellow I",
+      "year": "2016"
+    },
+    {
+      "key": "B48",
+      "doi-asserted-by": "crossref",
+      "first-page": "78",
+      "DOI": "10.1016/j.knosys.2018.03.022",
+      "volume": "151",
+      "author": "Goyal P",
+      "year": "2018",
+      "journal-title": "Knowledge-Based Systems"
+    },
+    {
+      "key": "B49",
+      "doi-asserted-by": "crossref",
+      "first-page": "507",
+      "DOI": "10.52202/068431-0037",
+      "volume": "35",
+      "author": "Grinsztajn L",
+      "year": "2022",
+      "journal-title": "Adv. Neural Inform. Processing Systems"
+    },
+    {
+      "key": "B50",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Grover A, Leskovec J (2016) node2vec: Scalable feature learning for networks.\n                      Proc. 22nd ACM SIGKDD Internat. Conf. Knowledge Discovery Data Mining\n                      KDD \u201816\n                      (Association for Computing Machinery, New York), 855\u2013864.",
+      "DOI": "10.1145/2939672.2939754"
+    },
+    {
+      "key": "B51",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Gulino A, Ceri S, Gottlob G, Sallinger E, Bellomarini L (2021) Distributed company control in company shareholding graphs.\n                      2021 IEEE 37th Internat. Conf. Data Engrg. (ICDE)\n                      (IEEE, Piscataway, NJ), 2637\u20132648.",
+      "DOI": "10.1109/ICDE51399.2021.00294"
+    },
+    {
+      "key": "B52",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Hagberg AA, Schult DA, Swart PJ (2008) Exploring network structure, dynamics, and function using NetworkX. Varoquaux G, Vaught T, Millman J, eds.\n                      Proc. 7th Python Sci. Conf. (Pasadena, CA)\n                      , 11\u201315.",
+      "DOI": "10.25080/TCWV9851"
+    },
+    {
+      "key": "B53",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Hamid OH (2017) Breaking through opacity: A context-aware data-driven conceptual design for a predictive anti money laundering system.\n                      2017 9th IEEE-GCC Conf. Exhibition (GCCCE)\n                      (IEEE, Piscataway, NJ), 1\u20139.",
+      "DOI": "10.1109/IEEEGCC.2017.8448084"
+    },
+    {
+      "key": "B54",
+      "unstructured": "Hamilton W, Ying Z, Leskovec J (2017) Inductive representation learning on large graphs.\n                      31st Conf. Neural Inform. Processing Systems NIPS 2017\n                      (Curran Associates Inc., Red Hook, NY), 1\u201311."
+    },
+    {
+      "key": "B55",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Han H, Chen Y, Guo C, Zhang Y (2021) Blockchain abnormal transaction behavior analysis: A survey.\n                      Blockchain Trustworthy Systems Third Internat. Conf. BlockSys 2021\n                      , Communications in Computer and Information Science, vol. 1490 (Springer, Singapore), 57\u201369.",
+      "DOI": "10.1007/978-981-16-7993-3_5"
+    },
+    {
+      "issue": "1",
+      "key": "B56",
+      "doi-asserted-by": "crossref",
+      "first-page": "64",
+      "DOI": "10.1109/MIS.2021.3057590",
+      "volume": "36",
+      "author": "He J",
+      "year": "2021",
+      "journal-title": "IEEE Intelligent Systems"
+    },
+    {
+      "issue": "3",
+      "key": "B57",
+      "first-page": "425",
+      "volume": "85",
+      "author": "Helmy TH",
+      "year": "2016",
+      "journal-title": "J. Theoret. Appl. Inform. Tech."
+    },
+    {
+      "issue": "2",
+      "key": "B58",
+      "doi-asserted-by": "crossref",
+      "first-page": "251",
+      "DOI": "10.1016/0893-6080(91)90009-T",
+      "volume": "4",
+      "author": "Hornik K",
+      "year": "1991",
+      "journal-title": "Neural Networks"
+    },
+    {
+      "issue": "5",
+      "key": "B59",
+      "doi-asserted-by": "crossref",
+      "first-page": "359",
+      "DOI": "10.1016/0893-6080(89)90020-8",
+      "volume": "2",
+      "author": "Hornik K",
+      "year": "1989",
+      "journal-title": "Neural Networks"
+    },
+    {
+      "key": "B60",
+      "doi-asserted-by": "crossref",
+      "first-page": "105856",
+      "DOI": "10.1016/j.irle.2019.105856",
+      "volume": "60",
+      "author": "Imanpour M",
+      "year": "2019",
+      "journal-title": "Internat. Rev. Law Econom."
+    },
+    {
+      "issue": "3",
+      "key": "B61",
+      "doi-asserted-by": "crossref",
+      "first-page": "297",
+      "DOI": "10.1108/JMLC-07-2017-0031",
+      "volume": "21",
+      "author": "Irwin ASM",
+      "year": "2018",
+      "journal-title": "J. Money Laundering Control"
+    },
+    {
+      "key": "B62",
+      "doi-asserted-by": "crossref",
+      "first-page": "105191",
+      "DOI": "10.1016/j.knosys.2019.105191",
+      "volume": "190",
+      "author": "Jia Q-x",
+      "year": "2020",
+      "journal-title": "Knowledge-Based Systems"
+    },
+    {
+      "key": "B63",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Jin Y, Qu Z (2018) Research on anti-money laundering hierarchical model.\n                      2018 IEEE 9th Internat. Conf. Software Engrg. Service Sci. (ICSESS)\n                      (IEEE, Piscataway, NJ), 406\u2013411.",
+      "DOI": "10.1109/ICSESS.2018.8663895"
+    },
+    {
+      "issue": "9",
+      "key": "B64",
+      "first-page": "3919",
+      "volume": "69",
+      "author": "Jin C",
+      "year": "2022",
+      "journal-title": "IEEE Trans. Circuits Systems II Express Briefs"
+    },
+    {
+      "issue": "12",
+      "key": "B65",
+      "doi-asserted-by": "crossref",
+      "first-page": "3660",
+      "DOI": "10.1109/JSAC.2022.3213335",
+      "volume": "40",
+      "author": "Jin H",
+      "year": "2022",
+      "journal-title": "IEEE J. Selected Areas Comm."
+    },
+    {
+      "key": "B66",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Joaristi M, Serra E, Spezzano F (2018) Inferring bad entities through the Panama papers network.\n                      2018 IEEE/ACM Internat. Conf. Adv. Soc. Networks Anal. Mining (ASONAM)\n                      (IEEE, Piscataway, NJ), 767\u2013773.",
+      "DOI": "10.1109/ASONAM.2018.8508497"
+    },
+    {
+      "key": "B67",
+      "doi-asserted-by": "crossref",
+      "first-page": "62",
+      "DOI": "10.1007/s13278-019-0607-5",
+      "volume": "9",
+      "author": "Joaristi M",
+      "year": "2019",
+      "journal-title": "Soc. Network Anal. Mining"
+    },
+    {
+      "key": "B68",
+      "unstructured": "Kipf TN, Welling M (2017) Semi-supervised classification with graph convolutional networks.\n                      5th Internat. Conf. Learn. Representations\n                      (OpenReview.net)."
+    },
+    {
+      "key": "B69",
+      "unstructured": "Korczak J, \u0141uszczyk W (2011) Visual exploration of cash flow chains.\n                      2011 Federated Conf. Comput. Sci. Inform. Systems (FedCSIS)\n                      (IEEE, Piscataway, NJ), 41\u201346."
+    },
+    {
+      "key": "B70",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Kurniawan A, Handeu MY, Alvian B, Renouw AA (2015) Information system for depicting relations between banking customer with risk: Study case in Indonesia.\n                      2015 3rd Internat. Conf. Inform. Comm. Tech. (ICoICT)\n                      (IEEE, Piscataway, NJ), 125\u2013128.",
+      "DOI": "10.1109/ICoICT.2015.7231409"
+    },
+    {
+      "issue": "04",
+      "key": "B71",
+      "doi-asserted-by": "crossref",
+      "first-page": "565",
+      "DOI": "10.1142/S1793351X20300022",
+      "volume": "14",
+      "author": "Kurshan E",
+      "year": "2020",
+      "journal-title": "Internat. J. Semantic Comput."
+    },
+    {
+      "key": "B72",
+      "doi-asserted-by": "crossref",
+      "first-page": "82300",
+      "DOI": "10.1109/ACCESS.2021.3086230",
+      "volume": "9",
+      "author": "Kute DV",
+      "year": "2021",
+      "journal-title": "IEEE Access"
+    },
+    {
+      "issue": "1",
+      "key": "B73",
+      "doi-asserted-by": "crossref",
+      "first-page": "289",
+      "DOI": "10.1086/501508",
+      "volume": "34",
+      "author": "Levi M",
+      "year": "2006",
+      "journal-title": "Crime Justice"
+    },
+    {
+      "key": "B74",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Li Q, Han Z, Wu X-M (2018) Deeper insights into graph convolutional networks for semi-supervised learning.\n                      Proc. AAAI Conf. Artificial Intelligence\n                      , vol. 32(1) (AAAI Press, Washington, DC), 3538\u20133545.",
+      "DOI": "10.1609/aaai.v32i1.11604"
+    },
+    {
+      "key": "B75",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Li A, Wang Z, Yu M, Chen D (2022a) Blockchain abnormal transaction detection method based on weighted sampling neighborhood nodes.\n                      2022 3rd Internat. Conf. Big Data Artificial Intelligence Internet Things Engrg. (ICBAIE)\n                      (IEEE, Piscataway, NJ), 746\u2013752.",
+      "DOI": "10.1109/ICBAIE56435.2022.9985815"
+    },
+    {
+      "issue": "3",
+      "key": "B76",
+      "doi-asserted-by": "crossref",
+      "first-page": "219",
+      "DOI": "10.23919/JSC.2022.0011",
+      "volume": "3",
+      "author": "Li Z",
+      "year": "2022",
+      "journal-title": "J. Soc. Comput."
+    },
+    {
+      "key": "B77",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Li X, Liu S, Li Z, Han X, Shi C, Hooi B, Huang H, Cheng X (2020) FlowScope: Spotting money laundering based on graphs.\n                      Proc. AAAI Conf. Artificial Intelligence\n                      , vol. 34(4) (AAAI Press, Washington, DC), 4731\u20134738.",
+      "DOI": "10.1609/aaai.v34i04.5906"
+    },
+    {
+      "issue": "1",
+      "key": "B78",
+      "first-page": "3",
+      "volume": "6",
+      "author": "Liu FT",
+      "year": "2012",
+      "journal-title": "ACM Trans. Knowledge Discovery Data"
+    },
+    {
+      "key": "B79",
+      "doi-asserted-by": "crossref",
+      "first-page": "66",
+      "DOI": "10.1007/978-3-642-29873-8_7",
+      "volume-title": "E-Life: Web-Enabled Convergence of Commerce, Work, and Social Life",
+      "author": "Liu X",
+      "year": "2012"
+    },
+    {
+      "issue": "3",
+      "key": "B80",
+      "doi-asserted-by": "crossref",
+      "first-page": "436",
+      "DOI": "10.1108/JMLC-04-2022-0058",
+      "volume": "26",
+      "author": "Lokanan ME",
+      "year": "2023",
+      "journal-title": "J. Money Laundering Control"
+    },
+    {
+      "key": "B81",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Lorenz J, Silva MI, Apar\u00edcio D, Tiago Ascens\u00e3o J, Bizarro P (2021) Machine learning methods to detect money laundering in the bitcoin blockchain in the presence of label scarcity.\n                      Proc. First ACM Internat. Conf. AI Finance ICAIF\u201820\n                      (Association for Computing Machinery, New York).",
+      "DOI": "10.1145/3383455.3422549"
+    },
+    {
+      "key": "B82",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1016/j.diin.2015.08.002",
+      "volume": "15",
+      "author": "Magalingam P",
+      "year": "2015",
+      "journal-title": "Digital Investigation"
+    },
+    {
+      "issue": "11",
+      "key": "B83",
+      "volume": "9",
+      "author": "Magomedov S",
+      "year": "2018",
+      "journal-title": "Internat. J. Adv. Comput. Sci. Appl."
+    },
+    {
+      "key": "B84",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Mahootiha M, Golpayegani AH, Sadeghian B (2021) Designing a new method for detecting money laundering based on social network analysis.\n                      2021 26th Internat. Comput. Conf. Comput. Soc. Iran (CSICC)\n                      (IEEE, Piscataway, NJ), 1\u20137.",
+      "DOI": "10.1109/CSICC52343.2021.9420621"
+    },
+    {
+      "key": "B85",
+      "doi-asserted-by": "crossref",
+      "first-page": "365",
+      "DOI": "10.1007/s12117-013-9205-5",
+      "volume": "16",
+      "author": "Malm A",
+      "year": "2013",
+      "journal-title": "Trends Organ. Crime"
+    },
+    {
+      "issue": "2",
+      "key": "B86",
+      "doi-asserted-by": "crossref",
+      "first-page": "109",
+      "DOI": "10.1089/big.2015.0056",
+      "volume": "4",
+      "author": "McGinn D",
+      "year": "2016",
+      "journal-title": "Big Data"
+    },
+    {
+      "key": "B87",
+      "unstructured": "Mehmet M, Wijesekera D (2013a) Data analytics to detect evolving money laundering.\n                      Proc. Eighth Conf. Semantic Technologies Intelligence Defense Security, STIDS\n                      (George Mason University, Arlington, VA), 71\u201378."
+    },
+    {
+      "key": "B88",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Mehmet M, Wijesekera D (2013b) Using dynamic risk estimation & social network analysis to detect money laundering evolution.\n                      2013 IEEE Internat. Conf. Tech. Homeland Security (HST)\n                      (IEEE, Piscataway, NJ), 310\u2013315.",
+      "DOI": "10.1109/THS.2013.6699020"
+    },
+    {
+      "key": "B89",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Mehmet M, G\u00fcne\u015fta\u015f M, Wijesekera D (2014) Dynamic risk model of money laundering.\n                      Risk Assessment Risk-Driven Testing First Internat. Workshop RISK 2013 Held Conjunction ICTSS 2013 Istanbul Turkey November 12 2013 Revised Selected Papers 1\n                      (Springer, Cham, Switzerland), 3\u201320.",
+      "DOI": "10.1007/978-3-319-07076-6_1"
+    },
+    {
+      "issue": "6",
+      "key": "B90",
+      "doi-asserted-by": "crossref",
+      "first-page": "817",
+      "DOI": "10.1093/comnet/cnz008",
+      "volume": "7",
+      "author": "Micale G",
+      "year": "2019",
+      "journal-title": "J. Complex Networks"
+    },
+    {
+      "key": "B91",
+      "unstructured": "Michalak K, Korczak J (2011) Graph mining approach to suspicious transaction detection.\n                      2011 Federated Conf. Comput. Sci. Inform. Systems (FedCSIS)\n                      (IEEE, Piscataway, NJ), 69\u201375."
+    },
+    {
+      "key": "B92",
+      "unstructured": "Mikolov T, Chen K, Corrado G, Dean J (2013) Efficient estimation of word representations in vector space. Preprint, submitted January 16, https://arxiv.org/abs/1301.3781."
+    },
+    {
+      "issue": "3",
+      "key": "B93",
+      "first-page": "313",
+      "volume": "57",
+      "author": "Mohan A",
+      "year": "2023",
+      "journal-title": "Data Tech. Appl."
+    },
+    {
+      "issue": "1",
+      "key": "B94",
+      "doi-asserted-by": "crossref",
+      "first-page": "213",
+      "DOI": "10.1007/s11192-015-1765-5",
+      "volume": "106",
+      "author": "Mongeon P",
+      "year": "2016",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "B95",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Nandhini M, Das BB (2016) An assessment and methodology for fraud detection in online social network.\n                      2016 Second Internat. Conf. Sci. Tech. Engrg. Management (ICONSTEM)\n                      (IEEE, Piscataway, NJ), 104\u2013108.",
+      "DOI": "10.1109/ICONSTEM.2016.7560932"
+    },
+    {
+      "key": "B96",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1093/acprof:oso/9780199206650.001.0001",
+      "volume-title": "Networks: An Introduction",
+      "author": "Newman M",
+      "year": "2010"
+    },
+    {
+      "issue": "3",
+      "key": "B97",
+      "doi-asserted-by": "crossref",
+      "first-page": "559",
+      "DOI": "10.1016/j.dss.2010.08.006",
+      "volume": "50",
+      "author": "Ngai EWT",
+      "year": "2011",
+      "journal-title": "Decision Support Systems"
+    },
+    {
+      "key": "B98",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Omar N, bin Mohamed I, Sanusi ZM, Prabowo HY (2014) Understanding social network analysis (SNA) in fraud detection.\n                      Proc. Internat. Congress Interdisciplinary Behav. Soc. Sci.\n                      (CRC Press, Boca Raton, FL), 543\u2013548.",
+      "DOI": "10.1201/b16658-99"
+    },
+    {
+      "key": "B99",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ovelg\u00f6nne M, Kang C, Sawant A, Subrahmanian VS (2012) Covertness centrality in networks.\n                      2012 IEEE/ACM Internat. Conf. Adv. Soc. Networks Anal. Mining\n                      (IEEE, Piscataway, NJ), 863\u2013870.",
+      "DOI": "10.1109/ASONAM.2012.156"
+    },
+    {
+      "issue": "8",
+      "key": "B100",
+      "doi-asserted-by": "crossref",
+      "first-page": "855",
+      "DOI": "10.1016/j.jclinepi.2015.02.010",
+      "volume": "68",
+      "author": "Ozenne B",
+      "year": "2015",
+      "journal-title": "J. Clinical Epidemiology"
+    },
+    {
+      "key": "B101",
+      "unstructured": "Page L, Brin S, Motwani R, Winograd T (1999) The PageRank citation ranking: Bringing order to the web. Technical report, Stanford InfoLab, Stanford, CA."
+    },
+    {
+      "key": "B102",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Perozzi B, Al-Rfou R, Skiena S (2014) DeepWalk: Online learning of social representations.\n                      Proc. 20th ACM SIGKDD Internat. Conf. Knowledge Discovery Data Mining KDD\u201814\n                      (Association for Computing Machinery, New York), 701\u2013710.",
+      "DOI": "10.1145/2623330.2623732"
+    },
+    {
+      "key": "B103",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Phetsouvanh S, Oggier F, Datta A (2018) EGRET: Extortion graph exploration techniques in the bitcoin network.\n                      2018 IEEE Internat. Conf. Data Mining Workshops (ICDMW)\n                      (IEEE, Piscataway, NJ), 244\u2013251.",
+      "DOI": "10.1109/ICDMW.2018.00043"
+    },
+    {
+      "key": "B104",
+      "unstructured": "Phua C, Lee VCS, Smith-Miles K, Gayler RW (2010) A comprehensive survey of data mining-based fraud detection research. Preprint, submitted September 30, http://arxiv.org/abs/1009.6119."
+    },
+    {
+      "key": "B105",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Plaksiy K, Nikiforov A, Miloslavskaya N (2018) Applying big data technologies to detect cases of money laundering and counter financing of terrorism.\n                      2018 6th Internat. Conf. Future Internet Things Cloud Workshops (FiCloudW)\n                      (IEEE, Piscataway, NJ), 70\u201377.",
+      "DOI": "10.1109/W-FiCloud.2018.00017"
+    },
+    {
+      "key": "B106",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Prado-Romero MA, Gago-Alonso A (2017) Community feature selection for anomaly detection in attributed graphs.\n                      Progress Pattern Recognition Image Anal. Comput. Vision Appl. 21st Iberoamerican Congress CIARP 2016 Lima Peru November 8\u201311 2016 Proc. 21\n                      (Springer, Cham, Switzerland), 109\u2013116.",
+      "DOI": "10.1007/978-3-319-52277-7_14"
+    },
+    {
+      "key": "B107",
+      "unstructured": "PyG Documentation (2024) Source code for torch_geometric.datasets.elliptic. Accessed January 31, 2024, https://pytorch-geometric.readthedocs.io/en/latest/_modules/torch_geometric/datasets/elliptic.html."
+    },
+    {
+      "key": "B108",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Rathore MM, Chaurasia S, Shukla D (2022) Mixers detection in bitcoin network: A step towards detecting money laundering in crypto-currencies.\n                      2022 IEEE Internat. Conf. Big Data (Big Data)\n                      (IEEE, Piscataway, NJ), 5775\u20135782.",
+      "DOI": "10.1109/BigData55660.2022.10020982"
+    },
+    {
+      "issue": "1",
+      "key": "B109",
+      "doi-asserted-by": "crossref",
+      "first-page": "133",
+      "DOI": "10.1007/s40812-019-00143-9",
+      "volume": "47",
+      "author": "Ricci P",
+      "year": "2020",
+      "journal-title": "J. Indust. Bus. Econom."
+    },
+    {
+      "issue": "3",
+      "key": "B110",
+      "doi-asserted-by": "crossref",
+      "first-page": "e0118432",
+      "DOI": "10.1371/journal.pone.0118432",
+      "volume": "10",
+      "author": "Saito T",
+      "year": "2015",
+      "journal-title": "PLoS One"
+    },
+    {
+      "key": "B111",
+      "unstructured": "Semenov A, Doropheev D, Mazeev A, Yusubaliev T (2017) Survey of common design approaches in AML software development.\n                      CEUR Workshop Proc.\n                      (CEUR-WS, Aachen, Germany), 1\u20139."
+    },
+    {
+      "issue": "4",
+      "key": "B112",
+      "first-page": "21",
+      "volume": "16",
+      "author": "Senator TE",
+      "year": "1995",
+      "journal-title": "AI Magazine"
+    },
+    {
+      "key": "B113",
+      "unstructured": "Shaikh AK, Nazir A (2018) A model for identifying relationships of suspicious customers in money laundering using social network functions.\n                      Proc. World Congress Engrg.\n                      , vol. 1 (IAENG, London), 4\u20137."
+    },
+    {
+      "issue": "1",
+      "key": "B114",
+      "doi-asserted-by": "crossref",
+      "first-page": "20",
+      "DOI": "10.1186/s40537-021-00411-3",
+      "volume": "8",
+      "author": "Shaikh AK",
+      "year": "2021",
+      "journal-title": "J. Big Data"
+    },
+    {
+      "key": "B115",
+      "doi-asserted-by": "crossref",
+      "first-page": "101068",
+      "DOI": "10.1016/j.seps.2021.101068",
+      "volume": "78",
+      "author": "Shen Y",
+      "year": "2021",
+      "journal-title": "Socio-Economic Planning Sci."
+    },
+    {
+      "issue": "1",
+      "key": "B116",
+      "doi-asserted-by": "crossref",
+      "first-page": "118",
+      "DOI": "10.1108/JMLC-12-2020-0139",
+      "volume": "25",
+      "author": "Sousa Lima R",
+      "year": "2022",
+      "journal-title": "J. Money Laundering Control"
+    },
+    {
+      "key": "B117",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Starnini M, Tsourakakis CE, Zamanipour M, Panisson A, Allasia W, Fornasiero M, Li Puma L, et al. (2021) Smurf-based anti-money laundering in time-evolving transaction networks.\n                      Machine Learn. Knowledge Discovery Databases Appl. Data Sci. Track Eur. Conf. ECML PKDD 2021 Bilbao Spain September 13\u201317 2021 Proc. Part IV 21\n                      (Springer, Cham, Switzerland), 171\u2013186.",
+      "DOI": "10.1007/978-3-030-86514-6_11"
+    },
+    {
+      "key": "B118",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Sun K, Meng K, Zheng Z (2022) Game-bc: A graph attention model for exploring bitcoin crime.\n                      2022 6th Internat. Sympos. Comput. Sci. Intelligent Control (ISCSIC)\n                      (IEEE, Piscataway, NJ), 342\u2013346.",
+      "DOI": "10.1109/ISCSIC57216.2022.00077"
+    },
+    {
+      "key": "B119",
+      "doi-asserted-by": "crossref",
+      "first-page": "402",
+      "DOI": "10.1007/978-3-031-74643-7_29",
+      "volume-title": "Machine Learning and Principles and Practice of Knowledge Discovery in Databases",
+      "author": "Tariq H",
+      "year": "2025"
+    },
+    {
+      "key": "B120",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Tharani JS, Charles EYA, H\u00f3u Z, Palaniswami M, Muthukkumarasamy V (2021) Graph based visualisation techniques for analysis of blockchain transactions.\n                      2021 IEEE 46th Conf. Local Comput. Networks (LCN)\n                      (IEEE, Piscataway, NJ), 427\u2013430.",
+      "DOI": "10.1109/LCN52139.2021.9524878"
+    },
+    {
+      "key": "B121",
+      "unstructured": "The Economist (2021) Losing the war. (April 12), https://www.economist.com/finance-and-economics/2021/04/12/the-war-against-money-laundering-is-being-lost."
+    },
+    {
+      "key": "B122",
+      "doi-asserted-by": "crossref",
+      "first-page": "597",
+      "DOI": "10.1007/978-3-031-05760-1_35",
+      "volume-title": "Research Challenges in Information Science",
+      "author": "Tiukhova E",
+      "year": "2022"
+    },
+    {
+      "key": "B123",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Tiukhova E, Penaloza E, \u00d3skarsd\u00f3ttir M, Baesens B, Snoeck M, Bravo C (2024) INFLECT-DGNN: Influencer prediction with dynamic graph neural networks.\n                      IEEE Access\n                      12:115026\u2013115041.",
+      "DOI": "10.1109/ACCESS.2024.3443533"
+    },
+    {
+      "issue": "4",
+      "key": "B124",
+      "doi-asserted-by": "crossref",
+      "first-page": "646",
+      "DOI": "10.1108/JMLC-01-2019-0005",
+      "volume": "22",
+      "author": "Turner AB",
+      "year": "2019",
+      "journal-title": "J. Money Laundering Control"
+    },
+    {
+      "issue": "3",
+      "key": "B125",
+      "doi-asserted-by": "crossref",
+      "first-page": "545",
+      "DOI": "10.1108/JMLC-02-2020-0012",
+      "volume": "23",
+      "author": "Turner AB",
+      "year": "2020",
+      "journal-title": "J. Money Laundering Control"
+    },
+    {
+      "key": "B126",
+      "unstructured": "United Nations Office on Drugs and Crime (2023) Money laundering. Accessed April 7, 2023, https://www.unodc.org/unodc/en/money-laundering/overview.html."
+    },
+    {
+      "key": "B127",
+      "doi-asserted-by": "crossref",
+      "first-page": "113866",
+      "DOI": "10.1016/j.dss.2022.113866",
+      "volume": "164",
+      "author": "Van Belle R",
+      "year": "2023",
+      "journal-title": "Decision Support Systems"
+    },
+    {
+      "key": "B128",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Van Belle R, Mitrovi\u0107 S, De Weerdt J (2020) Representation learning in graphs for credit card fraud detection.\n                      Mining Data Financial Appl. 4th ECML PKDD Workshop MIDAS 2019 W\u00fcrzburg Germany September 16 2019 Revised Selected Papers 4\n                      (Springer, Cham, Switzerland), 32\u201346.",
+      "DOI": "10.1007/978-3-030-37720-5_3"
+    },
+    {
+      "key": "B129",
+      "doi-asserted-by": "crossref",
+      "first-page": "116463",
+      "DOI": "10.1016/j.eswa.2021.116463",
+      "volume": "193",
+      "author": "Van Belle R",
+      "year": "2022",
+      "journal-title": "Expert Systems Appl."
+    },
+    {
+      "key": "B130",
+      "doi-asserted-by": "crossref",
+      "first-page": "114151",
+      "DOI": "10.1016/j.dss.2023.114151",
+      "volume": "179",
+      "author": "Vanderschueren T",
+      "year": "2024",
+      "journal-title": "Decision Support Systems"
+    },
+    {
+      "issue": "1",
+      "key": "B131",
+      "doi-asserted-by": "crossref",
+      "first-page": "27",
+      "DOI": "10.1111/itor.12811",
+      "volume": "28",
+      "author": "Velasco RB",
+      "year": "2021",
+      "journal-title": "Internat. Trans. Oper. Res."
+    },
+    {
+      "key": "B132",
+      "unstructured": "Veli\u010dkovi\u0107 P, Cucurull G, Casanova A, Romero A, Li\u00f2 P, Bengio Y (2017) Graph attention networks. Preprint, submitted October 30, https://arxiv.org/abs/1710.10903."
+    },
+    {
+      "key": "B133",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Wang Z, Guiqian N, Yan Z, Mu Y (2022) Detection mechanism of money laundering based on random walk and SKIP-GRIM model.\n                      2022 IEEE 5th Internat. Conf. Electronic Inform. Comm. Tech. (ICEICT)\n                      (IEEE, Piscataway, NJ), 444\u2013448.",
+      "DOI": "10.1109/ICEICT55736.2022.9909113"
+    },
+    {
+      "key": "B134",
+      "unstructured": "Weber M, Domeniconi G, Chen J, Weidele DKI, Bellei C, Robinson T, Leiserson CE (2019) Anti-money laundering in Bitcoin: Experimenting with graph convolutional networks for financial forensic. Preprint, submitted July 31, https://arxiv.org/abs/1908.02591."
+    },
+    {
+      "key": "B135",
+      "unstructured": "Williams OA (2021) Watchdogs hit money launderers with record fines.\n                      Forbes\n                      (August 26), https://www.forbes.com/sites/oliverwilliams1/2021/08/26/money-laundering-thrived-during-covid-pandemic/."
+    },
+    {
+      "key": "B136",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Winiecki D, Kappelman K, Hay B, Joaristi M, Serra E, Spezzano F (2020) Validating bad entity ranking in the Panama papers via open-source intelligence.\n                      2020 IEEE/ACM Internat. Conf. Adv. Soc. Networks Anal. Mining (ASONAM)\n                      (IEEE, Piscataway, NJ), 752\u2013759.",
+      "DOI": "10.1109/ASONAM49781.2020.9381389"
+    },
+    {
+      "issue": "4",
+      "key": "B137",
+      "doi-asserted-by": "crossref",
+      "first-page": "2237",
+      "DOI": "10.1109/TSMC.2021.3049278",
+      "volume": "52",
+      "author": "Wu J",
+      "year": "2021",
+      "journal-title": "IEEE Trans. Systems Man Cybernetics Systems"
+    },
+    {
+      "issue": "1",
+      "key": "B138",
+      "doi-asserted-by": "crossref",
+      "first-page": "4",
+      "DOI": "10.1109/TNNLS.2020.2978386",
+      "volume": "32",
+      "author": "Wu Z",
+      "year": "2020",
+      "journal-title": "IEEE Trans. Neural Networks Learn. Systems"
+    },
+    {
+      "key": "B139",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Wu L, Hu Y, Zhou Y, Wang H, Luo X, Wang Z, Zhang F, Ren K (2021b) Towards understanding and demystifying bitcoin mixing services.\n                      WWW \u201821 Proc. Web Conf. 2021\n                      (Association for Computing Machinery, New York), 33\u201344.",
+      "DOI": "10.1145/3442381.3449880"
+    },
+    {
+      "issue": "2",
+      "key": "B140",
+      "doi-asserted-by": "crossref",
+      "first-page": "1921",
+      "DOI": "10.1007/s13369-021-06116-2",
+      "volume": "47",
+      "author": "Xia P",
+      "year": "2022",
+      "journal-title": "Arabian J. Sci. Engrg."
+    },
+    {
+      "key": "B141",
+      "doi-asserted-by": "crossref",
+      "first-page": "825",
+      "DOI": "10.1007/s00779-018-1165-y",
+      "volume": "22",
+      "author": "Xiao Z",
+      "year": "2018",
+      "journal-title": "Personal Ubiquitous Comput."
+    },
+    {
+      "issue": "1",
+      "key": "B142",
+      "doi-asserted-by": "crossref",
+      "first-page": "012001",
+      "DOI": "10.1088/1742-6596/1774/1/012001",
+      "volume": "1774",
+      "author": "Xiong J",
+      "year": "2021",
+      "journal-title": "J. Phys. Conf. Ser."
+    },
+    {
+      "issue": "1",
+      "key": "B143",
+      "doi-asserted-by": "crossref",
+      "first-page": "012023",
+      "DOI": "10.1088/1742-6596/1629/1/012023",
+      "volume": "1629",
+      "author": "Xiong J",
+      "year": "2020",
+      "journal-title": "J. Phys. Conf. Ser."
+    },
+    {
+      "key": "B144",
+      "unstructured": "Xu K, Hu W, Leskovec J, Jegelka S (2019) How powerful are graph neural networks? Preprint, submitted February 22, https://arxiv.org/abs/1810.00826."
+    },
+    {
+      "key": "B145",
+      "doi-asserted-by": "crossref",
+      "first-page": "107507",
+      "DOI": "10.1016/j.asoc.2021.107507",
+      "volume": "109",
+      "author": "Xueshuo X",
+      "year": "2021",
+      "journal-title": "Appl. Soft Comput."
+    },
+    {
+      "key": "B146",
+      "unstructured": "Yang Z, Cohen W, Salakhudinov R (2016) Revisiting semi-supervised learning with graph embeddings. Balcan MF, Weinberger KQ, eds.\n                      Proc. 33rd Internat. Conf. Machine Learn.\n                      , vol. 48 (PMLR, New York), 40\u201348."
+    },
+    {
+      "key": "B147",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Yang Q, Xiang Y, Liu W, Ren W (2022) An illicit bitcoin address analysis scheme based on subgraph evolution.\n                      2022 IEEE 24th Internat. Conf. High Performance Comput. Comm. 8th Internat. Conf. Data Sci. Systems 20th Internat. Conf. Smart City 8th Internat. Conf. Dependability Sensor Cloud Big Data Systems Appl. (HPCC/DSS/SmartCity/DependSys)\n                      (IEEE, Piscataway, NJ), 679\u2013686.",
+      "DOI": "10.1109/HPCC-DSS-SmartCity-DependSys57074.2022.00116"
+    },
+    {
+      "key": "B148",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Yu Y, Xu Y, Wang J, Li Z, Cao B (2022) Anti-money laundering risk identification of financial institutions based on aspect-level graph neural networks.\n                      2022 IEEE 22nd Internat. Conf. Software Quality Reliability Security Companion (QRS-C)\n                      (IEEE, Piscataway, NJ), 542\u2013546.",
+      "DOI": "10.1109/QRS-C57518.2022.00086"
+    },
+    {
+      "key": "B149",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Zhang S, Suzumura T, Zhang L (2021) Dyngraphtrans: Dynamic graph embedding via modified universal transformer networks for financial transaction data.\n                      2021 IEEE Internat. Conf. Smart Data Services (SMDS)\n                      (IEEE, Piscataway, NJ), 184\u2013191.",
+      "DOI": "10.1109/SMDS53860.2021.00032"
+    },
+    {
+      "key": "B150",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Zhdanova M, Repp J, Rieke R, Gaber C, Hemery B (2014) No smurfs: Revealing fraud chains in mobile money transfers.\n                      2014 Ninth Internat. Conf. Availability Reliability Security\n                      (IEEE, Piscataway, NJ), 11\u201320.",
+      "DOI": "10.1109/ARES.2014.10"
+    },
+    {
+      "key": "B151",
+      "doi-asserted-by": "crossref",
+      "first-page": "3433",
+      "DOI": "10.1109/TIFS.2022.3208471",
+      "volume": "17",
+      "author": "Zhou J",
+      "year": "2022",
+      "journal-title": "IEEE Trans. Inform. Forensics Security"
+    },
+    {
+      "issue": "3",
+      "key": "B152",
+      "doi-asserted-by": "crossref",
+      "first-page": "115",
+      "DOI": "10.1109/MNET.2017.1700213",
+      "volume": "32",
+      "author": "Zhou Y",
+      "year": "2017",
+      "journal-title": "IEEE Network"
+    },
+    {
+      "key": "B153",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Zhou D, Zhang S, Yildirim MY, Alcorn S, Tong H, Davulcu H, He J (2017a) A local algorithm for structure-preserving graph cut.\n                      Proc. 23rd ACM SIGKDD Internat. Conf. Knowledge Discovery Data Mining KDD\u201817\n                      (Association for Computing Machinery, New York), 655\u2013664.",
+      "DOI": "10.1145/3097983.3098015"
+    },
+    {
+      "key": "B154",
+      "doi-asserted-by": "crossref",
+      "first-page": "57",
+      "DOI": "10.1016/j.aiopen.2021.01.001",
+      "volume": "1",
+      "author": "Zhou J",
+      "year": "2020",
+      "journal-title": "AI Open"
+    }
+  ],
+  "container-title": [
+    "INFORMS Journal on Data Science"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://pubsonline.informs.org/doi/pdf/10.1287/ijds.2024.0042",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        3
+      ]
+    ],
+    "date-time": "2026-06-03T08:43:23Z",
+    "timestamp": 1780476203000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://pubsonline.informs.org/doi/10.1287/ijds.2024.0042"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4
+      ]
+    ]
+  },
+  "references-count": 154,
+  "journal-issue": {
+    "issue": "2",
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          4
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1287/ijds.2024.0042"
+  ],
+  "URL": "https://doi.org/10.1287/ijds.2024.0042",
+  "relation": {},
+  "ISSN": [
+    "2694-4022",
+    "2694-4030"
+  ],
+  "issn-type": [
+    {
+      "value": "2694-4022",
+      "type": "print"
+    },
+    {
+      "value": "2694-4030",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2026,
+        4
+      ]
+    ]
+  }
+}

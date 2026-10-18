@@ -1,0 +1,912 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        8
+      ]
+    ],
+    "date-time": "2026-10-08T03:04:05Z",
+    "timestamp": 1791428645626,
+    "version": "4.3.3"
+  },
+  "reference-count": 57,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            1
+          ]
+        ],
+        "date-time": "2026-03-01T00:00:00Z",
+        "timestamp": 1772323200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            1
+          ]
+        ],
+        "date-time": "2026-03-01T00:00:00Z",
+        "timestamp": 1772323200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            1
+          ]
+        ],
+        "date-time": "2026-03-01T00:00:00Z",
+        "timestamp": 1772323200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-017"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            1
+          ]
+        ],
+        "date-time": "2026-03-01T00:00:00Z",
+        "timestamp": 1772323200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-037"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            1
+          ]
+        ],
+        "date-time": "2026-03-01T00:00:00Z",
+        "timestamp": 1772323200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-012"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            1
+          ]
+        ],
+        "date-time": "2026-03-01T00:00:00Z",
+        "timestamp": 1772323200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-029"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            1
+          ]
+        ],
+        "date-time": "2026-03-01T00:00:00Z",
+        "timestamp": 1772323200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-004"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100002767",
+      "name": "China Hunan Provincial Science and Technology Department",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "2025QK2008"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2025QK2008"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100002767",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "92267102"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "92267102"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Expert Systems with Applications"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2026,
+        3
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.eswa.2025.129923",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        10
+      ]
+    ],
+    "date-time": "2025-10-10T23:29:31Z",
+    "timestamp": 1760138971000
+  },
+  "page": "129923",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 5,
+  "special_numbering": "PA",
+  "title": [
+    "PHGAT: Persistent homology-enhanced graph attention network for IIoT anomaly detection"
+  ],
+  "prefix": "10.1016",
+  "volume": "299",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-6901-8765",
+      "authenticated-orcid": false,
+      "given": "Lulu",
+      "family": "Wang",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0006-8678-8960",
+      "authenticated-orcid": false,
+      "given": "Yuhua",
+      "family": "Sun",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Xuchong",
+      "family": "Liu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5385-7644",
+      "authenticated-orcid": false,
+      "given": "Chengqing",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0001",
+      "series-title": "An introduction to outlier analysis",
+      "first-page": "1",
+      "author": "Aggarwal",
+      "year": "2017"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0002",
+      "series-title": "Proceedings of the 26th ACM SIGKDD international conference on knowledge discovery & data mining",
+      "first-page": "3395",
+      "article-title": "USAD: Unsupervised anomaly detection on multivariate time series",
+      "author": "Audibert",
+      "year": "2020"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0003",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Bhattacharya, D., Mukherjee, S., Kamanchi, C., Ekambaram, V., Jati, A., & Dayama, P. (2024). Towards unbiased evaluation of time-series anomaly detector. 10.48550/arXiv.2409.13053.",
+      "DOI": "10.1109/ICASSP49660.2025.10890568"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0004",
+      "series-title": "Proceedings of the ACM SIGMOD international conference on management of data",
+      "first-page": "93",
+      "article-title": "LOF: Identifying density-based local outliers",
+      "author": "Breunig",
+      "year": "2000"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.eswa.2025.129923_bib0005",
+      "doi-asserted-by": "crossref",
+      "first-page": "5244",
+      "DOI": "10.1038/s41467-025-60252-z",
+      "article-title": "An end-to-end attention-based approach for learning on graphs",
+      "volume": "16",
+      "author": "Buterez",
+      "year": "2025",
+      "journal-title": "Nature Communications"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.eswa.2025.129923_bib0006",
+      "doi-asserted-by": "crossref",
+      "first-page": "119:1",
+      "DOI": "10.1145/3638534",
+      "article-title": "Graph time-series modeling in deep learning: A survey",
+      "volume": "18",
+      "author": "Chen",
+      "year": "2024",
+      "journal-title": "ACM Transactions on Knowledge Discovery From Data"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.eswa.2025.129923_bib0007",
+      "first-page": "1",
+      "article-title": "A survey of the application of graph neural network in anomaly detection",
+      "volume": "60",
+      "author": "Chen",
+      "year": "2024",
+      "journal-title": "Computer Engineering and Applications"
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/j.eswa.2025.129923_bib0008",
+      "doi-asserted-by": "crossref",
+      "first-page": "9179",
+      "DOI": "10.1109/JIOT.2021.3100509",
+      "article-title": "Learning graph structures with transformer for multivariate time-series anomaly detection in IoT",
+      "volume": "9",
+      "author": "Chen",
+      "year": "2021",
+      "journal-title": "IEEE Internet of Things Journal"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0009",
+      "series-title": "Proceedings of the AAAI conference on artificial intelligence",
+      "first-page": "6449",
+      "article-title": "Graph neural controlled differential equations for traffic forecasting",
+      "volume": "vol. 36",
+      "author": "Choi",
+      "year": "2022"
+    },
+    {
+      "issue": "9",
+      "key": "10.1016/j.eswa.2025.129923_bib0010",
+      "doi-asserted-by": "crossref",
+      "first-page": "5728",
+      "DOI": "10.1109/TII.2022.3155656",
+      "article-title": "Deep generative models in the industrial internet of things: A survey",
+      "volume": "18",
+      "author": "De",
+      "year": "2022",
+      "journal-title": "IEEE Transactions on Industrial Informatics"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0011",
+      "series-title": "Proceedings of the AAAI conference on artificial intelligence",
+      "first-page": "4027",
+      "article-title": "Graph neural network-based anomaly detection in multivariate time series",
+      "volume": "vol. 35",
+      "author": "Deng",
+      "year": "2021"
+    },
+    {
+      "issue": "143",
+      "key": "10.1016/j.eswa.2025.129923_bib0012",
+      "first-page": "1",
+      "article-title": "Topological analysis for detecting anomalies in dependent data",
+      "volume": "25",
+      "author": "Dindin",
+      "year": "2024",
+      "journal-title": "Journal of Machine Learning Research"
+    },
+    {
+      "issue": "10",
+      "key": "10.1016/j.eswa.2025.129923_bib0013",
+      "doi-asserted-by": "crossref",
+      "first-page": "10583",
+      "DOI": "10.1109/TKDE.2023.3265598",
+      "article-title": "Fairness in graph mining: A survey",
+      "volume": "35",
+      "author": "Dong",
+      "year": "2023",
+      "journal-title": "IEEE Transactions on Knowledge and Data Engineering"
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.eswa.2025.129923_bib0014",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1145/3669906",
+      "article-title": "Anomaly detection in dynamic graphs: A comprehensive survey",
+      "volume": "18",
+      "author": "Ekle",
+      "year": "2024",
+      "journal-title": "ACM Transactions on Knowledge Discovery From Data"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0015",
+      "doi-asserted-by": "crossref",
+      "first-page": "64",
+      "DOI": "10.1016/j.inffus.2020.10.001",
+      "article-title": "Smart anomaly detection in sensor systems: A multi-perspective review",
+      "volume": "67",
+      "author": "Erhan",
+      "year": "2021",
+      "journal-title": "Information Fusion"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0016",
+      "series-title": "ICLR workshop on representation learning on graphs and manifolds",
+      "article-title": "Fast graph representation learning with PyTorch geometric",
+      "author": "Fey",
+      "year": "2019"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0017",
+      "series-title": "International conference on machine learning",
+      "first-page": "3440",
+      "article-title": "A differentiable topology layer for learning on point clouds",
+      "volume": "vol. 119",
+      "author": "Gabrielsson",
+      "year": "2020"
+    },
+    {
+      "issue": "11",
+      "key": "10.1016/j.eswa.2025.129923_bib0018",
+      "first-page": "1554",
+      "article-title": "A high-performance and scalable hardware architecture for isogeny-based cryptography",
+      "volume": "67",
+      "author": "Ge",
+      "year": "2018",
+      "journal-title": "IEEE Transactions on Computers"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0019",
+      "unstructured": "Guss, W. H., & Salakhutdinov, R. (2018). On characterizing the capacity of neural networks using algebraic topology. 10.48550/arXiv.1802.04443."
+    },
+    {
+      "issue": "11",
+      "key": "10.1016/j.eswa.2025.129923_bib0020",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1142/S0218127424501384",
+      "article-title": "Cryptanalyzing an image encryption scheme using synchronization of memristor chaotic systems",
+      "volume": "34",
+      "author": "He",
+      "year": "2024",
+      "journal-title": "International Journal of Bifurcation and Chaos"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.eswa.2025.129923_bib0021",
+      "doi-asserted-by": "crossref",
+      "first-page": "4166",
+      "DOI": "10.1109/TIE.2024.3454488",
+      "article-title": "TSAN: A new deep learning-based detection method for sensor anomaly in mobile robots",
+      "volume": "72",
+      "author": "He",
+      "year": "2025",
+      "journal-title": "IEEE Transactions on Industrial Electronics"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0022",
+      "series-title": "Proceedings of the 31st International Conference on Neural Information Processing Systems",
+      "first-page": "1633",
+      "article-title": "Deep learning with topological signatures",
+      "author": "Hofer",
+      "year": "2017"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0023",
+      "series-title": "International conference on learning representations",
+      "article-title": "Topological graph neural networks",
+      "author": "Horn",
+      "year": "2022"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0024",
+      "series-title": "International conference on learning representations",
+      "article-title": "Topological graph neural networks",
+      "author": "Horn",
+      "year": "2022"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0025",
+      "series-title": "Proceedings of the 24th ACM SIGKDD international conference on knowledge discovery & data mining",
+      "first-page": "387",
+      "article-title": "Detecting spacecraft anomalies using LSTMs and nonparametric dynamic thresholding",
+      "author": "Hundman",
+      "year": "2018"
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.eswa.2025.129923_bib0026",
+      "first-page": "3502",
+      "article-title": "A survey on graph neural networks for time series: Forecasting, classification, imputation, and anomaly detection",
+      "volume": "46",
+      "author": "Jin",
+      "year": "2024",
+      "journal-title": "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0027",
+      "doi-asserted-by": "crossref",
+      "first-page": "93",
+      "DOI": "10.1016/j.inffus.2022.10.008",
+      "article-title": "Deep learning for anomaly detection in multivariate time series: Approaches, applications, and challenges",
+      "volume": "91",
+      "author": "Li",
+      "year": "2023",
+      "journal-title": "Information Fusion"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0028",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.aei.2024.102547",
+      "article-title": "DPDGAD: A dual-process dynamic graph-based anomaly detection for multivariate time series analysis in cyber-physical systems",
+      "volume": "61",
+      "author": "Liao",
+      "year": "2024",
+      "journal-title": "Advanced Engineering Informatics"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0029",
+      "series-title": "The eighth IEEE international conference on data mining",
+      "first-page": "413",
+      "article-title": "Isolation forest",
+      "author": "Liu",
+      "year": "2008"
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/j.eswa.2025.129923_bib0030",
+      "doi-asserted-by": "crossref",
+      "first-page": "12081",
+      "DOI": "10.1109/TKDE.2021.3124061",
+      "article-title": "Anomaly detection in dynamic graphs via transformer",
+      "volume": "35",
+      "author": "Liu",
+      "year": "2023",
+      "journal-title": "IEEE Transactions on Knowledge and Data Engineering"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0031",
+      "series-title": "Proceedings of the 33rd ACM international conference on information and knowledge management",
+      "first-page": "920",
+      "article-title": "Multivariate time-series anomaly detection based on enhancing graph attention networks with topological analysis",
+      "author": "Liu",
+      "year": "2024"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0032",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Loiseaux, D., Carri\u00e8re, M., & Blumberg, A. (2023). A framework for fast and stable representations of multiparameter persistent homology decompositions. Advances in Neural Information Processing Systems, 36, 35774\u201335798. 10.48550/arXiv.2308.08494.",
+      "DOI": "10.52202/075280-1553"
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/j.eswa.2025.129923_bib0033",
+      "doi-asserted-by": "crossref",
+      "first-page": "12012",
+      "DOI": "10.1109/TKDE.2021.3118815",
+      "article-title": "A comprehensive survey on graph anomaly detection with deep learning",
+      "volume": "35",
+      "author": "Ma",
+      "year": "2021",
+      "journal-title": "IEEE Transactions on Knowledge and Data Engineering"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.eswa.2025.129923_bib0034",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1145/3439950",
+      "article-title": "Deep learning for anomaly detection: A review",
+      "volume": "54",
+      "author": "Pang",
+      "year": "2021",
+      "journal-title": "ACM Computing Surveys"
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/j.eswa.2025.129923_bib0035",
+      "doi-asserted-by": "crossref",
+      "first-page": "5169",
+      "DOI": "10.1007/s10462-022-10146-z",
+      "article-title": "Persistent-homology-based machine learning: A survey and a comparative study",
+      "volume": "55",
+      "author": "Pun",
+      "year": "2022",
+      "journal-title": "Artificial Intelligence Review"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0036",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Rivera-Castro, R., Moustafa, S., Pilyugina, P., & Burnaev, E. (2020). Topologically-based variational autoencoder for time series classification. arXiv preprint arXiv: 2011.09585.",
+      "DOI": "10.52591/lxai202007139"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0037",
+      "series-title": "Proceedings of the 17th ACM international conference on web search and data mining",
+      "first-page": "576",
+      "article-title": "GAD-NR: Graph anomaly detection via neighborhood reconstruction",
+      "author": "Roy",
+      "year": "2024"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.eswa.2025.129923_bib0038",
+      "doi-asserted-by": "crossref",
+      "first-page": "61",
+      "DOI": "10.1109/TNN.2008.2005605",
+      "article-title": "The graph neural network model",
+      "volume": "20",
+      "author": "Scarselli",
+      "year": "2009",
+      "journal-title": "IEEE Transactions on Neural Networks"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0039",
+      "series-title": "Proceedings of the 12th international conference on neural information processing systems (NIPS\u201999)",
+      "first-page": "582",
+      "article-title": "Support vector method for novelty detection",
+      "author": "Sch\u00f6lkopf",
+      "year": "1999"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.eswa.2025.129923_bib0040",
+      "doi-asserted-by": "crossref",
+      "first-page": "2985",
+      "DOI": "10.1109/TII.2020.3023507",
+      "article-title": "Challenges and opportunities in securing the industrial internet of things",
+      "volume": "17",
+      "author": "Serror",
+      "year": "2020",
+      "journal-title": "IEEE Transactions on Industrial Informatics"
+    },
+    {
+      "issue": "11",
+      "key": "10.1016/j.eswa.2025.129923_bib0041",
+      "doi-asserted-by": "crossref",
+      "first-page": "4724",
+      "DOI": "10.1109/TII.2018.2852491",
+      "article-title": "Industrial internet of things: Challenges, opportunities, and directions",
+      "volume": "14",
+      "author": "Sisinni",
+      "year": "2018",
+      "journal-title": "IEEE Transactions on Industrial Informatics"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0042",
+      "unstructured": "Solomon, Y., Poulenard, A., DeWitt, J., & Guibas, L. (2021). Regularized differentiable persistent homology. 10.48550/arXiv.2011.05804."
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0043",
+      "series-title": "Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery & data mining",
+      "first-page": "2828",
+      "article-title": "Robust anomaly detection for multivariate time series through stochastic recurrent neural network",
+      "author": "Su",
+      "year": "2019"
+    },
+    {
+      "issue": "11",
+      "key": "10.1016/j.eswa.2025.129923_bib0044",
+      "first-page": "1925",
+      "article-title": "Reliable hardware architectures for cryptographic block ciphers led and hight",
+      "volume": "36",
+      "author": "Subramanian",
+      "year": "2017",
+      "journal-title": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0045",
+      "series-title": "Proceedings of the VLDB endowment",
+      "first-page": "1201",
+      "article-title": "TranAD: Deep transformer networks for anomaly detection in multivariate time series data",
+      "volume": "vol. 15",
+      "author": "Tuli",
+      "year": "2022"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0046",
+      "series-title": "Proceedings of the eighteenth ACM international conference on web search and data mining",
+      "first-page": "pp.577",
+      "article-title": "Adjacent neighborhood transformer-based diffusion model for anomaly detection under incomplete industrial data sources",
+      "author": "Wang",
+      "year": "2025"
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.eswa.2025.129923_bib0047",
+      "doi-asserted-by": "crossref",
+      "first-page": "3681",
+      "DOI": "10.1109/TKDE.2020.3025580",
+      "article-title": "Deep learning for spatio-temporal data mining: A survey",
+      "volume": "34",
+      "author": "Wang",
+      "year": "2022",
+      "journal-title": "IEEE Transactions on Knowledge and Data Engineering"
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/j.eswa.2025.129923_bib0048",
+      "doi-asserted-by": "crossref",
+      "first-page": "9214",
+      "DOI": "10.1109/JIOT.2021.3094295",
+      "article-title": "Graph neural networks for anomaly detection in industrial internet of things",
+      "volume": "9",
+      "author": "Wu",
+      "year": "2021",
+      "journal-title": "IEEE Internet of Things Journal"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0049",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ying, C., Wu, X., & Wang, Y. (2024). Boosting graph pooling with persistent homology. 10.48550/arXiv.2402.16346.",
+      "DOI": "10.52202/079017-0603"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0050",
+      "series-title": "Advances in neural information processing systems",
+      "article-title": "Towards better dynamic graph learning: New architecture and unified library",
+      "volume": "vol. 36",
+      "author": "Yu",
+      "year": "2023"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0051",
+      "series-title": "Proceedings of the 17th ACM international conference on web search and data mining",
+      "first-page": "920",
+      "article-title": "PhoGAD: Graph-based anomaly behavior detection with persistent homology optimization",
+      "author": "Yuan",
+      "year": "2024"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0052",
+      "first-page": "24871",
+      "article-title": "Topological attention for time series forecasting",
+      "volume": "34",
+      "author": "Zeng",
+      "year": "2021",
+      "journal-title": "Advances in Neural Information Processing Systems"
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/j.eswa.2025.129923_bib0053",
+      "doi-asserted-by": "crossref",
+      "first-page": "9136",
+      "DOI": "10.1109/TKDE.2024.3466291",
+      "article-title": "Rethinking robust multivariate time series anomaly detection: A hierarchical spatio-temporal variational perspective",
+      "volume": "36",
+      "author": "Zhang",
+      "year": "2024",
+      "journal-title": "IEEE Transactions on Knowledge and Data Engineering"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.eswa.2025.129923_bib0054",
+      "first-page": "1234",
+      "article-title": "Time series anomaly detection in vehicle sensors using self-attention mechanisms",
+      "volume": "25",
+      "author": "Zhang",
+      "year": "2024",
+      "journal-title": "IEEE Transactions on Intelligent Transportation Systems"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0055",
+      "series-title": "IEEE International conference on data mining (icdm)",
+      "first-page": "841",
+      "article-title": "Multivariate time-series anomaly detection via graph attention network",
+      "author": "Zhao",
+      "year": "2020"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0056",
+      "series-title": "Proceedings of the 23rd international conference on artificial intelligence and statistics",
+      "first-page": "3300",
+      "article-title": "Persistence enhanced graph network",
+      "volume": "vol. 108",
+      "author": "Zhao",
+      "year": "2020"
+    },
+    {
+      "key": "10.1016/j.eswa.2025.129923_bib0057",
+      "series-title": "International conference on learning representations (ICLR)",
+      "first-page": "1",
+      "article-title": "Deep autoencoding gaussian mixture model for unsupervised anomaly detection",
+      "author": "Zong",
+      "year": "2018"
+    }
+  ],
+  "container-title": [
+    "Expert Systems with Applications"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0957417425035389?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0957417425035389?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        3
+      ]
+    ],
+    "date-time": "2026-03-03T00:27:44Z",
+    "timestamp": 1772497664000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0957417425035389"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3
+      ]
+    ]
+  },
+  "references-count": 57,
+  "alternative-id": [
+    "S0957417425035389"
+  ],
+  "URL": "https://doi.org/10.1016/j.eswa.2025.129923",
+  "relation": {},
+  "ISSN": [
+    "0957-4174"
+  ],
+  "issn-type": [
+    {
+      "value": "0957-4174",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2026,
+        3
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "PHGAT: Persistent homology-enhanced graph attention network for IIoT anomaly detection",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Expert Systems with Applications",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.eswa.2025.129923",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "\u00a9 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "129923"
+}

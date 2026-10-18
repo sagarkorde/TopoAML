@@ -1,0 +1,1225 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        27
+      ]
+    ],
+    "date-time": "2026-03-27T15:46:58Z",
+    "timestamp": 1774626418049,
+    "version": "3.50.1"
+  },
+  "reference-count": 80,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            9,
+            1
+          ]
+        ],
+        "date-time": "2024-09-01T00:00:00Z",
+        "timestamp": 1725148800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            9,
+            1
+          ]
+        ],
+        "date-time": "2024-09-01T00:00:00Z",
+        "timestamp": 1725148800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            21
+          ]
+        ],
+        "date-time": "2024-08-21T00:00:00Z",
+        "timestamp": 1724198400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Decision Analytics Journal"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        9
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.dajour.2024.100512",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        27
+      ]
+    ],
+    "date-time": "2024-08-27T00:06:54Z",
+    "timestamp": 1724717214000
+  },
+  "page": "100512",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 3,
+  "special_numbering": "C",
+  "title": [
+    "A generalization of the Topological Tail Dependence theory: From indices to individual stocks"
+  ],
+  "prefix": "10.1016",
+  "volume": "12",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-7039-0572",
+      "authenticated-orcid": false,
+      "given": "Hugo Gobato",
+      "family": "Souto",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-1169-7192",
+      "authenticated-orcid": false,
+      "given": "Amir",
+      "family": "Moradi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.dajour.2024.100512_b1",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.dajour.2022.100152",
+      "article-title": "A K-means clustering model for analyzing the bitcoin extreme value returns",
+      "volume": "6",
+      "author": "Das",
+      "year": "2023",
+      "journal-title": "Decis. Anal. J.",
+      "ISSN": "https://id.crossref.org/issn/2772-6622",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b2",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.dajour.2023.100163",
+      "article-title": "A supervised machine learning algorithm for detecting and predicting fraud in credit card transactions",
+      "volume": "6",
+      "author": "Afriyie",
+      "year": "2023",
+      "journal-title": "Decis. Anal. J.",
+      "ISSN": "https://id.crossref.org/issn/2772-6622",
+      "issn-type": "print"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.dajour.2024.100512_b3",
+      "doi-asserted-by": "crossref",
+      "first-page": "49",
+      "DOI": "10.1016/j.finmar.2005.12.001",
+      "article-title": "Market structure, fragmentation, and market quality",
+      "volume": "9",
+      "author": "Bennett",
+      "year": "2006",
+      "journal-title": "J. Financial Mark.",
+      "ISSN": "https://id.crossref.org/issn/1386-4181",
+      "issn-type": "print"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.dajour.2024.100512_b4",
+      "doi-asserted-by": "crossref",
+      "first-page": "617",
+      "DOI": "10.1111/0022-1082.00339",
+      "article-title": "Banking market structure, financial dependence and growth: International evidence from industry data",
+      "volume": "56",
+      "author": "Cetorelli",
+      "year": "2001",
+      "journal-title": "J. Finance",
+      "ISSN": "https://id.crossref.org/issn/1540-6261",
+      "issn-type": "print"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.dajour.2024.100512_b5",
+      "doi-asserted-by": "crossref",
+      "first-page": "129",
+      "DOI": "10.1080/1226508X.2010.483834",
+      "article-title": "Volatility spillovers between the US and China stock markets: Structural break test with symmetric and asymmetric GARCH approaches",
+      "volume": "39",
+      "author": "Moon",
+      "year": "2010",
+      "journal-title": "Glob. Econ. Rev.",
+      "ISSN": "https://id.crossref.org/issn/1744-3873",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b6",
+      "doi-asserted-by": "crossref",
+      "first-page": "12",
+      "DOI": "10.1016/j.gfj.2015.04.008",
+      "article-title": "Volatility spillovers between oil prices and the stock market under structural breaks",
+      "volume": "29",
+      "author": "Ewing",
+      "year": "2016",
+      "journal-title": "Glob. Finance J.",
+      "ISSN": "https://id.crossref.org/issn/1044-0283",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b7",
+      "doi-asserted-by": "crossref",
+      "first-page": "331",
+      "DOI": "10.1016/j.jbankfin.2013.12.023",
+      "article-title": "Structural breaks in volatility spillovers between international financial markets: Contagion or mere interdependence?",
+      "volume": "47",
+      "author": "Jung",
+      "year": "2014",
+      "journal-title": "J. Bank. Financ.",
+      "ISSN": "https://id.crossref.org/issn/0378-4266",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b8",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1002/for.3106",
+      "article-title": "Forecasting the realized volatility of agricultural commodity prices: Does sentiment matter?",
+      "author": "Bonato",
+      "year": "2024",
+      "journal-title": "J. Forecast.",
+      "ISSN": "https://id.crossref.org/issn/1099-131X",
+      "issn-type": "print"
+    },
+    {
+      "issue": "01",
+      "key": "10.1016/j.dajour.2024.100512_b9",
+      "doi-asserted-by": "crossref",
+      "first-page": "112",
+      "DOI": "10.4236/jmf.2023.131007",
+      "article-title": "Time series forecasting models for S&P 500 financial turbulence",
+      "volume": "13",
+      "author": "Souto",
+      "year": "2023",
+      "journal-title": "J. Math. Finance",
+      "ISSN": "https://id.crossref.org/issn/2162-2442",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b10",
+      "article-title": "Scenario generation for financial data with a machine learning approach based on realized volatility and copulas",
+      "author": "Mesquita",
+      "year": "2023",
+      "journal-title": "Comput. Econ."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.dajour.2024.100512_b11",
+      "doi-asserted-by": "crossref",
+      "first-page": "120",
+      "DOI": "10.1016/j.jfds.2018.02.002",
+      "article-title": "Financial news predicts stock market volatility better than close price",
+      "volume": "4",
+      "author": "Atkins",
+      "year": "2018",
+      "journal-title": "J. Finance Data Sci.",
+      "ISSN": "https://id.crossref.org/issn/2405-9188",
+      "issn-type": "print"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.dajour.2024.100512_b12",
+      "doi-asserted-by": "crossref",
+      "first-page": "303",
+      "DOI": "10.1002/for.2813",
+      "article-title": "Forecasting realized volatility of international REITs: The role of realized skewness and realized kurtosis",
+      "volume": "41",
+      "author": "Bonato",
+      "year": "2021",
+      "journal-title": "J. Forecast.",
+      "ISSN": "https://id.crossref.org/issn/1099-131X",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b13",
+      "doi-asserted-by": "crossref",
+      "first-page": "204",
+      "DOI": "10.1016/j.frl.2018.02.001",
+      "article-title": "Oil market volatility and stock market volatility",
+      "volume": "26",
+      "author": "Ba\u0161ta",
+      "year": "2018",
+      "journal-title": "Finance Res. Lett.",
+      "ISSN": "https://id.crossref.org/issn/1544-6123",
+      "issn-type": "print"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.dajour.2024.100512_b14",
+      "doi-asserted-by": "crossref",
+      "first-page": "76",
+      "DOI": "10.1002/for.2897",
+      "article-title": "Trading volume and realized volatility forecasting: Evidence from the China stock market",
+      "volume": "42",
+      "author": "Liu",
+      "year": "2022",
+      "journal-title": "J. Forecast.",
+      "ISSN": "https://id.crossref.org/issn/1099-131X",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b15",
+      "article-title": "On forecasting realized volatility for bitcoin based on deep learning PSO\u2013GRU model",
+      "author": "Tang",
+      "year": "2023",
+      "journal-title": "Comput. Econ."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.dajour.2024.100512_b16",
+      "doi-asserted-by": "crossref",
+      "first-page": "492",
+      "DOI": "10.1093/jjfinec/nbad005",
+      "article-title": "Volatility forecasting with machine learning and intraday commonality",
+      "volume": "22",
+      "author": "Zhang",
+      "year": "2024",
+      "journal-title": "J. Financ. Econom.",
+      "ISSN": "https://id.crossref.org/issn/1479-8417",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b17",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.eswa.2024.124851",
+      "article-title": "Charting new avenues in financial forecasting with TimesNet: The impact of intraperiod and interperiod variations on realized volatility prediction",
+      "volume": "255",
+      "author": "Souto",
+      "year": "2024",
+      "journal-title": "Expert Syst. Appl.",
+      "ISSN": "https://id.crossref.org/issn/0957-4174",
+      "issn-type": "print"
+    },
+    {
+      "issue": "1\u20132",
+      "key": "10.1016/j.dajour.2024.100512_b18",
+      "first-page": "1101",
+      "article-title": "Volatility in the stock market: ANN versus parametric models",
+      "volume": "299",
+      "author": "D\u2019Ecclesia",
+      "year": "2019",
+      "journal-title": "Ann. Oper. Res.",
+      "ISSN": "https://id.crossref.org/issn/1572-9338",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b19",
+      "series-title": "Advances in Economics, Business and Management Research",
+      "article-title": "The comparison of LSTM, LGBM, and CNN in stock volatility prediction",
+      "author": "Li",
+      "year": "2022",
+      "ISSN": "https://id.crossref.org/issn/2352-5428",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b20",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.eswa.2020.113481",
+      "article-title": "Gold volatility prediction using a CNN-LSTM approach",
+      "volume": "157",
+      "author": "Vidal",
+      "year": "2020",
+      "journal-title": "Expert Syst. Appl.",
+      "ISSN": "https://id.crossref.org/issn/0957-4174",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b21",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Y. Zhang, Stock Volatility Prediction with Hybrid Model of FFNN and Lightgbm, in: 2022 7th International Conference on Intelligent Computing and Signal Processing, ICSP, 2022, pp. 750\u2013754.",
+      "DOI": "10.1109/ICSP54964.2022.9778512"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.dajour.2024.100512_b22",
+      "doi-asserted-by": "crossref",
+      "first-page": "502",
+      "DOI": "10.1093/jjfinec/nbaa008",
+      "article-title": "Realized volatility forecasting with neural networks",
+      "volume": "18",
+      "author": "Bucci",
+      "year": "2020",
+      "journal-title": "J. Financ. Econom.",
+      "ISSN": "https://id.crossref.org/issn/1479-8417",
+      "issn-type": "print"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.dajour.2024.100512_b23",
+      "doi-asserted-by": "crossref",
+      "first-page": "320",
+      "DOI": "10.3390/math9040320",
+      "article-title": "Volatility forecasting for high-frequency financial data based on web search index and deep learning model",
+      "volume": "9",
+      "author": "Lei",
+      "year": "2021",
+      "journal-title": "Mathematics",
+      "ISSN": "https://id.crossref.org/issn/2227-7390",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b24",
+      "series-title": "Springer Proceedings in Complexity",
+      "isbn-type": "print",
+      "doi-asserted-by": "crossref",
+      "first-page": "47",
+      "DOI": "10.1007/978-3-319-55471-6_5",
+      "article-title": "Topological data analysis of critical transitions in financial networks",
+      "author": "Gidea",
+      "year": "2017",
+      "ISBN": "https://id.crossref.org/isbn/9783319554716",
+      "ISSN": "https://id.crossref.org/issn/2213-8692",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b25",
+      "doi-asserted-by": "crossref",
+      "first-page": "820",
+      "DOI": "10.1016/j.physa.2017.09.028",
+      "article-title": "Topological data analysis of financial time series: Landscapes of crashes",
+      "volume": "491",
+      "author": "Gidea",
+      "year": "2018",
+      "journal-title": "Phys. A",
+      "ISSN": "https://id.crossref.org/issn/0378-4371",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b26",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.physa.2021.126459",
+      "article-title": "Early warning signals of financial crises using persistent homology",
+      "volume": "586",
+      "author": "Ismail",
+      "year": "2022",
+      "journal-title": "Phys. A",
+      "ISSN": "https://id.crossref.org/issn/0378-4371",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b27",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.eswa.2020.113475",
+      "article-title": "Refining understanding of corporate failure through a topological data analysis mapping of altman\u2019s Z-score model",
+      "volume": "156",
+      "author": "Qiu",
+      "year": "2020",
+      "journal-title": "Expert Syst. Appl.",
+      "ISSN": "https://id.crossref.org/issn/0957-4174",
+      "issn-type": "print"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.dajour.2024.100512_b28",
+      "doi-asserted-by": "crossref",
+      "first-page": "277",
+      "DOI": "10.1007/s11408-020-00377-x",
+      "article-title": "The better turbulence index? Forecasting adverse financial markets regimes with persistent homology",
+      "volume": "35",
+      "author": "Baitinger",
+      "year": "2021",
+      "journal-title": "Financial Mark. Portfolio Manag.",
+      "ISSN": "https://id.crossref.org/issn/2373-8529",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b29",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.eswa.2020.113222",
+      "article-title": "Topological data analysis in investment decisions",
+      "volume": "147",
+      "author": "Goel",
+      "year": "2020",
+      "journal-title": "Expert Syst. Appl.",
+      "ISSN": "https://id.crossref.org/issn/0957-4174",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b30",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.jfds.2023.100107",
+      "article-title": "Topological tail dependence: Evidence from forecasting realized volatility",
+      "volume": "9",
+      "author": "Souto",
+      "year": "2023",
+      "journal-title": "J. Finance Data Sci.",
+      "ISSN": "https://id.crossref.org/issn/2405-9188",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b31",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.jfds.2024.100135",
+      "article-title": "Corrigendum to \u201ctopological tail dependence: Evidence from forecasting realized volatility\u201d [the journal of finance and data science 9 (2023) 100107]",
+      "author": "Souto",
+      "year": "2024",
+      "journal-title": "J. Finance Data Sci.",
+      "ISSN": "https://id.crossref.org/issn/2405-9188",
+      "issn-type": "print"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.dajour.2024.100512_b32",
+      "doi-asserted-by": "crossref",
+      "first-page": "89",
+      "DOI": "10.1002/isaf.216",
+      "article-title": "Tail-dependence in stock-return pairs",
+      "volume": "11",
+      "author": "Fortin",
+      "year": "2002",
+      "journal-title": "Intell. Syst. Account. Finance Manage.",
+      "ISSN": "https://id.crossref.org/issn/1099-1174",
+      "issn-type": "print"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.dajour.2024.100512_b33",
+      "doi-asserted-by": "crossref",
+      "first-page": "53",
+      "DOI": "10.1111/1468-0300.00047",
+      "article-title": "Does correlation between stock returns really increase during turbulent periods?",
+      "volume": "30",
+      "author": "Chesnay",
+      "year": "2001",
+      "journal-title": "Econ. Notes",
+      "ISSN": "https://id.crossref.org/issn/1468-0300",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b34",
+      "doi-asserted-by": "crossref",
+      "first-page": "182",
+      "DOI": "10.1016/j.jempfin.2017.11.008",
+      "article-title": "The \u201ccubic law of the stock returns\u201d in emerging markets",
+      "volume": "46",
+      "author": "Gu",
+      "year": "2018",
+      "journal-title": "J. Empir. Financ.",
+      "ISSN": "https://id.crossref.org/issn/0927-5398",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b35",
+      "series-title": "Scrutinizing Science",
+      "isbn-type": "print",
+      "doi-asserted-by": "crossref",
+      "first-page": "3",
+      "DOI": "10.1007/978-94-009-2855-8_1",
+      "article-title": "Testing theories of scientific change",
+      "author": "Laudan",
+      "year": "1988",
+      "ISBN": "https://id.crossref.org/isbn/9789400928558"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.dajour.2024.100512_b36",
+      "doi-asserted-by": "crossref",
+      "first-page": "653",
+      "DOI": "10.1017/S0022381612000199",
+      "article-title": "Improving tests of theories positing interaction",
+      "volume": "74",
+      "author": "Berry",
+      "year": "2012",
+      "journal-title": "J. Polit.",
+      "ISSN": "https://id.crossref.org/issn/1468-2508",
+      "issn-type": "print"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.dajour.2024.100512_b37",
+      "doi-asserted-by": "crossref",
+      "first-page": "223",
+      "DOI": "10.1080/13645579.2014.979718",
+      "article-title": "Single case studies and theory-testing: the knots and dots of the process-tracing method",
+      "volume": "19",
+      "author": "Ulriksen",
+      "year": "2014",
+      "journal-title": "Int. J. Soc. Res. Methodol.",
+      "ISSN": "https://id.crossref.org/issn/1464-5300",
+      "issn-type": "print"
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.dajour.2024.100512_b38",
+      "doi-asserted-by": "crossref",
+      "first-page": "815",
+      "DOI": "10.1016/j.tourman.2004.05.004",
+      "article-title": "Building and testing theories of decision making by travellers",
+      "volume": "26",
+      "author": "Sirakaya",
+      "year": "2005",
+      "journal-title": "Tour. Manag.",
+      "ISSN": "https://id.crossref.org/issn/0261-5177",
+      "issn-type": "print"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.dajour.2024.100512_b39",
+      "doi-asserted-by": "crossref",
+      "first-page": "309",
+      "DOI": "10.1016/j.jneb.2009.03.129",
+      "article-title": "Testing theories of dietary behavior change in youth using the mediating variable model with intervention programs",
+      "volume": "41",
+      "author": "Cerin",
+      "year": "2009",
+      "journal-title": "J. Nutr. Educ. Behav.",
+      "ISSN": "https://id.crossref.org/issn/1499-4046",
+      "issn-type": "print"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.dajour.2024.100512_b40",
+      "doi-asserted-by": "crossref",
+      "first-page": "R13",
+      "DOI": "10.1016/j.cub.2021.11.027",
+      "article-title": "Building better theories",
+      "volume": "32",
+      "author": "Press",
+      "year": "2022",
+      "journal-title": "Curr. Biol.",
+      "ISSN": "https://id.crossref.org/issn/0960-9822",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b41",
+      "series-title": "ComputationalTopology: an Introduction",
+      "author": "Edelsbrunner",
+      "year": "2022"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b42",
+      "series-title": "Topological data analysis for machine learning lecture, 2",
+      "author": "Rieck",
+      "year": "2020"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.dajour.2024.100512_b43",
+      "doi-asserted-by": "crossref",
+      "first-page": "184",
+      "DOI": "10.1016/j.jbankfin.2009.07.014",
+      "article-title": "The dark side of global integration: Increasing tail dependence",
+      "volume": "34",
+      "author": "Beine",
+      "year": "2010",
+      "journal-title": "J. Bank. Financ.",
+      "ISSN": "https://id.crossref.org/issn/0378-4266",
+      "issn-type": "print"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.dajour.2024.100512_b44",
+      "doi-asserted-by": "crossref",
+      "first-page": "169",
+      "DOI": "10.1016/j.jeconom.2015.02.004",
+      "article-title": "VAR for VaR: Measuring tail dependence using multivariate regression quantiles",
+      "volume": "187",
+      "author": "White",
+      "year": "2015",
+      "journal-title": "J. Econometrics",
+      "ISSN": "https://id.crossref.org/issn/0304-4076",
+      "issn-type": "print"
+    },
+    {
+      "issue": "1\u20134",
+      "key": "10.1016/j.dajour.2024.100512_b45",
+      "doi-asserted-by": "crossref",
+      "first-page": "20",
+      "DOI": "10.1016/j.jfds.2017.06.001",
+      "article-title": "Does volatility spillover among stock markets varies from normal to turbulent periods? Evidence from emerging markets of Asia",
+      "volume": "3",
+      "author": "Jebran",
+      "year": "2017",
+      "journal-title": "J. Finance Data Sci.",
+      "ISSN": "https://id.crossref.org/issn/2405-9188",
+      "issn-type": "print"
+    },
+    {
+      "issue": "15\u201316",
+      "key": "10.1016/j.dajour.2024.100512_b46",
+      "doi-asserted-by": "crossref",
+      "first-page": "6026",
+      "DOI": "10.1016/j.eswa.2015.04.010",
+      "article-title": "Persistent homology for time series and spatial data clustering",
+      "volume": "42",
+      "author": "Pereira",
+      "year": "2015",
+      "journal-title": "Expert Syst. Appl.",
+      "ISSN": "https://id.crossref.org/issn/0957-4174",
+      "issn-type": "print"
+    },
+    {
+      "issue": "158",
+      "key": "10.1016/j.dajour.2024.100512_b47",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1098/rsif.2019.0531",
+      "article-title": "Persistent homology analysis of brain transcriptome data in autism",
+      "volume": "16",
+      "author": "Shnier",
+      "year": "2019",
+      "journal-title": "J. R. Soc. Interface",
+      "ISSN": "https://id.crossref.org/issn/1742-5662",
+      "issn-type": "print"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.dajour.2024.100512_b48",
+      "doi-asserted-by": "crossref",
+      "first-page": "293",
+      "DOI": "10.1016/j.jeconom.2015.02.008",
+      "article-title": "Does anything beat 5-minute RV? A comparison of realized measures across multiple asset classes",
+      "volume": "187",
+      "author": "Liu",
+      "year": "2015",
+      "journal-title": "J. Econometrics",
+      "ISSN": "https://id.crossref.org/issn/0304-4076",
+      "issn-type": "print"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.dajour.2024.100512_b49",
+      "doi-asserted-by": "crossref",
+      "first-page": "174",
+      "DOI": "10.1093/jjfinec/nbp001",
+      "article-title": "A simple approximate long-memory model of realized volatility",
+      "volume": "7",
+      "author": "Corsi",
+      "year": "2009",
+      "journal-title": "J. Financ. Econom.",
+      "ISSN": "https://id.crossref.org/issn/1479-8417",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b50",
+      "doi-asserted-by": "crossref",
+      "first-page": "98",
+      "DOI": "10.1016/j.iref.2015.02.021",
+      "article-title": "Realized range volatility forecasting: Dynamic features and predictive variables",
+      "volume": "40",
+      "author": "Caporin",
+      "year": "2015",
+      "journal-title": "Int. Rev. Econ. Finance",
+      "ISSN": "https://id.crossref.org/issn/1059-0560",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b51",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.jbankfin.2023.106929",
+      "article-title": "The effect of uncertainty on stock market volatility and correlation",
+      "volume": "154",
+      "author": "Asgharian",
+      "year": "2023",
+      "journal-title": "J. Bank. Financ.",
+      "ISSN": "https://id.crossref.org/issn/0378-4266",
+      "issn-type": "print"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.dajour.2024.100512_b52",
+      "doi-asserted-by": "crossref",
+      "first-page": "289",
+      "DOI": "10.1146/annurev-statistics-040120-010930",
+      "article-title": "Granger causality: A review and recent advances",
+      "volume": "9",
+      "author": "Shojaie",
+      "year": "2022",
+      "journal-title": "Annu. Rev. Stat. Appl.",
+      "ISSN": "https://id.crossref.org/issn/2326-831X",
+      "issn-type": "print"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.dajour.2024.100512_b53",
+      "doi-asserted-by": "crossref",
+      "first-page": "311",
+      "DOI": "10.1016/j.jeconom.2005.02.002",
+      "article-title": "Granger causality and the sampling of economic processes",
+      "volume": "132",
+      "author": "McCrorie",
+      "year": "2006",
+      "journal-title": "J. Econometrics",
+      "ISSN": "https://id.crossref.org/issn/0304-4076",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b54",
+      "doi-asserted-by": "crossref",
+      "first-page": "316",
+      "DOI": "10.1016/j.jeconom.2013.08.030",
+      "article-title": "Granger causality, exogeneity, cointegration, and economic policy analysis",
+      "volume": "178",
+      "author": "White",
+      "year": "2014",
+      "journal-title": "J. Econometrics",
+      "ISSN": "https://id.crossref.org/issn/0304-4076",
+      "issn-type": "print"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.dajour.2024.100512_b55",
+      "doi-asserted-by": "crossref",
+      "first-page": "972",
+      "DOI": "10.1177/1536867X1801700412",
+      "article-title": "Testing for granger causality in panel data",
+      "volume": "17",
+      "author": "Lopez",
+      "year": "2017",
+      "journal-title": "Stata J.: Promot. Commun. Stat. Stata",
+      "ISSN": "https://id.crossref.org/issn/1536-8734",
+      "issn-type": "print"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.dajour.2024.100512_b56",
+      "doi-asserted-by": "crossref",
+      "first-page": "3",
+      "DOI": "10.1007/s10985-009-9143-3",
+      "article-title": "On granger causality and the effect of interventions in time series",
+      "volume": "16",
+      "author": "Eichler",
+      "year": "2009",
+      "journal-title": "Lifetime Data Anal.",
+      "ISSN": "https://id.crossref.org/issn/1572-9249",
+      "issn-type": "print"
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.dajour.2024.100512_b57",
+      "doi-asserted-by": "crossref",
+      "first-page": "850",
+      "DOI": "10.1080/07474938.2016.1172400",
+      "article-title": "Testing for Granger-causality in quantiles",
+      "volume": "37",
+      "author": "Troster",
+      "year": "2016",
+      "journal-title": "Econometric Rev.",
+      "ISSN": "https://id.crossref.org/issn/1532-4168",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b58",
+      "series-title": "Applied Econometric Analysis using Cross Section and Panel Data",
+      "isbn-type": "print",
+      "first-page": "539",
+      "author": "Weber",
+      "year": "2024",
+      "ISBN": "https://id.crossref.org/isbn/9789819949021"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b59",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1007/s11079-024-09764-7",
+      "article-title": "Money-output revisited: Time-varying granger causality evidence from forty-three countries",
+      "author": "Pontines",
+      "year": "2024",
+      "journal-title": "Open Econ. Rev.",
+      "ISSN": "https://id.crossref.org/issn/1573-708X",
+      "issn-type": "print"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.dajour.2024.100512_b60",
+      "doi-asserted-by": "crossref",
+      "first-page": "424",
+      "DOI": "10.2307/1912791",
+      "article-title": "Investigating causal relations by econometric models and cross-spectral methods",
+      "volume": "37",
+      "author": "Granger",
+      "year": "1969",
+      "journal-title": "Econometrica",
+      "ISSN": "https://id.crossref.org/issn/0012-9682",
+      "issn-type": "print"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.dajour.2024.100512_b61",
+      "doi-asserted-by": "crossref",
+      "first-page": "531",
+      "DOI": "10.1002/sam.11583",
+      "article-title": "Optimal ratio for data splitting",
+      "volume": "15",
+      "author": "Joseph",
+      "year": "2022",
+      "journal-title": "Stat. Anal. Data Min.: ASA Data Sci. J.",
+      "ISSN": "https://id.crossref.org/issn/1932-1872",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b62",
+      "article-title": "Error metrics and performance fitness indicators for artificial intelligence and machine learning in engineering and sciences",
+      "author": "Naser",
+      "year": "2021",
+      "journal-title": "Archit. Struct. Constr.",
+      "ISSN": "https://id.crossref.org/issn/2730-9894",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b63",
+      "article-title": "Graph neural networks for forecasting realized volatility with nonlinear spillover effects",
+      "author": "Zhang",
+      "year": "2023",
+      "journal-title": "SSRN Electr. J.",
+      "ISSN": "https://id.crossref.org/issn/1556-5068",
+      "issn-type": "print"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.dajour.2024.100512_b64",
+      "doi-asserted-by": "crossref",
+      "first-page": "884",
+      "DOI": "10.1016/j.ijforecast.2022.03.001",
+      "article-title": "Neural basis expansion analysis with exogenous variables: Forecasting electricity prices with NBEATSx",
+      "volume": "39",
+      "author": "Olivares",
+      "year": "2023",
+      "journal-title": "Int. J. Forecast.",
+      "ISSN": "https://id.crossref.org/issn/0169-2070",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b65",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.engappai.2022.105072",
+      "article-title": "EcoForecast: An interpretable data-driven approach for short-term macroeconomic forecasting using N-BEATS neural network",
+      "volume": "114",
+      "author": "Wang",
+      "year": "2022",
+      "journal-title": "Eng. Appl. Artif. Intell.",
+      "ISSN": "https://id.crossref.org/issn/0952-1976",
+      "issn-type": "print"
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/j.dajour.2024.100512_b66",
+      "doi-asserted-by": "crossref",
+      "first-page": "2563",
+      "DOI": "10.1007/s00477-023-02405-4",
+      "article-title": "Predict water quality using an improved deep learning method based on spatiotemporal feature correlated: a case study of the Tanghe reservoir in China",
+      "volume": "37",
+      "author": "Han",
+      "year": "2023",
+      "journal-title": "Stoch. Environ. Res. Risk Assess.",
+      "ISSN": "https://id.crossref.org/issn/1436-3259",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b67",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.eswa.2023.122802",
+      "article-title": "Introducing NBEATSx to realized volatility forecasting",
+      "volume": "242",
+      "author": "Souto",
+      "year": "2024",
+      "journal-title": "Expert Syst. Appl.",
+      "ISSN": "https://id.crossref.org/issn/0957-4174",
+      "issn-type": "print"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.dajour.2024.100512_b68",
+      "doi-asserted-by": "crossref",
+      "first-page": "253",
+      "DOI": "10.1080/07350015.1995.10524599",
+      "article-title": "Comparing predictive accuracy",
+      "volume": "13",
+      "author": "Diebold",
+      "year": "1995",
+      "journal-title": "J. Bus. Econom. Statist.",
+      "ISSN": "https://id.crossref.org/issn/0735-0015",
+      "issn-type": "print"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.dajour.2024.100512_b69",
+      "doi-asserted-by": "crossref",
+      "first-page": "281",
+      "DOI": "10.1016/S0169-2070(96)00719-4",
+      "article-title": "Testing the equality of prediction mean squared errors",
+      "volume": "13",
+      "author": "Harvey",
+      "year": "1997",
+      "journal-title": "Int. J. Forecast.",
+      "ISSN": "https://id.crossref.org/issn/0169-2070",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b70",
+      "series-title": "Advances in Neural Information Processing Systems",
+      "article-title": "A unified approach to interpreting model predictions",
+      "volume": "Vol. 30",
+      "author": "Lundberg",
+      "year": "2017"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b71",
+      "series-title": "Interpreting Financial Time Series with SHAP Values",
+      "first-page": "166",
+      "author": "Mokhtari",
+      "year": "2019"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.dajour.2024.100512_b72",
+      "doi-asserted-by": "crossref",
+      "first-page": "466",
+      "DOI": "10.3390/jtaer16030029",
+      "article-title": "What makes an online review more helpful: An interpretation framework using XGBoost and SHAP values",
+      "volume": "16",
+      "author": "Meng",
+      "year": "2020",
+      "journal-title": "J. Theor. Appl. Electr. Commer. Res.",
+      "ISSN": "https://id.crossref.org/issn/0718-1876",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b73",
+      "doi-asserted-by": "crossref",
+      "unstructured": "W.E. Marc\u00edlio, D.M. Eler, From explanations to feature selection: assessing SHAP values as feature selection mechanism, in: 2020 33rd SIBGRAPI Conference on Graphics, Patterns and Images, SIBGRAPI, 2020, pp. 340\u2013347.",
+      "DOI": "10.1109/SIBGRAPI51738.2020.00053"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b74",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.artint.2022.103667",
+      "article-title": "Relation between prognostics predictor evaluation metrics and local interpretability SHAP values",
+      "volume": "306",
+      "author": "Baptista",
+      "year": "2022",
+      "journal-title": "Artificial Intelligence",
+      "ISSN": "https://id.crossref.org/issn/0004-3702",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b75",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.jenvman.2021.113941",
+      "article-title": "Towards better process management in wastewater treatment plants: Process analytics based on SHAP values for tree-based machine learning methods",
+      "volume": "301",
+      "author": "Wang",
+      "year": "2022",
+      "journal-title": "J. Environ. Manag.",
+      "ISSN": "https://id.crossref.org/issn/0301-4797",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b76",
+      "doi-asserted-by": "crossref",
+      "first-page": "22",
+      "DOI": "10.1016/j.jfds.2021.02.001",
+      "article-title": "Pairwise acquisition prediction with SHAP value interpretation",
+      "volume": "7",
+      "author": "Futagami",
+      "year": "2021",
+      "journal-title": "J. Finance Data Sci.",
+      "ISSN": "https://id.crossref.org/issn/2405-9188",
+      "issn-type": "print"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.dajour.2024.100512_b77",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1186/s13321-021-00542-y",
+      "article-title": "How can SHAP values help to shape metabolic stability of chemical compounds?",
+      "volume": "13",
+      "author": "Wojtuch",
+      "year": "2021",
+      "journal-title": "J. Cheminform.",
+      "ISSN": "https://id.crossref.org/issn/1758-2946",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b78",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.eswa.2023.121464",
+      "article-title": "Data-driven interpretable ensemble learning methods for the prediction of wind turbine power incorporating SHAP analysis",
+      "volume": "237",
+      "author": "Cakiroglu",
+      "year": "2024",
+      "journal-title": "Expert Syst. Appl.",
+      "ISSN": "https://id.crossref.org/issn/0957-4174",
+      "issn-type": "print"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.dajour.2024.100512_b79",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1186/s40708-024-00222-1",
+      "article-title": "Interpreting artificial intelligence models: a systematic review on the application of LIME and SHAP in Alzheimer\u2019s disease detection",
+      "volume": "11",
+      "author": "Vimbi",
+      "year": "2024",
+      "journal-title": "Brain Inform.",
+      "ISSN": "https://id.crossref.org/issn/2198-4026",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/j.dajour.2024.100512_b80",
+      "series-title": "Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+      "article-title": "Xgboost: A scalable tree boosting system",
+      "author": "Chen",
+      "year": "2016"
+    }
+  ],
+  "container-title": [
+    "Decision Analytics Journal"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S2772662224001164?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S2772662224001164?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        20
+      ]
+    ],
+    "date-time": "2024-09-20T14:45:33Z",
+    "timestamp": 1726843533000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2772662224001164"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9
+      ]
+    ]
+  },
+  "references-count": 80,
+  "alternative-id": [
+    "S2772662224001164"
+  ],
+  "URL": "https://doi.org/10.1016/j.dajour.2024.100512",
+  "relation": {},
+  "ISSN": [
+    "2772-6622"
+  ],
+  "issn-type": [
+    {
+      "value": "2772-6622",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        9
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "A generalization of the Topological Tail Dependence theory: From indices to individual stocks",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Decision Analytics Journal",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.dajour.2024.100512",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "\u00a9 2024 The Author(s). Published by Elsevier Inc.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "100512"
+}

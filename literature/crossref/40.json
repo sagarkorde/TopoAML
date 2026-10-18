@@ -1,0 +1,888 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        24
+      ]
+    ],
+    "date-time": "2025-02-24T17:10:08Z",
+    "timestamp": 1740417008376,
+    "version": "3.37.3"
+  },
+  "reference-count": 62,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2025-04-01T00:00:00Z",
+        "timestamp": 1743465600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2025-04-01T00:00:00Z",
+        "timestamp": 1743465600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2025-04-01T00:00:00Z",
+        "timestamp": 1743465600000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-017"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2025-04-01T00:00:00Z",
+        "timestamp": 1743465600000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-037"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2025-04-01T00:00:00Z",
+        "timestamp": 1743465600000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-012"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2025-04-01T00:00:00Z",
+        "timestamp": 1743465600000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-029"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2025-04-01T00:00:00Z",
+        "timestamp": 1743465600000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-004"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100012226",
+      "name": "Fundamental Research Funds for the Central Universities",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "2024JKF02ZK10"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2024JKF02ZK10"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100012226",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100013804",
+      "name": "Fundamental Research Funds for the Central Universities",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100013804",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "62272338"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "62272338"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Neurocomputing"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2025,
+        4
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.neucom.2025.129439",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        18
+      ]
+    ],
+    "date-time": "2025-01-18T16:15:02Z",
+    "timestamp": 1737216902000
+  },
+  "page": "129439",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "special_numbering": "C",
+  "title": [
+    "Temporal multivariate-factors independence convolution network for anomaly detection in dynamic networks"
+  ],
+  "prefix": "10.1016",
+  "volume": "624",
+  "author": [
+    {
+      "given": "Yang",
+      "family": "Yu",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Minglai",
+      "family": "Shao",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Xin",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Wenjun",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.neucom.2025.129439_b1",
+      "article-title": "A comprehensive survey on graph anomaly detection with deep learning",
+      "author": "Ma",
+      "year": "2021",
+      "journal-title": "IEEE Trans. Knowl. Data Eng."
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b2",
+      "series-title": "2017 International Conference on Inventive Communication and Computational Technologies",
+      "first-page": "456",
+      "article-title": "Anomaly detection in online social network: A survey",
+      "author": "Anand",
+      "year": "2017"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.neucom.2025.129439_b3",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1145/3056563",
+      "article-title": "Graph-based fraud detection in the face of camouflage",
+      "volume": "11",
+      "author": "Hooi",
+      "year": "2017",
+      "journal-title": "ACM Trans. Knowl. Discov. from Data (TKDD)"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b4",
+      "article-title": "Efraudcom: An e-commerce fraud detection system via competitive graph neural networks",
+      "author": "Zhang",
+      "year": "2018",
+      "journal-title": "ACM Trans. Inf. Syst."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.neucom.2025.129439_b5",
+      "doi-asserted-by": "crossref",
+      "first-page": "626",
+      "DOI": "10.1007/s10618-014-0365-y",
+      "article-title": "Graph based anomaly detection and description: a survey",
+      "volume": "29",
+      "author": "Akoglu",
+      "year": "2015",
+      "journal-title": "Data Min. Knowl. Discov."
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b6",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.cose.2023.103094",
+      "article-title": "GRU-based interpretable multivariate time series anomaly detection in industrial control system",
+      "volume": "127",
+      "author": "Tang",
+      "year": "2023",
+      "journal-title": "Comput. Secur."
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b7",
+      "series-title": "Joint European Conference on Machine Learning and Knowledge Discovery in Databases",
+      "first-page": "1",
+      "article-title": "Incremental local evolutionary outlier detection for dynamic social networks",
+      "author": "Ji",
+      "year": "2013"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b8",
+      "doi-asserted-by": "crossref",
+      "unstructured": "X. Teng, Y.-R. Lin, X. Wen, Anomaly detection in dynamic networks using multi-view time-series hypersphere learning, in: Proceedings of the 2017 ACM on Conference on Information and Knowledge Management, 2017, pp. 827\u2013836.",
+      "DOI": "10.1145/3132847.3132964"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.neucom.2025.129439_b9",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1145/3299886",
+      "article-title": "Detecting and assessing anomalous evolutionary behaviors of nodes in evolving social networks",
+      "volume": "13",
+      "author": "Wang",
+      "year": "2019",
+      "journal-title": "ACM Trans. Knowl. Discov. from Data (TKDD)"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b10",
+      "first-page": "1",
+      "article-title": "A two-stage adversarial transformer based approach for multivariate industrial time series anomaly detection",
+      "author": "Chen",
+      "year": "2024",
+      "journal-title": "Appl. Intell."
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b11",
+      "unstructured": "H. Karimi, P. Roy, S. Saba-Sadiya, J. Tang, Multi-source multi-class fake news detection, in: Proceedings of the 27th International Conference on Computational Linguistics, 2018, pp. 1546\u20131557."
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b12",
+      "doi-asserted-by": "crossref",
+      "unstructured": "W. Yu, W. Cheng, C.C. Aggarwal, K. Zhang, W. Wang, NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks, in: The 24th ACM SIGKDD International Conference, 2018.",
+      "DOI": "10.1145/3219819.3220024"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b13",
+      "first-page": "1286",
+      "article-title": "One-class adversarial nets for fraud detection",
+      "volume": "vol. 33",
+      "author": "Zheng",
+      "year": "2019"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b14",
+      "series-title": "Proceedings of the 2019 SIAM International Conference on Data Mining",
+      "first-page": "594",
+      "article-title": "Deep anomaly detection on attributed networks",
+      "author": "Ding",
+      "year": "2019"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b15",
+      "doi-asserted-by": "crossref",
+      "first-page": "93",
+      "DOI": "10.1016/j.inffus.2022.10.008",
+      "article-title": "Deep learning for anomaly detection in multivariate time series: Approaches, applications, and challenges",
+      "volume": "91",
+      "author": "Li",
+      "year": "2023",
+      "journal-title": "Inf. Fusion"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b16",
+      "doi-asserted-by": "crossref",
+      "first-page": "273",
+      "DOI": "10.1016/j.neunet.2023.07.026",
+      "article-title": "RegraphGAN: A graph generative adversarial network model for dynamic network anomaly detection",
+      "volume": "166",
+      "author": "Guo",
+      "year": "2023",
+      "journal-title": "Neural Netw."
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b17",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.cose.2024.103705",
+      "article-title": "Anomaly detection for space information networks: A survey of challenges, techniques, and future directions",
+      "volume": "139",
+      "author": "Diro",
+      "year": "2024",
+      "journal-title": "Comput. Secur."
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b18",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1109/TNNLS.2024.3414326",
+      "article-title": "Federated graph anomaly detection via contrastive self-supervised learning",
+      "author": "Kong",
+      "year": "2024",
+      "journal-title": "IEEE Trans. Neural Netw. Learn. Syst."
+    },
+    {
+      "year": "2014",
+      "series-title": "Learning phrase representations using RNN encoder-decoder for statistical machine translation",
+      "author": "Cho",
+      "key": "10.1016/j.neucom.2025.129439_b19"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b20",
+      "series-title": "International Conference on Machine Learning",
+      "first-page": "531",
+      "article-title": "Mutual information neural estimation",
+      "author": "Belghazi",
+      "year": "2018"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b21",
+      "doi-asserted-by": "crossref",
+      "first-page": "296",
+      "DOI": "10.1016/j.neucom.2023.03.056",
+      "article-title": "A step-by-step training method for multi generator GANs with application to anomaly detection and cybersecurity",
+      "volume": "537",
+      "author": "Adiban",
+      "year": "2023",
+      "journal-title": "Neurocomputing"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b22",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.neucom.2022.08.072",
+      "article-title": "Multi-users interaction anomalous subgraph detection for event mining",
+      "author": "Yu",
+      "year": "2022",
+      "journal-title": "Neurocomputing"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b23",
+      "doi-asserted-by": "crossref",
+      "unstructured": "K. Sharma, R. Trivedi, R. Sridhar, S. Kumar, Temporal dynamics-aware adversarial attacks on discrete-time dynamic graph models, in: Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2023, pp. 2023\u20132035.",
+      "DOI": "10.1145/3580305.3599517"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b24",
+      "doi-asserted-by": "crossref",
+      "unstructured": "M. Gupta, J. Gao, Y. Sun, J. Han, Integrating community matching and outlier detection for mining evolutionary community outliers, in: Proceedings of the 18th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2012, pp. 859\u2013867.",
+      "DOI": "10.1145/2339530.2339667"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b25",
+      "doi-asserted-by": "crossref",
+      "unstructured": "K. Sricharan, K. Das, Localizing anomalous changes in time-evolving graphs, in: Proceedings of the 2014 ACM SIGMOD International Conference on Management of Data, 2014, pp. 1347\u20131358.",
+      "DOI": "10.1145/2588555.2612184"
+    },
+    {
+      "issue": "9",
+      "key": "10.1016/j.neucom.2025.129439_b26",
+      "doi-asserted-by": "crossref",
+      "first-page": "1016",
+      "DOI": "10.14778/3329772.3329778",
+      "article-title": "From anomaly detection to rumour detection using data streams of social platforms",
+      "volume": "12",
+      "author": "Tam",
+      "year": "2019",
+      "journal-title": "Proc. the VLDB Endow."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.neucom.2025.129439_b27",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1145/3439950",
+      "article-title": "Deep learning for anomaly detection: A review",
+      "volume": "54",
+      "author": "Pang",
+      "year": "2021",
+      "journal-title": "ACM Comput. Surv."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.neucom.2025.129439_b28",
+      "doi-asserted-by": "crossref",
+      "first-page": "223",
+      "DOI": "10.1002/wics.1347",
+      "article-title": "Anomaly detection in dynamic networks: a survey",
+      "volume": "7",
+      "author": "Ranshous",
+      "year": "2015",
+      "journal-title": "Wiley Interdiscip. Rev. Comput. Stat."
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b29",
+      "first-page": "10",
+      "article-title": "Streaming k-means approximation",
+      "volume": "vol. 22",
+      "author": "Ailon",
+      "year": "2009"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b30",
+      "doi-asserted-by": "crossref",
+      "unstructured": "S. Bandyopadhyay, S.V. Vivek, M. Murty, Outlier resistant unsupervised deep architectures for attributed network embedding, in: Proceedings of the 13th International Conference on Web Search and Data Mining, 2020, pp. 25\u201333.",
+      "DOI": "10.1145/3336191.3371788"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b31",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Q. Zhong, Y. Liu, X. Ao, B. Hu, J. Feng, J. Tang, Q. He, Financial defaulter detection on online credit payment via multi-view attributed heterogeneous information network, in: Proceedings of the Web Conference 2020, 2020, pp. 785\u2013795.",
+      "DOI": "10.1145/3366423.3380159"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b32",
+      "doi-asserted-by": "crossref",
+      "unstructured": "K. Ding, J. Li, H. Liu, Interactive anomaly detection on attributed networks, in: Proceedings of the Twelfth ACM International Conference on Web Search and Data Mining, 2019, pp. 357\u2013365.",
+      "DOI": "10.1145/3289600.3290964"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b33",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1109/TKDE.2020.3015098",
+      "article-title": "A deep multi-view framework for anomaly detection on attributed networks",
+      "author": "Peng",
+      "year": "2020",
+      "journal-title": "IEEE Trans. Knowl. Data Eng."
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b34",
+      "doi-asserted-by": "crossref",
+      "unstructured": "D. Eswaran, C. Faloutsos, S. Guha, N. Mishra, Spotlight: Detecting anomalies in streaming graphs, in: Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2018, pp. 1378\u20131386.",
+      "DOI": "10.1145/3219819.3220040"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b35",
+      "doi-asserted-by": "crossref",
+      "unstructured": "X. Teng, M. Yan, A.M. Ertugrul, Y.-R. Lin, Deep into hypersphere: Robust and unsupervised anomaly discovery in dynamic networks, in: Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence, 2018.",
+      "DOI": "10.24963/ijcai.2018/378"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b36",
+      "series-title": "International Conference on Database Systems for Advanced Applications",
+      "first-page": "235",
+      "article-title": "Anomaly detection in time-evolving attributed networks",
+      "author": "Xue",
+      "year": "2019"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b37",
+      "doi-asserted-by": "crossref",
+      "unstructured": "L. Cai, Z. Chen, C. Luo, J. Gui, J. Ni, D. Li, H. Chen, Structural temporal graph neural networks for anomaly detection in dynamic graphs, in: Proceedings of the 30th ACM International Conference on Information & Knowledge Management, 2021, pp. 3747\u20133756.",
+      "DOI": "10.1145/3459637.3481955"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b38",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.knosys.2019.06.024",
+      "article-title": "Dyngraph2vec: Capturing network dynamics using dynamic graph representation learning",
+      "volume": "187",
+      "author": "Goyal",
+      "year": "2020",
+      "journal-title": "Knowl.-Based Syst."
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b39",
+      "doi-asserted-by": "crossref",
+      "first-page": "39",
+      "DOI": "10.1016/j.neucom.2020.04.047",
+      "article-title": "An anomaly detection framework for time-evolving attributed networks",
+      "volume": "407",
+      "author": "Xue",
+      "year": "2020",
+      "journal-title": "Neurocomputing"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b40",
+      "doi-asserted-by": "crossref",
+      "unstructured": "B. Perozzi, R. Al-Rfou, S. Skiena, Deepwalk: Online learning of social representations, in: Proceedings of the 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2014, pp. 701\u2013710.",
+      "DOI": "10.1145/2623330.2623732"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b41",
+      "doi-asserted-by": "crossref",
+      "unstructured": "J. Tang, M. Qu, M. Wang, M. Zhang, J. Yan, Q. Mei, Line: Large-scale information network embedding, in: Proceedings of the 24th International Conference on World Wide Web, 2015, pp. 1067\u20131077.",
+      "DOI": "10.1145/2736277.2741093"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b42",
+      "doi-asserted-by": "crossref",
+      "unstructured": "A. Grover, J. Leskovec, node2vec: Scalable feature learning for networks, in: Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2016, pp. 855\u2013864.",
+      "DOI": "10.1145/2939672.2939754"
+    },
+    {
+      "year": "2016",
+      "series-title": "Semi-supervised classification with graph convolutional networks",
+      "author": "Kipf",
+      "key": "10.1016/j.neucom.2025.129439_b43"
+    },
+    {
+      "year": "2018",
+      "series-title": "How powerful are graph neural networks?",
+      "author": "Xu",
+      "key": "10.1016/j.neucom.2025.129439_b44"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b45",
+      "first-page": "5363",
+      "article-title": "Evolvegcn: Evolving graph convolutional networks for dynamic graphs",
+      "volume": "vol. 34",
+      "author": "Pareja",
+      "year": "2020"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.neucom.2025.129439_b46",
+      "first-page": "433",
+      "article-title": "Learning graph dynamics using deep neural networks",
+      "volume": "51",
+      "author": "Narayan",
+      "year": "2018",
+      "journal-title": "IFAC- Pap."
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b47",
+      "first-page": "3988",
+      "article-title": "Diachronic embedding for temporal knowledge graph completion",
+      "volume": "vol. 34",
+      "author": "Goel",
+      "year": "2020"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b48",
+      "unstructured": "J. Huang, J. Shen, X. Shi, X. Zhu, On Which Nodes Does GCN Fail? Enhancing GCN From the Node Perspective, in: Forty-First International Conference on Machine Learning."
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/j.neucom.2025.129439_b49",
+      "doi-asserted-by": "crossref",
+      "first-page": "12814",
+      "DOI": "10.1109/TKDE.2023.3268069",
+      "article-title": "Multiplex graph representation learning via dual correlation reduction",
+      "volume": "35",
+      "author": "Mo",
+      "year": "2023",
+      "journal-title": "IEEE Trans. Knowl. Data Eng."
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b50",
+      "series-title": "International Conference on Machine Learning",
+      "first-page": "24983",
+      "article-title": "Disentangled multiplex graph representation learning",
+      "author": "Mo",
+      "year": "2023"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b51",
+      "article-title": "GRLC: Graph representation learning with constraints",
+      "author": "Peng",
+      "year": "2023",
+      "journal-title": "IEEE Trans. Neural Netw. Learn. Syst."
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b52",
+      "doi-asserted-by": "crossref",
+      "unstructured": "L. Zheng, Z. Li, J. Li, Z. Li, J. Gao, AddGraph: Anomaly Detection in Dynamic Graph Using Attention-based Temporal GCN., in: IJCAI, 2019, pp. 4419\u20134425.",
+      "DOI": "10.24963/ijcai.2019/614"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b53",
+      "article-title": "Dynamic network embedding by modeling triadic closure process",
+      "volume": "vol. 32",
+      "author": "Zhou",
+      "year": "2018"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b54",
+      "article-title": "K-core based temporal graph convolutional network for dynamic graphs",
+      "author": "Liu",
+      "year": "2020",
+      "journal-title": "IEEE Trans. Knowl. Data Eng."
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b55",
+      "doi-asserted-by": "crossref",
+      "first-page": "83",
+      "DOI": "10.1016/j.neucom.2020.04.064",
+      "article-title": "Tree decomposition based anomalous connected subgraph scanning for detecting and forecasting events in attributed social media networks",
+      "volume": "407",
+      "author": "Shao",
+      "year": "2020",
+      "journal-title": "Neurocomputing"
+    },
+    {
+      "year": "2013",
+      "series-title": "Generating sequences with recurrent neural networks",
+      "author": "Graves",
+      "key": "10.1016/j.neucom.2025.129439_b56"
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.neucom.2025.129439_b57",
+      "doi-asserted-by": "crossref",
+      "first-page": "1735",
+      "DOI": "10.1162/neco.1997.9.8.1735",
+      "article-title": "Long short-term memory",
+      "volume": "9",
+      "author": "Hochreiter",
+      "year": "1997",
+      "journal-title": "Neural Comput."
+    },
+    {
+      "year": "2018",
+      "series-title": "Anomaly alignment across multiple attributed networks",
+      "author": "Zhang",
+      "key": "10.1016/j.neucom.2025.129439_b58"
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b59",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.knosys.2022.110084",
+      "article-title": "Learning graph deep autoencoder for anomaly detection in multi-attributed networks",
+      "volume": "260",
+      "author": "Shao",
+      "year": "2023",
+      "journal-title": "Knowl.-Based Syst."
+    },
+    {
+      "key": "10.1016/j.neucom.2025.129439_b60",
+      "series-title": "International Conference on Discovery Science",
+      "first-page": "110",
+      "article-title": "Cohesive co-evolution patterns in dynamic attributed graphs",
+      "author": "Desmier",
+      "year": "2012"
+    },
+    {
+      "year": "2016",
+      "series-title": "Structured sequence modeling with graph convolutional recurrent networks",
+      "author": "Seo",
+      "key": "10.1016/j.neucom.2025.129439_b61"
+    },
+    {
+      "issue": "86",
+      "key": "10.1016/j.neucom.2025.129439_b62",
+      "first-page": "2579",
+      "article-title": "Visualizing data using t-SNE",
+      "volume": "9",
+      "author": "van der Maaten",
+      "year": "2008",
+      "journal-title": "J. Mach. Learn. Res."
+    }
+  ],
+  "container-title": [
+    "Neurocomputing"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0925231225001110?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0925231225001110?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        24
+      ]
+    ],
+    "date-time": "2025-02-24T16:57:22Z",
+    "timestamp": 1740416242000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0925231225001110"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4
+      ]
+    ]
+  },
+  "references-count": 62,
+  "alternative-id": [
+    "S0925231225001110"
+  ],
+  "URL": "https://doi.org/10.1016/j.neucom.2025.129439",
+  "relation": {},
+  "ISSN": [
+    "0925-2312"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "0925-2312"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        4
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Temporal multivariate-factors independence convolution network for anomaly detection in dynamic networks",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Neurocomputing",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.neucom.2025.129439",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "\u00a9 2025 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "129439"
+}

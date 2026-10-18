@@ -1,0 +1,1178 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        15
+      ]
+    ],
+    "date-time": "2026-10-15T17:16:37Z",
+    "timestamp": 1792084597478,
+    "version": "4.4.0"
+  },
+  "reference-count": 78,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2024-01-01T00:00:00Z",
+        "timestamp": 1704067200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2024-01-01T00:00:00Z",
+        "timestamp": 1704067200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            11,
+            7
+          ]
+        ],
+        "date-time": "2024-11-07T00:00:00Z",
+        "timestamp": 1730937600000
+      },
+      "content-version": "am",
+      "delay-in-days": 311,
+      "URL": "http://www.elsevier.com/open-access/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2024-01-01T00:00:00Z",
+        "timestamp": 1704067200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-017"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2024-01-01T00:00:00Z",
+        "timestamp": 1704067200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-037"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2024-01-01T00:00:00Z",
+        "timestamp": 1704067200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-012"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2024-01-01T00:00:00Z",
+        "timestamp": 1704067200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-029"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2024-01-01T00:00:00Z",
+        "timestamp": 1704067200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-004"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/100000001",
+      "name": "National Science Foundation",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "DMS-1814543"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "DMS-1814543"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/100000001",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/100000001",
+      "name": "National Science Foundation",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "DMS-2307718"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "DMS-2307718"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/100000001",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Communications in Nonlinear Science and Numerical Simulation"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        1
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.cnsns.2023.107665",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        4
+      ]
+    ],
+    "date-time": "2023-11-04T13:02:58Z",
+    "timestamp": 1699102978000
+  },
+  "page": "107665",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 28,
+  "special_numbering": "C",
+  "title": [
+    "Why topological data analysis detects financial bubbles?"
+  ],
+  "prefix": "10.1016",
+  "volume": "128",
+  "author": [
+    {
+      "given": "Samuel W.",
+      "family": "Akingbade",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4248-9890",
+      "authenticated-orcid": false,
+      "given": "Marian",
+      "family": "Gidea",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Matteo",
+      "family": "Manzi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Vahid",
+      "family": "Nateghi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b1",
+      "series-title": "Dynamical systems and turbulence, Warwick 1980",
+      "first-page": "366",
+      "article-title": "Detecting strange attractors in turbulence",
+      "author": "Takens",
+      "year": "1981"
+    },
+    {
+      "issue": "7260",
+      "key": "10.1016/j.cnsns.2023.107665_b2",
+      "doi-asserted-by": "crossref",
+      "first-page": "53",
+      "DOI": "10.1038/nature08227",
+      "article-title": "Early-warning signals for critical transitions",
+      "volume": "461",
+      "author": "Scheffer",
+      "year": "2009",
+      "journal-title": "Nature"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.cnsns.2023.107665_b3",
+      "doi-asserted-by": "crossref",
+      "first-page": "201",
+      "DOI": "10.1038/nclimate1143",
+      "article-title": "Early warning of climate tipping points",
+      "volume": "1",
+      "author": "Lenton",
+      "year": "2011",
+      "journal-title": "Nat Clim Change"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.cnsns.2023.107665_b4",
+      "doi-asserted-by": "crossref",
+      "first-page": "27",
+      "DOI": "10.1093/imamat/hxq060",
+      "article-title": "Climate tipping as a noisy bifurcation: a predictive technique",
+      "volume": "76",
+      "author": "Thompson",
+      "year": "2011",
+      "journal-title": "IMA J Appl Math"
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/j.cnsns.2023.107665_b5",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1371/journal.pone.0041010",
+      "article-title": "Methods for detecting early warnings of critical transitions in time series illustrated using simulated ecological data",
+      "volume": "7",
+      "author": "Dakos",
+      "year": "2012",
+      "journal-title": "PLoS One"
+    },
+    {
+      "issue": "39",
+      "key": "10.1016/j.cnsns.2023.107665_b6",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1073/pnas.2106140118",
+      "article-title": "Deep learning for early warning signals of tipping points",
+      "volume": "118",
+      "author": "Bury",
+      "year": "2021",
+      "journal-title": "Proc Natl Acad Sci"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.cnsns.2023.107665_b7",
+      "doi-asserted-by": "crossref",
+      "first-page": "413",
+      "DOI": "10.5890/DNC.2014.12.004",
+      "article-title": "Automatic recognition and tagging of topologically different regimes in dynamical systems",
+      "volume": "3",
+      "author": "Berwald",
+      "year": "2014",
+      "journal-title": "Discontin Nonlinearity Complex"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.cnsns.2023.107665_b8",
+      "doi-asserted-by": "crossref",
+      "first-page": "723",
+      "DOI": "10.3934/mbe.2014.11.723",
+      "article-title": "Critical transitions in a model of a genetic regulatory system",
+      "volume": "11",
+      "author": "Berwald",
+      "year": "2014",
+      "journal-title": "Math Biosci Eng"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.cnsns.2023.107665_b9",
+      "doi-asserted-by": "crossref",
+      "first-page": "1399",
+      "DOI": "10.1038/s41467-018-03664-4",
+      "article-title": "Towards a new approach to reveal dynamical organization of the brain using topological data analysis",
+      "volume": "9",
+      "author": "Saggar",
+      "year": "2018",
+      "journal-title": "Nat Commun"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.cnsns.2023.107665_b10",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1002/env.2612",
+      "article-title": "Harnessing the power of topological data analysis to detect change points",
+      "volume": "31",
+      "author": "Islambekov",
+      "year": "2020",
+      "journal-title": "Environmetrics"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b11",
+      "series-title": "Advances in artificial intelligence: 33rd Canadian conference on artificial intelligence, Canadian AI 2020, Ottawa, on, Canada, May 13\u201315, 2020, proceedings 33",
+      "first-page": "177",
+      "article-title": "Topological data analysis for arrhythmia detection through modular neural networks",
+      "author": "Dindin",
+      "year": "2020"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.cnsns.2023.107665_b12",
+      "doi-asserted-by": "crossref",
+      "first-page": "387",
+      "DOI": "10.1016/0165-1765(79)90017-X",
+      "article-title": "Speculative bubbles, crashes and rational expectations",
+      "volume": "3",
+      "author": "Blanchard",
+      "year": "1979",
+      "journal-title": "Econom Lett"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b13",
+      "series-title": "Bubbles, rational expectations and financial markets",
+      "author": "Blanchard",
+      "year": "1982"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.cnsns.2023.107665_b14",
+      "doi-asserted-by": "crossref",
+      "first-page": "111",
+      "DOI": "10.1016/j.jedc.2004.11.005",
+      "article-title": "Financial crashes as endogenous jumps: estimation, testing and forecasting",
+      "volume": "30",
+      "author": "Fernandes",
+      "year": "2006",
+      "journal-title": "J Econom Dynam Control"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.cnsns.2023.107665_b15",
+      "doi-asserted-by": "crossref",
+      "first-page": "577",
+      "DOI": "10.1016/S0378-4371(02)01371-7",
+      "article-title": "Endogenous versus exogenous shocks in systems with memory",
+      "volume": "318",
+      "author": "Sornette",
+      "year": "2003",
+      "journal-title": "Physica A"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.cnsns.2023.107665_b16",
+      "first-page": "201",
+      "article-title": "Shocks, crashes and bubbles in financial markets",
+      "volume": "53",
+      "author": "Johansen",
+      "year": "2010",
+      "journal-title": "Bruss Econ Rev"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b17",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.physa.2021.126425",
+      "article-title": "The 2020 global stock market crash: Endogenous or exogenous?",
+      "volume": "585",
+      "author": "Song",
+      "year": "2022",
+      "journal-title": "Phys A"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b18",
+      "article-title": "The \u2018COVID\u2019 crash of the 2020 US stock market",
+      "volume": "58",
+      "author": "Shu",
+      "year": "2021",
+      "journal-title": "North Am J Econom Finance"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b19",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.physa.2020.125587",
+      "article-title": "Methods for forecasting the effect of exogenous risks on stock markets",
+      "volume": "568",
+      "author": "Arias-Calluari",
+      "year": "2021",
+      "journal-title": "Physica A"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b20",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1140/epjb/e2012-30234-8",
+      "article-title": "Exogenous and endogenous market crashes as phase transitions in complex financial systems",
+      "volume": "85",
+      "author": "Fry",
+      "year": "2012",
+      "journal-title": "Eur Phys J B"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.cnsns.2023.107665_b21",
+      "first-page": "167",
+      "article-title": "Stock market crashes, precursors and replicas",
+      "volume": "6",
+      "author": "Sornette",
+      "year": "1996",
+      "journal-title": "J Physique I"
+    },
+    {
+      "issue": "10",
+      "key": "10.1016/j.cnsns.2023.107665_b22",
+      "first-page": "1391",
+      "article-title": "Discrete scaling in earthquake precursory phenomena: evidence in the Kobe earthquake, Japan",
+      "volume": "6",
+      "author": "Johansen",
+      "year": "1996",
+      "journal-title": "J Physique I"
+    },
+    {
+      "issue": "27",
+      "key": "10.1016/j.cnsns.2023.107665_b23",
+      "doi-asserted-by": "crossref",
+      "first-page": "3737",
+      "DOI": "10.1142/S021797929600204X",
+      "article-title": "Discrete scale invariance in stock markets before crashes",
+      "volume": "10",
+      "author": "Feigenbaum",
+      "year": "1996",
+      "journal-title": "Internat J Modern Phys B"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b24",
+      "series-title": "Critical crashes",
+      "author": "Johansen",
+      "year": "1999"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b25",
+      "doi-asserted-by": "crossref",
+      "first-page": "167",
+      "DOI": "10.1007/s100510050752",
+      "article-title": "Modeling the stock market prior to large crashes",
+      "volume": "9",
+      "author": "Johansen",
+      "year": "1999",
+      "journal-title": "Eur Phys J B"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.cnsns.2023.107665_b26",
+      "doi-asserted-by": "crossref",
+      "first-page": "5",
+      "DOI": "10.21314/JOR.1999.014",
+      "article-title": "Predicting financial crashes using discrete scale invariance",
+      "volume": "1",
+      "author": "Johansen",
+      "year": "1999",
+      "journal-title": "J Risk"
+    },
+    {
+      "issue": "02",
+      "key": "10.1016/j.cnsns.2023.107665_b27",
+      "doi-asserted-by": "crossref",
+      "first-page": "219",
+      "DOI": "10.1142/S0219024900000115",
+      "article-title": "Crashes as critical points",
+      "volume": "3",
+      "author": "Johansen",
+      "year": "2000",
+      "journal-title": "Int J Theor Appl Finance"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.cnsns.2023.107665_b28",
+      "doi-asserted-by": "crossref",
+      "first-page": "59",
+      "DOI": "10.1504/IJPAM.2012.046909",
+      "article-title": "Detection of crashes and rebounds in major equity markets",
+      "volume": "1",
+      "author": "Yan",
+      "year": "2012",
+      "journal-title": "Int J Portfolio Anal Manage"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.cnsns.2023.107665_b29",
+      "doi-asserted-by": "crossref",
+      "first-page": "344",
+      "DOI": "10.1080/1351847X.2011.607004",
+      "article-title": "Diagnostics of rational expectation financial bubbles with stochastic mean-reverting termination times",
+      "volume": "19",
+      "author": "Lin",
+      "year": "2013",
+      "journal-title": "Eur J Finance"
+    },
+    {
+      "issue": "10",
+      "key": "10.1016/j.cnsns.2023.107665_b30",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1142/S0129183116501138",
+      "article-title": "Micro-foundation using percolation theory of the finite time singular behavior of the crash hazard rate in a class of rational expectation bubbles",
+      "volume": "27",
+      "author": "Seyrich",
+      "year": "2016",
+      "journal-title": "Internat J Modern Phys C"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b31",
+      "series-title": "Why stock markets crash",
+      "article-title": "Why stock markets crash",
+      "author": "Sornette",
+      "year": "2017"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b32",
+      "series-title": "Paris-Princeton lectures on mathematical finance 2013: Editors: Vicky Henderson, Ronnie Sircar",
+      "first-page": "1",
+      "article-title": "A mathematical theory of financial bubbles",
+      "author": "Protter",
+      "year": "2013"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.cnsns.2023.107665_b33",
+      "doi-asserted-by": "crossref",
+      "first-page": "839",
+      "DOI": "10.1137/10079673X",
+      "article-title": "How to detect an asset bubble",
+      "volume": "2",
+      "author": "Jarrow",
+      "year": "2011",
+      "journal-title": "SIAM J Financial Math"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.cnsns.2023.107665_b34",
+      "doi-asserted-by": "crossref",
+      "first-page": "201",
+      "DOI": "10.1111/j.1468-2354.2010.00625.x",
+      "article-title": "Explosive behavior in the 1990s Nasdaq: When did exuberance escalate asset values?",
+      "volume": "52",
+      "author": "Phillips",
+      "year": "2011",
+      "journal-title": "Int Econ Rev"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.cnsns.2023.107665_b35",
+      "doi-asserted-by": "crossref",
+      "first-page": "1043",
+      "DOI": "10.1111/iere.12132",
+      "article-title": "Testing for multiple bubbles: Historical episodes of exuberance and collapse in the S&P 500",
+      "volume": "56",
+      "author": "Phillips",
+      "year": "2015",
+      "journal-title": "Int Econ Rev"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.cnsns.2023.107665_b36",
+      "doi-asserted-by": "crossref",
+      "first-page": "1079",
+      "DOI": "10.1111/iere.12131",
+      "article-title": "Testing for multiple bubbles: Limit theory of real-time detectors",
+      "volume": "56",
+      "author": "Phillips",
+      "year": "2015",
+      "journal-title": "Internat Econom Rev"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.cnsns.2023.107665_b37",
+      "first-page": "166",
+      "article-title": "Recursive right-tailed unit root tests for an explosive asset price bubble",
+      "volume": "13",
+      "author": "Harvey",
+      "year": "2015",
+      "journal-title": "J Financ Econom"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.cnsns.2023.107665_b38",
+      "doi-asserted-by": "crossref",
+      "first-page": "455",
+      "DOI": "10.3982/QE82",
+      "article-title": "Dating the timeline of financial bubbles during the subprime crisis",
+      "volume": "2",
+      "author": "Phillips",
+      "year": "2011",
+      "journal-title": "Quant Econom"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b39",
+      "doi-asserted-by": "crossref",
+      "first-page": "548",
+      "DOI": "10.1016/j.jempfin.2015.09.002",
+      "article-title": "Tests for explosive financial bubbles in the presence of non-stationary volatility",
+      "volume": "38",
+      "author": "Harvey",
+      "year": "2016",
+      "journal-title": "J Emp Financ"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.cnsns.2023.107665_b40",
+      "doi-asserted-by": "crossref",
+      "first-page": "705",
+      "DOI": "10.1017/S0266466617000202",
+      "article-title": "Financial bubble implosion and reverse regression",
+      "volume": "34",
+      "author": "Phillips",
+      "year": "2018",
+      "journal-title": "Econom Theory"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b41",
+      "series-title": "International conference and school on network science",
+      "first-page": "47",
+      "article-title": "Topological data analysis of critical transitions in financial networks",
+      "author": "Gidea",
+      "year": "2017"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b42",
+      "doi-asserted-by": "crossref",
+      "first-page": "820",
+      "DOI": "10.1016/j.physa.2017.09.028",
+      "article-title": "Topological data analysis of financial time series: Landscapes of crashes",
+      "volume": "491",
+      "author": "Gidea",
+      "year": "2018",
+      "journal-title": "Physica A"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b43",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.physa.2019.123843",
+      "article-title": "Topological recognition of critical transitions in time series of cryptocurrencies",
+      "volume": "548",
+      "author": "Gidea",
+      "year": "2020",
+      "journal-title": "Physica A"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b44",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.physa.2021.125816",
+      "article-title": "Time-resolved topological data analysis of market instabilities",
+      "volume": "571",
+      "author": "Katz",
+      "year": "2021",
+      "journal-title": "Physica A"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b45",
+      "series-title": "Uncertainty, volatility and the persistence norms of financial time series",
+      "author": "Rudkin",
+      "year": "2021"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b46",
+      "first-page": "1",
+      "article-title": "Financial ratios and stock returns reappraised through a topological data analysis lens",
+      "author": "D\u0142otko",
+      "year": "2021",
+      "journal-title": "Eur J Finance"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b47",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.cnsns.2021.105996",
+      "article-title": "Topological features of multivariate distributions: Dependency on the covariance matrix",
+      "volume": "103",
+      "author": "Aromi",
+      "year": "2021",
+      "journal-title": "Commun Nonlinear Sci Numer Simul"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b48",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.cnsns.2023.107216",
+      "article-title": "Topological data analysis of noise: Uniform unimodal distributions",
+      "author": "Gluzberg",
+      "year": "2023",
+      "journal-title": "Commun Nonlinear Sci Numer Simul"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b49",
+      "doi-asserted-by": "crossref",
+      "first-page": "343",
+      "DOI": "10.1016/j.irfa.2016.02.008",
+      "article-title": "Negative bubbles and shocks in cryptocurrency markets",
+      "volume": "47",
+      "author": "Fry",
+      "year": "2016",
+      "journal-title": "Int Rev Financ Anal"
+    },
+    {
+      "issue": "18\u201330",
+      "key": "10.1016/j.cnsns.2023.107665_b50",
+      "article-title": "Dissection of bitcoin\u2019s multiscale bubble history",
+      "author": "Gerlach",
+      "year": "2018",
+      "journal-title": "Swiss Finance Inst Res Pap"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b51",
+      "doi-asserted-by": "crossref",
+      "first-page": "138",
+      "DOI": "10.1016/j.econlet.2018.07.039",
+      "article-title": "Bitcoin risk modeling with blockchain graphs",
+      "volume": "173",
+      "author": "Akcora",
+      "year": "2018",
+      "journal-title": "Econom Lett"
+    },
+    {
+      "issue": "9",
+      "key": "10.1016/j.cnsns.2023.107665_b52",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1098/rsos.180381",
+      "article-title": "Classification of cryptocurrency coins and tokens by the dynamics of their market capitalizations",
+      "volume": "5",
+      "author": "Wu",
+      "year": "2018",
+      "journal-title": "R Soc Open Sci"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b53",
+      "series-title": "2019 international conference on data mining workshops (ICDMW)",
+      "first-page": "238",
+      "article-title": "Topological data analysis for portfolio management of cryptocurrencies",
+      "author": "Rivera-Castro",
+      "year": "2019"
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.cnsns.2023.107665_b54",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1098/rsos.180538",
+      "article-title": "Are bitcoin bubbles predictable? Combining a generalized metcalfe\u2019s law and the log-periodic power law singularity model",
+      "volume": "6",
+      "author": "Wheatley",
+      "year": "2019",
+      "journal-title": "R Soc Open Sci"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b55",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Akcora Cuneyt G, Li Yitao, Gel Yulia R, Kantarcioglu Murat. BitcoinHeist: Topological Data Analysis for Ransomware Prediction on the Bitcoin Blockchain. In: Proceedings of the twenty-ninth international joint conference on artificial intelligence. 2020.",
+      "DOI": "10.24963/ijcai.2020/612"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b56",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.physa.2020.124477",
+      "article-title": "Real-time prediction of bitcoin bubble crashes",
+      "volume": "548",
+      "author": "Shu",
+      "year": "2020",
+      "journal-title": "Physica A"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b57",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Saengduean P, Noisagool S, Chamchod F. Topological Data Analysis for Identifying Critical Transitions in Cryptocurrency Time Series. In: 2020 IEEE international conference on industrial engineering and engineering management (IEEM). 2020, p. 933\u20138.",
+      "DOI": "10.1109/IEEM45057.2020.9309855"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.cnsns.2023.107665_b58",
+      "doi-asserted-by": "crossref",
+      "first-page": "275",
+      "DOI": "10.1080/14697688.2011.607467",
+      "article-title": "Prediction accuracy and sloppiness of log-periodic functions",
+      "volume": "13",
+      "author": "Br\u00e9e",
+      "year": "2013",
+      "journal-title": "Quant Finance"
+    },
+    {
+      "issue": "65",
+      "key": "10.1016/j.cnsns.2023.107665_b59",
+      "article-title": "Bubbles as violations of efficient time-scales",
+      "author": "Sohn",
+      "year": "2017",
+      "journal-title": "Inst New Econ Think Work Pap Ser"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b60",
+      "article-title": "Log-periodic oscillations in degree distributions of hierarchical scale-free networks",
+      "volume": "35",
+      "author": "Suchecki",
+      "year": "2005",
+      "journal-title": "Acta Phys Polon Ser B"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b61",
+      "series-title": "Computational topology: an introduction",
+      "author": "Edelsbrunner",
+      "year": "2022"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.cnsns.2023.107665_b62",
+      "first-page": "77",
+      "article-title": "Statistical topological data analysis using persistence landscapes",
+      "volume": "16",
+      "author": "Bubenik",
+      "year": "2015",
+      "journal-title": "J Mach Learn Res"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b63",
+      "doi-asserted-by": "crossref",
+      "first-page": "91",
+      "DOI": "10.1016/j.jsc.2016.03.009",
+      "article-title": "A persistence landscapes toolbox for topological statistics",
+      "volume": "78",
+      "author": "Bubenik",
+      "year": "2017",
+      "journal-title": "J Symbolic Comput"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.cnsns.2023.107665_b64",
+      "doi-asserted-by": "crossref",
+      "first-page": "193",
+      "DOI": "10.1007/s10711-013-9937-z",
+      "article-title": "Persistence stability for geometric complexes",
+      "volume": "173",
+      "author": "Chazal",
+      "year": "2014",
+      "journal-title": "Geom Dedicata"
+    },
+    {
+      "issue": "3\u20134",
+      "key": "10.1016/j.cnsns.2023.107665_b65",
+      "first-page": "579",
+      "article-title": "Embedology",
+      "volume": "65",
+      "author": "Tim",
+      "year": "1991",
+      "journal-title": "J Stat Phys"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.cnsns.2023.107665_b66",
+      "doi-asserted-by": "crossref",
+      "first-page": "1331",
+      "DOI": "10.1103/RevModPhys.65.1331",
+      "article-title": "The analysis of observed chaotic data in physical systems",
+      "volume": "65",
+      "author": "Abarbanel",
+      "year": "1993",
+      "journal-title": "Rev Modern Phys"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.cnsns.2023.107665_b67",
+      "doi-asserted-by": "crossref",
+      "first-page": "799",
+      "DOI": "10.1007/s10208-014-9206-z",
+      "article-title": "Sliding windows and persistence: An application of topological methods to signal analysis",
+      "volume": "15",
+      "author": "Perea",
+      "year": "2015",
+      "journal-title": "Found Comput Math"
+    },
+    {
+      "issue": "2218",
+      "key": "10.1016/j.cnsns.2023.107665_b68",
+      "article-title": "Topological data analysis for true step detection in periodic piecewise constant signals",
+      "volume": "474",
+      "author": "Khasawneh",
+      "year": "2018",
+      "journal-title": "Proc R Soc Lond Ser A Math Phys Eng Sci"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b69",
+      "series-title": "Cyclicality, periodicity and the topology of time series",
+      "author": "D\u0142otko",
+      "year": "2019"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b70",
+      "series-title": "2016 IEEE international conference on acoustics, speech and signal processing (ICASSP)",
+      "first-page": "6435",
+      "article-title": "Persistent homology of toroidal sliding window embeddings",
+      "author": "Perea",
+      "year": "2016"
+    },
+    {
+      "issue": "92",
+      "key": "10.1016/j.cnsns.2023.107665_b71",
+      "doi-asserted-by": "crossref",
+      "first-page": "69",
+      "DOI": "10.21314/JOR.2002.058",
+      "article-title": "Large stock market price drawdowns are outliers",
+      "volume": "4",
+      "author": "Johansen",
+      "year": "2001",
+      "journal-title": "J Risk"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b72",
+      "doi-asserted-by": "crossref",
+      "first-page": "27",
+      "DOI": "10.1016/j.chaos.2014.12.002",
+      "article-title": "Power law scaling and \u201cdragon-kings\u201d in distributions of intraday financial drawdowns",
+      "volume": "74",
+      "author": "Filimonov",
+      "year": "2015",
+      "journal-title": "Chaos Solitons Fractals"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b73",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.physa.2020.124892",
+      "article-title": "Detection of Chinese stock market bubbles with LPPLS confidence indicator",
+      "volume": "557",
+      "author": "Shu",
+      "year": "2020",
+      "journal-title": "Phys A"
+    },
+    {
+      "issue": "9",
+      "key": "10.1016/j.cnsns.2023.107665_b74",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1371/journal.pone.0239494",
+      "article-title": "Segmentation of time series in up-and down-trends using the epsilon-tau procedure with application to USD/JPY foreign exchange market data",
+      "volume": "15",
+      "author": "Yamashita Rios de Sousa",
+      "year": "2020",
+      "journal-title": "PLoS One"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.cnsns.2023.107665_b75",
+      "doi-asserted-by": "crossref",
+      "first-page": "341",
+      "DOI": "10.1023/A:1008202821328",
+      "article-title": "Differential evolution \u2013 a simple and efficient heuristic for global optimization over continuous spaces",
+      "volume": "11",
+      "author": "Storn",
+      "year": "1997",
+      "journal-title": "J Glob Optim"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b76",
+      "doi-asserted-by": "crossref",
+      "first-page": "4819",
+      "DOI": "10.1109/TSP.2021.3104979",
+      "article-title": "HePPCAT: Probabilistic PCA for data with heteroscedastic noise",
+      "volume": "69",
+      "author": "Hong",
+      "year": "2021",
+      "journal-title": "IEEE Trans Signal Process"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b77",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.asr.2023.08.010",
+      "article-title": "Machine learning methods for nonlinear dimensionality reduction of the thermospheric density field",
+      "author": "Nateghi",
+      "year": "2023",
+      "journal-title": "Adv Space Res"
+    },
+    {
+      "key": "10.1016/j.cnsns.2023.107665_b78",
+      "series-title": "Boulder-investment-technologies",
+      "year": "2023"
+    }
+  ],
+  "container-title": [
+    "Communications in Nonlinear Science and Numerical Simulation"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S1007570423005865?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S1007570423005865?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        1
+      ]
+    ],
+    "date-time": "2026-05-01T03:07:09Z",
+    "timestamp": 1777604829000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1007570423005865"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        1
+      ]
+    ]
+  },
+  "references-count": 78,
+  "alternative-id": [
+    "S1007570423005865"
+  ],
+  "URL": "https://doi.org/10.1016/j.cnsns.2023.107665",
+  "relation": {},
+  "ISSN": [
+    "1007-5704"
+  ],
+  "issn-type": [
+    {
+      "value": "1007-5704",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        1
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Why topological data analysis detects financial bubbles?",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Communications in Nonlinear Science and Numerical Simulation",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.cnsns.2023.107665",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "\u00a9 2023 Elsevier B.V. All rights reserved.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "107665"
+}

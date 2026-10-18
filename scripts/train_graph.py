@@ -34,6 +34,11 @@ def main():
     all_cols=structural+topo['B']+topo['P']
     zscaler=StandardScaler().fit(feature.loc[feature.split=='train',all_cols])
     z=pd.DataFrame(zscaler.transform(feature[all_cols]),index=feature.index,columns=all_cols)
+    zvalues=z.to_numpy(dtype='float32')
+    feature_lookup={v:i for i,v in enumerate(feature.index)}
+    structural_indices=[all_cols.index(c) for c in structural]
+    topo_indices={group:[all_cols.index(c) for c in columns] for group,columns in topo.items()}
+    topology_tensors={group:torch.tensor(zvalues[:,indices],dtype=torch.float32) for group,indices in topo_indices.items()}
     lookup={v:i for i,v in enumerate(f.index)}
     cache={}
     for target in feature.index:
@@ -42,7 +47,8 @@ def main():
         # Reciprocal projection is explicit: message passing does not infer fund-flow cycles.
         edges=[(mapping[u],mapping[v]) for u,v in h.edges for u,v in [(u,v),(v,u)]]
         ei=torch.tensor(edges,dtype=torch.long).t().contiguous() if edges else torch.empty((2,0),dtype=torch.long)
-        node_x=np.concatenate([x[[lookup[v] for v in nodes]],np.repeat(z.loc[[target],structural].to_numpy(),len(nodes),axis=0)],axis=1)
+        row_index=feature_lookup[target]
+        node_x=np.concatenate([x[[lookup[v] for v in nodes]],np.repeat(zvalues[row_index:row_index+1,structural_indices],len(nodes),axis=0)],axis=1)
         cache[target]=Data(x=torch.tensor(node_x,dtype=torch.float32),edge_index=ei,y=torch.tensor([int(f.loc[target,'class']==1)],dtype=torch.float32))
     device='cuda' if torch.cuda.is_available() else 'cpu'
     out=ROOT/'results/graph';out.mkdir(parents=True,exist_ok=True)
@@ -57,7 +63,10 @@ def main():
                 for split in ['train','validation','test']:
                     graphs=[]
                     for target in feature.index[feature.split==split]:
-                        data=cache[target].clone();data.topology=torch.tensor(z.loc[[target],cols].to_numpy(),dtype=torch.float32);graphs.append(data)
+                        data=cache[target].clone()
+                        index=feature_lookup[target]
+                        data.topology=topology_tensors[group][index:index+1] if group in topology_tensors else torch.empty((1,0))
+                        graphs.append(data)
                     loaders[split]=DataLoader(graphs,batch_size=args.batch_size,shuffle=split=='train',num_workers=0)
                 model=TopoGraph(next(iter(cache.values())).x.shape[1],len(cols),backbone=backbone,fusion=fusion).to(device)
                 optimizer=torch.optim.Adam(model.parameters(),lr=.001,weight_decay=.0001)

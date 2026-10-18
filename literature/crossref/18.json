@@ -1,0 +1,595 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        2
+      ]
+    ],
+    "date-time": "2026-05-02T23:05:48Z",
+    "timestamp": 1777763148997,
+    "version": "3.51.4"
+  },
+  "reference-count": 35,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            23
+          ]
+        ],
+        "date-time": "2024-04-23T00:00:00Z",
+        "timestamp": 1713830400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            23
+          ]
+        ],
+        "date-time": "2024-04-23T00:00:00Z",
+        "timestamp": 1713830400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Appl Netw Sci"
+  ],
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>In this paper, we extended the technique of measuring similarity between topological spaces using bottle neck distance between persistence diagrams to hypergraph networks. Finding a relationship between the bottleneck distance of the Cartesian product of topological spaces and the bottleneck distance of individual spaces, we are trying to ease the comparative study of the Cartesian product of topological spaces. The Cartesian product and the strong product of weighted hypergraphs are defined, and the relationship between the bottleneck distance between hypergraph products and the bottleneck distance between individual hypergraphs is determined. For this, clique complex filtration and the Vietoris\u2013Rips filtration in unweighted and weighted hypergraphs are defined and used.</jats:p>",
+  "DOI": "10.1007/s41109-024-00617-3",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        23
+      ]
+    ],
+    "date-time": "2024-04-23T13:02:07Z",
+    "timestamp": 1713877327000
+  },
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 3,
+  "title": [
+    "Persistent homology based Bottleneck distance in hypergraph products"
+  ],
+  "prefix": "10.1007",
+  "volume": "9",
+  "author": [
+    {
+      "given": "Archana",
+      "family": "Babu",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Sunil Jacob",
+      "family": "John",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        23
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "617_CR1",
+      "unstructured": "Aktas ME, Nguyen T, Riza R, Islam MI, Akbas E (2023) Hypergraph classification via persistent homology. arXiv preprint arXiv:2306.11484"
+    },
+    {
+      "issue": "1",
+      "key": "617_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1007/s41109-019-0179-3",
+      "volume": "4",
+      "author": "ME Aktas",
+      "year": "2019",
+      "unstructured": "Aktas ME, Akbas E, El Fatmaoui A (2019) Persistence homology of networks: methods and applications. Appl Netw Sci 4(1):1\u201328",
+      "journal-title": "Appl Netw Sci"
+    },
+    {
+      "key": "617_CR3",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Alam MT, Ahmed CF, Samiullah M, Leung CK (2021) Mining frequent patterns from hypergraph databases. In: Pacific-Asia conference on knowledge discovery and data mining. Springer, pp\u00a03\u201315",
+      "DOI": "10.1007/978-3-030-75765-6_1"
+    },
+    {
+      "key": "617_CR4",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Bandyopadhyay S, Das K, Murty MN (2020) Hypergraph attention isomorphism network by learning line graph expansion. In: 2020 IEEE international conference on big data (Big Data), IEEE, pp\u00a0669\u2013678",
+      "DOI": "10.1109/BigData50022.2020.9378335"
+    },
+    {
+      "key": "617_CR5",
+      "volume-title": "Hypergraphs: combinatorics of finite sets",
+      "author": "C Berge",
+      "year": "1984",
+      "unstructured": "Berge C (1984) Hypergraphs: combinatorics of finite sets, vol 45. Elsevier"
+    },
+    {
+      "key": "617_CR6",
+      "series-title": "Mathematical Engineering",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-319-00080-0",
+      "volume-title": "Hypergraph theory, an introduction",
+      "author": "A Bretto",
+      "year": "2013",
+      "unstructured": "Bretto A (2013) Hypergraph theory, an introduction, vol 1. Mathematical Engineering. Springer, Cham"
+    },
+    {
+      "issue": "3",
+      "key": "617_CR7",
+      "doi-asserted-by": "publisher",
+      "first-page": "600",
+      "DOI": "10.1007/s00454-014-9573-x",
+      "volume": "51",
+      "author": "P Bubenik",
+      "year": "2014",
+      "unstructured": "Bubenik P, Scott JA (2014) Categorification of persistent homology. Discrete Comput Geom 51(3):600\u2013627",
+      "journal-title": "Discrete Comput Geom"
+    },
+    {
+      "key": "617_CR8",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Carlsson G, Zomorodian A, Collins A, Guibas L (2004) Persistence barcodes for shapes. In: Proceedings of the 2004 Eurographics/ACM SIGGRAPH symposium on Geometry processing, pp\u00a0124\u2013135",
+      "DOI": "10.1145/1057432.1057449"
+    },
+    {
+      "issue": "9",
+      "key": "617_CR9",
+      "doi-asserted-by": "publisher",
+      "first-page": "3268",
+      "DOI": "10.1016/j.laa.2011.11.018",
+      "volume": "436",
+      "author": "J Cooper",
+      "year": "2012",
+      "unstructured": "Cooper J, Dutle A (2012) Spectra of uniform hypergraphs. Linear Algebra Appl 436(9):3268\u20133292",
+      "journal-title": "Linear Algebra Appl"
+    },
+    {
+      "issue": "18",
+      "key": "617_CR10",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1103/PhysRevLett.97.188701",
+      "volume": "97",
+      "author": "Yu Dongchuan",
+      "year": "2006",
+      "unstructured": "Dongchuan Yu, Righero M, Kocarev L (2006) Estimating topology of networks. Phys Rev Lett 97(18):188701",
+      "journal-title": "Phys Rev Lett"
+    },
+    {
+      "key": "617_CR11",
+      "volume-title": "Computational topology: an introduction",
+      "author": "H Edelsbrunner",
+      "year": "2022",
+      "unstructured": "Edelsbrunner H, Harer JL (2022) Computational topology: an introduction. American Mathematical Society, Providence"
+    },
+    {
+      "key": "617_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "511",
+      "DOI": "10.1007/s00454-002-2885-2",
+      "volume": "28",
+      "author": "L Edelsbrunner",
+      "year": "2002",
+      "unstructured": "Edelsbrunner L, Zomorodian (2002) Topological persistence and simplification. Discrete Comput Geom 28:511\u2013533",
+      "journal-title": "Discrete Comput Geom"
+    },
+    {
+      "key": "617_CR13",
+      "series-title": "Advances in Mathematical Chemistry and Applications",
+      "first-page": "300",
+      "volume-title": "Generalized topologies: hypergraphs, chemical reactions, and biological evolution",
+      "author": "C Flamm",
+      "year": "2015",
+      "unstructured": "Flamm C, Stadler BM, Stadler PF (2015) Generalized topologies: hypergraphs, chemical reactions, and biological evolution. Advances in Mathematical Chemistry and Applications. Elsevier, Amsterdam, pp 300\u2013328"
+    },
+    {
+      "issue": "3",
+      "key": "617_CR14",
+      "doi-asserted-by": "publisher",
+      "first-page": "407",
+      "DOI": "10.1017/S0004972700028574",
+      "volume": "42",
+      "author": "P Frosini",
+      "year": "1990",
+      "unstructured": "Frosini P (1990) A distance for similarity classes of submanifolds of a Euclidean space. Bull Aust Math Soc 42(3):407\u2013415",
+      "journal-title": "Bull Aust Math Soc"
+    },
+    {
+      "key": "617_CR15",
+      "unstructured": "Gakhar H, Perea JA (2019) K\u00fcnneth formulae in persistent homology. arXiv preprint arXiv:1910.05656"
+    },
+    {
+      "issue": "1",
+      "key": "617_CR16",
+      "doi-asserted-by": "publisher",
+      "first-page": "61",
+      "DOI": "10.1090/S0273-0979-07-01191-3",
+      "volume": "45",
+      "author": "R Ghrist",
+      "year": "2008",
+      "unstructured": "Ghrist R (2008) Barcodes: the persistent topology of data. Bull Am Math Soc 45(1):61\u201375",
+      "journal-title": "Bull Am Math Soc"
+    },
+    {
+      "key": "617_CR17",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Gunopulos D, Mannila H, Khardon R, Toivonen H (1997) Data mining, hypergraph transversals, and machine learning. In: Proceedings of the sixteenth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, pp\u00a0209\u2013216",
+      "DOI": "10.1145/263661.263684"
+    },
+    {
+      "key": "617_CR18",
+      "series-title": "Discrete Mathematics and its Applications",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1201/b10959",
+      "volume-title": "Handbook of product graphs",
+      "author": "RH Hammack",
+      "year": "2011",
+      "unstructured": "Hammack RH, Imrich W, Klav\u017ear S (2011) Handbook of product graphs, 2nd edn. Discrete Mathematics and its Applications. CRC Press, Boca Raton (With a foreword by Peter Winkler)",
+      "edition": "2"
+    },
+    {
+      "key": "617_CR19",
+      "volume-title": "Algebraic topology",
+      "author": "A Hatcher",
+      "year": "2002",
+      "unstructured": "Hatcher A (2002) Algebraic topology. Cambridge University Press, Cambridge"
+    },
+    {
+      "key": "617_CR20",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1007/s11786-012-0109-6",
+      "volume": "6",
+      "author": "M Hellmuth",
+      "year": "2012",
+      "unstructured": "Hellmuth M, Ostermeier L, Stadler PF (2012) A survey on hypergraph products. Math Comput Sci 6:1\u201332",
+      "journal-title": "Math Comput Sci"
+    },
+    {
+      "key": "617_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "60",
+      "DOI": "10.1016/j.dam.2014.02.017",
+      "volume": "171",
+      "author": "M Hellmuth",
+      "year": "2014",
+      "unstructured": "Hellmuth M, Noll M, Ostermeier L (2014) Strong products of hypergraphs: Unique prime factorization theorems and algorithms. Discret Appl Math 171:60\u201371",
+      "journal-title": "Discret Appl Math"
+    },
+    {
+      "key": "617_CR22",
+      "doi-asserted-by": "publisher",
+      "first-page": "68288",
+      "DOI": "10.1109/ACCESS.2020.2985729",
+      "volume": "8",
+      "author": "G Hong",
+      "year": "2020",
+      "unstructured": "Hong G, Gu Z, Javaid M, Awais HM, Siddiqui MK (2020) Degree-based topological invariants of metal-organic networks. IEEE Access 8:68288\u201368300",
+      "journal-title": "IEEE Access"
+    },
+    {
+      "key": "617_CR23",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Li D, Xu Z, Li S, Sun X (2013) Link prediction in social networks based on hypergraph. In: Proceedings of the 22nd international conference on world wide web, pp\u00a041\u201342",
+      "DOI": "10.1145/2487788.2487802"
+    },
+    {
+      "issue": "14",
+      "key": "617_CR24",
+      "doi-asserted-by": "publisher",
+      "first-page": "1831",
+      "DOI": "10.1093/bioinformatics/btp269",
+      "volume": "25",
+      "author": "A Mithani",
+      "year": "2009",
+      "unstructured": "Mithani A, Preston GM, Hein J (2009) Rahnuma: hypergraph-based tool for metabolic pathway prediction and network comparison. Bioinformatics 25(14):1831\u20131832",
+      "journal-title": "Bioinformatics"
+    },
+    {
+      "key": "617_CR25",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1201/9780429493911",
+      "volume-title": "Elements of algebraic topology",
+      "author": "JR Munkres",
+      "year": "2018",
+      "unstructured": "Munkres JR (2018) Elements of algebraic topology. CRC Press, Boca Raton"
+    },
+    {
+      "key": "617_CR26",
+      "volume-title": "Dimension theory of general spaces",
+      "author": "AR Pears",
+      "year": "1975",
+      "unstructured": "Pears AR (1975) Dimension theory of general spaces. Cambridge University Press, Cambridge"
+    },
+    {
+      "key": "617_CR27",
+      "first-page": "503",
+      "volume": "24",
+      "author": "V Robins",
+      "year": "1999",
+      "unstructured": "Robins V (1999) Towards computing homology from finite approximations. Topol Proc 24:503\u2013532",
+      "journal-title": "Topol Proc"
+    },
+    {
+      "issue": "September\u2013Octob",
+      "key": "617_CR28",
+      "first-page": "884",
+      "volume": "18",
+      "author": "MK Siddiqui",
+      "year": "2016",
+      "unstructured": "Siddiqui MK, Naeem M, Rahman NA, Imran M et al (2016) Computing topological indices of certain networks. J Optoelectron Adv Mater 18(September\u2013October 2016):884\u2013892",
+      "journal-title": "J Optoelectron Adv Mater"
+    },
+    {
+      "issue": "21",
+      "key": "617_CR29",
+      "doi-asserted-by": "publisher",
+      "first-page": "2831",
+      "DOI": "10.1093/bioinformatics/btp467",
+      "volume": "25",
+      "author": "Z Tian",
+      "year": "2009",
+      "unstructured": "Tian Z, Hwang TH, Kuang R (2009) A hypergraph-based learning algorithm for classifying gene expression and arraycgh data with prior knowledge. Bioinformatics 25(21):2831\u20132838",
+      "journal-title": "Bioinformatics"
+    },
+    {
+      "key": "617_CR30",
+      "volume-title": "An introduction to algebraic topology",
+      "author": "AH Wallace",
+      "year": "1957",
+      "unstructured": "Wallace AH (1957) An introduction to algebraic topology. Pergamon Press, New York"
+    },
+    {
+      "key": "617_CR31",
+      "volume-title": "Introduction to graph theory",
+      "author": "DB West",
+      "year": "2001",
+      "unstructured": "West DB et al (2001) Introduction to graph theory, vol 2. Prentice Hall, Upper Saddle River"
+    },
+    {
+      "key": "617_CR32",
+      "volume-title": "Introduction to graph theory",
+      "author": "P Zhang",
+      "year": "2006",
+      "unstructured": "Zhang P, Chartrand G (2006) Introduction to graph theory. Tata McGraw-Hill, New York"
+    },
+    {
+      "key": "617_CR33",
+      "doi-asserted-by": "publisher",
+      "first-page": "43",
+      "DOI": "10.1016/j.compind.2018.04.008",
+      "volume": "100",
+      "author": "W Zhenyong",
+      "year": "2018",
+      "unstructured": "Zhenyong W, Liao J, Song W, Mao H, Huang Z, Li X, Mao H (2018) Semantic hyper-graph-based knowledge representation architecture for complex product development. Comput Ind 100:43\u201356",
+      "journal-title": "Comput Ind"
+    },
+    {
+      "issue": "4",
+      "key": "617_CR34",
+      "doi-asserted-by": "publisher",
+      "first-page": "801",
+      "DOI": "10.1109/TNSE.2018.2873759",
+      "volume": "6",
+      "author": "J Zhu",
+      "year": "2018",
+      "unstructured": "Zhu J, Zhu J, Ghosh S, Weili W, Yuan J (2018) Social influence maximization in hypergraph in social networks. IEEE Trans Netw Sci Eng 6(4):801\u2013811",
+      "journal-title": "IEEE Trans Netw Sci Eng"
+    },
+    {
+      "issue": "3",
+      "key": "617_CR35",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1103/PhysRevE.80.036118",
+      "volume": "80",
+      "author": "V Zlati\u0107",
+      "year": "2009",
+      "unstructured": "Zlati\u0107 V, Ghoshal G, Caldarelli G (2009) Hypergraph topological quantities for tagged social networks. Phys Rev E 80(3):036118",
+      "journal-title": "Phys Rev E"
+    }
+  ],
+  "container-title": [
+    "Applied Network Science"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s41109-024-00617-3.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1007/s41109-024-00617-3/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s41109-024-00617-3.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        23
+      ]
+    ],
+    "date-time": "2024-04-23T13:05:08Z",
+    "timestamp": 1713877508000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00617-3"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        23
+      ]
+    ]
+  },
+  "references-count": 35,
+  "journal-issue": {
+    "issue": "1",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          12
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "617"
+  ],
+  "URL": "https://doi.org/10.1007/s41109-024-00617-3",
+  "relation": {},
+  "ISSN": [
+    "2364-8228"
+  ],
+  "issn-type": [
+    {
+      "value": "2364-8228",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        23
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "16 November 2023",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "6 April 2024",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "23 April 2024",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Declarations"
+      }
+    },
+    {
+      "value": "Not applicable.",
+      "order": 2,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Ethics approval and consent to participate"
+      }
+    },
+    {
+      "value": "Not applicable.",
+      "order": 3,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Consent for publication"
+      }
+    },
+    {
+      "value": "The authors have no Conflict of interest to declare that are relevant to the content of this article.",
+      "order": 4,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Competing interests"
+      }
+    }
+  ],
+  "article-number": "10"
+}

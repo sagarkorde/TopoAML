@@ -32,7 +32,7 @@ def main():
         pa=ROOT/f'results/tabular/xgboost_XSP_seed{seed}_predictions.csv'
         pb=ROOT/f'results/tabular/xgboost_XS_seed{seed}_predictions.csv'
         if pa.exists() and pb.exists():
-            aa=pd.read_csv(pa);bb=pd.read_csv(pb)
+            aa=pd.read_csv(pa,float_precision='round_trip');bb=pd.read_csv(pb,float_precision='round_trip')
             assert np.array_equal(aa.txId,bb.txId)
             a.append(aa.probability.to_numpy());b.append(bb.probability.to_numpy())
     if a:

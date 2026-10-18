@@ -1,0 +1,13 @@
+{
+  "status": "passed for observed graph construction",
+  "labeled_targets": 46564,
+  "future_neighbor_violations": 0,
+  "basis": "extractor asserts times[v] <= times[target] for every retained vertex",
+  "split_disjoint": true,
+  "transforms": "fitted only to training data by training scripts",
+  "labels_used_in_extraction": false,
+  "all_edges_same_step": true,
+  "causality_limit": "step-close only; no claim of transaction-time causality or known historical label availability",
+  "static_betti_redundancy_verified": true,
+  "truncated_fraction": 0.23528906451335796
+}

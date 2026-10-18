@@ -1,0 +1,502 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        23
+      ]
+    ],
+    "date-time": "2025-06-23T12:49:50Z",
+    "timestamp": 1750682990968,
+    "version": "3.37.3"
+  },
+  "reference-count": 20,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "6",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            7
+          ]
+        ],
+        "date-time": "2024-08-07T00:00:00Z",
+        "timestamp": 1722988800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            7
+          ]
+        ],
+        "date-time": "2024-08-07T00:00:00Z",
+        "timestamp": 1722988800000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100004329",
+      "name": "Javna Agencija za Raziskovalno Dejavnost RS",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "J1-4001"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "J1-4001"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100004329",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Mediterr. J. Math."
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        9
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>This paper introduces a method to detect each geometrically significant loop that is a geodesic circle (an isometric embedding of <jats:inline-formula><jats:alternatives><jats:tex-math>$$S^1$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:msup>\n                    <mml:mi>S</mml:mi>\n                    <mml:mn>1</mml:mn>\n                  </mml:msup>\n                </mml:math></jats:alternatives></jats:inline-formula>) and a bottleneck loop (meaning that each of its perturbations increases the length) in a geodesic space using persistent homology. Under fairly mild conditions, we show that such a loop either terminates a 1-dimensional homology class or gives rise to a 2-dimensional homology class in persistent homology. The main tool in this detection technique are selective Rips complexes, new custom made complexes that function as an appropriate combinatorial lens for persistent homology to detect the above mentioned loops. The main argument is based on a new concept of a local winding number, which turns out to be an invariant of certain homology classes.</jats:p>",
+  "DOI": "10.1007/s00009-024-02706-0",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        7
+      ]
+    ],
+    "date-time": "2024-08-07T17:04:36Z",
+    "timestamp": 1723050276000
+  },
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 2,
+  "title": [
+    "Persistent Homology with Selective Rips Complexes Detects Geodesic Circles"
+  ],
+  "prefix": "10.1007",
+  "volume": "21",
+  "author": [
+    {
+      "given": "\u017diga",
+      "family": "Virk",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        7
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "2706_CR1",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.2140/pjm.2017.290.1",
+      "volume": "290",
+      "author": "M Adamaszek",
+      "year": "2017",
+      "unstructured": "Adamaszek, M., Adams, H.: The Vietoris\u2013Rips complexes of a circle. Pac. J. Math. 290, 1\u201340 (2017)",
+      "journal-title": "Pac. J. Math."
+    },
+    {
+      "issue": "4",
+      "key": "2706_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "597",
+      "DOI": "10.1137/17M1148025",
+      "volume": "2",
+      "author": "M Adamaszek",
+      "year": "2018",
+      "unstructured": "Adamaszek, M., Adams, H., Frick, F.: Metric reconstruction via optimal transport. SIAM J. Appl. Algebra Geom. 2(4), 597\u2013619 (2018)",
+      "journal-title": "SIAM J. Appl. Algebra Geom."
+    },
+    {
+      "key": "2706_CR3",
+      "doi-asserted-by": "publisher",
+      "first-page": "661",
+      "DOI": "10.1142/S1793525319500274",
+      "volume": "11",
+      "author": "M Adamaszek",
+      "year": "2019",
+      "unstructured": "Adamaszek, M., Adams, H., Reddy, S.: On Vietoris\u2013Rips complexes of ellipses. J. Topol. Anal. 11, 661\u2013690 (2019)",
+      "journal-title": "J. Topol. Anal."
+    },
+    {
+      "key": "2706_CR4",
+      "doi-asserted-by": "publisher",
+      "first-page": "79",
+      "DOI": "10.1112/mtk.12010",
+      "volume": "66",
+      "author": "H Adams",
+      "year": "2020",
+      "unstructured": "Adams, H., Bush, J., Frick, F.: Metric thickenings, Borsuk\u2013Ulam theorems, and orbitopes. Mathematika 66, 79\u2013102 (2020)",
+      "journal-title": "Mathematika"
+    },
+    {
+      "key": "2706_CR5",
+      "unstructured": "Adams, H., Chowdhury, S., Quinn Jaffe, A., Sibanda, B.: Vietoris\u2013Rips complexes of regular polygons. arXiv:1807.10971"
+    },
+    {
+      "key": "2706_CR6",
+      "doi-asserted-by": "publisher",
+      "first-page": "69",
+      "DOI": "10.1016/j.topol.2018.12.014",
+      "volume": "254",
+      "author": "H Adams",
+      "year": "2019",
+      "unstructured": "Adams, H., Mirth, J.: Metric thickenings of Euclidean submanifolds. Topol. Appl. 254, 69\u201384 (2019)",
+      "journal-title": "Topol. Appl."
+    },
+    {
+      "key": "2706_CR7",
+      "doi-asserted-by": "publisher",
+      "first-page": "193",
+      "DOI": "10.1007/s10711-013-9937-z",
+      "volume": "173",
+      "author": "F Chazal",
+      "year": "2014",
+      "unstructured": "Chazal, F., de Silva, V., Oudot, S.: Persistence stability for geometric complexes. Geom. Dedic. 173, 193 (2014)",
+      "journal-title": "Geom. Dedic."
+    },
+    {
+      "issue": "54",
+      "key": "2706_CR8",
+      "doi-asserted-by": "publisher",
+      "first-page": "2614",
+      "DOI": "10.21105/joss.02614",
+      "volume": "5",
+      "author": "M \u010cufar",
+      "year": "2020",
+      "unstructured": "\u010cufar, M.: Ripserer.jl: flexible and efficient persistent homology computation in Julia. J. Open Source Softw. 5(54), 2614 (2020). https://doi.org/10.21105/joss.02614",
+      "journal-title": "J. Open Source Softw."
+    },
+    {
+      "key": "2706_CR9",
+      "series-title": "Association for Women in Mathematics Series",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-319-89593-2_3",
+      "volume-title": "Research in Computational Topology",
+      "author": "E Gasparovic",
+      "year": "2018",
+      "unstructured": "Gasparovic, E., Gommel, M., Purvine, E., Sazdanovic, R., Wang, B., Wang, Y., Ziegelmeier, L.: A complete characterization of the $$1$$-dimensional intrinsic \u010cech persistence diagrams for metric graphs. In: Chambers, E., Fasy, B., Ziegelmeier, L. (eds.) Research in Computational Topology. Association for Women in Mathematics Series, vol. 13. Springer, Cham (2018)"
+    },
+    {
+      "key": "2706_CR10",
+      "doi-asserted-by": "publisher",
+      "first-page": "20",
+      "DOI": "10.1007/BF02564331",
+      "volume": "30",
+      "author": "H Huber",
+      "year": "1955",
+      "unstructured": "Huber, H.: Uber eine neue Klasse automorpher Funktionen und ein Gitterpunktproblem in der hyperbolischen Ebene. Comment. Math. Helv. 30, 20\u201362 (1955)",
+      "journal-title": "Comment. Math. Helv."
+    },
+    {
+      "key": "2706_CR11",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1007/BF01369663",
+      "volume": "138",
+      "author": "H Huber",
+      "year": "1959",
+      "unstructured": "Huber, H.: Zur analytischen Theorie hyperbolischer Raumformen und Bewegungsgruppen I. Math. Ann. 138, 1\u201326 (1959)",
+      "journal-title": "Math. Ann."
+    },
+    {
+      "key": "2706_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "385",
+      "DOI": "10.1007/BF01451031",
+      "volume": "142",
+      "author": "H Huber",
+      "year": "1961",
+      "unstructured": "Huber, H.: Zur analytischen Theorie hyperbolischer Raumformen und Bewegungsgruppen II. Math. Ann. 142, 385\u2013398 (1961)",
+      "journal-title": "Math. Ann."
+    },
+    {
+      "key": "2706_CR13",
+      "doi-asserted-by": "publisher",
+      "first-page": "463",
+      "DOI": "10.1007/BF01470758",
+      "volume": "143",
+      "author": "H Huber",
+      "year": "1961",
+      "unstructured": "Huber, H.: Zur analytischen Theorie hyperbolischer Raumformen und Bewegungsgruppen Nachtrag zu II. Math. Ann. 143, 463\u2013464 (1961)",
+      "journal-title": "Math. Ann."
+    },
+    {
+      "key": "2706_CR14",
+      "series-title": "Mathematical Surveys and Monographs",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1090/surv/137",
+      "volume-title": "Systolic Geometry and Topology",
+      "author": "MG Katz",
+      "year": "2007",
+      "unstructured": "Katz, M.G.: Systolic Geometry and Topology. Mathematical Surveys and Monographs, vol. 137. American Mathematical Society, Providence, RI (2007)"
+    },
+    {
+      "key": "2706_CR15",
+      "doi-asserted-by": "publisher",
+      "first-page": "73",
+      "DOI": "10.3336/gm.57.1.06",
+      "volume": "2",
+      "author": "B Leme\u017e",
+      "year": "2022",
+      "unstructured": "Leme\u017e, B., Virk, \u017d.: Reconstruction properties of selective Rips complexes. Glasnik Matematicki 57 2, 73\u201388 (2022)",
+      "journal-title": "Glasnik Matematicki 57"
+    },
+    {
+      "key": "2706_CR16",
+      "doi-asserted-by": "publisher",
+      "first-page": "169",
+      "DOI": "10.1142/S1793525319500444",
+      "volume": "12",
+      "author": "\u017d. Virk",
+      "year": "2020",
+      "unstructured": "Virk, \u017d.: 1-Dimensional intrinsic persistence of geodesic spaces. J. Topol. Anal. 12, 169\u2013207 (2020)",
+      "journal-title": "J. Topol. Anal."
+    },
+    {
+      "key": "2706_CR17",
+      "doi-asserted-by": "publisher",
+      "first-page": "195",
+      "DOI": "10.1007/s13163-018-0275-4",
+      "volume": "32",
+      "author": "\u017d. Virk",
+      "year": "2019",
+      "unstructured": "Virk, \u017d.: Approximations of $$1$$-dimensional intrinsic persistence of geodesic spaces and their stability. Revista Matem\u00e1tica Complutense 32, 195\u2013213 (2019)",
+      "journal-title": "Revista Matem\u00e1tica Complutense"
+    },
+    {
+      "key": "2706_CR18",
+      "doi-asserted-by": "publisher",
+      "first-page": "469",
+      "DOI": "10.1007/s10208-021-09510-2",
+      "volume": "22",
+      "author": "\u017d. Virk",
+      "year": "2021",
+      "unstructured": "Virk, \u017d.: A counter-example to Hausmann\u2019s conjecture. Found. Comput. Math. 22, 469\u2013475 (2021)",
+      "journal-title": "Found. Comput. Math."
+    },
+    {
+      "key": "2706_CR19",
+      "doi-asserted-by": "publisher",
+      "first-page": "160",
+      "DOI": "10.1007/s00009-022-02089-0",
+      "volume": "19",
+      "author": "\u017d. Virk",
+      "year": "2022",
+      "unstructured": "Virk, \u017d.: Footprints of geodesics in persistent homology. Mediterr. J. Math. 19, 160 (2022)",
+      "journal-title": "Mediterr. J. Math."
+    },
+    {
+      "key": "2706_CR20",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Virk, \u017d.: Rips complexes as nerves and a functorial Dowker-nerve diagram. Mediterr. J. Math. 18, 58 (2021)",
+      "DOI": "10.1007/s00009-021-01699-4"
+    }
+  ],
+  "container-title": [
+    "Mediterranean Journal of Mathematics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s00009-024-02706-0.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1007/s00009-024-02706-0/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s00009-024-02706-0.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        7
+      ]
+    ],
+    "date-time": "2024-08-07T17:14:44Z",
+    "timestamp": 1723050884000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/s00009-024-02706-0"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        7
+      ]
+    ]
+  },
+  "references-count": 20,
+  "journal-issue": {
+    "issue": "6",
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          9
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "2706"
+  ],
+  "URL": "https://doi.org/10.1007/s00009-024-02706-0",
+  "relation": {},
+  "ISSN": [
+    "1660-5446",
+    "1660-5454"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "1660-5446"
+    },
+    {
+      "type": "electronic",
+      "value": "1660-5454"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        7
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "9 February 2024",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "12 June 2024",
+      "order": 2,
+      "name": "revised",
+      "label": "Revised",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "23 July 2024",
+      "order": 3,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "7 August 2024",
+      "order": 4,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Declarations"
+      }
+    },
+    {
+      "value": "The authors declare no Conflict of interest.",
+      "order": 2,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Conflict of interest"
+      }
+    }
+  ],
+  "article-number": "170"
+}

@@ -1,0 +1,498 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        10
+      ]
+    ],
+    "date-time": "2025-10-10T00:38:12Z",
+    "timestamp": 1760056692618,
+    "version": "build-2065373602"
+  },
+  "reference-count": 33,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "30",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            12,
+            18
+          ]
+        ],
+        "date-time": "2024-12-18T00:00:00Z",
+        "timestamp": 1734480000000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            12,
+            18
+          ]
+        ],
+        "date-time": "2024-12-18T00:00:00Z",
+        "timestamp": 1734480000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100001602",
+      "name": "Science Foundation Ireland",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "18/CRT/6183"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "18/CRT/6183"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001602",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Neural Comput &amp; Applic"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2025,
+        10
+      ]
+    ]
+  },
+  "DOI": "10.1007/s00521-024-10510-w",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        18
+      ]
+    ],
+    "date-time": "2024-12-18T14:53:45Z",
+    "timestamp": 1734533625000
+  },
+  "page": "24869-24881",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Large Language Model XAI approach for illicit activity Investigation in Bitcoin"
+  ],
+  "prefix": "10.1007",
+  "volume": "37",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-2093-5730",
+      "authenticated-orcid": false,
+      "given": "Jack",
+      "family": "Nicholls",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Aditya",
+      "family": "Kuppa",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Nhien-An",
+      "family": "Le-Khac",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        18
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "10510_CR1",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1109/access.2021.3134076",
+      "volume": "9",
+      "author": "J Nicholls",
+      "year": "2021",
+      "unstructured": "Nicholls J, Kuppa A, Le-Khac N-A (2021) Financial cybercrime: a comprehensive survey of deep learning approaches to tackle the evolving financial crime landscape. IEEE Access 9:1\u20131. https://doi.org/10.1109/access.2021.3134076",
+      "journal-title": "IEEE Access"
+    },
+    {
+      "key": "10510_CR2",
+      "unstructured": "Chainalysis: Chainalysis 2024 Crypto Crime Report. https://www.chainalysis.com/blog/2024-crypto-crime-report-introduction/. Last accessed 22 Mar 2024"
+    },
+    {
+      "key": "10510_CR3",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Bergman K, Rajput S (2021) Revealing and concealing bitcoin identities: a survey of techniques. In: Proceedings of the 3rd ACM international symposium on blockchain and secure critical infrastructure. BSCI\u201921, pp. 13\u201324. Association for Computing Machinery, New York. https://doi.org/10.1145/3457337.3457838",
+      "DOI": "10.1145/3457337.3457838"
+    },
+    {
+      "key": "10510_CR4",
+      "unstructured": "Weber M, Weidele DKI, Domeniconi G, Bellei C, Leiserson CE, Chen J, Robinson T (2019) Anti-money laundering in bitcoin: experimenting with graph convolutional networks for financial forensics. arXiv arXiv:1908.02591"
+    },
+    {
+      "key": "10510_CR5",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Nicholls J, Kuppa A, Le-Khac N-A (2024) The next phase of identifying illicit activity in bitcoin. Int J Network Manag 2259",
+      "DOI": "10.1002/nem.2259"
+    },
+    {
+      "issue": "5",
+      "key": "10510_CR6",
+      "first-page": "1172",
+      "volume": "14",
+      "author": "ER Mill",
+      "year": "2023",
+      "unstructured": "Mill ER, Garn W, Ryman-Tubb NF, Turner C (2023) Opportunities in real time fraud detection: an explainable artificial intelligence (xai) research agenda. Int J Adv Comput Sci Appl 14(5):1172\u20131186",
+      "journal-title": "Int J Adv Comput Sci Appl"
+    },
+    {
+      "key": "10510_CR7",
+      "unstructured": "OpenAI: Introducing ChatGPT. https://openai.com/blog/chatgpt. Last accessed: 22 Mar"
+    },
+    {
+      "key": "10510_CR8",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Crawford J, Guan Y (2020) Knowing your bitcoin customer: money laundering in the bitcoin economy. In: Proceedings\u20142020 13th systematic approaches to digital forensic engineering, SADFE 2020, 38\u201345 https://doi.org/10.1109/SADFE51007.2020.00013",
+      "DOI": "10.1109/SADFE51007.2020.00013"
+    },
+    {
+      "key": "10510_CR9",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Zhou L, Xiong X, Ernstberger J, Chaliasos S, Wang Z, Wang Y, Qin K, Wattenhofer R, Song D, Gervais A (2023) Sok: decentralized finance (defi) attacks. In: 2023 IEEE symposium on security and privacy (SP), pp 2444\u20132461. https://doi.org/10.1109/SP46215.2023.10179435",
+      "DOI": "10.1109/SP46215.2023.10179435"
+    },
+    {
+      "key": "10510_CR10",
+      "unstructured": "Zhao WX, Zhou K, Li J, Tang T, Wang X, Hou Y, Min Y, Zhang B, Zhang J, Dong Z, Du Y, Yang C, Chen Y, Chen Z, Jiang J, Ren R, Li Y, Tang X, Liu Z, Liu P, Nie J-Y, Wen J-R (2023) A survey of large language models"
+    },
+    {
+      "key": "10510_CR11",
+      "unstructured": "Vaswani A, Shazeer N, Parmar N, Uszkoreit J, Jones L, Gomez AN, Kaiser L, Polosukhin I (2017) Attention is all you need. arXiv arXiv:1706.03762"
+    },
+    {
+      "key": "10510_CR12",
+      "unstructured": "Yang J, Jin H, Tang R, Han X, Feng Q, Jiang H, Yin B, Hu X (2023) Harnessing the power of llms in practice: a survey on chatgpt and beyond. arXiv arXiv:2304.13712"
+    },
+    {
+      "key": "10510_CR13",
+      "unstructured": "OpenAI: OpenAI GPT-3 models [text-davinci-003]. https://platform.openai.com/docs/models/gpt-3-5. Last accessed 22 Mar 2024"
+    },
+    {
+      "key": "10510_CR14",
+      "unstructured": "Ma P, Li Z, Sun A, Wang S (2023) oops, did i just say that?\u201d testing and repairing unethical suggestions of large language models with suggest-critique-reflect process. arXiv arXiv:2305.02626"
+    },
+    {
+      "key": "10510_CR15",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Dong Y, Luo K, Jiang X, Jin Z, Li G (2023) Pace: improving prompt with actor-critic editing for large language model. arXiv arXiv:2308.10088",
+      "DOI": "10.18653/v1/2024.findings-acl.436"
+    },
+    {
+      "key": "10510_CR16",
+      "first-page": "24991",
+      "volume": "35",
+      "author": "Y Gorishniy",
+      "year": "2022",
+      "unstructured": "Gorishniy Y, Rubachev I, Babenko A (2022) On embeddings for numerical features in tabular deep learning. Adv Neural Inf Process Syst 35:24991\u201325004",
+      "journal-title": "Adv Neural Inf Process Syst"
+    },
+    {
+      "key": "10510_CR17",
+      "unstructured": "Ferrag MA, Ndhlovu M, Tihanyi N, Cordeiro LC, Debbah M, Lestable T (2023) Revolutionizing cyber threat detection with large language models. arXiv arXiv:2306.14263"
+    },
+    {
+      "key": "10510_CR18",
+      "unstructured": "Sakaoglu S (2023) Kartal: web application vulnerability hunting using large language models"
+    },
+    {
+      "key": "10510_CR19",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Li L, Gong B (2023) Prompting large language models for malicious webpage detection. In: 2023 IEEE 4th international conference on pattern recognition and machine learning (PRML), pp 393\u2013400. https://doi.org/10.1109/PRML59573.2023.10348229",
+      "DOI": "10.1109/PRML59573.2023.10348229"
+    },
+    {
+      "key": "10510_CR20",
+      "unstructured": "Yang Y, Tang Y, Tam KY (2023) Investlm: a large language model for investment using financial domain instruction tuning. arXiv arXiv:2309.13064"
+    },
+    {
+      "issue": "2",
+      "key": "10510_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "806",
+      "DOI": "10.1111/1911-3846.12832",
+      "volume": "40",
+      "author": "AH Huang",
+      "year": "2023",
+      "unstructured": "Huang AH, Wang H, Yang Y (2023) Finbert: a large language model for extracting information from financial text*. Contemp Account Res 40(2):806\u2013841. https://doi.org/10.1111/1911-3846.12832",
+      "journal-title": "Contemp Account Res"
+    },
+    {
+      "key": "10510_CR22",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Cirqueira D, Nedbal D, Helfert M, Bezbradica M (2020) Scenario-based requirements elicitation for user-centric explainable ai: a case in fraud detection, vol 12279 LNCS. Springer, pp 321\u2013341. https://doi.org/10.1007/978-3-030-57321-8_18",
+      "DOI": "10.1007/978-3-030-57321-8_18"
+    },
+    {
+      "key": "10510_CR23",
+      "unstructured": "Ali T, Kostakos P (2023) Huntgpt: integrating machine learning-based anomaly detection and explainable ai with large language models (llms). arXiv arXiv:2309.16021"
+    },
+    {
+      "key": "10510_CR24",
+      "unstructured": "Radford A, Kim JW, Hallacy C, Ramesh A, Goh G, Agarwal S, Sastry G, Askell A, Mishkin P, Clark J, Krueger G, Sutskever I (2021) Learning transferable visual models from natural language supervision. In: Meila M, Zhang T (eds) Proceedings of the 38th international conference on machine learning. Proceedings of machine learning research, vol 139. PMLR, pp 8748\u20138763. https://proceedings.mlr.press/v139/radford21a.html"
+    },
+    {
+      "key": "10510_CR25",
+      "unstructured": "Zhang C, Zhang C, Zheng S, Qiao Y, Li C, Zhang M, Dam SK, Thwal CM, Tun YL, Huy LL, kim D, Bae S-H, Lee L-H, Yang Y, Shen HT, Kweon IS, Hong CS (2023) A complete survey on generative ai (aigc): is chatgpt from gpt-4 to gpt-5 all you need? arXiv arXiv:2303.11717"
+    },
+    {
+      "key": "10510_CR26",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Chen Z, Mao H, Li H, Jin W, Wen H, Wei X, Wang S, Yin D, Fan W, Liu H, Tang J (2023) Exploring the potential of large language models (LLMs) in learning on graphs. arXiv:2307.03393",
+      "DOI": "10.1145/3655103.3655110"
+    },
+    {
+      "key": "10510_CR27",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Elmougy Y, Liu L (2023) Demystifying fraudulent transactions and illicit nodes in the bitcoin network for financial forensics. In: Proceedings of the 29th ACM SIGKDD conference on knowledge discovery and data mining. KDD\u201923. Association for Computing Machinery, New York, pp 3979\u20133990. https://doi.org/10.1145/3580305.3599803",
+      "DOI": "10.1145/3580305.3599803"
+    },
+    {
+      "key": "10510_CR28",
+      "unstructured": "OpenAI: GPT-3.5 turbo fine-tuning and API updates. https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates. Last accessed: 22 Mar 2024"
+    },
+    {
+      "key": "10510_CR29",
+      "unstructured": "OpenAI: New and improved embedding model. https://openai.com/blog/new-and-improved-embedding-model. Last accessed 22 Mar 2024"
+    },
+    {
+      "key": "10510_CR30",
+      "unstructured": "OpenAI: GPT-4. https://openai.com/research/gpt-4. Last accessed 22 Mar 2024"
+    },
+    {
+      "key": "10510_CR31",
+      "doi-asserted-by": "publisher",
+      "first-page": "175",
+      "DOI": "10.36548/jtcsst.2022.3.006",
+      "volume": "4",
+      "author": "S Sivaraju",
+      "year": "2022",
+      "unstructured": "Sivaraju S (2022) An insight into deep learning based cryptojacking detection model. J Trends Comput Sci Smart Technol 4:175\u2013184. https://doi.org/10.36548/jtcsst.2022.3.006",
+      "journal-title": "J Trends Comput Sci Smart Technol"
+    },
+    {
+      "issue": "3",
+      "key": "10510_CR32",
+      "first-page": "153",
+      "volume": "4",
+      "author": "S Henriques",
+      "year": "2022",
+      "unstructured": "Henriques S, Lewis S, Kotian G (2022) An iot-based vending machine using blockchain for enhanced security. J IoT Soc Mobile Anal Cloud 4(3):153\u2013164",
+      "journal-title": "J IoT Soc Mobile Anal Cloud"
+    },
+    {
+      "key": "10510_CR33",
+      "unstructured": "Elliptic Bitcoin Dataset. https://www.kaggle.com/ellipticco/elliptic-data-set"
+    }
+  ],
+  "container-title": [
+    "Neural Computing and Applications"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s00521-024-10510-w.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1007/s00521-024-10510-w/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s00521-024-10510-w.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        9
+      ]
+    ],
+    "date-time": "2025-10-09T12:37:34Z",
+    "timestamp": 1760013454000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/s00521-024-10510-w"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        18
+      ]
+    ]
+  },
+  "references-count": 33,
+  "journal-issue": {
+    "issue": "30",
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          10
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10510"
+  ],
+  "URL": "https://doi.org/10.1007/s00521-024-10510-w",
+  "relation": {},
+  "ISSN": [
+    "0941-0643",
+    "1433-3058"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "0941-0643"
+    },
+    {
+      "type": "electronic",
+      "value": "1433-3058"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        18
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "5 April 2024",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "30 September 2024",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "18 December 2024",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Declarations"
+      }
+    },
+    {
+      "value": "The authors of this paper declare that we have no conflict of interest regarding the submission of this paper nor conflict of interest.",
+      "order": 2,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Conflict of interest"
+      }
+    }
+  ]
+}

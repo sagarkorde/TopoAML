@@ -1,0 +1,40 @@
+{
+  "git_commit_at_audit": "96f7d4a67488a818dd3aad7ab083ec31d214b14f",
+  "model_runs": {
+    "tabular": {
+      "complete": 75,
+      "expected": 75
+    },
+    "graph": {
+      "complete": 40,
+      "expected": 40
+    },
+    "elliptic2": {
+      "complete": 20,
+      "expected": 20
+    }
+  },
+  "prediction_metric_checks_passed": 135,
+  "primary_comparison": {
+    "delta": 0.0003154587696341804,
+    "ci95": [
+      -0.004063312639881259,
+      0.007246605387822358
+    ],
+    "blocks": 10,
+    "replicates": 2000,
+    "scope": "conditional on fitted models; temporal blocks do not eliminate all graph dependence",
+    "seeds": 5,
+    "estimator": "AP difference of equal-weight seed ensembles"
+  },
+  "full_study_complete": false,
+  "blockers": [
+    "Full-text and indexing audit of all 40 leads incomplete",
+    "Full-background Elliptic2 baselines not reproduced",
+    "Wider predictive robustness and matched-capacity fusion incomplete",
+    "Historical within-step and label-availability timestamps not released",
+    "Human author details/declarations/approval pending",
+    "Current Scopus source quartile not independently verified",
+    "Full GPU pipeline not rerun in a fresh isolated environment"
+  ]
+}

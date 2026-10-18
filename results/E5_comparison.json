@@ -1,0 +1,20 @@
+[
+  {
+    "family": "random_forest",
+    "delta": -0.0005198813050383382,
+    "ci95": [
+      -0.0024168120926490923,
+      0.00028350580378532197
+    ],
+    "scope": "paired stratified subgraph bootstrap; conditional on class counts and fitted models; no shared nodes, broader source dependence unresolved"
+  },
+  {
+    "family": "xgboost",
+    "delta": 0.0001051302978710214,
+    "ci95": [
+      -0.000534454372222141,
+      0.0007863149239080565
+    ],
+    "scope": "paired stratified subgraph bootstrap; conditional on class counts and fitted models; no shared nodes, broader source dependence unresolved"
+  }
+]

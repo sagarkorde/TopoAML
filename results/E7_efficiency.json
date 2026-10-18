@@ -1,0 +1,9 @@
+{
+  "targets": 46564,
+  "total_recorded_extraction_seconds": 100.89115119992988,
+  "total_recorded_ph_seconds": 82.46246479999485,
+  "median_extraction_seconds": 0.00088204999974545,
+  "median_ph_seconds": 0.0005917999988014,
+  "environment": "Windows-11-10.0.26300-SP0",
+  "memory_note": "E6 rows contain instantaneous process RSS, not whole-pipeline peak RAM"
+}

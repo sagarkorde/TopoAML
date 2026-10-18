@@ -1,0 +1,20 @@
+{
+  "name": "random_forest_S_seed22",
+  "seed": 22,
+  "family": "random_forest",
+  "group": "S",
+  "threshold": 0.5121318681278618,
+  "test": {
+    "average_precision": 0.026265867776332583,
+    "roc_auc": 0.5246061404801748,
+    "precision": 0.02783109404990403,
+    "recall": 0.29896907216494845,
+    "f1": 0.050921861281826165,
+    "balanced_accuracy": 0.5216880684626256,
+    "recall_at_fpr_01": 0.01718213058419244,
+    "precision_at_100": 0.06,
+    "brier": 0.240516792601923,
+    "ece_10": 0.4589374846808124
+  },
+  "seconds": 0.6681713000016316
+}

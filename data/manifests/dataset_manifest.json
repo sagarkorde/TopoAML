@@ -1,0 +1,88 @@
+{
+  "dataset": "Elliptic++ transaction release",
+  "samples": 203769,
+  "nodes": 203769,
+  "edges": 234355,
+  "labels": {
+    "3": 157205,
+    "2": 42019,
+    "1": 4545
+  },
+  "missing": 14475,
+  "time_steps": [
+    1,
+    49
+  ],
+  "split_counts": {
+    "1": {
+      "test": 636,
+      "train": 2954,
+      "validation": 955
+    },
+    "2": {
+      "test": 10548,
+      "train": 23951,
+      "validation": 7520
+    },
+    "3": {
+      "test": 35463,
+      "train": 96382,
+      "validation": 25360
+    }
+  },
+  "split_sha256": "dfb066acee5ac15ca33a176d30e799dfa1d0644877b127c80d10f06e39c39541",
+  "dag": true,
+  "backward_time_edges": 0,
+  "same_step_edges": 234355,
+  "feature_policy": [
+    "total_BTC",
+    "fees",
+    "size",
+    "num_input_addresses",
+    "num_output_addresses",
+    "in_BTC_min",
+    "in_BTC_max",
+    "in_BTC_mean",
+    "in_BTC_median",
+    "in_BTC_total",
+    "out_BTC_min",
+    "out_BTC_max",
+    "out_BTC_mean",
+    "out_BTC_median",
+    "out_BTC_total"
+  ],
+  "limitations": [
+    "Opaque and aggregate features excluded; upstream normalization cannot be reconstructed.",
+    "Original Elliptic overlap: not an independent replication.",
+    "No within-step observation or label-availability timestamps.",
+    "Dataset license not verified; raw files excluded from Git."
+  ],
+  "acquisition": {
+    "source": "https://github.com/git-disl/EllipticPlusPlus",
+    "commit": "08fe6aded83afb97bf5a79a71130f542ca783c2e",
+    "license": "No explicit dataset license verified; do not redistribute raw data",
+    "files": [
+      {
+        "name": "txs_classes.csv",
+        "sha256": "013a11742969071a906878ded0319571df0657f9b7133e5c6cdb36217bf0d240",
+        "bytes": 2361914,
+        "url": "https://media.githubusercontent.com/media/git-disl/EllipticPlusPlus/08fe6aded83afb97bf5a79a71130f542ca783c2e/Transactions%20Dataset/txs_classes.csv",
+        "download_date": "2026-10-17T23:52:30.215928+00:00"
+      },
+      {
+        "name": "txs_edgelist.csv",
+        "sha256": "a35053ba68a98e4382cae2ba65b9d9e36b23b6439e02dff084971b1b72a5156e",
+        "bytes": 4470584,
+        "url": "https://media.githubusercontent.com/media/git-disl/EllipticPlusPlus/08fe6aded83afb97bf5a79a71130f542ca783c2e/Transactions%20Dataset/txs_edgelist.csv",
+        "download_date": "2026-10-17T23:52:31.644743+00:00"
+      },
+      {
+        "name": "txs_features.csv",
+        "sha256": "2db326ec8ddb68f1d810c1834e1ff62e0a8300378f0984a1e3b2ca82a439821b",
+        "bytes": 694789588,
+        "url": "https://media.githubusercontent.com/media/git-disl/EllipticPlusPlus/08fe6aded83afb97bf5a79a71130f542ca783c2e/Transactions%20Dataset/txs_features.csv",
+        "download_date": "2026-10-17T23:53:27.082509+00:00"
+      }
+    ]
+  }
+}

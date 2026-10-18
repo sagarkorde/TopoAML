@@ -1,0 +1,535 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        19
+      ]
+    ],
+    "date-time": "2026-01-19T03:52:41Z",
+    "timestamp": 1768794761467,
+    "version": "3.49.0"
+  },
+  "reference-count": 25,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            5,
+            1
+          ]
+        ],
+        "date-time": "2024-05-01T00:00:00Z",
+        "timestamp": 1714521600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            5,
+            1
+          ]
+        ],
+        "date-time": "2024-05-01T00:00:00Z",
+        "timestamp": 1714521600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            3,
+            25
+          ]
+        ],
+        "date-time": "2024-03-25T00:00:00Z",
+        "timestamp": 1711324800000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "softwareimpacts.com",
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Software Impacts"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        5
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.simpa.2024.100637",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        28
+      ]
+    ],
+    "date-time": "2024-03-28T15:57:29Z",
+    "timestamp": 1711641449000
+  },
+  "page": "100637",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 2,
+  "special_numbering": "C",
+  "title": [
+    "FinTDA: Python package for estimating market change through persistent homology diagrams"
+  ],
+  "prefix": "10.1016",
+  "volume": "20",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-7039-0572",
+      "authenticated-orcid": false,
+      "given": "Hugo Gobato",
+      "family": "Souto",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2626-6811",
+      "authenticated-orcid": false,
+      "given": "Ismail",
+      "family": "Baris",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0000-2114-3316",
+      "authenticated-orcid": false,
+      "given": "Storm Koert",
+      "family": "Heuvel",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-1169-7192",
+      "authenticated-orcid": false,
+      "given": "Amir",
+      "family": "Moradi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "issue": "1",
+      "key": "10.1016/j.simpa.2024.100637_b1",
+      "doi-asserted-by": "crossref",
+      "first-page": "49",
+      "DOI": "10.1016/j.finmar.2005.12.001",
+      "article-title": "Market structure, fragmentation, and market quality",
+      "volume": "9",
+      "author": "Bennett",
+      "year": "2006",
+      "journal-title": "J. Financial Mark."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.simpa.2024.100637_b2",
+      "doi-asserted-by": "crossref",
+      "first-page": "617",
+      "DOI": "10.1111/0022-1082.00339",
+      "article-title": "Banking market structure, financial dependence and growth: International evidence from industry data",
+      "volume": "56",
+      "author": "Cetorelli",
+      "year": "2001",
+      "journal-title": "J. Finance"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.simpa.2024.100637_b3",
+      "doi-asserted-by": "crossref",
+      "first-page": "129",
+      "DOI": "10.1080/1226508X.2010.483834",
+      "article-title": "Volatility spillovers between the US and China stock markets: Structural break test with symmetric and asymmetric GARCH approaches",
+      "volume": "39",
+      "author": "Moon",
+      "year": "2010",
+      "journal-title": "Glob. Econ. Rev."
+    },
+    {
+      "key": "10.1016/j.simpa.2024.100637_b4",
+      "doi-asserted-by": "crossref",
+      "first-page": "331",
+      "DOI": "10.1016/j.jbankfin.2013.12.023",
+      "article-title": "Structural breaks in volatility spillovers between international financial markets: Contagion or mere interdependence?",
+      "volume": "47",
+      "author": "Jung",
+      "year": "2014",
+      "journal-title": "J. Bank. Financ."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.simpa.2024.100637_b5",
+      "article-title": "Forecasting realized volatility through financial turbulence and neural networks",
+      "volume": "9",
+      "author": "Souto",
+      "year": "2023",
+      "journal-title": "Pozna\u0144 Univ. Econ. Rev."
+    },
+    {
+      "key": "10.1016/j.simpa.2024.100637_b6",
+      "doi-asserted-by": "crossref",
+      "first-page": "12",
+      "DOI": "10.1016/j.gfj.2015.04.008",
+      "article-title": "Volatility spillovers between oil prices and the stock market under structural breaks",
+      "volume": "29",
+      "author": "Ewing",
+      "year": "2016",
+      "journal-title": "Glob. Finance J."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.simpa.2024.100637_b7",
+      "doi-asserted-by": "crossref",
+      "first-page": "80",
+      "DOI": "10.3905/jot.2018.13.4.080",
+      "article-title": "Commentary: A market structure that fits the needs of portfolio managers",
+      "volume": "13",
+      "author": "Polk",
+      "year": "2018",
+      "journal-title": "J. Trading"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.simpa.2024.100637_b8",
+      "doi-asserted-by": "crossref",
+      "first-page": "1501",
+      "DOI": "10.1016/j.ejor.2005.07.035",
+      "article-title": "A dynamic stochastic programming model for international portfolio management",
+      "volume": "185",
+      "author": "Topaloglou",
+      "year": "2008",
+      "journal-title": "European J. Oper. Res."
+    },
+    {
+      "key": "10.1016/j.simpa.2024.100637_b9",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.eswa.2023.122802",
+      "article-title": "Introducing NBEATSX to realized volatility forecasting",
+      "volume": "242",
+      "author": "Souto",
+      "year": "2024",
+      "journal-title": "Expert Syst. Appl."
+    },
+    {
+      "key": "10.1016/j.simpa.2024.100637_b10",
+      "series-title": "Dynamic correlations, estimation risk, and portfolio management during the financial crisis",
+      "author": "Garc\u00eda-\u00c1lvarez",
+      "year": "2011"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.simpa.2024.100637_b11",
+      "doi-asserted-by": "crossref",
+      "first-page": "298",
+      "DOI": "10.1007/s11146-010-9239-2",
+      "article-title": "Dynamic correlations among asset classes: REIT and stock returns",
+      "volume": "44",
+      "author": "Case",
+      "year": "2010",
+      "journal-title": "J. Real Estate Finance Econ."
+    },
+    {
+      "key": "10.1016/j.simpa.2024.100637_b12",
+      "series-title": "Springer Proceedings in Complexity",
+      "doi-asserted-by": "crossref",
+      "first-page": "47",
+      "DOI": "10.1007/978-3-319-55471-6_5",
+      "article-title": "Topological data analysis of critical transitions in financial networks",
+      "author": "Gidea",
+      "year": "2017"
+    },
+    {
+      "key": "10.1016/j.simpa.2024.100637_b13",
+      "doi-asserted-by": "crossref",
+      "first-page": "820",
+      "DOI": "10.1016/j.physa.2017.09.028",
+      "article-title": "Topological data analysis of financial time series: Landscapes of crashes",
+      "volume": "491",
+      "author": "Gidea",
+      "year": "2018",
+      "journal-title": "Physica D"
+    },
+    {
+      "key": "10.1016/j.simpa.2024.100637_b14",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.physa.2021.126459",
+      "article-title": "Early warning signals of financial crises using persistent homology",
+      "volume": "586",
+      "author": "Ismail",
+      "year": "2022",
+      "journal-title": "Physica A"
+    },
+    {
+      "key": "10.1016/j.simpa.2024.100637_b15",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.eswa.2020.113475",
+      "article-title": "Refining understanding of corporate failure through a topological data analysis mapping of Altman\u2019s Z-score model",
+      "volume": "156",
+      "author": "Qiu",
+      "year": "2020",
+      "journal-title": "Expert Syst. Appl."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.simpa.2024.100637_b16",
+      "doi-asserted-by": "crossref",
+      "first-page": "277",
+      "DOI": "10.1007/s11408-020-00377-x",
+      "article-title": "The better turbulence index? Forecasting adverse financial markets regimes with persistent homology",
+      "volume": "35",
+      "author": "Baitinger",
+      "year": "2021",
+      "journal-title": "Financial Mark. Portfolio Manag."
+    },
+    {
+      "key": "10.1016/j.simpa.2024.100637_b17",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.eswa.2020.113222",
+      "article-title": "Topological data analysis in investment decisions",
+      "volume": "147",
+      "author": "Goel",
+      "year": "2020",
+      "journal-title": "Expert Syst. Appl."
+    },
+    {
+      "key": "10.1016/j.simpa.2024.100637_b18",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.jfds.2023.100107",
+      "article-title": "Topological tail dependence: Evidence from forecasting realized volatility",
+      "volume": "9",
+      "author": "Souto",
+      "year": "2023",
+      "journal-title": "J. Finance Data Sci."
+    },
+    {
+      "key": "10.1016/j.simpa.2024.100637_b19",
+      "article-title": "A novel loss function for neural network models exploring stock realized volatility using Wasserstein distance",
+      "volume": "10",
+      "author": "Souto",
+      "year": "2024",
+      "journal-title": "Decis. Anal. J."
+    },
+    {
+      "key": "10.1016/j.simpa.2024.100637_b20",
+      "article-title": "Statistical topological data analysis using persistence landscapes",
+      "author": "Bubenik",
+      "year": "2015",
+      "journal-title": "J. Mach. Learn. Res."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.simpa.2024.100637_b21",
+      "doi-asserted-by": "crossref",
+      "first-page": "255",
+      "DOI": "10.1090/S0273-0979-09-01249-X",
+      "article-title": "Topology and data",
+      "volume": "46",
+      "author": "Carlsson",
+      "year": "2009",
+      "journal-title": "Bull. Amer. Math. Soc."
+    },
+    {
+      "key": "10.1016/j.simpa.2024.100637_b22",
+      "first-page": "501",
+      "article-title": "Annual review of statistics and its application topological data analysis",
+      "volume": "5",
+      "author": "Wasserman",
+      "year": "2017",
+      "journal-title": "Ann. Rev."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.simpa.2024.100637_b23",
+      "doi-asserted-by": "crossref",
+      "first-page": "337",
+      "DOI": "10.4310/HHA.2007.v9.n2.a12",
+      "article-title": "A statistical approach to persistent homology",
+      "volume": "9",
+      "author": "Bubenik",
+      "year": "2007",
+      "journal-title": "Homology, Homotopy Appl."
+    },
+    {
+      "key": "10.1016/j.simpa.2024.100637_b24",
+      "series-title": "Persistent homology: Theory and practice",
+      "first-page": "31",
+      "author": "Edelsbrunner",
+      "year": "2013"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.simpa.2024.100637_b25",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1140/epjds/s13688-017-0109-5",
+      "article-title": "A roadmap for the computation of persistent homology",
+      "volume": "6",
+      "author": "Otter",
+      "year": "2017",
+      "journal-title": "EPJ Data Sci."
+    }
+  ],
+  "container-title": [
+    "Software Impacts"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S2665963824000253?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S2665963824000253?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        30
+      ]
+    ],
+    "date-time": "2024-05-30T20:45:00Z",
+    "timestamp": 1717101900000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2665963824000253"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        5
+      ]
+    ]
+  },
+  "references-count": 25,
+  "alternative-id": [
+    "S2665963824000253"
+  ],
+  "URL": "https://doi.org/10.1016/j.simpa.2024.100637",
+  "relation": {},
+  "ISSN": [
+    "2665-9638"
+  ],
+  "issn-type": [
+    {
+      "value": "2665-9638",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        5
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "FinTDA: Python package for estimating market change through persistent homology diagrams",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Software Impacts",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.simpa.2024.100637",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.jfds.2023.100107",
+      "name": "associatedlink",
+      "label": "CrossRef DOI link to the associated document"
+    },
+    {
+      "value": "simple-article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "\u00a9 2024 The Author(s). Published by Elsevier B.V.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "100637"
+}

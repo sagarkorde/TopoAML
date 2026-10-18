@@ -1,0 +1,620 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        25
+      ]
+    ],
+    "date-time": "2026-03-25T22:43:32Z",
+    "timestamp": 1774478612217,
+    "version": "3.50.1"
+  },
+  "reference-count": 34,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "3",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            1
+          ]
+        ],
+        "date-time": "2024-07-01T00:00:00Z",
+        "timestamp": 1719792000000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            1
+          ]
+        ],
+        "date-time": "2024-07-01T00:00:00Z",
+        "timestamp": 1719792000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100001659",
+      "name": "Deutsche Forschungsgemeinschaft",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "SFB-TR109"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "SFB-TR109"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001659",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100005713",
+      "name": "Technische Universit\u00e4t M\u00fcnchen",
+      "doi-asserted-by": "crossref",
+      "id": [
+        {
+          "id": "10.13039/501100005713",
+          "id-type": "DOI",
+          "asserted-by": "crossref"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "J Appl. and Comput. Topology"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        9
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>The extended persistence diagram is an invariant of piecewise linear functions, which is known to be stable under perturbations of functions with respect to the bottleneck distance as introduced by Cohen\u2013Steiner, Edelsbrunner, and Harer. We address the question of universality, which asks for the largest possible stable distance on extended persistence diagrams, showing that a more discriminative variant of the bottleneck distance is universal. Our result applies more generally to settings where persistence diagrams are considered only up to a certain degree. We achieve our results by establishing a functorial construction and several characteristic properties of relative interlevel set homology, which mirror the classical Eilenberg\u2013Steenrod axioms. Finally, we contrast the bottleneck distance with the interleaving distance of sheaves on the real line by showing that the latter is not intrinsic, let alone universal. This particular result has the further implication that the interleaving distance of Reeb graphs is not intrinsic either.\n</jats:p>",
+  "DOI": "10.1007/s41468-024-00184-7",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        1
+      ]
+    ],
+    "date-time": "2024-07-01T21:01:45Z",
+    "timestamp": 1719867705000
+  },
+  "page": "475-530",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 3,
+  "title": [
+    "Universal distances for extended persistence"
+  ],
+  "prefix": "10.1007",
+  "volume": "8",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-9683-0724",
+      "authenticated-orcid": false,
+      "given": "Ulrich",
+      "family": "Bauer",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-7605-4422",
+      "authenticated-orcid": false,
+      "given": "Magnus Bakke",
+      "family": "Botnan",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5730-0106",
+      "authenticated-orcid": false,
+      "given": "Benedikt",
+      "family": "Fluhr",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        1
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "184_CR1",
+      "unstructured": "Bauer, U., Bakke Botnan, M., Fluhr, B.: Structure and Interleavings of Relative Interlevel Set Cohomology. arXiv:2108.09298v3 (2022)"
+    },
+    {
+      "key": "184_CR2",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Bauer, U., Bjerkevik, H.B., Fluhr, B.: Quasi-universality of Reeb graph distances. In: 38th International Symposium on Computational Geometry (SoCG 2022). LIPIcs. Leibniz Int. Proc. Inform., vol. 224, pp. 14\u201318. Schloss Dagstuhl. Leibniz-Zent. Inform., Wadern (2022). https://doi.org/10.4230/lipics.socg.2022.14",
+      "DOI": "10.4230/lipics.socg.2022.14"
+    },
+    {
+      "key": "184_CR3",
+      "unstructured": "Bauer, U., Fluhr, B.: Relative Interlevel Set Cohomology Categorifies Extended Persistence Diagrams. arXiv e-prints (2022) arXiv:2205.15275 [math.AT]"
+    },
+    {
+      "issue": "5",
+      "key": "184_CR4",
+      "doi-asserted-by": "publisher",
+      "first-page": "1441",
+      "DOI": "10.1007/s10208-020-09488-3",
+      "volume": "21",
+      "author": "U Bauer",
+      "year": "2021",
+      "unstructured": "Bauer, U., Landi, C., M\u00e9moli, F.: The Reeb graph edit distance is universal. Found. Comput. Math. 21(5), 1441\u20131464 (2021). https://doi.org/10.1007/s10208-020-09488-3",
+      "journal-title": "Found. Comput. Math."
+    },
+    {
+      "issue": "1",
+      "key": "184_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "51",
+      "DOI": "10.4310/HHA.2013.v15.n1.a3",
+      "volume": "15",
+      "author": "P Bendich",
+      "year": "2013",
+      "unstructured": "Bendich, P., Edelsbrunner, H., Morozov, D., Patel, A.: Homology and robustness of level and interlevel sets. Homology Homotopy Appl. 15(1), 51\u201372 (2013). https://doi.org/10.4310/HHA.2013.v15.n1.a3",
+      "journal-title": "Homology Homotopy Appl."
+    },
+    {
+      "key": "184_CR6",
+      "unstructured": "Berkouk, N., Ginot, G., Oudot, S.: Level-sets persistence and sheaf theory. arXiv e-prints (2019) arXiv:1907.09759 [math.AT]"
+    },
+    {
+      "key": "184_CR7",
+      "doi-asserted-by": "publisher",
+      "first-page": "108033",
+      "DOI": "10.1016/j.aim.2021.108033",
+      "volume": "394",
+      "author": "N Berkouk",
+      "year": "2022",
+      "unstructured": "Berkouk, N., Ginot, G.: A derived isometry theorem for sheaves. Adv. Math. 394, 108033\u201339 (2022). https://doi.org/10.1016/j.aim.2021.108033",
+      "journal-title": "Adv. Math."
+    },
+    {
+      "key": "184_CR8",
+      "unstructured": "Bubenik, P., Silva, V., Scott, J.: Interleaving and Gromov\u2013Hausdorff distance. Preprint (2017)"
+    },
+    {
+      "issue": "6",
+      "key": "184_CR9",
+      "doi-asserted-by": "publisher",
+      "first-page": "1501",
+      "DOI": "10.1007/s10208-014-9229-5",
+      "volume": "15",
+      "author": "P Bubenik",
+      "year": "2015",
+      "unstructured": "Bubenik, P., Silva, V., Scott, J.: Metrics for generalized persistence modules. Found. Comput. Math. 15(6), 1501\u20131531 (2015). https://doi.org/10.1007/s10208-014-9229-5",
+      "journal-title": "Found. Comput. Math."
+    },
+    {
+      "key": "184_CR10",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Cardona, R., Curry, J., Lam, T., Lesnick, M.: The universal $$\\ell ^p$$-metric on merge trees. In: 38th International Symposium on Computational Geometry (SoCG 2022). LIPIcs. Leibniz Int. Proc. Inform., vol. 224, pp. 24\u201320. Schloss Dagstuhl. Leibniz-Zent. Inform., Wadern (2022). https://doi.org/10.4230/lipics.socg.2022.24",
+      "DOI": "10.4230/lipics.socg.2022.24"
+    },
+    {
+      "key": "184_CR11",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Carlsson, G., de Silva, V., Morozov, D.: Zigzag persistent homology and real-valued functions. In: Proceedings of the Twenty-fifth Annual Symposium on Computational Geometry. SCG \u201909, pp. 247\u2013256. ACM, New York, NY, USA (2009). https://doi.org/10.1145/1542362.1542408",
+      "DOI": "10.1145/1542362.1542408"
+    },
+    {
+      "issue": "2",
+      "key": "184_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "657",
+      "DOI": "10.2140/agt.2019.19.657",
+      "volume": "19",
+      "author": "G Carlsson",
+      "year": "2019",
+      "unstructured": "Carlsson, G., Silva, V., Kali\u0161nik, S., Morozov, D.: Parametrized homology via zigzag persistence. Algebr. Geom. Topol. 19(2), 657\u2013700 (2019). https://doi.org/10.2140/agt.2019.19.657",
+      "journal-title": "Algebr. Geom. Topol."
+    },
+    {
+      "key": "184_CR13",
+      "unstructured": "Carri\u00e8re, M., Oudot, S.: Local equivalence and intrinsic metrics between Reeb graphs. In: 33rd International Symposium on Computational Geometry. LIPIcs. Leibniz Int. Proc. Inform., vol. 77, pp. 25\u201315. Schloss Dagstuhl. Leibniz-Zent. Inform., Wadern (2017)"
+    },
+    {
+      "issue": "3",
+      "key": "184_CR14",
+      "doi-asserted-by": "publisher",
+      "first-page": "353",
+      "DOI": "10.1007/s41468-020-00055-x",
+      "volume": "4",
+      "author": "MJ Catanzaro",
+      "year": "2020",
+      "unstructured": "Catanzaro, M.J., Curry, J.M., Fasy, B.T., Lazovskis, J., Malen, G., Riess, H., Wang, B., Zabka, M.: Moduli spaces of Morse functions for persistence. J. Appl. Comput. Topol. 4(3), 353\u2013385 (2020). https://doi.org/10.1007/s41468-020-00055-x",
+      "journal-title": "J. Appl. Comput. Topol."
+    },
+    {
+      "issue": "1",
+      "key": "184_CR15",
+      "doi-asserted-by": "publisher",
+      "first-page": "103",
+      "DOI": "10.1007/s00454-006-1276-5",
+      "volume": "37",
+      "author": "D Cohen-Steiner",
+      "year": "2007",
+      "unstructured": "Cohen-Steiner, D., Edelsbrunner, H., Harer, J.: Stability of persistence diagrams. Discrete Comput. Geom. 37(1), 103\u2013120 (2007). https://doi.org/10.1007/s00454-006-1276-5",
+      "journal-title": "Discrete Comput. Geom."
+    },
+    {
+      "issue": "1",
+      "key": "184_CR16",
+      "doi-asserted-by": "publisher",
+      "first-page": "79",
+      "DOI": "10.1007/s10208-008-9027-z",
+      "volume": "9",
+      "author": "D Cohen-Steiner",
+      "year": "2009",
+      "unstructured": "Cohen-Steiner, D., Edelsbrunner, H., Harer, J.: Extending persistence using Poincar\u00e9 and Lefschetz duality. Found. Comput. Math. 9(1), 79\u2013103 (2009). https://doi.org/10.1007/s10208-008-9027-z",
+      "journal-title": "Found. Comput. Math."
+    },
+    {
+      "key": "184_CR17",
+      "unstructured": "Curry, J.M.: Sheaves, cosheaves and applications. PhD thesis, University of Pennsylvania (2014). 20.500.14332/28041"
+    },
+    {
+      "key": "184_CR18",
+      "unstructured": "DeSha, J.: Inverse problems for topological summaries in topological data analysis. PhD thesis, University at Albany, State University of New York (2021)"
+    },
+    {
+      "issue": "3",
+      "key": "184_CR19",
+      "doi-asserted-by": "publisher",
+      "first-page": "479",
+      "DOI": "10.1007/s00454-007-1356-1",
+      "volume": "38",
+      "author": "TK Dey",
+      "year": "2007",
+      "unstructured": "Dey, T.K., Wenger, R.: Stability of critical points with interval persistence. Discrete Comput. Geom. 38(3), 479\u2013512 (2007). https://doi.org/10.1007/s00454-007-1356-1",
+      "journal-title": "Discrete Comput. Geom."
+    },
+    {
+      "issue": "4",
+      "key": "184_CR20",
+      "doi-asserted-by": "publisher",
+      "first-page": "511",
+      "DOI": "10.1007/s00454-002-2885-2",
+      "volume": "28",
+      "author": "H Edelsbrunner",
+      "year": "2002",
+      "unstructured": "Edelsbrunner, H., Letscher, D., Zomorodian, A.: Topological persistence and simplification. Discrete Comput. Geom. 28(4), 511\u2013533 (2002). https://doi.org/10.1007/s00454-002-2885-2",
+      "journal-title": "Discrete Comput. Geom."
+    },
+    {
+      "key": "184_CR21",
+      "unstructured": "Fluhr, B.: Cohomological and derived persistence theory of functions. PhD thesis, Technical University of Munich (2024). Internet Archive Record: https://web.archive.org/bfluhr.com/bucket/thesis.pdf"
+    },
+    {
+      "key": "184_CR22",
+      "doi-asserted-by": "publisher",
+      "first-page": "71",
+      "DOI": "10.1007/BF01298413",
+      "volume": "6",
+      "author": "P Gabriel",
+      "year": "1972",
+      "unstructured": "Gabriel, P.: Unzerlegbare Darstellungen. I. Manuscr. Math. 6, 71\u2013103 (1972). https://doi.org/10.1007/BF01298413",
+      "journal-title": "Manuscr. Math."
+    },
+    {
+      "key": "184_CR23",
+      "unstructured": "Guillermou, S.: The three cusps conjecture. arXiv e-prints (2016) arXiv:1603.07876 [math.SG]"
+    },
+    {
+      "issue": "1\u20132",
+      "key": "184_CR24",
+      "doi-asserted-by": "publisher",
+      "first-page": "85",
+      "DOI": "10.1007/s41468-019-00026-x",
+      "volume": "3",
+      "author": "S Harker",
+      "year": "2019",
+      "unstructured": "Harker, S., Kram\u00e1r, M., Levanger, R., Mischaikow, K.: A comparison framework for interleaved persistence modules. J. Appl. Comput. Topol. 3(1\u20132), 85\u2013118 (2019). https://doi.org/10.1007/s41468-019-00026-x",
+      "journal-title": "J. Appl. Comput. Topol."
+    },
+    {
+      "key": "184_CR25",
+      "doi-asserted-by": "publisher",
+      "first-page": "28",
+      "DOI": "10.1090/S0002-9904-1968-11871-3",
+      "volume": "74",
+      "author": "A Heller",
+      "year": "1968",
+      "unstructured": "Heller, A.: Stable homotopy categories. Bull. Am. Math. Soc. 74, 28\u201363 (1968). https://doi.org/10.1090/S0002-9904-1968-11871-3",
+      "journal-title": "Bull. Am. Math. Soc."
+    },
+    {
+      "key": "184_CR26",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Kashiwara, M., Schapira, P.: Sheaves on manifolds. Grundlehren der mathematischen Wissenschaften [Fundamental Principles of Mathematical Sciences], vol. 292, p. 512. Springer, Berlin (1990). https://doi.org/10.1007/978-3-662-02661-8 . With a chapter in French by Christian Houzel",
+      "DOI": "10.1007/978-3-662-02661-8"
+    },
+    {
+      "issue": "1\u20132",
+      "key": "184_CR27",
+      "doi-asserted-by": "publisher",
+      "first-page": "83",
+      "DOI": "10.1007/s41468-018-0019-z",
+      "volume": "2",
+      "author": "M Kashiwara",
+      "year": "2018",
+      "unstructured": "Kashiwara, M., Schapira, P.: Persistent homology and microlocal sheaf theory. J. Appl. Comput. Topol. 2(1\u20132), 83\u2013113 (2018). https://doi.org/10.1007/s41468-018-0019-z",
+      "journal-title": "J. Appl. Comput. Topol."
+    },
+    {
+      "issue": "3",
+      "key": "184_CR28",
+      "doi-asserted-by": "publisher",
+      "first-page": "613",
+      "DOI": "10.1007/s10208-015-9255-y",
+      "volume": "15",
+      "author": "M Lesnick",
+      "year": "2015",
+      "unstructured": "Lesnick, M.: The theory of the interleaving distance on multidimensional persistence modules. Found. Comput. Math. 15(3), 613\u2013650 (2015). https://doi.org/10.1007/s10208-015-9255-y",
+      "journal-title": "Found. Comput. Math."
+    },
+    {
+      "issue": "7",
+      "key": "184_CR29",
+      "doi-asserted-by": "publisher",
+      "first-page": "3149",
+      "DOI": "10.1090/proc/14929",
+      "volume": "148",
+      "author": "A McCleary",
+      "year": "2020",
+      "unstructured": "McCleary, A., Patel, A.: Bottleneck stability for generalized persistence diagrams. Proc. Am. Math. Soc. 148(7), 3149\u20133161 (2020). https://doi.org/10.1090/proc/14929",
+      "journal-title": "Proc. Am. Math. Soc."
+    },
+    {
+      "key": "184_CR30",
+      "unstructured": "Scoccola, L.: Locally persistent categories and metric properties of interleaving distances. PhD thesis, Western University (2020). https://ir.lib.uwo.ca/etd/7119"
+    },
+    {
+      "issue": "4",
+      "key": "184_CR31",
+      "doi-asserted-by": "publisher",
+      "first-page": "854",
+      "DOI": "10.1007/s00454-016-9763-9",
+      "volume": "55",
+      "author": "V Silva",
+      "year": "2016",
+      "unstructured": "Silva, V., Munch, E., Patel, A.: Categorified Reeb graphs. Discrete Comput. Geom. 55(4), 854\u2013906 (2016). https://doi.org/10.1007/s00454-016-9763-9",
+      "journal-title": "Discrete Comput. Geom."
+    },
+    {
+      "key": "184_CR32",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Spanier, E.H.: Algebraic Topology, p. 528. Springer, New York (1981). Corrected reprint",
+      "DOI": "10.1007/978-1-4684-9322-1"
+    },
+    {
+      "key": "184_CR33",
+      "unstructured": "Stacks project authors, T.: The Stacks project. https://stacks.math.columbia.edu (2024)"
+    },
+    {
+      "key": "184_CR34",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4171/048",
+      "volume-title": "Algebraic Topology. EMS Textbooks in Mathematics",
+      "author": "T tom Dieck",
+      "year": "2008",
+      "unstructured": "tom Dieck, T.: Algebraic Topology. EMS Textbooks in Mathematics. European Mathematical Society (EMS), Z\u00fcrich (2008). https://doi.org/10.4171/048"
+    }
+  ],
+  "container-title": [
+    "Journal of Applied and Computational Topology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s41468-024-00184-7.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1007/s41468-024-00184-7/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s41468-024-00184-7.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        20
+      ]
+    ],
+    "date-time": "2024-09-20T15:10:07Z",
+    "timestamp": 1726845007000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/s41468-024-00184-7"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        1
+      ]
+    ]
+  },
+  "references-count": 34,
+  "journal-issue": {
+    "issue": "3",
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          9
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "184"
+  ],
+  "URL": "https://doi.org/10.1007/s41468-024-00184-7",
+  "relation": {},
+  "ISSN": [
+    "2367-1726",
+    "2367-1734"
+  ],
+  "issn-type": [
+    {
+      "value": "2367-1726",
+      "type": "print"
+    },
+    {
+      "value": "2367-1734",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        1
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "4 October 2022",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "6 June 2024",
+      "order": 2,
+      "name": "revised",
+      "label": "Revised",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "10 June 2024",
+      "order": 3,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "1 July 2024",
+      "order": 4,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Declarations"
+      }
+    },
+    {
+      "value": "On behalf of all authors, the corresponding author states that there is no Conflict of interest.",
+      "order": 2,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Conflict of interest"
+      }
+    }
+  ]
+}

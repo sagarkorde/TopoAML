@@ -1,0 +1,3610 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        17
+      ]
+    ],
+    "date-time": "2026-10-17T03:13:47Z",
+    "timestamp": 1792206827602,
+    "version": "4.4.0"
+  },
+  "reference-count": 355,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "2",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            12,
+            21
+          ]
+        ],
+        "date-time": "2025-12-21T00:00:00Z",
+        "timestamp": 1766275200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            1,
+            14
+          ]
+        ],
+        "date-time": "2026-01-14T00:00:00Z",
+        "timestamp": 1768348800000
+      },
+      "content-version": "vor",
+      "delay-in-days": 24,
+      "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Artif Intell Rev"
+  ],
+  "DOI": "10.1007/s10462-025-11462-w",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        21
+      ]
+    ],
+    "date-time": "2025-12-21T12:13:22Z",
+    "timestamp": 1766319202000
+  },
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 22,
+  "title": [
+    "Topological data analysis and topological deep learning beyond persistent homology: a review"
+  ],
+  "prefix": "10.1007",
+  "volume": "59",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0003-3499-6814",
+      "authenticated-orcid": false,
+      "given": "Zhe",
+      "family": "Su",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-6046-1405",
+      "authenticated-orcid": false,
+      "given": "Xiang",
+      "family": "Liu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Layal Bou",
+      "family": "Hamdan",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-3412-6766",
+      "authenticated-orcid": false,
+      "given": "Vasileios",
+      "family": "Maroulas",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2445-6750",
+      "authenticated-orcid": false,
+      "given": "Jie",
+      "family": "Wu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Gunnar",
+      "family": "Carlsson",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5781-2937",
+      "authenticated-orcid": false,
+      "given": "Guo-Wei",
+      "family": "Wei",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        21
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "11462_CR1",
+      "unstructured": "Adams CC (2004) The Knot Book: An Elementary Introduction to the Mathematical Theory of Knots. American Mathematical Society"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR2",
+      "doi-asserted-by": "crossref",
+      "first-page": "110",
+      "DOI": "10.1137/070711669",
+      "volume": "2",
+      "author": "H Adams",
+      "year": "2009",
+      "unstructured": "Adams H, Carlsson G (2009) On the nonlinear statistics of range image patches. SIAM J Imag Sci 2(1):110\u2013117",
+      "journal-title": "SIAM J Imag Sci"
+    },
+    {
+      "key": "11462_CR3",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Adams H, Tausz A, Vejdemo-Johansson M (2014) Javaplex: a research software package for persistent (co)homology. In: Proceedings of mathematical software\u2013ICMS 2014: 4th international congress, Seoul, South Korea, August 5-9, 2014. vol 4, pp 129\u2013136. Springer",
+      "DOI": "10.1007/978-3-662-44199-2_23"
+    },
+    {
+      "issue": "8",
+      "key": "11462_CR4",
+      "first-page": "1",
+      "volume": "18",
+      "author": "H Adams",
+      "year": "2017",
+      "unstructured": "Adams H, Emerson T, Kirby M, Neville R, Peterson C, Shipman P, Chepushtanova S, Hanson E, Motta F, Ziegelmeier L (2017) Persistence images: a stable vector representation of persistent homology. J Mach Learn Res 18(8):1\u201335",
+      "journal-title": "J Mach Learn Res"
+    },
+    {
+      "key": "11462_CR5",
+      "unstructured": "Adams H, Lagoda E, Moy M, Sadovek N, De\u00a0Saha A (2024) Persistent equivariant cohomology. arXiv preprint arXiv:2408.17331"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR6",
+      "doi-asserted-by": "crossref",
+      "first-page": "381",
+      "DOI": "10.4310/HHA.2016.v18.n1.a21",
+      "volume": "18",
+      "author": "A Adcock",
+      "year": "2016",
+      "unstructured": "Adcock A, Carlsson E, Carlsson G (2016) The ring of algebraic functions on persistence bar codes. Homology Homotopy Appl 18(1):381\u2013402",
+      "journal-title": "Homology Homotopy Appl"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR7",
+      "doi-asserted-by": "crossref",
+      "first-page": "275",
+      "DOI": "10.1090/S0002-9947-1928-1501429-1",
+      "volume": "30",
+      "author": "JW Alexander",
+      "year": "1928",
+      "unstructured": "Alexander JW (1928) Topological invariants of knots and links. Trans Am Math Soc 30(2):275\u2013306",
+      "journal-title": "Trans Am Math Soc"
+    },
+    {
+      "issue": "12",
+      "key": "11462_CR8",
+      "doi-asserted-by": "crossref",
+      "first-page": "14069",
+      "DOI": "10.1109/TPAMI.2023.3308391",
+      "volume": "45",
+      "author": "D Ali",
+      "year": "2023",
+      "unstructured": "Ali D, Asaad A, Jimenez M-J, Nanda V, Paluzo-Hidalgo E, Soriano-Trigueros M (2023) A survey of vectorization methods in topological data analysis. IEEE Trans Pattern Anal Mach Intell 45(12):14069\u201314080",
+      "journal-title": "IEEE Trans Pattern Anal Mach Intell"
+    },
+    {
+      "issue": "7",
+      "key": "11462_CR9",
+      "doi-asserted-by": "crossref",
+      "first-page": "1961",
+      "DOI": "10.1007/s41468-023-00160-7",
+      "volume": "8",
+      "author": "B Ameneyro",
+      "year": "2024",
+      "unstructured": "Ameneyro B, Maroulas V, Siopsis G (2024) Quantum persistent homology. J Appl Comput Topol 8(7):1961\u20131980",
+      "journal-title": "J Appl Comput Topol"
+    },
+    {
+      "key": "11462_CR10",
+      "unstructured": "Ameneyro B, Siopsis G, Maroulas V (2023) Quantum persistent homology for time series. In: APS March Meeting Abstracts, vol. 2023, pp 73\u2013003"
+    },
+    {
+      "key": "11462_CR11",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Arnold DN (2018) Finite Element Exterior Calculus. SIAM",
+      "DOI": "10.1137/1.9781611975543"
+    },
+    {
+      "key": "11462_CR12",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1017/S0962492906210018",
+      "volume": "15",
+      "author": "DN Arnold",
+      "year": "2006",
+      "unstructured": "Arnold DN, Falk RS, Winther R (2006) Finite element exterior calculus, homological techniques, and applications. Acta Numer 15:1\u2013155",
+      "journal-title": "Acta Numer"
+    },
+    {
+      "issue": "26",
+      "key": "11462_CR13",
+      "doi-asserted-by": "crossref",
+      "first-page": "9165",
+      "DOI": "10.1073/pnas.0409323102",
+      "volume": "102",
+      "author": "J Arsuaga",
+      "year": "2005",
+      "unstructured": "Arsuaga J, Vazquez M, McGuirk P, Trigueros S, Sumners DW, Roca J (2005) DNA knots reveal a chiral organization of DNA in phage capsids. Proc Natl Acad Sci 102(26):9165\u20139169",
+      "journal-title": "Proc Natl Acad Sci"
+    },
+    {
+      "issue": "21",
+      "key": "11462_CR14",
+      "doi-asserted-by": "crossref",
+      "first-page": "4039",
+      "DOI": "10.3390/math10214039",
+      "volume": "10",
+      "author": "A Asaad",
+      "year": "2022",
+      "unstructured": "Asaad A, Ali D, Majeed T, Rashid R (2022) Persistent homology for breast tumor classification using mammogram scans. Mathematics 10(21):4039",
+      "journal-title": "Mathematics"
+    },
+    {
+      "key": "11462_CR15",
+      "doi-asserted-by": "crossref",
+      "first-page": "637",
+      "DOI": "10.1007/s10844-017-0473-4",
+      "volume": "52",
+      "author": "N Atienza",
+      "year": "2019",
+      "unstructured": "Atienza N, Gonzalez-Diaz R, Rucco M (2019) Persistent entropy for separating topological features from noise in Vietoris-Rips complexes. J Intell Inf Syst 52:637\u2013655",
+      "journal-title": "J Intell Inf Syst"
+    },
+    {
+      "issue": "3",
+      "key": "11462_CR16",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1103/PhysRevE.106.034319",
+      "volume": "106",
+      "author": "F Baccini",
+      "year": "2022",
+      "unstructured": "Baccini F, Geraci F, Bianconi G (2022) Weighted simplicial complexes and their representation power of higher-order network data and topology. Phys Rev E 106(3):034319",
+      "journal-title": "Phys Rev E"
+    },
+    {
+      "key": "11462_CR17",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Bae W, Yoo J, Chul\u00a0Ye J (2017) Beyond deep residual learning for image restoration: Persistent homology-guided manifold simplification. In: Proceedings of the IEEE conference on computer vision and pattern recognition workshops, pp 145\u2013153",
+      "DOI": "10.1109/CVPRW.2017.152"
+    },
+    {
+      "key": "11462_CR18",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.jtbi.2021.110854",
+      "volume": "529",
+      "author": "Q Baldwin",
+      "year": "2021",
+      "unstructured": "Baldwin Q, Panagiotou E (2021) The local topological free energy of proteins. J Theor Biol 529:110854",
+      "journal-title": "J Theor Biol"
+    },
+    {
+      "issue": "15",
+      "key": "11462_CR19",
+      "doi-asserted-by": "crossref",
+      "first-page": "3014",
+      "DOI": "10.3390/polym14153014",
+      "volume": "14",
+      "author": "Q Baldwin",
+      "year": "2022",
+      "unstructured": "Baldwin Q, Sumpter B, Panagiotou E (2022) The local topological free energy of the SARS-CoV-2 spike protein. Polymers 14(15):3014",
+      "journal-title": "Polymers"
+    },
+    {
+      "issue": "2267",
+      "key": "11462_CR20",
+      "doi-asserted-by": "crossref",
+      "first-page": "20220302",
+      "DOI": "10.1098/rspa.2022.0302",
+      "volume": "478",
+      "author": "K Barkataki",
+      "year": "2022",
+      "unstructured": "Barkataki K, Panagiotou E (2022) The Jones polynomial of collections of open curves in 3-space. Proc Royal Soc A 478(2267):20220302",
+      "journal-title": "Proc Royal Soc A"
+    },
+    {
+      "key": "11462_CR21",
+      "volume": "4",
+      "author": "D Barnes",
+      "year": "2021",
+      "unstructured": "Barnes D, Polanco L, Perea JA (2021) A comparative study of machine learning methods for persistence diagrams. Front Artif Intell 4:681174",
+      "journal-title": "Front Artif Intell"
+    },
+    {
+      "issue": "5",
+      "key": "11462_CR22",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1007/s10485-025-09827-x",
+      "volume": "33",
+      "author": "LS Barth",
+      "year": "2025",
+      "unstructured": "Barth LS, Fahimi H, Joharinad P, Jost J, Keck J, Mikhail TJ (2025) Fuzzy simplicial sets and their application to geometric data analysis. Appl Categ Struct 33(5):1\u201362",
+      "journal-title": "Appl Categ Struct"
+    },
+    {
+      "key": "11462_CR23",
+      "unstructured": "Barth LS, Fahimi H, Joharinad P, Jost J, Keck J (2025) Merging hazy sets with m-schemes: A geometric approach to data visualization. arXiv preprint arXiv:2503.01664"
+    },
+    {
+      "issue": "3",
+      "key": "11462_CR24",
+      "doi-asserted-by": "crossref",
+      "first-page": "391",
+      "DOI": "10.1007/s41468-021-00071-5",
+      "volume": "5",
+      "author": "U Bauer",
+      "year": "2021",
+      "unstructured": "Bauer U (2021) Ripser: efficient computation of Vietoris-Rips persistence barcodes. J Appl Comput Topol 5(3):391\u2013423",
+      "journal-title": "J Appl Comput Topol"
+    },
+    {
+      "key": "11462_CR25",
+      "unstructured": "Bauer U, Kerber M, Reininghaus J (2014) Dipha (a distributed persistent homology algorithm). Software available at https://github. com/DIPHA/dipha"
+    },
+    {
+      "issue": "5",
+      "key": "11462_CR26",
+      "doi-asserted-by": "crossref",
+      "first-page": "1441",
+      "DOI": "10.1007/s10208-020-09488-3",
+      "volume": "21",
+      "author": "U Bauer",
+      "year": "2021",
+      "unstructured": "Bauer U, Landi C, M\u00e9moli F (2021) The Reeb graph edit distance is universal. Found Comput Math 21(5):1441\u20131464",
+      "journal-title": "Found Comput Math"
+    },
+    {
+      "key": "11462_CR27",
+      "doi-asserted-by": "crossref",
+      "first-page": "76",
+      "DOI": "10.1016/j.jsc.2016.03.008",
+      "volume": "78",
+      "author": "U Bauer",
+      "year": "2017",
+      "unstructured": "Bauer U, Kerber M, Reininghaus J, Wagner H (2017) Phat-persistent homology algorithms toolbox. J Symb Comput 78:76\u201390",
+      "journal-title": "J Symb Comput"
+    },
+    {
+      "issue": "14",
+      "key": "11462_CR28",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1103/PhysRevLett.98.146401",
+      "volume": "98",
+      "author": "J Behler",
+      "year": "2007",
+      "unstructured": "Behler J, Parrinello M (2007) Generalized neural-network representation of high-dimensional potential-energy surfaces. Phys Rev Lett 98(14):146401",
+      "journal-title": "Phys Rev Lett"
+    },
+    {
+      "issue": "9",
+      "key": "11462_CR29",
+      "doi-asserted-by": "crossref",
+      "first-page": "423",
+      "DOI": "10.1038/s42256-019-0087-3",
+      "volume": "1",
+      "author": "MG Bergomi",
+      "year": "2019",
+      "unstructured": "Bergomi MG, Frosini P, Giorgi D, Quercioli N (2019) Towards a topological-geometrical theory of group equivariant non-expansive operators for data analysis and machine learning. Nature Mach Intell 1(9):423\u2013433",
+      "journal-title": "Nature Mach Intell"
+    },
+    {
+      "issue": "8",
+      "key": "11462_CR30",
+      "doi-asserted-by": "crossref",
+      "first-page": "1386",
+      "DOI": "10.1109/TVCG.2012.316",
+      "volume": "19",
+      "author": "H Bhatia",
+      "year": "2012",
+      "unstructured": "Bhatia H, Norgard G, Pascucci V, Bremer P-T (2012) The Helmholtz-Hodge decomposition - a survey. IEEE Trans Visual Comput Graphics 19(8):1386\u20131404",
+      "journal-title": "IEEE Trans Visual Comput Graphics"
+    },
+    {
+      "key": "11462_CR31",
+      "unstructured": "Bi W, Li J, Liu J, Wu J (2022) On the Cayley-persistence algebra. arXiv preprint arXiv:2205.10796"
+    },
+    {
+      "issue": "3",
+      "key": "11462_CR32",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1088/2632-072X/ac19be",
+      "volume": "2",
+      "author": "G Bianconi",
+      "year": "2021",
+      "unstructured": "Bianconi G (2021) The topological Dirac equation of networks and simplicial complexes. J Phys Complex 2(3):035022",
+      "journal-title": "J Phys Complex"
+    },
+    {
+      "issue": "1\u20133",
+      "key": "11462_CR33",
+      "doi-asserted-by": "crossref",
+      "first-page": "5",
+      "DOI": "10.1016/j.tcs.2007.10.018",
+      "volume": "392",
+      "author": "S Biasotti",
+      "year": "2008",
+      "unstructured": "Biasotti S, Giorgi D, Spagnuolo M, Falcidieno B (2008) Reeb graphs for shape analysis and applications. Theoret Comput Sci 392(1\u20133):5\u201322",
+      "journal-title": "Theoret Comput Sci"
+    },
+    {
+      "key": "11462_CR34",
+      "unstructured": "Bodnar C, Frasca F, Wang Y, Otter N, Mont\u00fafar GF, Li\u00f2 P, Bronstein M (2021) Weisfeiler and lehman go topological: Message passing simplicial networks. In: Proceedings of the 38th international conference on machine learning, pp 1026\u20131037"
+    },
+    {
+      "key": "11462_CR35",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Botnan M, Lesnick M (2023) An introduction to multiparameter persistence. In: Representations of algebras and related structures, pp 77\u2013150",
+      "DOI": "10.4171/ecr/19/4"
+    },
+    {
+      "key": "11462_CR36",
+      "unstructured": "Botnan MB, Lebovici V, Oudot S (2020) On rectangle-decomposable 2-parameter persistence modules. In: Leibniz International proceedings in informatics, vol 164, pp 22\u20131. Leibniz-Zentrum f\u00fcr Informatik"
+    },
+    {
+      "issue": "3",
+      "key": "11462_CR37",
+      "doi-asserted-by": "crossref",
+      "first-page": "479",
+      "DOI": "10.4310/AJM.2019.v23.n3.a6",
+      "volume": "23",
+      "author": "S Bressan",
+      "year": "2019",
+      "unstructured": "Bressan S, Li J, Ren S, Wu J (2019) The embedded homology of hypergraphs and applications. Asian J Math 23(3):479\u2013500",
+      "journal-title": "Asian J Math"
+    },
+    {
+      "issue": "4",
+      "key": "11462_CR38",
+      "doi-asserted-by": "crossref",
+      "first-page": "18",
+      "DOI": "10.1109/MSP.2017.2693418",
+      "volume": "34",
+      "author": "MM Bronstein",
+      "year": "2017",
+      "unstructured": "Bronstein MM, Bruna J, LeCun Y, Szlam A, Vandergheynst P (2017) Geometric deep learning: going beyond Euclidean data. IEEE Signal Process Mag 34(4):18\u201342",
+      "journal-title": "IEEE Signal Process Mag"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR39",
+      "first-page": "77",
+      "volume": "16",
+      "author": "P Bubenik",
+      "year": "2015",
+      "unstructured": "Bubenik P (2015) Statistical topological data analysis using persistence landscapes. J Mach Learn Res 16(1):77\u2013102",
+      "journal-title": "J Mach Learn Res"
+    },
+    {
+      "key": "11462_CR40",
+      "doi-asserted-by": "crossref",
+      "first-page": "91",
+      "DOI": "10.1016/j.jsc.2016.03.009",
+      "volume": "78",
+      "author": "P Bubenik",
+      "year": "2017",
+      "unstructured": "Bubenik P, D\u0142otko P (2017) A persistence landscapes toolbox for topological statistics. J Symb Comput 78:91\u2013114",
+      "journal-title": "J Symb Comput"
+    },
+    {
+      "issue": "9",
+      "key": "11462_CR41",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1088/1367-2630/acf33c",
+      "volume": "25",
+      "author": "L Calmon",
+      "year": "2023",
+      "unstructured": "Calmon L, Schaub MT, Bianconi G (2023) Dirac signal processing of higher-order topological signals. New J Phys 25(9):093013",
+      "journal-title": "New J Phys"
+    },
+    {
+      "issue": "7",
+      "key": "11462_CR42",
+      "doi-asserted-by": "crossref",
+      "first-page": "1005690",
+      "DOI": "10.1371/journal.pcbi.1005690",
+      "volume": "13",
+      "author": "Z Cang",
+      "year": "2017",
+      "unstructured": "Cang Z, Wei G-W (2017) Topologynet: Topology based deep convolutional and multi-task neural networks for biomolecular property predictions. PLoS Comput Biol 13(7):1005690",
+      "journal-title": "PLoS Comput Biol"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR43",
+      "first-page": "2914",
+      "volume": "34",
+      "author": "Z Cang",
+      "year": "2018",
+      "unstructured": "Cang Z, Wei G-W (2018) Integration of element specific persistent homology and machine learning for protein-ligand binding affinity prediction. Int Jo Num Method Bio Eng 34(2):2914",
+      "journal-title": "Int Jo Num Method Bio Eng"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR44",
+      "doi-asserted-by": "crossref",
+      "first-page": "396",
+      "DOI": "10.1137/19M1272226",
+      "volume": "2",
+      "author": "Z Cang",
+      "year": "2020",
+      "unstructured": "Cang Z, Wei G-W (2020) Persistent cohomology for data with multicomponent heterogeneous information. SIAM J Math Data Sci 2(2):396\u2013418",
+      "journal-title": "SIAM J Math Data Sci"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR45",
+      "doi-asserted-by": "crossref",
+      "first-page": "1005929",
+      "DOI": "10.1371/journal.pcbi.1005929",
+      "volume": "14",
+      "author": "Z Cang",
+      "year": "2018",
+      "unstructured": "Cang Z, Mu L, Wei G-W (2018) Representability of algebraic topology for biomolecules in machine learning based scoring and virtual screening. PLoS Comput Biol 14(1):1005929",
+      "journal-title": "PLoS Comput Biol"
+    },
+    {
+      "issue": "4",
+      "key": "11462_CR46",
+      "doi-asserted-by": "crossref",
+      "first-page": "481",
+      "DOI": "10.1007/s41468-020-00057-9",
+      "volume": "4",
+      "author": "Z Cang",
+      "year": "2020",
+      "unstructured": "Cang Z, Munch E, Wei G-W (2020) Evolutionary homology on coupled dynamical systems with applications to protein flexibility analysis. J Appl Comput Topology 4(4):481\u2013507",
+      "journal-title": "J Appl Comput Topology"
+    },
+    {
+      "key": "11462_CR47",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Cang Z, Mu L, Wu K, Opron K, Xia K, Wei G-W (2015) A topological approach for protein classification. Comput Math Bio 3(1)",
+      "DOI": "10.1515/mlbmb-2015-0009"
+    },
+    {
+      "issue": "5",
+      "key": "11462_CR48",
+      "doi-asserted-by": "crossref",
+      "first-page": "409",
+      "DOI": "10.1080/00029890.2002.11919870",
+      "volume": "109",
+      "author": "J Cantarella",
+      "year": "2002",
+      "unstructured": "Cantarella J, DeTurck D, Gluck H (2002) Vector calculus and the topology of domains in 3-space. Am Math Mon 109(5):409\u2013442",
+      "journal-title": "Am Math Mon"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR49",
+      "doi-asserted-by": "crossref",
+      "first-page": "255",
+      "DOI": "10.1090/S0273-0979-09-01249-X",
+      "volume": "46",
+      "author": "G Carlsson",
+      "year": "2009",
+      "unstructured": "Carlsson G (2009) Topology and data. Bull Am Math Soc 46(2):255\u2013308",
+      "journal-title": "Bull Am Math Soc"
+    },
+    {
+      "key": "11462_CR50",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Carlsson G, De Silva V (2010) Zigzag persistence Foundations of computational mathematics 10:367\u2013405",
+      "DOI": "10.1007/s10208-010-9066-0"
+    },
+    {
+      "key": "11462_CR51",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Carlsson G, Zomorodian A (2007) The theory of multidimensional persistence. In: Proceedings of the twenty-third annual symposium on computational geometry, pp 184\u2013193",
+      "DOI": "10.1145/1247069.1247105"
+    },
+    {
+      "key": "11462_CR52",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Carlsson G, De\u00a0Silva V, Morozov D (2009) Zigzag persistent homology and real-valued functions. In: Proceedings of the twenty-fifth annual symposium on computational geometry, pp 247\u2013256",
+      "DOI": "10.1145/1542362.1542408"
+    },
+    {
+      "key": "11462_CR53",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Carlsson G, Zomorodian A, Collins A, Guibas L (2004) Persistence barcodes for shapes. In: Proceedings of the 2004 eurographics/ACM SIGGRAPH symposium on geometry processing, pp 124\u2013135",
+      "DOI": "10.1145/1057432.1057449"
+    },
+    {
+      "key": "11462_CR54",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1007/s11263-007-0056-x",
+      "volume": "76",
+      "author": "G Carlsson",
+      "year": "2008",
+      "unstructured": "Carlsson G, Ishkhanov T, De Silva V, Zomorodian A (2008) On the local behavior of spaces of natural images. Int J Comput Vision 76:1\u201312",
+      "journal-title": "Int J Comput Vision"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR55",
+      "doi-asserted-by": "crossref",
+      "first-page": "657",
+      "DOI": "10.2140/agt.2019.19.657",
+      "volume": "19",
+      "author": "G Carlsson",
+      "year": "2019",
+      "unstructured": "Carlsson G, De Silva V, Kali\u0161nik S, Morozov D (2019) Parametrized homology via zigzag persistence. Algebr Geom Topol 19(2):657\u2013700",
+      "journal-title": "Algebr Geom Topol"
+    },
+    {
+      "key": "11462_CR56",
+      "unstructured": "Carri\u00e8re M (2025) Cover complex. In: GUDHI User and Reference Manual"
+    },
+    {
+      "key": "11462_CR57",
+      "first-page": "22432",
+      "volume": "33",
+      "author": "M Carriere",
+      "year": "2020",
+      "unstructured": "Carriere M, Blumberg A (2020) Multiparameter persistence image for topological machine learning. Adv Neural Inf Process Syst 33:22432\u201322444",
+      "journal-title": "Adv Neural Inf Process Syst"
+    },
+    {
+      "key": "11462_CR58",
+      "unstructured": "Carriere M, Cuturi M, Oudot S (2017) Sliced Wasserstein kernel for persistence diagrams. In: International Conference on Machine Learning, pp 664\u2013673. PMLR"
+    },
+    {
+      "issue": "46",
+      "key": "11462_CR59",
+      "doi-asserted-by": "crossref",
+      "first-page": "18566",
+      "DOI": "10.1073/pnas.1313480110",
+      "volume": "110",
+      "author": "JM Chan",
+      "year": "2013",
+      "unstructured": "Chan JM, Carlsson G, Rabadan R (2013) Topology of viral evolution. Proc Natl Acad Sci 110(46):18566\u201318571",
+      "journal-title": "Proc Natl Acad Sci"
+    },
+    {
+      "key": "11462_CR60",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Chazal F, Fasy BT, Lecci F, Rinaldo A, Wasserman L (2014) Stochastic convergence of persistence landscapes and silhouettes. In: Proceedings of the thirtieth annual symposium on computational geometry, pp 474\u2013483",
+      "DOI": "10.1145/2582112.2582128"
+    },
+    {
+      "key": "11462_CR61",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1007/978-3-319-42545-0",
+      "volume-title": "The structure and stability of persistence modules",
+      "author": "F Chazal",
+      "year": "2016",
+      "unstructured": "Chazal F, De Silva V, Glisse M, Oudot S (2016) The structure and stability of persistence modules, vol 10. Springer, Berlin"
+    },
+    {
+      "issue": "159",
+      "key": "11462_CR62",
+      "first-page": "1",
+      "volume": "18",
+      "author": "F Chazal",
+      "year": "2018",
+      "unstructured": "Chazal F, Fasy BT, Lecci F, Michel B, Rinaldo A, Wasserman L (2018) Robust topological inference: Distance to a measure and kernel distance. J Mach Learn Res 18(159):1\u201340",
+      "journal-title": "J Mach Learn Res"
+    },
+    {
+      "issue": "7",
+      "key": "11462_CR63",
+      "doi-asserted-by": "crossref",
+      "first-page": "799",
+      "DOI": "10.1038/s42256-024-00855-1",
+      "volume": "6",
+      "author": "D Chen",
+      "year": "2024",
+      "unstructured": "Chen D, Liu J, Wei G-W (2024) Multiscale topology-enabled structure-to-sequence transformer for protein-ligand interaction predictions. Nature Mach Intell 6(7):799\u2013810",
+      "journal-title": "Nature Mach Intell"
+    },
+    {
+      "issue": "4",
+      "key": "11462_CR64",
+      "doi-asserted-by": "crossref",
+      "first-page": "954",
+      "DOI": "10.1021/acs.jpclett.2c03706",
+      "volume": "14",
+      "author": "D Chen",
+      "year": "2023",
+      "unstructured": "Chen D, Liu J, Wu J, Wei G-W, Pan F, Yau S-T (2023) Path topology in molecular and materials sciences. J Phys Chem Lett 14(4):954\u2013964",
+      "journal-title": "J Phys Chem Lett"
+    },
+    {
+      "issue": "4",
+      "key": "11462_CR65",
+      "doi-asserted-by": "crossref",
+      "first-page": "558",
+      "DOI": "10.3934/fods.2023010",
+      "volume": "5",
+      "author": "D Chen",
+      "year": "2023",
+      "unstructured": "Chen D, Liu J, Wu J, Wei G-W (2023) Persistent hyperdigraph homology and persistent hyperdigraph Laplacians. Found Data Sci 5(4):558\u2013588",
+      "journal-title": "Found Data Sci"
+    },
+    {
+      "issue": "4",
+      "key": "11462_CR66",
+      "doi-asserted-by": "crossref",
+      "first-page": "848",
+      "DOI": "10.1109/TVCG.2008.33",
+      "volume": "14",
+      "author": "G Chen",
+      "year": "2008",
+      "unstructured": "Chen G, Mischaikow K, Laramee RS, Zhang E (2008) Efficient Morse decompositions of vector fields. IEEE Trans Visual Comput Graphics 14(4):848\u2013862",
+      "journal-title": "IEEE Trans Visual Comput Graphics"
+    },
+    {
+      "issue": "17",
+      "key": "11462_CR67",
+      "doi-asserted-by": "crossref",
+      "first-page": "3840",
+      "DOI": "10.1021/acs.jpclett.2c00469",
+      "volume": "13",
+      "author": "J Chen",
+      "year": "2022",
+      "unstructured": "Chen J, Wei G-W (2022) Omicron BA. 2 (B. 1.1. 529.2): high potential for becoming the next dominant variant. J Phys Chem Lett 13(17):3840\u20133849",
+      "journal-title": "J Phys Chem Lett"
+    },
+    {
+      "issue": "19",
+      "key": "11462_CR68",
+      "doi-asserted-by": "crossref",
+      "first-page": "5212",
+      "DOI": "10.1016/j.jmb.2020.07.009",
+      "volume": "432",
+      "author": "J Chen",
+      "year": "2020",
+      "unstructured": "Chen J, Wang R, Wang M, Wei G-W (2020) Mutations strengthened SARS-CoV-2 infectivity. J Mol Biol 432(19):5212\u20135226",
+      "journal-title": "J Mol Biol"
+    },
+    {
+      "issue": "7",
+      "key": "11462_CR69",
+      "first-page": "3785",
+      "volume": "26",
+      "author": "J Chen",
+      "year": "2021",
+      "unstructured": "Chen J, Zhao R, Tong Y, Wei G-W (2021) Evolutionary de Rham-Hodge method. Discrete Continu Dyn Syst Series B 26(7):3785",
+      "journal-title": "Discrete Continu Dyn Syst Series B"
+    },
+    {
+      "key": "11462_CR70",
+      "volume": "151",
+      "author": "J Chen",
+      "year": "2022",
+      "unstructured": "Chen J, Qiu Y, Wang R, Wei G-W (2022) Persistent Laplacian projected Omicron BA. 4 and BA. 5 to become new dominating variants. Comput Bio Med 151:106262",
+      "journal-title": "Comput Bio Med"
+    },
+    {
+      "key": "11462_CR71",
+      "volume": "164",
+      "author": "J Chen",
+      "year": "2023",
+      "unstructured": "Chen J, Woldring DR, Huang F, Huang X, Wei G-W (2023) Topological deep learning based deep mutational scanning. Comput Biol Med 164:107258",
+      "journal-title": "Comput Biol Med"
+    },
+    {
+      "key": "11462_CR72",
+      "unstructured": "Chen Y, Segovia I, Gel YR (2021) Z-GCNETs: time zigzags at graph convolutional networks for time series forecasting. In: International Conference on Machine Learning, pp 1684\u20131694. PMLR"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR73",
+      "doi-asserted-by": "crossref",
+      "first-page": "192",
+      "DOI": "10.1109/TPAMI.2018.2885516",
+      "volume": "42",
+      "author": "I Chevyrev",
+      "year": "2018",
+      "unstructured": "Chevyrev I, Nanda V, Oberhauser H (2018) Persistence paths and signature features in topological data analysis. IEEE Trans Pattern Anal Mach Intell 42(1):192\u2013202",
+      "journal-title": "IEEE Trans Pattern Anal Mach Intell"
+    },
+    {
+      "key": "11462_CR74",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Chowdhury S, M\u00e9moli F (2018) Persistent path homology of directed networks. In: Proceedings of the twenty-ninth annual ACM-SIAM symposium on discrete algorithms, pp 1152\u20131169. SIAM",
+      "DOI": "10.1137/1.9781611975031.75"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR75",
+      "doi-asserted-by": "crossref",
+      "first-page": "6",
+      "DOI": "10.1007/s10444-021-09893-4",
+      "volume": "48",
+      "author": "Y-M Chung",
+      "year": "2022",
+      "unstructured": "Chung Y-M, Lawson A (2022) Persistence curves: A canonical framework for summarizing persistence diagrams. Adv Comput Math 48(1):6",
+      "journal-title": "Adv Comput Math"
+    },
+    {
+      "key": "11462_CR76",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1137/1.9780898719208",
+      "volume-title": "The Finite Element Method for Elliptic Problems",
+      "author": "PG Ciarlet",
+      "year": "2002",
+      "unstructured": "Ciarlet PG (2002) The Finite Element Method for Elliptic Problems. SIAM"
+    },
+    {
+      "issue": "12",
+      "key": "11462_CR77",
+      "doi-asserted-by": "crossref",
+      "first-page": "8766",
+      "DOI": "10.1109/TPAMI.2020.3013679",
+      "volume": "44",
+      "author": "JR Clough",
+      "year": "2020",
+      "unstructured": "Clough JR, Byrne N, Oksuz I, Zimmer VA, Schnabel JA, King AP (2020) A topological loss function for deep-learning based image segmentation using persistent homology. IEEE Trans Pattern Anal Mach Intell 44(12):8766\u20138778",
+      "journal-title": "IEEE Trans Pattern Anal Mach Intell"
+    },
+    {
+      "key": "11462_CR78",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Cohen-Steiner D, Edelsbrunner H, Harer J (2005) Stability of persistence diagrams. In: Proceedings of the twenty-first annual symposium on computational geometry, pp 263\u2013271",
+      "DOI": "10.1145/1064092.1064133"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR79",
+      "doi-asserted-by": "crossref",
+      "first-page": "79",
+      "DOI": "10.1007/s10208-008-9027-z",
+      "volume": "9",
+      "author": "D Cohen-Steiner",
+      "year": "2009",
+      "unstructured": "Cohen-Steiner D, Edelsbrunner H, Harer J (2009) Extending persistence using Poincar\u00e9 and Lefschetz duality. Found Comput Math 9(1):79\u2013103",
+      "journal-title": "Found Comput Math"
+    },
+    {
+      "issue": "6",
+      "key": "11462_CR80",
+      "doi-asserted-by": "crossref",
+      "first-page": "881",
+      "DOI": "10.1016/j.cag.2004.08.015",
+      "volume": "28",
+      "author": "A Collins",
+      "year": "2004",
+      "unstructured": "Collins A, Zomorodian A, Carlsson G, Guibas LJ (2004) A barcode shape descriptor for curve point cloud data. Comput Graph 28(6):881\u2013894",
+      "journal-title": "Comput Graph"
+    },
+    {
+      "key": "11462_CR81",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Colombini JJ, Bonchi F, Giannini F, Giannotti F, Pellungrini R, Frosini P (2025) Mathematical foundation of interpretable equivariant surrogate models. In: Explainable Artificial Intelligence, Proceedings of the third world conference on explainable artificial intelligence, novel post-hoc & ante-hoc XAI approaches, Istanbul, Turkey, July 9\u201311, 2025. Communications in Computer and Information Science, vol. 2576",
+      "DOI": "10.1007/978-3-032-08324-1_13"
+    },
+    {
+      "key": "11462_CR82",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1090/cbms/038",
+      "volume-title": "Isolated Invariant Sets and the Morse Index",
+      "author": "CC Conley",
+      "year": "1978",
+      "unstructured": "Conley CC (1978) Isolated Invariant Sets and the Morse Index, vol 38. American Mathematical Soc"
+    },
+    {
+      "issue": "17",
+      "key": "11462_CR83",
+      "doi-asserted-by": "crossref",
+      "first-page": "3086",
+      "DOI": "10.3390/math10173086",
+      "volume": "10",
+      "author": "F Conti",
+      "year": "2022",
+      "unstructured": "Conti F, Moroni D, Pascali MA (2022) A topological machine learning pipeline for classification. Mathematics 10(17):3086",
+      "journal-title": "Mathematics"
+    },
+    {
+      "key": "11462_CR84",
+      "unstructured": "Cooperband Z, Ghrist R (2025) Unified origami kinematics via cosheaf homology. arXiv preprint arXiv:2501.02581"
+    },
+    {
+      "key": "11462_CR85",
+      "unstructured": "Cooperband Z, Ghrist R, Hansen J (2023) A cosheaf theory of reciprocal figures: Planar and higher genus graphic statics. arXiv preprint arXiv:2311.12946"
+    },
+    {
+      "key": "11462_CR86",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.compbiomed.2024.108497",
+      "volume": "175",
+      "author": "S Cottrell",
+      "year": "2024",
+      "unstructured": "Cottrell S, Hozumi Y, Wei G-W (2024) K-nearest-neighbors induced topological PCA for single cell RNA-sequence data analysis. Comput Biol Med 175:108497",
+      "journal-title": "Comput Biol Med"
+    },
+    {
+      "issue": "7",
+      "key": "11462_CR87",
+      "doi-asserted-by": "crossref",
+      "first-page": "2405",
+      "DOI": "10.1021/acs.jcim.3c01023",
+      "volume": "64",
+      "author": "S Cottrell",
+      "year": "2023",
+      "unstructured": "Cottrell S, Wang R, Wei G-W (2023) PLPCA: persistent Laplacian-enhanced PCA for microarray data analysis. J Chem Inf Model 64(7):2405\u20132420",
+      "journal-title": "J Chem Inf Model"
+    },
+    {
+      "key": "11462_CR88",
+      "volume-title": "Introduction to Knot Theory",
+      "author": "RH Crowell",
+      "year": "2012",
+      "unstructured": "Crowell RH, Fox RH (2012) Introduction to Knot Theory, vol 57. Springer, Berlin/Heidelberg, Germany"
+    },
+    {
+      "key": "11462_CR89",
+      "unstructured": "Curry JM (2014) Sheaves, Cosheaves and Applications, University of Pennsylvania"
+    },
+    {
+      "key": "11462_CR90",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Dabaghian Y, M\u00e9moli F, Frank L, Carlsson G (2012) A topological paradigm for hippocampal spatial map formation using persistent homology",
+      "DOI": "10.1371/journal.pcbi.1002581"
+    },
+    {
+      "key": "11462_CR91",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Dabrowski-Tumanski P, Jarmolinska AI, Niemyska W, Rawdon EJ, Millett KC, Sulkowska JI (2016) Linkprot: a database collecting information about biological links. Nucleic Acids Res, 976",
+      "DOI": "10.1093/nar/gkw976"
+    },
+    {
+      "issue": "3",
+      "key": "11462_CR92",
+      "doi-asserted-by": "crossref",
+      "first-page": "196",
+      "DOI": "10.1093/bib/bbaa196",
+      "volume": "22",
+      "author": "P Dabrowski-Tumanski",
+      "year": "2021",
+      "unstructured": "Dabrowski-Tumanski P, Rubach P, Niemyska W, Gren BA, Sulkowska JI (2021) Topoly: Python package to analyze topology of polymers. Brief Bioinform 22(3):196",
+      "journal-title": "Brief Bioinform"
+    },
+    {
+      "issue": "3",
+      "key": "11462_CR93",
+      "first-page": "229",
+      "volume": "31",
+      "author": "RJM Dawson",
+      "year": "1990",
+      "unstructured": "Dawson RJM (1990) Homology of weighted simplicial complexes. Cahiers Topologie G\u00e9om Diff\u00e9rentielle Cat\u00e9g 31(3):229\u2013243",
+      "journal-title": "Cahiers Topologie G\u00e9om Diff\u00e9rentielle Cat\u00e9g"
+    },
+    {
+      "key": "11462_CR94",
+      "unstructured": "De\u00a0Silva V, Carlsson GE (2004) Topological estimation using witness complexes. In: PBG, pp 157\u2013166"
+    },
+    {
+      "key": "11462_CR95",
+      "doi-asserted-by": "crossref",
+      "unstructured": "De\u00a0Silva V, Vejdemo-Johansson M (2009) Persistent cohomology and circular coordinates. In: Proceedings of the twenty-fifth annual symposium on computational geometry, pp 227\u2013236",
+      "DOI": "10.1145/1542362.1542406"
+    },
+    {
+      "issue": "12",
+      "key": "11462_CR96",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1088/0266-5611/27/12/124003",
+      "volume": "27",
+      "author": "V De Silva",
+      "year": "2011",
+      "unstructured": "De Silva V, Morozov D, Vejdemo-Johansson M (2011) Dualities in persistent (co)homology. Inverse Prob 27(12):124003",
+      "journal-title": "Inverse Prob"
+    },
+    {
+      "key": "11462_CR97",
+      "first-page": "793",
+      "volume": "7",
+      "author": "B Delaunay",
+      "year": "1934",
+      "unstructured": "Delaunay B (1934) Sur la sphere vide. Izvestia Akademii Nauk SSSR 7:793\u2013800",
+      "journal-title": "Izvestia Akademii Nauk SSSR"
+    },
+    {
+      "key": "11462_CR98",
+      "doi-asserted-by": "crossref",
+      "first-page": "273",
+      "DOI": "10.1007/BF02684373",
+      "volume": "43",
+      "author": "P Deligne",
+      "year": "1974",
+      "unstructured": "Deligne P (1974) La conjecture de Weil. I. Publications Math\u00e9matiques de l\u2019Institut des Hautes \u00c9tudes Scientifiques 43:273\u2013307",
+      "journal-title": "Publications Math\u00e9matiques de l\u2019Institut des Hautes \u00c9tudes Scientifiques"
+    },
+    {
+      "key": "11462_CR99",
+      "doi-asserted-by": "crossref",
+      "first-page": "137",
+      "DOI": "10.1007/BF02684780",
+      "volume": "52",
+      "author": "P Deligne",
+      "year": "1980",
+      "unstructured": "Deligne P (1980) La conjecture de Weil: II. Publications Math\u00e9matiques de l\u2019IH\u00c9S 52:137\u2013252",
+      "journal-title": "Publications Math\u00e9matiques de l\u2019IH\u00c9S"
+    },
+    {
+      "key": "11462_CR100",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Desbrun M, Kanso E, Tong Y (2006) Discrete differential forms for computational modeling. In: ACM SIGGRAPH 2006 Courses, pp 39\u201354",
+      "DOI": "10.1145/1185657.1185665"
+    },
+    {
+      "key": "11462_CR101",
+      "unstructured": "Dey TK, Hou T (2021) Computing zigzag persistence on graphs in near-linear time. In: 37th International Symposium on Computational Geometry"
+    },
+    {
+      "key": "11462_CR102",
+      "unstructured": "Dey TK, Hou T (2021) Updating zigzag persistence and maintaining representatives over changing filtrations. arXiv preprint arXiv:2112.02352"
+    },
+    {
+      "key": "11462_CR103",
+      "unstructured": "Dey TK, Hou, T (2022) Fast computation of zigzag persistence. In: 30th Annual European Symposium on Algorithms (ESA 2022). Leibniz International Proceedings in informatics (LIPIcs), vol 244. pp\u00a043:1\u201343:15"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR104",
+      "doi-asserted-by": "crossref",
+      "first-page": "67",
+      "DOI": "10.1007/s00454-023-00584-z",
+      "volume": "71",
+      "author": "TK Dey",
+      "year": "2024",
+      "unstructured": "Dey TK, Kim W, M\u00e9moli F (2024) Computing generalized rank invariant for 2-parameter persistence modules via zigzag persistence and its applications. Discrete Comput Geom 71(1):67\u201394",
+      "journal-title": "Discrete Comput Geom"
+    },
+    {
+      "issue": "4",
+      "key": "11462_CR105",
+      "doi-asserted-by": "crossref",
+      "first-page": "1102",
+      "DOI": "10.1007/s00454-022-00430-8",
+      "volume": "68",
+      "author": "TK Dey",
+      "year": "2022",
+      "unstructured": "Dey TK, Li T, Wang Y (2022) An efficient algorithm for 1-dimensional (persistent) path homology. Discrete Comput Geom 68(4):1102\u20131132",
+      "journal-title": "Discrete Comput Geom"
+    },
+    {
+      "key": "11462_CR106",
+      "unstructured": "Dey TK, Mrozek M, Slechta R (2020) Persistence of the Conley index in combinatorial dynamical systems. In: 36th international symposium on computational geometry (SoCG 2020). Leibniz international proceedings in informatics (LIPIcs), vol 164. pp\u00a037:1\u201337:17"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR107",
+      "doi-asserted-by": "crossref",
+      "first-page": "817",
+      "DOI": "10.1137/21M143162X",
+      "volume": "21",
+      "author": "TK Dey",
+      "year": "2022",
+      "unstructured": "Dey TK, Mrozek M, Slechta R (2022) Persistence of Conley-Morse graphs in combinatorial dynamical systems. SIAM J Appl Dyn Syst 21(2):817\u2013839",
+      "journal-title": "SIAM J Appl Dyn Syst"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR108",
+      "doi-asserted-by": "crossref",
+      "first-page": "510",
+      "DOI": "10.1137/18M1198946",
+      "volume": "18",
+      "author": "TK Dey",
+      "year": "2019",
+      "unstructured": "Dey TK, Juda M, Kapela T, Kubica J, Lipi\u0144ski M, Mrozek M (2019) Persistent homology of Morse decompositions in combinatorial dynamics. SIAM J Appl Dyn Syst 18(1):510\u2013530",
+      "journal-title": "SIAM J Appl Dyn Syst"
+    },
+    {
+      "key": "11462_CR109",
+      "volume-title": "Computational Topology for Data Analysis",
+      "author": "TK Dey",
+      "year": "2022",
+      "unstructured": "Dey TK, Wang Y (2022) Computational Topology for Data Analysis. Cambridge University Press, Cambridge"
+    },
+    {
+      "key": "11462_CR110",
+      "doi-asserted-by": "crossref",
+      "first-page": "156",
+      "DOI": "10.1016/j.jalgebra.2024.05.005",
+      "volume": "653",
+      "author": "S Di",
+      "year": "2024",
+      "unstructured": "Di S, Ivanov SO, Mukoseev L, Zhang M (2024) On the path homology of cayley digraphs and covering digraphs. J Algebra 653:156\u2013199",
+      "journal-title": "J Algebra"
+    },
+    {
+      "key": "11462_CR111",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Di\u00a0Fabio B, Ferri M (2015) Comparing persistence diagrams through complex vectors. In: Image Analysis and Processing-ICIAP 2015: 18th International Conference, Genoa, Italy, September 7-11, 2015, Proceedings, Part I 18, pp 294\u2013305. Springer",
+      "DOI": "10.1007/978-3-319-23231-7_27"
+    },
+    {
+      "issue": "778",
+      "key": "11462_CR112",
+      "first-page": "610",
+      "volume": "117",
+      "author": "PAM Dirac",
+      "year": "1928",
+      "unstructured": "Dirac PAM (1928) The quantum theory of the electron. Proc Royal Soc London. Series A,Containing Papers Math Phys Character 117(778):610\u2013624",
+      "journal-title": "Proc Royal Soc London. Series A,Containing Papers Math Phys Character"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR113",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.20382/jocg.v10i2a7",
+      "volume": "10",
+      "author": "V Divol",
+      "year": "2019",
+      "unstructured": "Divol V, Chazal F (2019) The density of expected persistence diagrams and its kernel based estimation. J Computat Geom 10(2):1\u201331. https://doi.org/10.20382/jocg.v10i2a7",
+      "journal-title": "J Computat Geom"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR114",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1007/s41468-020-00061-z",
+      "volume": "5",
+      "author": "V Divol",
+      "year": "2021",
+      "unstructured": "Divol V, Lacombe T (2021) Understanding the topology and the geometry of the space of persistence diagrams via optimal partial transport. J Appl Comput Topol 5(1):1\u201353. https://doi.org/10.1007/s41468-020-00061-z",
+      "journal-title": "J Appl Comput Topol"
+    },
+    {
+      "key": "11462_CR115",
+      "doi-asserted-by": "crossref",
+      "first-page": "60",
+      "DOI": "10.1016/j.physd.2016.04.015",
+      "volume": "334",
+      "author": "P D\u0142otko",
+      "year": "2016",
+      "unstructured": "D\u0142otko P, Wanner T (2016) Topological microstructure analysis using persistence landscapes. Physica D 334:60\u201381",
+      "journal-title": "Physica D"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR116",
+      "first-page": "054",
+      "volume": "25",
+      "author": "H Du",
+      "year": "2024",
+      "unstructured": "Du H, Wei G-W, Hou T (2024) Multiscale topology in interactomic network: from transcriptome to antiaddiction drug repurposing. Brief Bioinform 25(2):054",
+      "journal-title": "Brief Bioinform"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR117",
+      "doi-asserted-by": "crossref",
+      "first-page": "240",
+      "DOI": "10.1007/BF02566245",
+      "volume": "17",
+      "author": "B Eckmann",
+      "year": "1944",
+      "unstructured": "Eckmann B (1944) Harmonische Funktionen und Randwertaufgaben in einem Komplex. Commentarii Mathematici Helvetici 17(1):240\u2013255",
+      "journal-title": "Commentarii Mathematici Helvetici"
+    },
+    {
+      "key": "11462_CR118",
+      "doi-asserted-by": "crossref",
+      "first-page": "511",
+      "DOI": "10.1007/s00454-002-2885-2",
+      "volume": "28",
+      "author": "L Edelsbrunner",
+      "year": "2002",
+      "unstructured": "Edelsbrunner L (2002) Zomorodian: Topological persistence and simplification. Discrete Comput Geom 28:511\u2013533",
+      "journal-title": "Discrete Comput Geom"
+    },
+    {
+      "key": "11462_CR119",
+      "unstructured": "Edelsbrunner H (2011) Alpha shapes - a survey. In: Tessellations in the Sciences: Virtues, Techniques and Applications of Geometric Tilings"
+    },
+    {
+      "key": "11462_CR120",
+      "volume-title": "Computational Topology: An Introduction",
+      "author": "H Edelsbrunner",
+      "year": "2010",
+      "unstructured": "Edelsbrunner H, Harer J (2010) Computational Topology: An Introduction. American Mathematical Soc"
+    },
+    {
+      "key": "11462_CR121",
+      "unstructured": "Edelsbrunner H, Morozov D (2013) Persistent Homology: Theory and Practice. eScholarship, University of California"
+    },
+    {
+      "issue": "26",
+      "key": "11462_CR122",
+      "doi-asserted-by": "crossref",
+      "first-page": "257",
+      "DOI": "10.1090/conm/453/08802",
+      "volume": "453",
+      "author": "H Edelsbrunner",
+      "year": "2008",
+      "unstructured": "Edelsbrunner H, Harer J et al (2008) Persistent homology - a survey. Contemp Math 453(26):257\u2013282",
+      "journal-title": "Contemp Math"
+    },
+    {
+      "key": "11462_CR123",
+      "unstructured": "Einzade A, Thanou D, Malliaros FD, Giraldo JH (2025) Cosmos: Continuous simplicial neural networks. arXiv preprint arXiv:2503.12919"
+    },
+    {
+      "issue": "9",
+      "key": "11462_CR124",
+      "doi-asserted-by": "crossref",
+      "first-page": "3373",
+      "DOI": "10.1016/j.laa.2011.11.032",
+      "volume": "436",
+      "author": "E Estrada",
+      "year": "2012",
+      "unstructured": "Estrada E (2012) Path Laplacian matrices: introduction and application to the analysis of consensus in networks. Linear Algebra Appl 436(9):3373\u20133391",
+      "journal-title": "Linear Algebra Appl"
+    },
+    {
+      "key": "11462_CR125",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Fabri A, Pion S (2009) CGAL: the computational geometry algorithms library. In: Proceedings of the 17th ACM SIGSPATIAL international conference on advances in geographic information systems, pp 538\u2013539",
+      "DOI": "10.1145/1653771.1653865"
+    },
+    {
+      "issue": "6",
+      "key": "11462_CR126",
+      "doi-asserted-by": "publisher",
+      "first-page": "2301",
+      "DOI": "10.1214/14-AOS1252",
+      "volume": "42",
+      "author": "BT Fasy",
+      "year": "2014",
+      "unstructured": "Fasy BT, Lecci F, Rinaldo A, Wasserman L, Balakrishnan S, Singh A (2014) Confidence sets for persistence diagrams. Ann Stat 42(6):2301\u20132339. https://doi.org/10.1214/14-AOS1252",
+      "journal-title": "Ann Stat"
+    },
+    {
+      "key": "11462_CR127",
+      "unstructured": "Fasy BT, Kim J, Lecci F, Maria C (2014) Introduction to the R package TDA. arXiv preprint arXiv:1411.1830"
+    },
+    {
+      "key": "11462_CR128",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Feng H, Suwayyid F, Zia M, Wee J, Hozumi Y, Chen C-L, Wei G-W (2025) Caml: Commutative algebra machine learning - a case study on protein\u2013ligand binding affinity prediction. J Chem Inf Model",
+      "DOI": "10.1021/acs.jcim.5c00940"
+    },
+    {
+      "key": "11462_CR129",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Feng H, Shen L, Liu J, Wei G-W (2024) Mayer-homology learning prediction of protein-ligand binding affinities. J Comput Bio Chem 1\u201314",
+      "DOI": "10.1142/S2737416524500613"
+    },
+    {
+      "issue": "40",
+      "key": "11462_CR130",
+      "doi-asserted-by": "crossref",
+      "first-page": "2412220121",
+      "DOI": "10.1073/pnas.2412220121",
+      "volume": "121",
+      "author": "L Feng",
+      "year": "2024",
+      "unstructured": "Feng L, Gong H, Zhang S, Liu X, Wang Y, Che J, Dong A, Griffin CH, Gragnoli C, Wu J, Yau S-T, Wu R (2024) Hypernetwork modeling and topology of high-order interactions for complex systems. Proc Natl Acad Sci 121(40):2412220121",
+      "journal-title": "Proc Natl Acad Sci"
+    },
+    {
+      "key": "11462_CR131",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1016/j.physrep.2024.10.006",
+      "volume": "1101",
+      "author": "L Feng",
+      "year": "2025",
+      "unstructured": "Feng L, Yang D, Wu S, Xue C, Sang M, Liu X, Che J, Wu J, Gragnoli C, Griffin C, Wang C, Yau S-T, Wu R (2025) Network modeling and topology of aging. Phys Rep 1101:1\u201365",
+      "journal-title": "Phys Rep"
+    },
+    {
+      "key": "11462_CR132",
+      "first-page": "16",
+      "volume": "9",
+      "author": "M Ferri",
+      "year": "1999",
+      "unstructured": "Ferri M, Landi C (1999) Representing size functions by complex polynomials. Proc Math Met Pattern Recognition 9:16\u201319",
+      "journal-title": "Proc Math Met Pattern Recognition"
+    },
+    {
+      "issue": "4",
+      "key": "11462_CR133",
+      "doi-asserted-by": "crossref",
+      "first-page": "551",
+      "DOI": "10.1002/cpa.3160080408",
+      "volume": "8",
+      "author": "KO Friedrichs",
+      "year": "1955",
+      "unstructured": "Friedrichs KO (1955) Differential forms on Riemannian manifolds. Commun Pure Appl Math 8(4):551\u2013590",
+      "journal-title": "Commun Pure Appl Math"
+    },
+    {
+      "issue": "3",
+      "key": "11462_CR134",
+      "doi-asserted-by": "crossref",
+      "first-page": "407",
+      "DOI": "10.1017/S0004972700028574",
+      "volume": "42",
+      "author": "P Frosini",
+      "year": "1990",
+      "unstructured": "Frosini P (1990) A distance for similarity classes of submanifolds of a Euclidean space. Bull Aust Math Soc 42(3):407\u2013415",
+      "journal-title": "Bull Aust Math Soc"
+    },
+    {
+      "issue": "7",
+      "key": "11462_CR135",
+      "doi-asserted-by": "crossref",
+      "first-page": "555",
+      "DOI": "10.1002/(SICI)1099-1476(19960510)19:7<555::AID-MMA787>3.0.CO;2-X",
+      "volume": "19",
+      "author": "P Frosini",
+      "year": "1996",
+      "unstructured": "Frosini P (1996) Connections between size functions and critical points. Math Method Appl Sci 19(7):555\u2013569",
+      "journal-title": "Math Method Appl Sci"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR136",
+      "doi-asserted-by": "crossref",
+      "first-page": "373",
+      "DOI": "10.1007/s00454-016-9761-y",
+      "volume": "55",
+      "author": "P Frosini",
+      "year": "2016",
+      "unstructured": "Frosini P, Jab\u0142o\u0144ski G (2016) Combining persistent homology and invariance groups for shape comparison. Discrete Comput Geom 55(2):373\u2013409",
+      "journal-title": "Discrete Comput Geom"
+    },
+    {
+      "issue": "3",
+      "key": "11462_CR137",
+      "doi-asserted-by": "crossref",
+      "first-page": "455",
+      "DOI": "10.36045/bbms/1103065863",
+      "volume": "6",
+      "author": "P Frosini",
+      "year": "1999",
+      "unstructured": "Frosini P, Mulazzani M (1999) Size homotopy groups for computation of natural size distances. Bulletin Belgian Math Soc-Simon Stevin 6(3):455\u2013464",
+      "journal-title": "Bulletin Belgian Math Soc-Simon Stevin"
+    },
+    {
+      "key": "11462_CR138",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1007/s13160-014-0153-5",
+      "volume": "32",
+      "author": "M Gameiro",
+      "year": "2015",
+      "unstructured": "Gameiro M, Hiraoka Y, Izumi S, Kramar M, Mischaikow K, Nanda V (2015) A topological measurement of protein compressibility. Jpn J Ind Appl Math 32:1\u201317",
+      "journal-title": "Jpn J Ind Appl Math"
+    },
+    {
+      "key": "11462_CR139",
+      "first-page": "601",
+      "volume-title": "Zur Mathematischen Theorie der Electrodynamischen Wirkungen",
+      "author": "CF Gauss",
+      "year": "1877",
+      "unstructured": "Gauss CF (1877) Zur Mathematischen Theorie der Electrodynamischen Wirkungen. Springer, Berlin, Heidelberg, pp 601\u2013630"
+    },
+    {
+      "key": "11462_CR140",
+      "unstructured": "Ge X, Safa I, Belkin M, Wang Y (2011) Data skeletonization via Reeb graphs. Adv Neural Inf Proc Syst 24"
+    },
+    {
+      "issue": "11",
+      "key": "11462_CR141",
+      "doi-asserted-by": "crossref",
+      "first-page": "1309",
+      "DOI": "10.1002/nme.2579",
+      "volume": "79",
+      "author": "C Geuzaine",
+      "year": "2009",
+      "unstructured": "Geuzaine C, Remacle J-F (2009) Gmsh: a 3-D finite element mesh generator with built-in pre- and post-processing facilities. Int J Numer Meth Eng 79(11):1309\u20131331",
+      "journal-title": "Int J Numer Meth Eng"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR142",
+      "doi-asserted-by": "crossref",
+      "first-page": "61",
+      "DOI": "10.1090/S0273-0979-07-01191-3",
+      "volume": "45",
+      "author": "R Ghrist",
+      "year": "2008",
+      "unstructured": "Ghrist R (2008) Barcodes: the persistent topology of data. Bull Am Math Soc 45(1):61\u201375",
+      "journal-title": "Bull Am Math Soc"
+    },
+    {
+      "key": "11462_CR143",
+      "volume-title": "Elementary Applied Topology",
+      "author": "RW Ghrist",
+      "year": "2014",
+      "unstructured": "Ghrist RW (2014) Elementary Applied Topology, vol 1. Createspace Seattle"
+    },
+    {
+      "key": "11462_CR144",
+      "unstructured": "Goldberg TE (2002) Combinatorial Laplacians of simplicial complexes. PhD thesis, Citeseer"
+    },
+    {
+      "key": "11462_CR145",
+      "doi-asserted-by": "crossref",
+      "first-page": "228",
+      "DOI": "10.1016/j.plrev.2024.08.001",
+      "volume": "50",
+      "author": "H Gong",
+      "year": "2024",
+      "unstructured": "Gong H, Wang H, Wang Y, Zhang S, Liu X, Che J, Wu S, Wu J, Sun X, Zhang S, Yau S-T, Wu R (2024) Topological change of soil microbiota networks for forest resilience under global warming. Phys Life Rev 50:228\u2013251",
+      "journal-title": "Phys Life Rev"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR146",
+      "doi-asserted-by": "crossref",
+      "first-page": "165",
+      "DOI": "10.3934/fods.2022002",
+      "volume": "4",
+      "author": "J Grbi\u0107",
+      "year": "2022",
+      "unstructured": "Grbi\u0107 J, Wu J, Xia K, Wei G-W (2022) Aspects of topological approaches for data science. Found Data Sci (Springfield, Mo.) 4(2):165",
+      "journal-title": "Found Data Sci (Springfield, Mo.)"
+    },
+    {
+      "key": "11462_CR147",
+      "unstructured": "Grigor\u2019yan A, Lin Y, Muranov Y, Yau S-T (2012) Homologies of path complexes and digraphs. arXiv preprint arXiv:1207.2834"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR148",
+      "doi-asserted-by": "crossref",
+      "first-page": "61",
+      "DOI": "10.4310/ICCM.2022.v10.n2.a7",
+      "volume": "10",
+      "author": "A Grigor\u2019yan",
+      "year": "2022",
+      "unstructured": "Grigor\u2019yan A (2022) Advances in path homology theory of digraphs. Notice Int Consortium Chinese Math 10(2):61\u2013124",
+      "journal-title": "Notice Int Consortium Chinese Math"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR149",
+      "doi-asserted-by": "crossref",
+      "first-page": "209",
+      "DOI": "10.1007/s40062-015-0103-1",
+      "volume": "11",
+      "author": "A Grigor\u2019yan",
+      "year": "2016",
+      "unstructured": "Grigor\u2019yan A, Muranov Y, Yau S-T (2016) On a cohomology of digraphs and hochschild cohomology. J Homotopy Relat Struct 11(2):209\u2013230",
+      "journal-title": "J Homotopy Relat Struct"
+    },
+    {
+      "issue": "5",
+      "key": "11462_CR150",
+      "doi-asserted-by": "crossref",
+      "first-page": "564",
+      "DOI": "10.1007/s10958-020-04897-9",
+      "volume": "248",
+      "author": "AA Grigor\u2019yan",
+      "year": "2020",
+      "unstructured": "Grigor\u2019yan AA, Lin Y, Muranov YV, Yau S-T (2020) Path complexes and their homologies. J Math Sci 248(5):564\u2013599",
+      "journal-title": "J Math Sci"
+    },
+    {
+      "issue": "4",
+      "key": "11462_CR151",
+      "doi-asserted-by": "crossref",
+      "first-page": "619",
+      "DOI": "10.4310/PAMQ.2014.v10.n4.a2",
+      "volume": "10",
+      "author": "A Grigor\u2019yan",
+      "year": "2023",
+      "unstructured": "Grigor\u2019yan A, Lin Y, Muranov Y, Yau S-T (2023) Homotopy theory for digraphs. Pure Appl Math Quart 10(4):619\u2013674",
+      "journal-title": "Pure Appl Math Quart"
+    },
+    {
+      "key": "11462_CR152",
+      "unstructured": "G\u00fclen AB, M\u00e9moli F, Wan Z (2023) Orthogonal M\u00f6bius inversion and Grassmannian persistence diagrams. arXiv preprint arXiv:2311.06870"
+    },
+    {
+      "key": "11462_CR153",
+      "unstructured": "G\u00fclen AB, M\u00e9moli F, Wan Z (2025) Grassmannian persistence diagrams: Special properties in the 1-parameter setting. arXiv preprint arXiv:2504.06077"
+    },
+    {
+      "key": "11462_CR154",
+      "unstructured": "G\u00fclen AB, M\u00e9moli F, Wan Z, Wang Y (2023) A Generalization of the Persistent Laplacian to Simplicial Maps. In: 39th international symposium on computational geometry (SoCG 2023). Leibniz International Proceedings in Informatics (LIPIcs), vol 258. pp\u00a037:1\u201337:17"
+    },
+    {
+      "key": "11462_CR155",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Gundert A, Szedl\u00e1k M (2014) Higher dimensional Cheeger inequalities. In: Proceedings of the thirtieth annual symposium on computational geometry, pp 181\u2013188",
+      "DOI": "10.1145/2582112.2582118"
+    },
+    {
+      "key": "11462_CR156",
+      "doi-asserted-by": "crossref",
+      "first-page": "959",
+      "DOI": "10.1007/s00371-012-0726-8",
+      "volume": "28",
+      "author": "D G\u00fcnther",
+      "year": "2012",
+      "unstructured": "G\u00fcnther D, Reininghaus J, Wagner H, Hotz I (2012) Efficient computation of 3D Morse-Smale complexes and persistent homology using discrete Morse theory. Vis Comput 28:959\u2013969",
+      "journal-title": "Vis Comput"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR157",
+      "doi-asserted-by": "crossref",
+      "first-page": "41",
+      "DOI": "10.1007/s13160-022-00517-y",
+      "volume": "40",
+      "author": "H Hang",
+      "year": "2023",
+      "unstructured": "Hang H, Mio W (2023) Correspondence modules and persistence sheaves: a unifying perspective on one-parameter persistent homology. Jpn J Ind Appl Math 40(1):41\u201393",
+      "journal-title": "Jpn J Ind Appl Math"
+    },
+    {
+      "key": "11462_CR158",
+      "unstructured": "Hansen J (2020) Laplacians of cellular sheaves: Theory and applications. PhD thesis, University of Pennsylvania"
+    },
+    {
+      "issue": "4",
+      "key": "11462_CR159",
+      "doi-asserted-by": "crossref",
+      "first-page": "315",
+      "DOI": "10.1007/s41468-019-00038-7",
+      "volume": "3",
+      "author": "J Hansen",
+      "year": "2019",
+      "unstructured": "Hansen J, Ghrist R (2019) Toward a spectral theory of cellular sheaves. J Appl Comput Topology 3(4):315\u2013358",
+      "journal-title": "J Appl Comput Topology"
+    },
+    {
+      "key": "11462_CR160",
+      "doi-asserted-by": "crossref",
+      "first-page": "873",
+      "DOI": "10.22331/q-2022-12-07-873",
+      "volume": "6",
+      "author": "R Hayakawa",
+      "year": "2022",
+      "unstructured": "Hayakawa R (2022) Quantum algorithm for persistent Betti numbers and topological data analysis. Quantum 6:873",
+      "journal-title": "Quantum"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR161",
+      "doi-asserted-by": "crossref",
+      "first-page": "1384",
+      "DOI": "10.3934/math.2025064",
+      "volume": "10",
+      "author": "Y He",
+      "year": "2025",
+      "unstructured": "He Y, Liu J (2025) Multi-scale hochschild spectral analysis on graph data. AIMS Mathematics 10(1):1384\u20131406",
+      "journal-title": "AIMS Mathematics"
+    },
+    {
+      "key": "11462_CR162",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.3389/frai.2021.681108",
+      "volume": "4",
+      "author": "F Hensel",
+      "year": "2021",
+      "unstructured": "Hensel F, Moor M, Rieck B (2021) A survey of topological machine learning methods. Front Artif Intell 4:681108",
+      "journal-title": "Front Artif Intell"
+    },
+    {
+      "key": "11462_CR163",
+      "unstructured": "Henselman G, Ghrist R (2016) Matroid filtrations and computational persistent homology. arXiv preprint arXiv:1606.00199"
+    },
+    {
+      "key": "11462_CR164",
+      "unstructured": "Hern\u00e1ndez-Garc\u00eda P, Serrano DH, G\u00f3mez DS (2025) From persistence to resilience: New betti numbers for analyzing robustness in simplicial complex networks. arXiv preprint arXiv:2505.10467"
+    },
+    {
+      "issue": "3",
+      "key": "11462_CR165",
+      "doi-asserted-by": "crossref",
+      "first-page": "97",
+      "DOI": "10.1016/j.physrep.2012.03.001",
+      "volume": "519",
+      "author": "P Holme",
+      "year": "2012",
+      "unstructured": "Holme P, Saram\u00e4ki J (2012) Temporal networks. Phys Rep 519(3):97\u2013125",
+      "journal-title": "Phys Rep"
+    },
+    {
+      "key": "11462_CR166",
+      "doi-asserted-by": "crossref",
+      "first-page": "303",
+      "DOI": "10.1016/j.aim.2013.05.007",
+      "volume": "244",
+      "author": "D Horak",
+      "year": "2013",
+      "unstructured": "Horak D, Jost J (2013) Spectra of combinatorial Laplace operators on simplicial complexes. Adv Math 244:303\u2013336",
+      "journal-title": "Adv Math"
+    },
+    {
+      "issue": "03",
+      "key": "11462_CR167",
+      "doi-asserted-by": "crossref",
+      "first-page": "03034",
+      "DOI": "10.1088/1742-5468/2009/03/P03034",
+      "volume": "2009",
+      "author": "D Horak",
+      "year": "2009",
+      "unstructured": "Horak D, Maleti\u0107 S, Rajkovi\u0107 M (2009) Persistent homology of complex networks. J Stat Mech: Theory Exp 2009(03):03034",
+      "journal-title": "J Stat Mech: Theory Exp"
+    },
+    {
+      "key": "11462_CR168",
+      "unstructured": "Hozumi Y, Wei G-W (2024) Revealing the shape of genome space via k-mer topology. arXiv preprint arXiv:2412.20202"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR169",
+      "doi-asserted-by": "crossref",
+      "first-page": "12812",
+      "DOI": "10.1112/jlms.12812",
+      "volume": "109",
+      "author": "SO Ivanov",
+      "year": "2024",
+      "unstructured": "Ivanov SO, Pavutnitskiy F (2024) Simplicial approach to path homology of quivers, marked categories, groups and algebras. J Lond Math Soc 109(1):12812",
+      "journal-title": "J Lond Math Soc"
+    },
+    {
+      "key": "11462_CR170",
+      "unstructured": "Jamin C (2025) Tangential complex. In: GUDHI User and Reference Manual"
+    },
+    {
+      "issue": "D1",
+      "key": "11462_CR171",
+      "doi-asserted-by": "crossref",
+      "first-page": "306",
+      "DOI": "10.1093/nar/gku1059",
+      "volume": "43",
+      "author": "M Jamroz",
+      "year": "2015",
+      "unstructured": "Jamroz M, Niemyska W, Rawdon EJ, Stasiak A, Millett KC, Su\u0142kowski P, Sulkowska JI (2015) Knotprot: a database of proteins with knots and slipknots. Nucleic Acids Res 43(D1):306\u2013314",
+      "journal-title": "Nucleic Acids Res"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR172",
+      "doi-asserted-by": "crossref",
+      "first-page": "28",
+      "DOI": "10.1038/s41524-021-00493-w",
+      "volume": "7",
+      "author": "Y Jiang",
+      "year": "2021",
+      "unstructured": "Jiang Y, Chen D, Chen X, Li T, Wei G-W, Pan F (2021) Topological representations of crystalline compounds for the machine-learning prediction of materials properties. npj Comput Materials 7(1):28",
+      "journal-title": "npj Comput Materials"
+    },
+    {
+      "key": "11462_CR173",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1007/978-3-031-33440-5",
+      "volume-title": "Mathematical Principles of Topological and Geometric Data Analysis",
+      "author": "P Joharinad",
+      "year": "2023",
+      "unstructured": "Joharinad P, Jost J (2023) Mathematical Principles of Topological and Geometric Data Analysis. Springer, Berlin/Heidelberg, Germany"
+    },
+    {
+      "key": "11462_CR174",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Joharinad P, Fahimi H, Barth LS, Keck J, Jost J (2025) IsUMap: manifold learning and data visualization leveraging vietoris-rips filtrations. In: Proceedings of the AAAI conference on artificial intelligence, vol 39, pp 17699\u201317706",
+      "DOI": "10.1609/aaai.v39i17.33946"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR175",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1088/2632-072X/adde9f",
+      "volume": "6",
+      "author": "B Jones",
+      "year": "2025",
+      "unstructured": "Jones B, Wei G-W (2025) Khovanov Laplacian and Khovanov Dirac for knots and links. J Phys Complex 6(2):025014",
+      "journal-title": "J Phys Complex"
+    },
+    {
+      "issue": "3",
+      "key": "11462_CR176",
+      "doi-asserted-by": "crossref",
+      "first-page": "737",
+      "DOI": "10.3934/fods.2024048",
+      "volume": "7",
+      "author": "B Jones",
+      "year": "2025",
+      "unstructured": "Jones B, Wei G-W (2025) Persistent directed flag Laplacian. Found Data Sci 7(3):737\u2013758",
+      "journal-title": "Found Data Sci"
+    },
+    {
+      "key": "11462_CR177",
+      "unstructured": "Jones B, Wei G-W (2025) PETLS: Persistent Topological Laplacian Software. arXiv preprint arXiv:2508.11560"
+    },
+    {
+      "key": "11462_CR178",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Jones, VF (1997) A polynomial invariant for knots via von Neumann algebras. In: Fields Medallists\u2019 Lectures, pp 448\u2013458. World Scientific",
+      "DOI": "10.1142/9789812385215_0048"
+    },
+    {
+      "key": "11462_CR179",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1007/978-3-540-75859-4",
+      "volume-title": "Simplicial Complexes of Graphs",
+      "author": "J Jonsson",
+      "year": "2008",
+      "unstructured": "Jonsson J (2008) Simplicial Complexes of Graphs, vol 1928. Springer, Berlin/Heidelberg, Germany"
+    },
+    {
+      "key": "11462_CR180",
+      "unstructured": "Kaji S, Sudo T, Ahara K (2020) Cubical Ripser: Software for computing persistent homology of image and volume data. arXiv preprint arXiv:2005.12692"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR181",
+      "doi-asserted-by": "crossref",
+      "first-page": "101",
+      "DOI": "10.1007/s10208-018-9379-y",
+      "volume": "19",
+      "author": "S Kali\u0161nik",
+      "year": "2019",
+      "unstructured": "Kali\u0161nik S (2019) Tropical coordinates on the space of persistence barcodes. Found Comput Math 19(1):101\u2013129",
+      "journal-title": "Found Comput Math"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR182",
+      "doi-asserted-by": "crossref",
+      "first-page": "13817",
+      "DOI": "10.1038/s41598-019-50202-3",
+      "volume": "9",
+      "author": "H Kannan",
+      "year": "2019",
+      "unstructured": "Kannan H, Saucan E, Roy I, Samal A (2019) Persistent homology of unweighted complex networks via discrete Morse theory. Sci Rep 9(1):13817",
+      "journal-title": "Sci Rep"
+    },
+    {
+      "key": "11462_CR183",
+      "unstructured": "Karag\u00fcler D (2021) A survey on multidimensional persistence theory. Master\u2019s thesis, Middle East Technical University (Turkey)"
+    },
+    {
+      "key": "11462_CR184",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.eswa.2021.115326",
+      "volume": "183",
+      "author": "A Karan",
+      "year": "2021",
+      "unstructured": "Karan A, Kaygun A (2021) Time series classification via topological data analysis. Expert Syst Appl 183:115326. https://doi.org/10.1016/j.eswa.2021.115326",
+      "journal-title": "Expert Syst Appl"
+    },
+    {
+      "key": "11462_CR185",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Keros A, Subr K (2023) Spectral coarsening with Hodge Laplacians. In: ACM SIGGRAPH 2023 Conference Proceedings, pp 1\u201311",
+      "DOI": "10.1145/3588432.3591544"
+    },
+    {
+      "key": "11462_CR186",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Khovanov M (2000) A categorification of the Jones polynomial",
+      "DOI": "10.1215/S0012-7094-00-10131-7"
+    },
+    {
+      "key": "11462_CR187",
+      "first-page": "15965",
+      "volume": "33",
+      "author": "K Kim",
+      "year": "2020",
+      "unstructured": "Kim K, Kim J, Zaheer M, Kim J, Chazal F, Wasserman L (2020) Pllay: Efficient topological layer based on persistent landscapes. Adv Neural Inf Process Syst 33:15965\u201315977",
+      "journal-title": "Adv Neural Inf Process Syst"
+    },
+    {
+      "issue": "4",
+      "key": "11462_CR188",
+      "doi-asserted-by": "crossref",
+      "first-page": "533",
+      "DOI": "10.1007/s41468-021-00075-1",
+      "volume": "5",
+      "author": "W Kim",
+      "year": "2021",
+      "unstructured": "Kim W, M\u00e9moli F (2021) Generalized persistence diagrams for persistence modules over posets. J Appl Comput Topology 5(4):533\u2013581",
+      "journal-title": "J Appl Comput Topology"
+    },
+    {
+      "key": "11462_CR189",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Kim W, M\u00e9moli F (2023) Persistence over posets. Notices Am Math Soc 70(08)",
+      "DOI": "10.1090/noti2761"
+    },
+    {
+      "issue": "12",
+      "key": "11462_CR190",
+      "doi-asserted-by": "crossref",
+      "first-page": "497",
+      "DOI": "10.1002/andp.18471481202",
+      "volume": "148",
+      "author": "G Kirchhoff",
+      "year": "1847",
+      "unstructured": "Kirchhoff G (1847) Ueber die Aufl\u00f6sung der Gleichungen, auf welche man bei der Untersuchung der linearen Vertheilung galvanischer Str\u00f6me gef\u00fchrt wird. Ann Phys 148(12):497\u2013508",
+      "journal-title": "Ann Phys"
+    },
+    {
+      "key": "11462_CR191",
+      "unstructured": "Knill O (2018) The cohomology for Wu characteristics. arXiv preprint arXiv:1803.06788"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR192",
+      "doi-asserted-by": "crossref",
+      "first-page": "19",
+      "DOI": "10.1515/sagmb-2015-0057",
+      "volume": "15",
+      "author": "V Kovacev-Nikolic",
+      "year": "2016",
+      "unstructured": "Kovacev-Nikolic V, Bubenik P, Nikoli\u0107 D, Heo G (2016) Using persistent homology and dynamical distances to analyze protein binding. Stat Appl Genet Mol Biol 15(1):19\u201338",
+      "journal-title": "Stat Appl Genet Mol Biol"
+    },
+    {
+      "key": "11462_CR193",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.chaos.2023.114296",
+      "volume": "177",
+      "author": "S Krishnagopal",
+      "year": "2023",
+      "unstructured": "Krishnagopal S, Bianconi G (2023) Topology and dynamics of higher-order multiplex networks. Chaos Solit Fractals 177:114296",
+      "journal-title": "Chaos Solit Fractals"
+    },
+    {
+      "key": "11462_CR194",
+      "unstructured": "Kusano G, Hiraoka Y, Fukumizu K (2016) Persistence weighted Gaussian kernel for topological data analysis. In: International Conference on Machine Learning, pp 2004\u20132013. PMLR"
+    },
+    {
+      "key": "11462_CR195",
+      "unstructured": "Ladyzhenskaya OA (1969) The Mathematical Theory of Viscous Incompressible Flow. Gordon Breach,"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR196",
+      "doi-asserted-by": "crossref",
+      "first-page": "536",
+      "DOI": "10.3934/fods.2024038",
+      "volume": "7",
+      "author": "MQ Le",
+      "year": "2025",
+      "unstructured": "Le MQ, Taylor D (2025) Persistent homology with k-nearest-neighbor filtrations reveals topological convergence of pagerank. Found Data Sci 7(2):536\u2013567",
+      "journal-title": "Found Data Sci"
+    },
+    {
+      "key": "11462_CR197",
+      "unstructured": "Le T, Yamada M (2018) Persistence Fisher kernel: A Riemannian manifold kernel for persistence diagrams. Adv Neural Inf Proc Syst 31"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR198",
+      "first-page": "1",
+      "volume": "8",
+      "author": "Y Lee",
+      "year": "2017",
+      "unstructured": "Lee Y, Barthel SD, D\u0142otko P, Moosavi SM, Hess K, Smit B (2017) Quantifying similarity of pore-geometry in nanoporous materials. Nat Commun 8(1):1\u20138",
+      "journal-title": "Nat Commun"
+    },
+    {
+      "key": "11462_CR199",
+      "first-page": "1366",
+      "volume": "222",
+      "author": "J Leray",
+      "year": "1946",
+      "unstructured": "Leray J (1946) L\u2019anneau d\u2019homologie d\u2019une repr\u00e9sentation. C.R. Acad Sci Paris 222:1366\u20131368",
+      "journal-title": "C.R. Acad Sci Paris"
+    },
+    {
+      "key": "11462_CR200",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Li JY, Vershinin VV, Wu J (2017) Twisted simplicial groups and twisted homology of categories. Homology, Homotopy Appl 19(2)",
+      "DOI": "10.4310/HHA.2017.v19.n2.a7"
+    },
+    {
+      "issue": "24",
+      "key": "11462_CR201",
+      "doi-asserted-by": "crossref",
+      "first-page": "11189",
+      "DOI": "10.1021/ja00103a057",
+      "volume": "116",
+      "author": "C Liang",
+      "year": "1994",
+      "unstructured": "Liang C, Mislow K (1994) Knots in proteins. J Am Chem Soc 116(24):11189\u201311190",
+      "journal-title": "J Am Chem Soc"
+    },
+    {
+      "key": "11462_CR202",
+      "unstructured": "Lieutier A (2014) Talk: Persistent harmonic forms"
+    },
+    {
+      "issue": "3",
+      "key": "11462_CR203",
+      "doi-asserted-by": "crossref",
+      "first-page": "685",
+      "DOI": "10.1137/18M1223101",
+      "volume": "62",
+      "author": "L-H Lim",
+      "year": "2020",
+      "unstructured": "Lim L-H (2020) Hodge Laplacians on graphs Siam Review 62(3):685\u2013715",
+      "journal-title": "Hodge Laplacians on graphs Siam Review"
+    },
+    {
+      "key": "11462_CR204",
+      "unstructured": "Lin Y, Ren S, Wang C, Wu J (2019) Weighted path homology of weighted digraphs and persistence. arXiv preprint arXiv:1910.09891"
+    },
+    {
+      "key": "11462_CR205",
+      "unstructured": "Liu J, Chen D, Wei G-W (2023) Interaction homotopy and interaction homology. arXiv preprint arXiv:2311.16322"
+    },
+    {
+      "key": "11462_CR206",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3934/fods.2025011",
+      "author": "J Liu",
+      "year": "2025",
+      "unstructured": "Liu J, Chen D, Wei G-W (2025) Persistent interaction topology in data analysis. Found Data Sci. https://doi.org/10.3934/fods.2025011",
+      "journal-title": "Found Data Sci"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR207",
+      "doi-asserted-by": "crossref",
+      "first-page": "297",
+      "DOI": "10.4310/HHA.2024.v26.n2.a15",
+      "volume": "26",
+      "author": "J Liu",
+      "year": "2024",
+      "unstructured": "Liu J, Li J, Wu J (2024) The algebraic stability for persistent Laplacians. Homology Homotopy Appl 26(2):297\u2013323",
+      "journal-title": "Homology Homotopy Appl"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR208",
+      "doi-asserted-by": "crossref",
+      "first-page": "221",
+      "DOI": "10.3934/fods.2024009",
+      "volume": "6",
+      "author": "J Liu",
+      "year": "2024",
+      "unstructured": "Liu J, Shen L, Wei G-W (2024) ChatGPT for computational topology. Found Data Sci 6(2):221\u2013250",
+      "journal-title": "Found Data Sci"
+    },
+    {
+      "key": "11462_CR209",
+      "unstructured": "Liu J, Shen L, Wei G-W (2024) Persistent Khovanov homology of tangles. arXiv preprint arXiv:2409.18312"
+    },
+    {
+      "key": "11462_CR210",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Liu J, Shen L, Zia M, Wei G-W (2025) Topological sequence analysis of genomes: category theory approaches. J Comput Bio Chem",
+      "DOI": "10.1142/S2737416526400016"
+    },
+    {
+      "key": "11462_CR211",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Liu J, Shen L, Chen D, Wei G-W (2025) Topological sequence analysis of genomes: Delta complex approaches. arXiv preprint arXiv:2507.05452",
+      "DOI": "10.3934/fods.2026003"
+    },
+    {
+      "issue": "3",
+      "key": "11462_CR212",
+      "doi-asserted-by": "crossref",
+      "first-page": "1066",
+      "DOI": "10.1021/acs.jcim.2c01251",
+      "volume": "63",
+      "author": "R Liu",
+      "year": "2023",
+      "unstructured": "Liu R, Liu X, Wu J (2023) Persistent path-spectral (pps) based machine learning for protein-ligand binding affinity prediction. J Chem Inf Model 63(3):1066\u20131075",
+      "journal-title": "J Chem Inf Model"
+    },
+    {
+      "key": "11462_CR213",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Liu X, Xia K (2021) Neighborhood complex based machine learning (NCML) models for drug design. In: International Workshop on Interpretability of Machine Intelligence in Medical Image Computing, and Topological Data Analysis and Its Applications for Medical Data, pp 87\u201397",
+      "DOI": "10.1007/978-3-030-87444-5_9"
+    },
+    {
+      "issue": "5",
+      "key": "11462_CR214",
+      "doi-asserted-by": "crossref",
+      "first-page": "411",
+      "DOI": "10.1093/bib/bbaa411",
+      "volume": "22",
+      "author": "X Liu",
+      "year": "2021",
+      "unstructured": "Liu X, Wang X, Wu J, Xia K (2021) Hypergraph-based persistent cohomology (HPC) for molecular representations in drug design. Brief Bioinform 22(5):411",
+      "journal-title": "Brief Bioinform"
+    },
+    {
+      "issue": "5",
+      "key": "11462_CR215",
+      "doi-asserted-by": "crossref",
+      "first-page": "127",
+      "DOI": "10.1093/bib/bbab127",
+      "volume": "22",
+      "author": "X Liu",
+      "year": "2021",
+      "unstructured": "Liu X, Feng H, Wu J, Xia K (2021) Persistent spectral hypergraph based machine learning (PSH-ML) for protein-ligand binding affinity prediction. Brief Bioinform 22(5):127",
+      "journal-title": "Brief Bioinform"
+    },
+    {
+      "issue": "4",
+      "key": "11462_CR216",
+      "doi-asserted-by": "crossref",
+      "first-page": "1009943",
+      "DOI": "10.1371/journal.pcbi.1009943",
+      "volume": "18",
+      "author": "X Liu",
+      "year": "2022",
+      "unstructured": "Liu X, Feng H, Wu J, Xia K (2022) Dowker complex based machine learning (DCML) models for protein-ligand binding affinity prediction. PLoS Comput Biol 18(4):1009943",
+      "journal-title": "PLoS Comput Biol"
+    },
+    {
+      "issue": "17",
+      "key": "11462_CR217",
+      "doi-asserted-by": "crossref",
+      "first-page": "3961",
+      "DOI": "10.1021/acs.jcim.2c00580",
+      "volume": "62",
+      "author": "X Liu",
+      "year": "2022",
+      "unstructured": "Liu X, Feng H, Wu J, Xia K (2022) Hom-complex-based machine learning (HCML) for the prediction of protein-protein binding affinity changes upon mutation. J Chem Inf Model 62(17):3961\u20133969",
+      "journal-title": "J Chem Inf Model"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR218",
+      "doi-asserted-by": "crossref",
+      "first-page": "172",
+      "DOI": "10.3934/fods.2024007",
+      "volume": "6",
+      "author": "X Liu",
+      "year": "2024",
+      "unstructured": "Liu X, Feng H, Wu J, Xia K (2024) Computing hypergraph homology. Found Data Sci 6(2):172\u2013194",
+      "journal-title": "Found Data Sci"
+    },
+    {
+      "key": "11462_CR219",
+      "unstructured": "Liu X, Liu R, Li J, Wu R, Wu J (2024) Intcomplex for high-order interactions. arXiv preprint arXiv:2412.02806"
+    },
+    {
+      "key": "11462_CR220",
+      "unstructured": "Liu X, Su Z, Shi Y, Tong Y, Wang G, Wei G-W (2025) Manifold topological deep learning for biomedical data. arXiv preprint arXiv:2503.00175"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR221",
+      "doi-asserted-by": "crossref",
+      "first-page": "10138",
+      "DOI": "10.1038/ncomms10138",
+      "volume": "7",
+      "author": "S Lloyd",
+      "year": "2016",
+      "unstructured": "Lloyd S, Garnerone S, Zanardi P (2016) Quantum algorithms for topological and geometric analysis of data. Nat Commun 7(1):10138",
+      "journal-title": "Nat Commun"
+    },
+    {
+      "issue": "59",
+      "key": "11462_CR222",
+      "first-page": "1",
+      "volume": "24",
+      "author": "ER Love",
+      "year": "2023",
+      "unstructured": "Love ER, Filippenko B, Maroulas V, Carlsson G (2023) Topological convolutional layers for deep learning. J Mach Learn Res 24(59):1\u201335",
+      "journal-title": "J Mach Learn Res"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR223",
+      "doi-asserted-by": "crossref",
+      "first-page": "19",
+      "DOI": "10.3390/a13010019",
+      "volume": "13",
+      "author": "D L\u00fctgehetmann",
+      "year": "2020",
+      "unstructured": "L\u00fctgehetmann D, Govc D, Smith JP, Levi R (2020) Computing persistent homology of directed flag complexes. Algorithms 13(1):19",
+      "journal-title": "Algorithms"
+    },
+    {
+      "key": "11462_CR224",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Maria C, Boissonnat J-D, Glisse M, Yvinec M (2014) The GUDHI library: simplicial complexes and persistent homology. In: Proceedings of mathematical software\u2013ICMS 2014: 4th international congress, Seoul, South Korea, August 5-9, 2014. vol 4, pp 167\u2013174. Springer",
+      "DOI": "10.1007/978-3-662-44199-2_28"
+    },
+    {
+      "issue": "3",
+      "key": "11462_CR225",
+      "doi-asserted-by": "publisher",
+      "first-page": "711",
+      "DOI": "10.1214/21-BA1270",
+      "volume": "17",
+      "author": "V Maroulas",
+      "year": "2022",
+      "unstructured": "Maroulas V, Micucci CP, Nasrin F (2022) Bayesian topological learning for classifying the structure of biological networks. Bayesian Anal 17(3):711\u2013736. https://doi.org/10.1214/21-BA1270",
+      "journal-title": "Bayesian Anal"
+    },
+    {
+      "issue": "196",
+      "key": "11462_CR226",
+      "first-page": "1",
+      "volume": "20",
+      "author": "V Maroulas",
+      "year": "2019",
+      "unstructured": "Maroulas V, Mike JL, Oballe C (2019) Nonparametric estimation of probability density functions of random persistence diagrams. J Mach Learn Res 20(196):1\u201349",
+      "journal-title": "J Mach Learn Res"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR227",
+      "doi-asserted-by": "publisher",
+      "first-page": "48",
+      "DOI": "10.1137/19M1268719",
+      "volume": "2",
+      "author": "V Maroulas",
+      "year": "2020",
+      "unstructured": "Maroulas V, Nasrin F, Oballe C (2020) A Bayesian framework for persistent homology. SIAM J Math Data Sci 2(1):48\u201374. https://doi.org/10.1137/19M1268719",
+      "journal-title": "SIAM J Math Data Sci"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR228",
+      "doi-asserted-by": "crossref",
+      "first-page": "370",
+      "DOI": "10.2307/1968874",
+      "volume": "43",
+      "author": "W Mayer",
+      "year": "1942",
+      "unstructured": "Mayer W (1942) A new homology theory. Ann Math 43(2):370\u2013380",
+      "journal-title": "Ann Math"
+    },
+    {
+      "key": "11462_CR229",
+      "volume-title": "A User\u2019s Guide to Spectral Sequences",
+      "author": "J McCleary",
+      "year": "2001",
+      "unstructured": "McCleary J (2001) A User\u2019s Guide to Spectral Sequences, vol 58. Cambridge University Press, Cambridge"
+    },
+    {
+      "issue": "29",
+      "key": "11462_CR230",
+      "doi-asserted-by": "crossref",
+      "first-page": "861",
+      "DOI": "10.21105/joss.00861",
+      "volume": "3",
+      "author": "L McInnes",
+      "year": "2018",
+      "unstructured": "McInnes L, Healy J, Saul N, Gro\u00dfberger L (2018) UMAP: Uniform manifold approximation and projection. J Open Source Softw 3(29):861",
+      "journal-title": "J Open Source Softw"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR231",
+      "doi-asserted-by": "crossref",
+      "first-page": "858",
+      "DOI": "10.1137/21M1435471",
+      "volume": "4",
+      "author": "F M\u00e9moli",
+      "year": "2022",
+      "unstructured": "M\u00e9moli F, Wan Z, Wang Y (2022) Persistent Laplacians: Properties, algorithms and implications. SIAM J Math Data Sci 4(2):858\u2013884",
+      "journal-title": "SIAM J Math Data Sci"
+    },
+    {
+      "key": "11462_CR232",
+      "unstructured": "Mendoza-Smith R, Tanner, J (2017) Parallel multi-scale reduction of persistent homology filtrations. arXiv preprint arXiv:1708.04710"
+    },
+    {
+      "issue": "19",
+      "key": "11462_CR233",
+      "doi-asserted-by": "crossref",
+      "first-page": "5329",
+      "DOI": "10.1126/sciadv.abc5329",
+      "volume": "7",
+      "author": "Z Meng",
+      "year": "2021",
+      "unstructured": "Meng Z, Xia K (2021) Persistent spectral-based machine learning (PerSpect ML) for protein-ligand binding affinity prediction. Sci Adv 7(19):5329",
+      "journal-title": "Sci Adv"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR234",
+      "doi-asserted-by": "crossref",
+      "first-page": "2079",
+      "DOI": "10.1038/s41598-019-55660-3",
+      "volume": "10",
+      "author": "Z Meng",
+      "year": "2020",
+      "unstructured": "Meng Z, Anand DV, Lu Y, Wu J, Xia K (2020) Weighted persistent homology for biomolecular data analysis. Sci Rep 10(1):2079",
+      "journal-title": "Sci Rep"
+    },
+    {
+      "issue": "12",
+      "key": "11462_CR235",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1088/0266-5611/27/12/124007",
+      "volume": "27",
+      "author": "Y Mileyko",
+      "year": "2011",
+      "unstructured": "Mileyko Y, Mukherjee S, Harer J (2011) Probability measures on the space of persistence diagrams. Inverse Prob 27(12):124007",
+      "journal-title": "Inverse Prob"
+    },
+    {
+      "issue": "10",
+      "key": "11462_CR236",
+      "doi-asserted-by": "crossref",
+      "first-page": "948",
+      "DOI": "10.1119/1.13800",
+      "volume": "52",
+      "author": "BP Miller",
+      "year": "1984",
+      "unstructured": "Miller BP (1984) Interpretations from Helmholtz\u2019 theorem in classical electromagnetism. Am J Phys 52(10):948\u2013950",
+      "journal-title": "Am J Phys"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR237",
+      "doi-asserted-by": "crossref",
+      "first-page": "533",
+      "DOI": "10.1042/BST20120339",
+      "volume": "41",
+      "author": "KC Millett",
+      "year": "2013",
+      "unstructured": "Millett KC, Rawdon EJ, Stasiak A, Su\u0142kowska JI (2013) Identifying knots in proteins. Biochem Soc Trans 41(2):533\u2013537",
+      "journal-title": "Biochem Soc Trans"
+    },
+    {
+      "key": "11462_CR238",
+      "doi-asserted-by": "crossref",
+      "first-page": "330",
+      "DOI": "10.1007/s00454-013-9529-6",
+      "volume": "50",
+      "author": "K Mischaikow",
+      "year": "2013",
+      "unstructured": "Mischaikow K, Nanda V (2013) Morse theory for filtrations and efficient computation of persistent homology. Discrete Comput Geom 50:330\u2013353",
+      "journal-title": "Discrete Comput Geom"
+    },
+    {
+      "key": "11462_CR239",
+      "volume-title": "Conley Index Theory",
+      "author": "K Mischaikow",
+      "year": "1999",
+      "unstructured": "Mischaikow K, Mrozek M, Zgliczy\u0144ski P (1999) Conley Index Theory, vol 47. Springer, Berlin/Heidelberg, Germany"
+    },
+    {
+      "issue": "17",
+      "key": "11462_CR240",
+      "doi-asserted-by": "publisher",
+      "first-page": "2781",
+      "DOI": "10.1016/j.bpj.2024.01.025",
+      "volume": "123",
+      "author": "EC Mitchell",
+      "year": "2024",
+      "unstructured": "Mitchell EC, Story B, Boothe D, Franaszczuk PJ, Maroulas V (2024) A topological deep learning framework for neural spike decoding. Biophys J 123(17):2781\u20132789. https://doi.org/10.1016/j.bpj.2024.01.025",
+      "journal-title": "Biophys J"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR241",
+      "doi-asserted-by": "publisher",
+      "first-page": "337",
+      "DOI": "10.1137/17M1148037",
+      "volume": "3",
+      "author": "A Monod",
+      "year": "2019",
+      "unstructured": "Monod A, Kali\u0161nik S, Pati\u00f1o-Galindo J\u00c1, Crawford L (2019) Tropical sufficient statistics for persistent homology. SIAM J Appl Algebra Geom 3(2):337\u2013371. https://doi.org/10.1137/17M1148037",
+      "journal-title": "SIAM J Appl Algebra Geom"
+    },
+    {
+      "key": "11462_CR242",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Montagna M, Scardapane S, Telyatnikov L (2024) Topological deep learning with state-space models: A mamba approach for simplicial complexes. arXiv preprint arXiv:2409.12033",
+      "DOI": "10.1109/IJCNN64981.2025.11227272"
+    },
+    {
+      "key": "11462_CR243",
+      "unstructured": "Morozov D (2007) Dionysus, a C++ library for computing persistent homology"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR244",
+      "doi-asserted-by": "crossref",
+      "first-page": "137",
+      "DOI": "10.2307/2372488",
+      "volume": "78",
+      "author": "CB Morrey",
+      "year": "1956",
+      "unstructured": "Morrey CB (1956) A variational method in the theory of harmonic integrals, ii. Am J Math 78(1):137\u2013170",
+      "journal-title": "Am J Math"
+    },
+    {
+      "issue": "3",
+      "key": "11462_CR245",
+      "first-page": "345",
+      "volume": "27",
+      "author": "M Morse",
+      "year": "1925",
+      "unstructured": "Morse M (1925) Relations between the critical points of a real function of n independent variables. Trans Am Math Soc 27(3):345\u2013396",
+      "journal-title": "Trans Am Math Soc"
+    },
+    {
+      "key": "11462_CR246",
+      "doi-asserted-by": "crossref",
+      "first-page": "1173",
+      "DOI": "10.1214/15-EJS1030",
+      "volume": "9",
+      "author": "E Munch",
+      "year": "2015",
+      "unstructured": "Munch E, Turner K, Bendich P, Mukherjee S, Mattingly J, Harer J (2015) Probabilistic Fr\u00e9chet means for time varying persistence diagrams. Electron J Stat 9:1173\u20131204",
+      "journal-title": "Electron J Stat"
+    },
+    {
+      "issue": "3",
+      "key": "11462_CR247",
+      "first-page": "3179",
+      "volume": "35",
+      "author": "DD Nguyen",
+      "year": "2019",
+      "unstructured": "Nguyen DD, Wei G-W (2019) Dg-gl: Differential geometry-based geometric learning of molecular datasets. Int J Num Method Bio Eng 35(3):3179",
+      "journal-title": "Int J Num Method Bio Eng"
+    },
+    {
+      "key": "11462_CR248",
+      "doi-asserted-by": "crossref",
+      "first-page": "71",
+      "DOI": "10.1007/s10822-018-0146-6",
+      "volume": "33",
+      "author": "DD Nguyen",
+      "year": "2019",
+      "unstructured": "Nguyen DD, Cang Z, Wu K, Wang M, Cao Y, Wei G-W (2019) Mathematical deep learning for pose and binding affinity prediction and ranking in D3R Grand Challenges. J Comput Aided Mol Des 33:71\u201382",
+      "journal-title": "J Comput Aided Mol Des"
+    },
+    {
+      "key": "11462_CR249",
+      "doi-asserted-by": "crossref",
+      "first-page": "131",
+      "DOI": "10.1007/s10822-019-00237-5",
+      "volume": "34",
+      "author": "DD Nguyen",
+      "year": "2020",
+      "unstructured": "Nguyen DD, Gao K, Wang M, Wei G-W (2020) Mathdl: mathematical deep learning for D3R Grand Challenge 4. J Comput Aided Mol Des 34:131\u2013147",
+      "journal-title": "J Comput Aided Mol Des"
+    },
+    {
+      "key": "11462_CR250",
+      "volume-title": "Quantum Computation and Quantum Information",
+      "author": "MA Nielsen",
+      "year": "2010",
+      "unstructured": "Nielsen MA, Chuang IL (2010) Quantum Computation and Quantum Information. Cambridge University Press, Cambridge, England"
+    },
+    {
+      "issue": "4",
+      "key": "11462_CR251",
+      "doi-asserted-by": "publisher",
+      "first-page": "797",
+      "DOI": "10.3934/dcdss.2021084",
+      "volume": "15",
+      "author": "C Oballe",
+      "year": "2022",
+      "unstructured": "Oballe C, Cherne A, Boothe D, Kerick S, Franaszczuk PJ, Maroulas V (2022) Bayesian topological signal processing. Discrete Contin Dyn Syst - S 15(4):797\u2013817. https://doi.org/10.3934/dcdss.2021084",
+      "journal-title": "Discrete Contin Dyn Syst - S"
+    },
+    {
+      "key": "11462_CR252",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1142/4746",
+      "volume-title": "Quantum Invariants: a Study of Knots, 3-manifolds, and Their Sets",
+      "author": "T Ohtsuki",
+      "year": "2001",
+      "unstructured": "Ohtsuki T (2001) Quantum Invariants: a Study of Knots, 3-manifolds, and Their Sets, vol 29. World Scientific"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR253",
+      "doi-asserted-by": "crossref",
+      "first-page": "58",
+      "DOI": "10.1016/j.aim.2003.05.001",
+      "volume": "186",
+      "author": "P Ozsv\u00e1th",
+      "year": "2004",
+      "unstructured": "Ozsv\u00e1th P, Szab\u00f3 Z (2004) Holomorphic disks and knot invariants. Adv Math 186(1):58\u2013116",
+      "journal-title": "Adv Math"
+    },
+    {
+      "issue": "2240",
+      "key": "11462_CR254",
+      "doi-asserted-by": "crossref",
+      "first-page": "20200124",
+      "DOI": "10.1098/rspa.2020.0124",
+      "volume": "476",
+      "author": "E Panagiotou",
+      "year": "2020",
+      "unstructured": "Panagiotou E, Kauffman LH (2020) Knot polynomials of open and closed curves. Proc Royal Soc A 476(2240):20200124",
+      "journal-title": "Proc Royal Soc A"
+    },
+    {
+      "key": "11462_CR255",
+      "first-page": "223",
+      "volume": "746",
+      "author": "E Panagiotou",
+      "year": "2020",
+      "unstructured": "Panagiotou E, Plaxco KW (2020) A topological study of protein folding kinetics. Topol Geom Biopolym AMS Contemp Math Ser 746:223\u2013233",
+      "journal-title": "Topol Geom Biopolym AMS Contemp Math Ser"
+    },
+    {
+      "issue": "3",
+      "key": "11462_CR256",
+      "doi-asserted-by": "crossref",
+      "first-page": "437",
+      "DOI": "10.3390/polym11030437",
+      "volume": "11",
+      "author": "E Panagiotou",
+      "year": "2019",
+      "unstructured": "Panagiotou E, Millett KC, Atzberger PJ (2019) Topological methods for polymeric materials: characterizing the relationship between polymer entanglement and viscoelasticity. Polymers 11(3):437",
+      "journal-title": "Polymers"
+    },
+    {
+      "issue": "5",
+      "key": "11462_CR257",
+      "doi-asserted-by": "publisher",
+      "first-page": "88",
+      "DOI": "10.1007/s11222-022-10141-y",
+      "volume": "32",
+      "author": "T Papamarkou",
+      "year": "2022",
+      "unstructured": "Papamarkou T, Nasrin F, Lawson A, Gong N, Rios O, Maroulas V (2022) A random persistence diagram generator. Stat Comput 32(5):88. https://doi.org/10.1007/s11222-022-10141-y",
+      "journal-title": "Stat Comput"
+    },
+    {
+      "key": "11462_CR258",
+      "first-page": "39529",
+      "volume": "235",
+      "author": "T Papamarkou",
+      "year": "2024",
+      "unstructured": "Papamarkou T, Birdal T, Bronstein MM, Carlsson G, Curry J, Gao Y, Hajij M, Kwitt R, Li\u00f2 P, Di Lorenzo P, Maroulas V, Miolane N, Nasrin F, Natesan RK, Rieck B, Scardapane S, Schaub MT, Veli\u010dkovi\u0107 P, Wang B, Wang Y, Wei G-W, Zamzmi G (2024) Position: Topological deep learning is the new frontier for relational learning. Proc Mach Learn Res 235:39529\u201339555 (41st International Conference on Machine Learning (ICML 2024))",
+      "journal-title": "Proc Mach Learn Res"
+    },
+    {
+      "issue": "3",
+      "key": "11462_CR259",
+      "doi-asserted-by": "crossref",
+      "first-page": "397",
+      "DOI": "10.1007/s41468-018-0012-6",
+      "volume": "1",
+      "author": "A Patel",
+      "year": "2018",
+      "unstructured": "Patel A (2018) Generalized persistence diagrams. J Appl Comput Topology 1(3):397\u2013419",
+      "journal-title": "J Appl Comput Topology"
+    },
+    {
+      "key": "11462_CR260",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Perea JA (2016) Persistent homology of toroidal sliding window embeddings. In: 2016 IEEE International Conference on Acoustics, Speech and Signal Processing (icassp), pp 6435\u20136439. IEEE",
+      "DOI": "10.1109/ICASSP.2016.7472916"
+    },
+    {
+      "key": "11462_CR261",
+      "doi-asserted-by": "crossref",
+      "first-page": "799",
+      "DOI": "10.1007/s10208-014-9206-z",
+      "volume": "15",
+      "author": "JA Perea",
+      "year": "2015",
+      "unstructured": "Perea JA, Harer J (2015) Sliding windows and persistence: an application of topological methods to signal analysis. Found Comput Math 15:799\u2013838",
+      "journal-title": "Found Comput Math"
+    },
+    {
+      "issue": "6",
+      "key": "11462_CR262",
+      "doi-asserted-by": "crossref",
+      "first-page": "66506",
+      "DOI": "10.1371/journal.pone.0066506",
+      "volume": "8",
+      "author": "G Petri",
+      "year": "2013",
+      "unstructured": "Petri G, Scolamiero M, Donato I, Vaccarino F (2013) Topological strata of weighted complex networks. PLoS ONE 8(6):66506",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "key": "11462_CR263",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Poelke K (2017) Hodge-type decompositions for piecewise constant vector fields on simplicial surfaces and solids with boundary. PhD thesis",
+      "DOI": "10.1016/j.cad.2016.05.004"
+    },
+    {
+      "key": "11462_CR264",
+      "doi-asserted-by": "crossref",
+      "first-page": "126",
+      "DOI": "10.1016/j.cad.2016.05.004",
+      "volume": "78",
+      "author": "K Poelke",
+      "year": "2016",
+      "unstructured": "Poelke K, Polthier K (2016) Boundary-aware Hodge decompositions for piecewise constant vector fields. Comput Aided Des 78:126\u2013136",
+      "journal-title": "Comput Aided Des"
+    },
+    {
+      "issue": "7",
+      "key": "11462_CR265",
+      "doi-asserted-by": "crossref",
+      "first-page": "5169",
+      "DOI": "10.1007/s10462-022-10146-z",
+      "volume": "55",
+      "author": "CS Pun",
+      "year": "2022",
+      "unstructured": "Pun CS, Lee SX, Xia K (2022) Persistent-homology-based machine learning: a survey and a comparative study. Artif Intell Rev 55(7):5169\u20135213",
+      "journal-title": "Artif Intell Rev"
+    },
+    {
+      "issue": "8",
+      "key": "11462_CR266",
+      "first-page": "0237747",
+      "volume": "15",
+      "author": "CS Pun",
+      "year": "2020",
+      "unstructured": "Pun CS, Yong BYS, Xia K (2020) Weighted-persistent-homology-based machine learning for RNA flexibility analysis. PLoS ONE 15(8):0237747",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "key": "11462_CR267",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Puzyn T, Leszczynski J, Cronin MT (2010) Recent advances in QSAR studies: methods and applications",
+      "DOI": "10.1007/978-1-4020-9783-6"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR268",
+      "doi-asserted-by": "crossref",
+      "first-page": "149",
+      "DOI": "10.1038/s43588-022-00394-y",
+      "volume": "3",
+      "author": "Y Qiu",
+      "year": "2023",
+      "unstructured": "Qiu Y, Wei G-W (2023) Persistent spectral theory-guided protein engineering. Nature Comput Sci 3(2):149\u2013163",
+      "journal-title": "Nature Comput Sci"
+    },
+    {
+      "key": "11462_CR269",
+      "first-page": "847",
+      "volume": "222",
+      "author": "G Reeb",
+      "year": "1946",
+      "unstructured": "Reeb G (1946) Sur les points singuliers d\u2019une forme de pfaff completement integrable ou d\u2019une fonction numerique [on the singular points of a completely integrable pfaff form or of a numerical function]. Comptes Rendus Acad Sciences Paris 222:847\u2013849",
+      "journal-title": "Comptes Rendus Acad Sciences Paris"
+    },
+    {
+      "key": "11462_CR270",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Reininghaus J, Huber S, Bauer U, Kwitt R (2015) A stable multi-scale kernel for topological machine learning. In: Proceedings of the IEEE conference on computer vision and pattern recognition, pp 4741\u20134748",
+      "DOI": "10.1109/CVPR.2015.7299106"
+    },
+    {
+      "key": "11462_CR271",
+      "unstructured": "Ren S, Wu J (2020) The stability of persistent homology of hypergraphs. arXiv preprint arXiv:2002.02237"
+    },
+    {
+      "issue": "8",
+      "key": "11462_CR272",
+      "first-page": "2661",
+      "volume": "48",
+      "author": "S Ren",
+      "year": "2018",
+      "unstructured": "Ren S, Wu C, Wu J (2018) Weighted persistent homology. Rocky Mountain J Math 48(8):2661\u20132687",
+      "journal-title": "Rocky Mountain J Math"
+    },
+    {
+      "key": "11462_CR273",
+      "unstructured": "Ren S, Wang C, Wu C, Wu J (2021) On the discrete Morse functions for hypergraphs. arXiv preprint arXiv:2108.02384"
+    },
+    {
+      "issue": "4",
+      "key": "11462_CR274",
+      "doi-asserted-by": "crossref",
+      "first-page": "342",
+      "DOI": "10.1016/j.cad.2005.10.011",
+      "volume": "38",
+      "author": "M Reuter",
+      "year": "2006",
+      "unstructured": "Reuter M, Wolter F-E, Peinecke N (2006) Laplace-Beltrami spectra as \u2018Shape-DNA\u2019 of surfaces and solids. Comput Aided Des 38(4):342\u2013366",
+      "journal-title": "Comput Aided Des"
+    },
+    {
+      "issue": "3",
+      "key": "11462_CR275",
+      "doi-asserted-by": "crossref",
+      "first-page": "575",
+      "DOI": "10.1137/22M1482299",
+      "volume": "66",
+      "author": "E Ribando-Gros",
+      "year": "2024",
+      "unstructured": "Ribando-Gros E, Wang R, Chen J, Tong Y, Wei G-W (2024) Combinatorial and Hodge Laplacians: Similarity and difference. SIAM Rev 66(3):575\u2013601",
+      "journal-title": "SIAM Rev"
+    },
+    {
+      "key": "11462_CR276",
+      "unstructured": "Russold F (2022) Persistent sheaf cohomology. arXiv preprint arXiv:2204.13446"
+    },
+    {
+      "key": "11462_CR277",
+      "unstructured": "Rustamov RM et al (2007) Laplace-Beltrami eigenfunctions for deformation invariant shape representation. In: Symposium on Geometry Processing, vol. 257, pp 225\u2013233"
+    },
+    {
+      "key": "11462_CR278",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1007/978-3-031-06664-1",
+      "volume-title": "Algebraic Foundations for Applied Topology and Data Analysis",
+      "author": "H Schenck",
+      "year": "2022",
+      "unstructured": "Schenck H (2022) Algebraic Foundations for Applied Topology and Data Analysis. Springer, Berlin/Heidelberg, Germany"
+    },
+    {
+      "issue": "30",
+      "key": "11462_CR279",
+      "doi-asserted-by": "crossref",
+      "first-page": "11404",
+      "DOI": "10.1021/jacs.1c03003",
+      "volume": "143",
+      "author": "T Schlick",
+      "year": "2021",
+      "unstructured": "Schlick T, Zhu Q, Dey A, Jain S, Yan S, Laederach A (2021) To knot or not to knot: multiple conformations of the SARS-CoV-2 frameshifting RNA element. J Am Chem Soc 143(30):11404\u201311422",
+      "journal-title": "J Am Chem Soc"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR280",
+      "doi-asserted-by": "crossref",
+      "first-page": "245",
+      "DOI": "10.1007/BF01181346",
+      "volume": "61",
+      "author": "H Schubert",
+      "year": "1954",
+      "unstructured": "Schubert H (1954) \u00dcber eine numerische knoteninvariante. Math Z 61(1):245\u2013288",
+      "journal-title": "Math Z"
+    },
+    {
+      "key": "11462_CR281",
+      "volume-title": "Hodge Decomposition - A Method for Solving Boundary Value Problems",
+      "author": "G Schwarz",
+      "year": "2006",
+      "unstructured": "Schwarz G (2006) Hodge Decomposition - A Method for Solving Boundary Value Problems. Springer, Berlin/Heidelberg, Germany"
+    },
+    {
+      "key": "11462_CR282",
+      "doi-asserted-by": "crossref",
+      "first-page": "105",
+      "DOI": "10.1007/BF02684591",
+      "volume": "34",
+      "author": "G Segal",
+      "year": "1968",
+      "unstructured": "Segal G (1968) Classifying spaces and spectral sequences. Publications Math\u00e9matiques de l\u2019IH\u00c9S 34:105\u2013112",
+      "journal-title": "Publications Math\u00e9matiques de l\u2019IH\u00c9S"
+    },
+    {
+      "issue": "9",
+      "key": "11462_CR283",
+      "doi-asserted-by": "crossref",
+      "first-page": "26139",
+      "DOI": "10.3934/math.20241277",
+      "volume": "9",
+      "author": "L Shen",
+      "year": "2024",
+      "unstructured": "Shen L, Liu J, Wei G-W (2024) Evolutionary Khovanov homology. AIMS Math 9(9):26139\u201326165",
+      "journal-title": "AIMS Math"
+    },
+    {
+      "issue": "4",
+      "key": "11462_CR284",
+      "doi-asserted-by": "crossref",
+      "first-page": "584",
+      "DOI": "10.3934/fods.2024032",
+      "volume": "6",
+      "author": "L Shen",
+      "year": "2024",
+      "unstructured": "Shen L, Liu J, Wei G-W (2024) Persistent Mayer homology and persistent Mayer Laplacian. Found Data Sci 6(4):584\u2013612",
+      "journal-title": "Found Data Sci"
+    },
+    {
+      "key": "11462_CR285",
+      "unstructured": "Shen L, Liu J, Wei G-W (2025) Computing Khovanov homology of tangles. arXiv preprint arXiv:2508.14398"
+    },
+    {
+      "key": "11462_CR286",
+      "unstructured": "Shen L, Liu J, Wei G-W (2025) Khovanov homology of tangles: algorithm and computation. arXiv preprint arXiv:2508.14404"
+    },
+    {
+      "issue": "42",
+      "key": "11462_CR287",
+      "doi-asserted-by": "crossref",
+      "first-page": "2408431121",
+      "DOI": "10.1073/pnas.2408431121",
+      "volume": "121",
+      "author": "L Shen",
+      "year": "2024",
+      "unstructured": "Shen L, Feng H, Li F, Lei F, Wu J, Wei G-W (2024) Knot data analysis using multiscale Gauss link integral. Proc Natl Acad Sci 121(42):2408431121",
+      "journal-title": "Proc Natl Acad Sci"
+    },
+    {
+      "key": "11462_CR288",
+      "unstructured": "Shepard AD (1985) A Cellular Description of the Derived Category of a Stratified Space. Brown University"
+    },
+    {
+      "key": "11462_CR289",
+      "unstructured": "Shonkwiler C (2009) Poincar\u00e9 duality angles on Riemannian manifolds with boundary. PhD thesis, University of Pennsylvania"
+    },
+    {
+      "issue": "09",
+      "key": "11462_CR290",
+      "doi-asserted-by": "crossref",
+      "first-page": "1950058",
+      "DOI": "10.1142/S0218216519500585",
+      "volume": "28",
+      "author": "DS Silver",
+      "year": "2019",
+      "unstructured": "Silver DS, Williams SG (2019) Knot invariants from Laplacian matrices. J Knot Theory Its Ramif 28(09):1950058",
+      "journal-title": "J Knot Theory Its Ramif"
+    },
+    {
+      "key": "11462_CR291",
+      "first-page": "091",
+      "volume": "2",
+      "author": "G Singh",
+      "year": "2007",
+      "unstructured": "Singh G, M\u00e9moli F, Carlsson GE et al (2007) Topological methods for the analysis of high dimensional data sets and 3D object recognition. PBG@ Eurographics 2:091\u2013100",
+      "journal-title": "PBG@ Eurographics"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR292",
+      "doi-asserted-by": "crossref",
+      "first-page": "58",
+      "DOI": "10.1186/s13244-023-01413-w",
+      "volume": "14",
+      "author": "Y Singh",
+      "year": "2023",
+      "unstructured": "Singh Y, Farrelly CM, Hathaway QA, Leiner T, Jagtap J, Carlsson GE, Erickson BJ (2023) Topological data analysis in medical imaging: current state of the art. Insights Imag 14(1):58",
+      "journal-title": "Insights Imag"
+    },
+    {
+      "key": "11462_CR293",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Som A, Choi H, Ramamurthy KN, Buman MP, Turaga P (2020) Pi-net: A deep learning approach to extract topological persistence images. In: Proceedings of the IEEE/CVF conference on computer vision and pattern recognition workshops, pp 834\u2013835",
+      "DOI": "10.1109/CVPRW50498.2020.00425"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR294",
+      "doi-asserted-by": "crossref",
+      "first-page": "1463",
+      "DOI": "10.3934/math.2025068",
+      "volume": "10",
+      "author": "R Song",
+      "year": "2025",
+      "unstructured": "Song R, Li F, Wu J, Lei F, Wei G-W (2025) Multi-scale Jones polynomial and persistent Jones polynomial for knot data analysis. AIMS Math 10(1):1463\u20131487",
+      "journal-title": "AIMS Math"
+    },
+    {
+      "issue": "12",
+      "key": "11462_CR295",
+      "doi-asserted-by": "crossref",
+      "first-page": "102",
+      "DOI": "10.1090/S0002-9904-1949-09179-6",
+      "volume": "55",
+      "author": "EH Spanier",
+      "year": "1949",
+      "unstructured": "Spanier EH (1949) The Mayer homology theory. Bull Amer Math Soc 55(12):102\u2013112",
+      "journal-title": "Bull Amer Math Soc"
+    },
+    {
+      "key": "11462_CR296",
+      "unstructured": "Spivak DI (2009) Metric realization of fuzzy simplicial sets. NA, Preprint available at http://www.dspivak.net/metric_realization090922.pdf"
+    },
+    {
+      "key": "11462_CR297",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Stolz BJ, Harrington HA, Porter MA (2017) Persistent homology of time-dependent functional networks constructed from coupled time series. Chaos: An Interdisciplinary J Nonlinear Sci 27(4)",
+      "DOI": "10.1063/1.4978997"
+    },
+    {
+      "issue": "8",
+      "key": "11462_CR298",
+      "doi-asserted-by": "crossref",
+      "first-page": "3558",
+      "DOI": "10.1021/acs.jcim.4c00132",
+      "volume": "64",
+      "author": "Z Su",
+      "year": "2024",
+      "unstructured": "Su Z, Tong Y, Wei G-W (2024) Hodge decomposition of single-cell RNA velocity. J Chem Inf Model 64(8):3558\u20133568",
+      "journal-title": "J Chem Inf Model"
+    },
+    {
+      "key": "11462_CR299",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Su Z, Tong Y, Wei G-W (2024) Hodge decomposition of vector fields in Cartesian grids. In: SIGGRAPH Asia 2024 Conference Papers, pp 1\u201310",
+      "DOI": "10.1145/3680528.3687602"
+    },
+    {
+      "issue": "10",
+      "key": "11462_CR300",
+      "doi-asserted-by": "crossref",
+      "first-page": "27438",
+      "DOI": "10.3934/math.20241333",
+      "volume": "9",
+      "author": "Z Su",
+      "year": "2024",
+      "unstructured": "Su Z, Tong Y, Wei G-W (2024) Persistent de Rham-Hodge Laplacians in Eulerian representation for manifold topological learning. AIMS Math 9(10):27438\u201327470",
+      "journal-title": "AIMS Math"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR301",
+      "doi-asserted-by": "crossref",
+      "first-page": "619",
+      "DOI": "10.4310/BPAM.250908175047",
+      "volume": "2",
+      "author": "Z Su",
+      "year": "2025",
+      "unstructured": "Su Z, Tong Y, Wei G-W (2025) Topology-preserving Hodge decomposition in the Eulerian representation. Beijing J Pure Appl Math 2(2):619\u2013657",
+      "journal-title": "Beijing J Pure Appl Math"
+    },
+    {
+      "issue": "3",
+      "key": "11462_CR302",
+      "doi-asserted-by": "crossref",
+      "first-page": "253",
+      "DOI": "10.1016/j.bpj.2011.11.1395",
+      "volume": "102",
+      "author": "JI Sulkowska",
+      "year": "2012",
+      "unstructured": "Sulkowska JI, Rawdon EJ, Millet KC, Onuchic JN, Stasiak A (2012) Conservation of complex knotting and slipknotting patterns in proteins. Biophys J 102(3):253",
+      "journal-title": "Biophys J"
+    },
+    {
+      "key": "11462_CR303",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Sumners D (2020) The role of knot theory in DNA research. In: Geometry and Topology, pp 297\u2013318. CRC Press",
+      "DOI": "10.1201/9781003072386-23"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR304",
+      "doi-asserted-by": "crossref",
+      "first-page": "124",
+      "DOI": "10.3934/fods.2024001",
+      "volume": "6",
+      "author": "F Suwayyid",
+      "year": "2024",
+      "unstructured": "Suwayyid F, Wei G-W (2024) Persistent Dirac of paths on digraphs and hypergraphs. Found Data Sci (Springfield, Mo.) 6(2):124",
+      "journal-title": "Found Data Sci (Springfield, Mo.)"
+    },
+    {
+      "issue": "4",
+      "key": "11462_CR305",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1088/2632-072X/ad83a5",
+      "volume": "5",
+      "author": "F Suwayyid",
+      "year": "2024",
+      "unstructured": "Suwayyid F, Wei G-W (2024) Persistent Mayer Dirac. J Phys Complex 5(4):045005",
+      "journal-title": "J Phys Complex"
+    },
+    {
+      "key": "11462_CR306",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Takens F (2006) Detecting strange attractors in turbulence. In: Dynamical Systems and Turbulence, Warwick 1980: Proceedings of a symposium held at the University of Warwick 1979/80, pp 366\u2013381. Springer",
+      "DOI": "10.1007/BFb0091924"
+    },
+    {
+      "issue": "39",
+      "key": "11462_CR307",
+      "first-page": "1",
+      "volume": "22",
+      "author": "G Tauzin",
+      "year": "2021",
+      "unstructured": "Tauzin G, Lupo U, Tunstall L, P\u00e9rez JB, Caorsi M, Medina-Mardones AM, Dassatti A, Hess K (2021) giotto-tda: A topological data analysis toolkit for machine learning and data exploration. J Mach Learn Res 22(39):1\u20136",
+      "journal-title": "J Mach Learn Res"
+    },
+    {
+      "issue": "5500",
+      "key": "11462_CR308",
+      "doi-asserted-by": "crossref",
+      "first-page": "2319",
+      "DOI": "10.1126/science.290.5500.2319",
+      "volume": "290",
+      "author": "JB Tenenbaum",
+      "year": "2000",
+      "unstructured": "Tenenbaum JB, Silva VD, Langford JC (2000) A global geometric framework for nonlinear dimensionality reduction. Science 290(5500):2319\u20132323",
+      "journal-title": "Science"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR309",
+      "doi-asserted-by": "crossref",
+      "first-page": "832",
+      "DOI": "10.1109/TVCG.2017.2743938",
+      "volume": "24",
+      "author": "J Tierny",
+      "year": "2017",
+      "unstructured": "Tierny J, Favelier G, Levine JA, Gueunet C, Michaux M (2017) The topology toolkit. IEEE Trans Visual Comput Graph 24(1):832\u2013842",
+      "journal-title": "IEEE Trans Visual Comput Graph"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR310",
+      "doi-asserted-by": "crossref",
+      "first-page": "3230",
+      "DOI": "10.1038/s41467-020-17035-5",
+      "volume": "11",
+      "author": "J Townsend",
+      "year": "2020",
+      "unstructured": "Townsend J, Micucci CP, Hymel JH, Maroulas V, Vogiatzis KD (2020) Representation of molecular structures with persistent homology for machine learning applications in chemistry. Nat Commun 11(1):3230",
+      "journal-title": "Nat Commun"
+    },
+    {
+      "issue": "7",
+      "key": "11462_CR311",
+      "doi-asserted-by": "crossref",
+      "first-page": "2111",
+      "DOI": "10.1007/s41468-024-00175-8",
+      "volume": "8",
+      "author": "K Turner",
+      "year": "2024",
+      "unstructured": "Turner K, Robins V, Morgan J (2024) The extended persistent homology transform of manifolds with boundary. J Appl Comput Topology 8(7):2111\u20132154",
+      "journal-title": "J Appl Comput Topology"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR312",
+      "doi-asserted-by": "crossref",
+      "first-page": "44",
+      "DOI": "10.1007/s00454-014-9604-7",
+      "volume": "52",
+      "author": "K Turner",
+      "year": "2014",
+      "unstructured": "Turner K, Mileyko Y, Mukherjee S, Harer J (2014) Fr\u00e9chet means for distributions of persistence diagrams. Discrete Comput Geom 52(1):44\u201370",
+      "journal-title": "Discrete Comput Geom"
+    },
+    {
+      "issue": "42",
+      "key": "11462_CR313",
+      "doi-asserted-by": "crossref",
+      "first-page": "1315",
+      "DOI": "10.21105/joss.01315",
+      "volume": "4",
+      "author": "HJ Van Veen",
+      "year": "2019",
+      "unstructured": "Van Veen HJ, Saul N, Eargle D, Mangham SW (2019) Kepler Mapper: a flexible Python implementation of the Mapper algorithm. J Open Source Softw 4(42):1315",
+      "journal-title": "J Open Source Softw"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR314",
+      "doi-asserted-by": "crossref",
+      "first-page": "454",
+      "DOI": "10.1007/BF01447877",
+      "volume": "97",
+      "author": "L Vietoris",
+      "year": "1927",
+      "unstructured": "Vietoris L (1927) \u00dcber den h\u00f6heren zusammenhang kompakter r\u00e4ume und eine klasse von zusammenhangstreuen abbildungen. Math Ann 97(1):454\u2013472",
+      "journal-title": "Math Ann"
+    },
+    {
+      "issue": "61",
+      "key": "11462_CR315",
+      "first-page": "1",
+      "volume": "21",
+      "author": "O Vipond",
+      "year": "2020",
+      "unstructured": "Vipond O (2020) Multiparameter persistence landscapes. J Mach Learn Res 21(61):1\u201338",
+      "journal-title": "J Mach Learn Res"
+    },
+    {
+      "key": "11462_CR316",
+      "unstructured": "Wagner H (2023) Slice, simplify and stitch: Topology-preserving simplification scheme for massive voxel data. In: 39th International Symposium on Computational Geometry (SoCG 2023). Schloss Dagstuhl-Leibniz-Zentrum f\u00fcr Informatik"
+    },
+    {
+      "key": "11462_CR317",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Wagner H, Chen C, Vu\u00e7ini E (2011) Efficient computation of persistent homology for cubical data. In: Topological Methods in Data Analysis and Visualization II: Theory, Algorithms, and Applications, pp 91\u2013106. Springer",
+      "DOI": "10.1007/978-3-642-23175-9_7"
+    },
+    {
+      "key": "11462_CR318",
+      "doi-asserted-by": "crossref",
+      "first-page": "276",
+      "DOI": "10.1016/j.jcp.2015.10.036",
+      "volume": "305",
+      "author": "B Wang",
+      "year": "2016",
+      "unstructured": "Wang B, Wei G-W (2016) Object-oriented persistent homology. J Comput Phys 305:276\u2013299",
+      "journal-title": "J Comput Phys"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR319",
+      "doi-asserted-by": "crossref",
+      "first-page": "26",
+      "DOI": "10.3934/fods.2022015",
+      "volume": "5",
+      "author": "R Wang",
+      "year": "2023",
+      "unstructured": "Wang R, Wei G-W (2023) Persistent path Laplacian. Found Data Sci (Springfield, Mo.) 5(1):26",
+      "journal-title": "Found Data Sci (Springfield, Mo.)"
+    },
+    {
+      "issue": "49",
+      "key": "11462_CR320",
+      "doi-asserted-by": "crossref",
+      "first-page": "11850",
+      "DOI": "10.1021/acs.jpclett.1c03380",
+      "volume": "12",
+      "author": "R Wang",
+      "year": "2021",
+      "unstructured": "Wang R, Chen J, Wei G-W (2021) Mechanisms of SARS-CoV-2 evolution revealing vaccine-resistant mutations in Europe and America. J Phys Chem Lett 12(49):11850\u201311857",
+      "journal-title": "J Phys Chem Lett"
+    },
+    {
+      "issue": "9",
+      "key": "11462_CR321",
+      "first-page": "3376",
+      "volume": "36",
+      "author": "R Wang",
+      "year": "2020",
+      "unstructured": "Wang R, Nguyen DD, Wei G-W (2020) Persistent spectral graph. Int J Num Methods Bio Eng 36(9):3376",
+      "journal-title": "Int J Num Methods Bio Eng"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR322",
+      "doi-asserted-by": "crossref",
+      "first-page": "67",
+      "DOI": "10.3934/fods.2021006",
+      "volume": "3",
+      "author": "R Wang",
+      "year": "2021",
+      "unstructured": "Wang R, Zhao R, Ribando-Gros E, Chen J, Tong Y, Wei G-W (2021) HERMES: Persistent spectral graph software. Found Data Sci 3(1):67\u201397",
+      "journal-title": "Found Data Sci"
+    },
+    {
+      "issue": "4",
+      "key": "11462_CR323",
+      "first-page": "1",
+      "volume": "40",
+      "author": "S Wang",
+      "year": "2021",
+      "unstructured": "Wang S, Chern A (2021) Computing minimal surfaces with differential forms. ACM Trans Graph (TOG) 40(4):1\u201314",
+      "journal-title": "ACM Trans Graph (TOG)"
+    },
+    {
+      "issue": "6",
+      "key": "11462_CR324",
+      "doi-asserted-by": "crossref",
+      "first-page": "2785",
+      "DOI": "10.1021/acs.jcim.4c02309",
+      "volume": "65",
+      "author": "Y Wang",
+      "year": "2025",
+      "unstructured": "Wang Y, Liu X, Zhang Y, Wang X, Xia K (2025) Join persistent homology (JPH)-based machine learning for metalloprotein-ligand binding affinity prediction. J Chem Inf Model 65(6):2785\u20132793",
+      "journal-title": "J Chem Inf Model"
+    },
+    {
+      "key": "11462_CR325",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1007/978-1-4757-1799-0",
+      "volume-title": "Foundations of Differentiable Manifolds and Lie Groups",
+      "author": "FW Warner",
+      "year": "1983",
+      "unstructured": "Warner FW (1983) Foundations of Differentiable Manifolds and Lie Groups, vol 94. Springer, Berlin/Heidelberg, Germany"
+    },
+    {
+      "issue": "4",
+      "key": "11462_CR326",
+      "doi-asserted-by": "crossref",
+      "first-page": "1617",
+      "DOI": "10.1021/acs.jcim.0c01415",
+      "volume": "61",
+      "author": "J Wee",
+      "year": "2021",
+      "unstructured": "Wee J, Xia K (2021) Ollivier persistent ricci curvature-based machine learning for the protein-ligand binding affinity prediction. J Chem Inf Model 61(4):1617\u20131626",
+      "journal-title": "J Chem Inf Model"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR327",
+      "first-page": "024",
+      "volume": "23",
+      "author": "J Wee",
+      "year": "2022",
+      "unstructured": "Wee J, Xia K (2022) Persistent spectral based ensemble learning (PerSpect-EL) for protein-protein binding affinity prediction. Brief Bioinform 23(2):024",
+      "journal-title": "Brief Bioinform"
+    },
+    {
+      "issue": "1",
+      "key": "11462_CR328",
+      "doi-asserted-by": "crossref",
+      "first-page": "11183",
+      "DOI": "10.1038/s41598-023-37853-z",
+      "volume": "13",
+      "author": "J Wee",
+      "year": "2023",
+      "unstructured": "Wee J, Bianconi G, Xia K (2023) Persistent Dirac for molecular representation. Sci Rep 13(1):11183",
+      "journal-title": "Sci Rep"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR329",
+      "doi-asserted-by": "crossref",
+      "first-page": "446",
+      "DOI": "10.3934/fods.2024033",
+      "volume": "7",
+      "author": "X Wei",
+      "year": "2025",
+      "unstructured": "Wei X, Wei G-W (2025) Persistent sheaf Laplacians. Found Data Sci 7(2):446\u2013463",
+      "journal-title": "Found Data Sci"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR330",
+      "doi-asserted-by": "crossref",
+      "first-page": "208",
+      "DOI": "10.3390/math13020208",
+      "volume": "13",
+      "author": "X Wei",
+      "year": "2025",
+      "unstructured": "Wei X, Wei G-W (2025) Persistent topological Laplacians - a survey. Mathematics 13(2):208",
+      "journal-title": "Mathematics"
+    },
+    {
+      "issue": "5",
+      "key": "11462_CR331",
+      "doi-asserted-by": "crossref",
+      "first-page": "497",
+      "DOI": "10.1090/S0002-9904-1949-09219-4",
+      "volume": "55",
+      "author": "A Weil",
+      "year": "1949",
+      "unstructured": "Weil A (1949) Numbers of solutions of equations in finite fields. Bull Am Math Soc 55(5):497\u2013508",
+      "journal-title": "Bull Am Math Soc"
+    },
+    {
+      "issue": "42",
+      "key": "11462_CR332",
+      "doi-asserted-by": "crossref",
+      "first-page": "2308496120",
+      "DOI": "10.1073/pnas.2308496120",
+      "volume": "120",
+      "author": "S Wu",
+      "year": "2023",
+      "unstructured": "Wu S, Liu X, Dong A, Gragnoli C, Griffin C, Wu J, Yau S-T, Wu R (2023) The metabolomic physics of complex diseases. Proc Natl Acad Sci 120(42):2308496120",
+      "journal-title": "Proc Natl Acad Sci"
+    },
+    {
+      "issue": "8",
+      "key": "11462_CR333",
+      "doi-asserted-by": "crossref",
+      "first-page": "814",
+      "DOI": "10.1002/cnm.2655",
+      "volume": "30",
+      "author": "K Xia",
+      "year": "2014",
+      "unstructured": "Xia K, Wei G-W (2014) Persistent homology analysis of protein structure, flexibility, and folding. Int J Numer Methods Biomed Eng 30(8):814\u2013844",
+      "journal-title": "Int J Numer Methods Biomed Eng"
+    },
+    {
+      "issue": "20",
+      "key": "11462_CR334",
+      "doi-asserted-by": "crossref",
+      "first-page": "1502",
+      "DOI": "10.1002/jcc.23953",
+      "volume": "36",
+      "author": "K Xia",
+      "year": "2015",
+      "unstructured": "Xia K, Wei G-W (2015) Multidimensional persistence in biomolecular data. J Comput Chem 36(20):1502\u20131520",
+      "journal-title": "J Comput Chem"
+    },
+    {
+      "key": "11462_CR335",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Xia K, Zhao Z, Wei G-W (2015) Multiresolution persistent homology for excessively large biomolecular datasets. J Chem Phys 143(13)",
+      "DOI": "10.1063/1.4931733"
+    },
+    {
+      "issue": "9",
+      "key": "11462_CR336",
+      "doi-asserted-by": "crossref",
+      "first-page": "887",
+      "DOI": "10.1089/cmb.2015.0104",
+      "volume": "22",
+      "author": "K Xia",
+      "year": "2015",
+      "unstructured": "Xia K, Zhao Z, Wei G-W (2015) Multiresolution topological simplification. J Comput Biol 22(9):887\u2013891",
+      "journal-title": "J Comput Biol"
+    },
+    {
+      "issue": "6",
+      "key": "11462_CR337",
+      "doi-asserted-by": "crossref",
+      "first-page": "408",
+      "DOI": "10.1002/jcc.23816",
+      "volume": "36",
+      "author": "K Xia",
+      "year": "2015",
+      "unstructured": "Xia K, Feng X, Tong Y, Wei GW (2015) Persistent homology for the quantitative prediction of fullerene stability. J Comput Chem 36(6):408\u2013422",
+      "journal-title": "J Comput Chem"
+    },
+    {
+      "issue": "4",
+      "key": "11462_CR338",
+      "first-page": "1",
+      "volume": "40",
+      "author": "S Yang",
+      "year": "2021",
+      "unstructured": "Yang S, Xiong S, Zhang Y, Feng F, Liu J, Zhu B (2021) Clebsch gauge fluid. ACM Trans Graph (TOG) 40(4):1\u201311",
+      "journal-title": "ACM Trans Graph (TOG)"
+    },
+    {
+      "key": "11462_CR339",
+      "unstructured": "Yegnesh K (2016) Persistence and sheaves. arXiv preprint arXiv:1612.03522"
+    },
+    {
+      "issue": "4",
+      "key": "11462_CR340",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1145/3592402",
+      "volume": "42",
+      "author": "H Yin",
+      "year": "2023",
+      "unstructured": "Yin H, Nabizadeh MS, Wu B, Wang S, Chern A (2023) Fluid cohomology. ACM Trans Graph 42(4):1\u201311",
+      "journal-title": "ACM Trans Graph"
+    },
+    {
+      "key": "11462_CR341",
+      "unstructured": "Yoon HR (2018) Cellular sheaves and cosheaves for distributed topological data analysis. PhD thesis, University of Pennsylvania"
+    },
+    {
+      "issue": "10",
+      "key": "11462_CR342",
+      "doi-asserted-by": "crossref",
+      "first-page": "1781",
+      "DOI": "10.1007/s10114-022-2190-3",
+      "volume": "38",
+      "author": "MM Zhang",
+      "year": "2022",
+      "unstructured": "Zhang MM, Li JY, Wu J (2022) The twisted homology of simplicial set. Acta Math Sinica English Series 38(10):1781\u20131802",
+      "journal-title": "Acta Math Sinica English Series"
+    },
+    {
+      "issue": "17",
+      "key": "11462_CR343",
+      "doi-asserted-by": "crossref",
+      "first-page": "830",
+      "DOI": "10.1093/bioinformatics/bty598",
+      "volume": "34",
+      "author": "R Zhao",
+      "year": "2018",
+      "unstructured": "Zhao R, Cang Z, Tong Y, Wei G-W (2018) Protein pocket detection via convex hull surface evolution and associated reeb graph. Bioinformatics 34(17):830\u2013837",
+      "journal-title": "Bioinformatics"
+    },
+    {
+      "issue": "6",
+      "key": "11462_CR344",
+      "first-page": "1",
+      "volume": "38",
+      "author": "R Zhao",
+      "year": "2019",
+      "unstructured": "Zhao R, Desbrun M, Wei G-W, Tong Y (2019) 3D Hodge decompositions of edge- and face-based vector fields. ACM Transactions on Graphics (TOG) 38(6):1\u201313",
+      "journal-title": "ACM Transactions on Graphics (TOG)"
+    },
+    {
+      "key": "11462_CR345",
+      "first-page": "1",
+      "volume": "82",
+      "author": "R Zhao",
+      "year": "2020",
+      "unstructured": "Zhao R, Wang M, Chen J, Tong Y, Wei G-W (2020) The de Rham-Hodge analysis and modeling of biomolecules. Bull Math Biol 82:1\u201338",
+      "journal-title": "Bull Math Biol"
+    },
+    {
+      "issue": "11",
+      "key": "11462_CR346",
+      "doi-asserted-by": "crossref",
+      "first-page": "1727",
+      "DOI": "10.3390/math12111727",
+      "volume": "12",
+      "author": "J Zheng",
+      "year": "2024",
+      "unstructured": "Zheng J, Feng Z, Ekstrom AD (2024) Towards analysis of multivariate time series using topological data analysis. Mathematics 12(11):1727",
+      "journal-title": "Mathematics"
+    },
+    {
+      "key": "11462_CR347",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Zheng J, Feng Z, Li Y, Liang F, Cao X, Ge L (2023) Topological data analysis for scalp EEG signal processing. In: 2023 8th international conference on signal and image processing (ICSIP), pp 549\u2013553. IEEE",
+      "DOI": "10.1109/ICSIP57908.2023.10270899"
+    },
+    {
+      "key": "11462_CR348",
+      "unstructured": "Zhou Q (2019) Pymesh-geometry processing library for Python. Software available for download at https://github.com/PyMesh/PyMesh 7"
+    },
+    {
+      "key": "11462_CR349",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Zhou Y, Chalapathi N, Rathore A, Zhao Y, Wang B (2021) Mapper interactive: a scalable, extendable, and interactive toolbox for the visual exploration of high-dimensional data. In: 2021 IEEE 14th Pacific Visualization Symposium (PacificVis), pp 101\u2013110. IEEE",
+      "DOI": "10.1109/PacificVis52677.2021.00021"
+    },
+    {
+      "issue": "8",
+      "key": "11462_CR350",
+      "doi-asserted-by": "crossref",
+      "first-page": "4276",
+      "DOI": "10.1021/acs.jctc.5c00074",
+      "volume": "21",
+      "author": "M Zia",
+      "year": "2025",
+      "unstructured": "Zia M, Jones B, Feng H, Wei G-W (2025) Persistent directed flag Laplacian (PDFL)-based machine learning for protein-ligand binding affinity prediction. J Chem Theory Comput 21(8):4276\u20134285",
+      "journal-title": "J Chem Theory Comput"
+    },
+    {
+      "key": "11462_CR351",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Zieli\u0144ski B, Lipi\u0144ski M, Juda M, Zeppelzauer M, D\u0142otko P (2019) Persistence bag-of-words for topological data analysis. In: Proceedings of the 28th international joint conference on artificial intelligence, pp 4489\u20134495",
+      "DOI": "10.24963/ijcai.2019/624"
+    },
+    {
+      "key": "11462_CR352",
+      "doi-asserted-by": "crossref",
+      "first-page": "1969",
+      "DOI": "10.1007/s10462-020-09897-4",
+      "volume": "54",
+      "author": "B Zieli\u0144ski",
+      "year": "2021",
+      "unstructured": "Zieli\u0144ski B, Lipi\u0144ski M, Juda M, Zeppelzauer M, D\u0142otko P (2021) Persistence codebooks for topological data analysis. Artif Intell Rev 54:1969\u20132009",
+      "journal-title": "Artif Intell Rev"
+    },
+    {
+      "issue": "3",
+      "key": "11462_CR353",
+      "doi-asserted-by": "crossref",
+      "first-page": "263",
+      "DOI": "10.1016/j.cag.2010.03.007",
+      "volume": "34",
+      "author": "A Zomorodian",
+      "year": "2010",
+      "unstructured": "Zomorodian A (2010) Fast construction of the Vietoris-Rips complex. Comput Graph 34(3):263\u2013271",
+      "journal-title": "Comput Graph"
+    },
+    {
+      "issue": "2",
+      "key": "11462_CR354",
+      "doi-asserted-by": "crossref",
+      "first-page": "249",
+      "DOI": "10.1007/s00454-004-1146-y",
+      "volume": "33",
+      "author": "A Zomorodian",
+      "year": "2005",
+      "unstructured": "Zomorodian A, Carlsson G (2005) Computing persistent homology. Discrete Comput Geom 33(2):249\u2013274",
+      "journal-title": "Discrete Comput Geom"
+    },
+    {
+      "issue": "3",
+      "key": "11462_CR355",
+      "doi-asserted-by": "crossref",
+      "first-page": "126",
+      "DOI": "10.1016/j.comgeo.2008.02.003",
+      "volume": "41",
+      "author": "A Zomorodian",
+      "year": "2008",
+      "unstructured": "Zomorodian A, Carlsson G (2008) Localized homology. Comput Geom 41(3):126\u2013148",
+      "journal-title": "Comput Geom"
+    }
+  ],
+  "container-title": [
+    "Artificial Intelligence Review"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/article/10.1007/s10462-025-11462-w",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s10462-025-11462-w.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s10462-025-11462-w.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        19
+      ]
+    ],
+    "date-time": "2026-02-19T05:47:49Z",
+    "timestamp": 1771480069000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/s10462-025-11462-w"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        21
+      ]
+    ]
+  },
+  "references-count": 355,
+  "journal-issue": {
+    "issue": "2",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          2
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "11462"
+  ],
+  "URL": "https://doi.org/10.1007/s10462-025-11462-w",
+  "relation": {},
+  "ISSN": [
+    "1573-7462"
+  ],
+  "issn-type": [
+    {
+      "value": "1573-7462",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        21
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "18 July 2025",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "2 December 2025",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "21 December 2025",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Declarations"
+      }
+    },
+    {
+      "value": "The authors declare no Conflict of interest.",
+      "order": 2,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Conflict of interest"
+      }
+    }
+  ],
+  "article-number": "58"
+}

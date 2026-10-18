@@ -1,0 +1,93 @@
+[
+  {
+    "delta": 0.00465044469622522,
+    "ci95": [
+      -0.0012703715473014188,
+      0.009859819963922207
+    ],
+    "blocks": 10,
+    "replicates": 1000,
+    "scope": "conditional on fitted models; temporal blocks do not eliminate all graph dependence",
+    "comparison": "xgboost_XSB minus xgboost_XS",
+    "seeds": 5,
+    "kind": "secondary descriptive; no multiplicity-adjusted superiority claim"
+  },
+  {
+    "delta": 0.0011149230803855215,
+    "ci95": [
+      -0.014868593849910704,
+      0.013113788418347266
+    ],
+    "blocks": 10,
+    "replicates": 1000,
+    "scope": "conditional on fitted models; temporal blocks do not eliminate all graph dependence",
+    "comparison": "xgboost_XB minus xgboost_X",
+    "seeds": 5,
+    "kind": "secondary descriptive; no multiplicity-adjusted superiority claim"
+  },
+  {
+    "delta": -0.006473805416464251,
+    "ci95": [
+      -0.01722546851082411,
+      0.0037392425765419885
+    ],
+    "blocks": 10,
+    "replicates": 1000,
+    "scope": "conditional on fitted models; temporal blocks do not eliminate all graph dependence",
+    "comparison": "random_forest_XSP minus random_forest_XS",
+    "seeds": 5,
+    "kind": "secondary descriptive; no multiplicity-adjusted superiority claim"
+  },
+  {
+    "delta": 0.011427965677748522,
+    "ci95": [
+      -0.0018955829165605502,
+      0.034064026061462235
+    ],
+    "blocks": 10,
+    "replicates": 1000,
+    "scope": "conditional on fitted models; temporal blocks do not eliminate all graph dependence",
+    "comparison": "sage_P_concat minus sage_none_none",
+    "seeds": 5,
+    "kind": "secondary descriptive; no multiplicity-adjusted superiority claim"
+  },
+  {
+    "delta": -0.005500292297854675,
+    "ci95": [
+      -0.009893324549548992,
+      -0.00017106872020915544
+    ],
+    "blocks": 10,
+    "replicates": 1000,
+    "scope": "conditional on fitted models; temporal blocks do not eliminate all graph dependence",
+    "comparison": "sage_P_gated minus sage_P_concat",
+    "seeds": 5,
+    "kind": "secondary descriptive; no multiplicity-adjusted superiority claim"
+  },
+  {
+    "delta": -0.010101187292912817,
+    "ci95": [
+      -0.019487771172894824,
+      -0.0001808706662170282
+    ],
+    "blocks": 10,
+    "replicates": 1000,
+    "scope": "conditional on fitted models; temporal blocks do not eliminate all graph dependence",
+    "comparison": "gat_P_concat minus gat_none_none",
+    "seeds": 5,
+    "kind": "secondary descriptive; no multiplicity-adjusted superiority claim"
+  },
+  {
+    "delta": 0.002000084894113338,
+    "ci95": [
+      -0.015049535026674958,
+      0.019220102144873533
+    ],
+    "blocks": 10,
+    "replicates": 1000,
+    "scope": "conditional on fitted models; temporal blocks do not eliminate all graph dependence",
+    "comparison": "gat_P_gated minus gat_P_concat",
+    "seeds": 5,
+    "kind": "secondary descriptive; no multiplicity-adjusted superiority claim"
+  }
+]

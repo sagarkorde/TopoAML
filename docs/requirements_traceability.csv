@@ -1,0 +1,296 @@
+id,source_line,phase,requirement,implementation,evidence,manuscript_section,status
+R001,7,0,- Bitcoin transaction forensics and anti-money laundering.,docs/change_log.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R002,8,0,"- Algebraic topology, Betti numbers and persistent homology.",docs/change_log.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R003,9,0,- Directed graph theory and temporal financial networks.,docs/change_log.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R004,10,0,- Graph neural networks and topological deep learning.,docs/change_log.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R005,11,0,"- Scientific Python, PyTorch Geometric and large-scale data processing.",docs/change_log.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R006,12,0,"- Experimental methodology, statistical validation and reproducibility.",docs/change_log.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R007,13,0,- Original research manuscript preparation for high-quality Scopus-indexed journals.,docs/change_log.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R008,37,0,- Windows 11,docs/change_log.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R009,38,0,"- Intel Core i9, 13th Generation",docs/change_log.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R010,39,0,- 64 GB RAM,docs/change_log.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R011,40,0,"- NVIDIA RTX 4060, 8 GB VRAM",docs/change_log.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R012,54,1,1. Read the complete TopoAML proposal.,docs/research_specification.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R013,55,1,"2. Extract all requirements, hypotheses, equations, datasets, experiments and expected outputs.",docs/research_specification.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R014,56,1,3. Create `docs/research_specification.md`.,docs/research_specification.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R015,57,1,"4. Create `docs/requirements_traceability.csv`, mapping every requirement to implementation files, experiment outputs and eventual manuscript sections.",docs/research_specification.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R016,58,1,"5. Identify ambiguities, mathematical risks and infeasible assumptions.",docs/research_specification.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R017,59,1,6. Resolve technically justified ambiguities while retaining a change log.,docs/research_specification.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R018,87,2,1. Resolve its DOI through an authoritative source.,literature/doi_audit.csv,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R019,88,2,"2. Verify title, authors, journal, year, volume and page/article identifier.",literature/doi_audit.csv,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R020,89,2,3. Confirm journal-indexing information where accessible.,literature/doi_audit.csv,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R021,90,2,4. Identify whether it genuinely supports the proposed claim.,literature/doi_audit.csv,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R022,91,2,"5. Record corrections, unsupported metadata or dead DOI links.",literature/doi_audit.csv,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R023,92,2,6. Exclude unreliable citations from the manuscript.,literature/doi_audit.csv,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R024,98,2,- Persistent homology for financial networks.,literature/doi_audit.csv,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R025,99,2,- Blockchain illicit-transaction detection.,literature/doi_audit.csv,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R026,100,2,- Elliptic and Elliptic++ benchmarks.,literature/doi_audit.csv,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R027,101,2,- Elliptic2 subgraph classification.,literature/doi_audit.csv,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R028,102,2,- Topological deep learning.,literature/doi_audit.csv,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R029,103,2,- Directed path homology.,literature/doi_audit.csv,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R030,104,2,- Leakage-free graph machine learning.,literature/doi_audit.csv,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R031,105,2,- Structural confounding in graph classification.,literature/doi_audit.csv,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R032,106,2,"- GraphSAGE, GAT and topology-feature fusion.",literature/doi_audit.csv,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R033,112,2,- `literature/verified_references.bib`,literature/doi_audit.csv,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R034,113,2,- `literature/doi_audit.csv`,literature/doi_audit.csv,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R035,114,2,- `literature/novelty_matrix.xlsx`,literature/doi_audit.csv,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R036,115,2,- `literature/research_gap.md`,literature/doi_audit.csv,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R037,127,3,**H1 — Topological separation**,docs/hypotheses.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R038,131,3,**H2 — Static topology contribution**,docs/hypotheses.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R039,135,3,**H3 — Persistence contribution**,docs/hypotheses.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R040,139,3,**H4 — Temporal generalization**,docs/hypotheses.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R041,143,3,**H5 — Independent subgraph evaluation**,docs/hypotheses.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R042,147,3,**H6 — Robustness and interpretability**,docs/hypotheses.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R043,153,3,- Null hypothesis.,docs/hypotheses.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R044,154,3,- Comparison groups.,docs/hypotheses.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R045,155,3,- Independent evaluation unit.,docs/hypotheses.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R046,156,3,- Metric.,docs/hypotheses.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R047,157,3,- Statistical test.,docs/hypotheses.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R048,158,3,- Effect size.,docs/hypotheses.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R049,159,3,- Confidence interval.,docs/hypotheses.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R050,160,3,- Acceptance or rejection interpretation.,docs/hypotheses.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R051,161,3,- Limitations.,docs/hypotheses.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R052,179,4,1. Verify the authoritative dataset source and available versions.,scripts/acquire.py;src/topoaml/data.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R053,180,4,2. Download the permitted data.,scripts/acquire.py;src/topoaml/data.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R054,181,4,3. Preserve immutable raw files.,scripts/acquire.py;src/topoaml/data.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R055,182,4,"4. Examine transaction IDs, edges, direction, feature matrices, labels and time steps.",scripts/acquire.py;src/topoaml/data.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R056,183,4,5. Validate original counts and version-specific schema.,scripts/acquire.py;src/topoaml/data.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R057,184,4,6. Retain unknown-label nodes distinctly from licit nodes.,scripts/acquire.py;src/topoaml/data.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R058,185,4,7. Document overlap between original Elliptic and Elliptic++.,scripts/acquire.py;src/topoaml/data.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R059,186,4,8. Create reproducible graph-construction scripts.,scripts/acquire.py;src/topoaml/data.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R060,200,4,"- Elliptic2 predicts labels for subgraphs, not necessarily for the same units as Elliptic transaction-node classification.",scripts/acquire.py;src/topoaml/data.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R061,201,4,- Do not directly compare node classification and subgraph classification as identical tasks.,scripts/acquire.py;src/topoaml/data.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R062,202,4,- Avoid assuming that features or labels transfer without modification.,scripts/acquire.py;src/topoaml/data.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R063,203,4,- Implement independent benchmark baselines.,scripts/acquire.py;src/topoaml/data.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R064,204,4,- Validate source-specific train/test protocols.,scripts/acquire.py;src/topoaml/data.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R065,224,4,- Dataset identity and version.,scripts/acquire.py;src/topoaml/data.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R066,225,4,- Source URL.,scripts/acquire.py;src/topoaml/data.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R067,226,4,- Download date.,scripts/acquire.py;src/topoaml/data.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R068,227,4,- License.,scripts/acquire.py;src/topoaml/data.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R069,228,4,- File checksum.,scripts/acquire.py;src/topoaml/data.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R070,229,4,- Number of samples.,scripts/acquire.py;src/topoaml/data.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R071,230,4,- Node and edge counts.,scripts/acquire.py;src/topoaml/data.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R072,231,4,- Label distribution.,scripts/acquire.py;src/topoaml/data.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R073,232,4,- Missing data.,scripts/acquire.py;src/topoaml/data.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R074,233,4,- Temporal coverage.,scripts/acquire.py;src/topoaml/data.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R075,234,4,- Processing rules.,scripts/acquire.py;src/topoaml/data.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R076,235,4,- Known limitations.,scripts/acquire.py;src/topoaml/data.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R077,245,5,- Training: time steps 1–30.,src/topoaml/temporal.py;tests/test_temporal.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R078,246,5,- Validation: time steps 31–39.,src/topoaml/temporal.py;tests/test_temporal.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R079,247,5,- Testing: time steps 40–49.,src/topoaml/temporal.py;tests/test_temporal.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R080,263,5,- Future-edge leakage.,src/topoaml/temporal.py;tests/test_temporal.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R081,264,5,- Future-neighbor aggregation.,src/topoaml/temporal.py;tests/test_temporal.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R082,265,5,- Held-out label propagation.,src/topoaml/temporal.py;tests/test_temporal.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R083,266,5,- Test-informed feature selection.,src/topoaml/temporal.py;tests/test_temporal.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R084,267,5,- Test-informed normalization.,src/topoaml/temporal.py;tests/test_temporal.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R085,268,5,- Test-informed threshold tuning.,src/topoaml/temporal.py;tests/test_temporal.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R086,269,5,- Test-informed class resampling.,src/topoaml/temporal.py;tests/test_temporal.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R087,270,5,- Uncontrolled overlap between train and test subgraphs.,src/topoaml/temporal.py;tests/test_temporal.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R088,271,5,- Cross-period embedding leakage.,src/topoaml/temporal.py;tests/test_temporal.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R089,311,6,- Node count.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R090,312,6,- Edge count.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R091,313,6,- Connected components.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R092,314,6,- Density.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R093,315,6,- Degree statistics.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R094,316,6,- Triangle count.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R095,317,6,- Clustering coefficient.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R096,318,6,- Component size.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R097,319,6,- Cycle rank.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R098,349,6,- One-dimensional graph complex.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R099,350,6,- Flag/clique complex.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R100,351,6,- Filtration-induced complex.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R101,352,6,- Optional directed path-homology construction.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R102,368,6,1. Structural-distance filtration.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R103,369,6,2. Edge-weight filtration.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R104,370,6,3. Historical temporal filtration.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R105,371,6,4. Optional directed path-homology filtration.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R106,375,6,- Define filtration values mathematically.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R107,376,6,- Explain financial interpretation.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R108,377,6,- Prove or programmatically validate nestedness.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R109,378,6,- Respect causal time constraints.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R110,379,6,- Prevent post-event information exposure.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R111,380,6,- Declare edge-direction treatment.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R112,381,6,- Specify treatment of essential/infinite bars.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R113,387,6,- Persistence intervals.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R114,388,6,- Lifetime statistics.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R115,389,6,- Betti curves.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R116,390,6,- Persistence entropy.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R117,391,6,- Persistence images.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R118,392,6,- Persistence landscapes where practical.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R119,393,6,- Counts of persistent components/cycles.,src/topoaml/topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R120,405,7,1. Empty graph.,tests/test_topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R121,406,7,2. Single isolated vertex.,tests/test_topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R122,407,7,3. Multiple isolated vertices.,tests/test_topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R123,408,7,4. Path graph.,tests/test_topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R124,409,7,5. Tree.,tests/test_topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R125,410,7,6. Single unfilled cycle.,tests/test_topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R126,411,7,7. Two disconnected cycles.,tests/test_topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R127,412,7,8. Triangle graph without a filling face.,tests/test_topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R128,413,7,9. Filled triangle.,tests/test_topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R129,414,7,10. Hollow tetrahedral boundary.,tests/test_topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R130,415,7,11. Filled tetrahedron.,tests/test_topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R131,416,7,12. Weighted graph with known persistence intervals.,tests/test_topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R132,417,7,13. Directed acyclic graph whose undirected projection contains a cycle.,tests/test_topology.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R133,453,8,**H — Learned graph embeddings**,scripts/extract.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R134,471,9,- Logistic Regression.,src/topoaml/models.py;scripts/train_tabular.py;scripts/train_graph.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R135,472,9,- Random Forest.,src/topoaml/models.py;scripts/train_tabular.py;scripts/train_graph.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R136,473,9,- XGBoost.,src/topoaml/models.py;scripts/train_tabular.py;scripts/train_graph.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R137,479,9,- GraphSAGE.,src/topoaml/models.py;scripts/train_tabular.py;scripts/train_graph.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R138,480,9,- Graph Attention Network (GAT).,src/topoaml/models.py;scripts/train_tabular.py;scripts/train_graph.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R139,486,9,- XGBoost + static Betti features.,src/topoaml/models.py;scripts/train_tabular.py;scripts/train_graph.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R140,487,9,- GAT + static Betti features.,src/topoaml/models.py;scripts/train_tabular.py;scripts/train_graph.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R141,493,9,- XGBoost + persistence features.,src/topoaml/models.py;scripts/train_tabular.py;scripts/train_graph.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R142,494,9,- GAT + persistence features.,src/topoaml/models.py;scripts/train_tabular.py;scripts/train_graph.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R143,518,9,- A learnable topological encoder.,src/topoaml/models.py;scripts/train_tabular.py;scripts/train_graph.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R144,519,9,- Separate projection of graph embeddings.,src/topoaml/models.py;scripts/train_tabular.py;scripts/train_graph.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R145,520,9,- Gated fusion.,src/topoaml/models.py;scripts/train_tabular.py;scripts/train_graph.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R146,521,9,- Classification head.,src/topoaml/models.py;scripts/train_tabular.py;scripts/train_graph.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R147,547,10,## E1 — Topological Profiling,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R148,555,10,- Class-wise distributions.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R149,556,10,- Persistence diagrams.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R150,557,10,- Effect sizes.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R151,558,10,- Dependency-aware statistical comparisons.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R152,559,10,- Structural confounding analyses.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R153,563,10,## E2 — Matched Model Comparison,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R154,575,10,- ROC-AUC.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R155,576,10,- Precision.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R156,577,10,- Recall.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R157,578,10,- F1.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R158,579,10,- Balanced accuracy.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R159,580,10,- Recall at fixed false-positive rate.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R160,581,10,- Precision@K.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R161,582,10,- Calibration.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R162,586,10,## E3 — Topological Ablation,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R163,590,10,- Static Betti features.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R164,591,10,- Persistent descriptors.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R165,592,10,- Learned topology encoder.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R166,593,10,- Gated fusion.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R167,599,10,## E4 — Temporal Generalization,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R168,611,10,## E5 — Elliptic2 External Task,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R169,621,10,## E6 — Sensitivity and Robustness,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R170,625,10,- k-hop radius.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R171,626,10,- Filtration choice.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R172,627,10,- Weight threshold.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R173,628,10,- Graph perturbations.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R174,629,10,- Subgraph size.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R175,630,10,- Random initialization.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R176,631,10,- Feature normalization.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R177,632,10,- Class imbalance handling.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R178,638,10,## E7 — Computational Efficiency,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R179,642,10,- Data preparation runtime.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R180,643,10,- Neighborhood-extraction runtime.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R181,644,10,- Betti computation time.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R182,645,10,- Persistent homology computation time.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R183,646,10,- Training and inference latency.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R184,647,10,- Peak RAM.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R185,648,10,- GPU memory.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R186,649,10,- Throughput.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R187,650,10,- Model parameters.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R188,651,10,- Scaling with graph size.,scripts/characterize.py;scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R189,669,11,- Paired bootstrap.,src/topoaml/evaluation.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R190,670,11,- Temporal block bootstrap.,src/topoaml/evaluation.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R191,671,11,- Repeated seeded experiments.,src/topoaml/evaluation.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R192,672,11,- Appropriate hypothesis tests.,src/topoaml/evaluation.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R193,673,11,- Confidence intervals.,src/topoaml/evaluation.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R194,674,11,- Effect-size estimation.,src/topoaml/evaluation.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R195,675,11,- Multiple-comparison corrections.,src/topoaml/evaluation.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R196,699,12,- PyTorch.,configs/preregistered.json,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R197,700,12,- PyTorch Geometric.,configs/preregistered.json,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R198,701,12,- GUDHI.,configs/preregistered.json,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R199,702,12,- NetworkX.,configs/preregistered.json,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R200,703,12,- scikit-learn.,configs/preregistered.json,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R201,704,12,- XGBoost.,configs/preregistered.json,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R202,705,12,- NumPy.,configs/preregistered.json,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R203,706,12,- Pandas / PyArrow / Polars.,configs/preregistered.json,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R204,707,12,- Optuna.,configs/preregistered.json,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R205,708,12,- Matplotlib.,configs/preregistered.json,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R206,709,12,- SciPy.,configs/preregistered.json,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R207,715,12,- Memory-mapped or Parquet datasets.,configs/preregistered.json,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R208,716,12,- Bounded subgraph extraction.,configs/preregistered.json,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R209,717,12,- CPU-based persistent homology when appropriate.,configs/preregistered.json,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R210,718,12,- GPU-based graph training where supported.,configs/preregistered.json,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R211,719,12,- Incremental result writing.,configs/preregistered.json,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R212,720,12,- Resume-safe checkpoints.,configs/preregistered.json,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R213,721,12,- Deterministic seeds where feasible.,configs/preregistered.json,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R214,722,12,- GPU memory monitoring.,configs/preregistered.json,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R215,723,12,- Resource-aware batch selection.,configs/preregistered.json,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R216,790,13,1. Dataset acquisition and validation.,README.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R217,791,13,2. Temporal split generation.,README.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R218,792,13,3. Graph construction.,README.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R219,793,13,4. Topological feature computation.,README.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R220,794,13,5. Baseline training.,README.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R221,795,13,6. TopoAML training.,README.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R222,796,13,7. Statistical evaluation.,README.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R223,797,13,8. Ablation and robustness.,README.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R224,798,13,9. Figure generation.,README.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R225,799,13,10. Manuscript result-table export.,README.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R226,815,14,- Git commit hash.,results/reproducibility_audit.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R227,816,14,- Dataset checksums.,results/reproducibility_audit.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R228,817,14,- Split IDs.,results/reproducibility_audit.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R229,818,14,- Package versions.,results/reproducibility_audit.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R230,819,14,- Hyperparameters.,results/reproducibility_audit.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R231,820,14,- Seeds.,results/reproducibility_audit.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R232,821,14,- Training logs.,results/reproducibility_audit.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R233,822,14,- Model checkpoints.,results/reproducibility_audit.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R234,823,14,- Evaluation predictions.,results/reproducibility_audit.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R235,824,14,- Statistical outputs.,results/reproducibility_audit.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R236,825,14,- Figure scripts.,results/reproducibility_audit.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R237,861,15,- Editable SVG.,scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R238,862,15,- Vector PDF.,scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R239,863,15,- 600 DPI PNG/TIFF where supported.,scripts/analyze.py,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R240,947,17,1. Editable manuscript DOCX.,docs/journal_assessment.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R241,948,17,2. LaTeX source if useful.,docs/journal_assessment.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R242,949,17,3. Submission-ready PDF.,docs/journal_assessment.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R243,950,17,4. Separate high-resolution figures.,docs/journal_assessment.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R244,951,17,5. Supplementary methodology.,docs/journal_assessment.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R245,952,17,6. Dataset provenance and leakage report.,docs/journal_assessment.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R246,953,17,7. Reproducibility package.,docs/journal_assessment.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R247,954,17,"8. Graphical abstract, if required or accepted.",docs/journal_assessment.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R248,955,17,"9. Highlights, if required.",docs/journal_assessment.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R249,956,17,10. Cover letter.,docs/journal_assessment.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R250,957,17,11. Declarations and compliance checklist.,docs/journal_assessment.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R251,958,17,12. Verified reference library.,docs/journal_assessment.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R252,974,18,- Betti definitions.,docs/reviewer_report.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R253,975,18,- Complex construction.,docs/reviewer_report.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R254,976,18,- Filtration validity.,docs/reviewer_report.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R255,977,18,- Persistence correctness.,docs/reviewer_report.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R256,978,18,- Directed/undirected assumptions.,docs/reviewer_report.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R257,979,18,- Novelty beyond known topology.,docs/reviewer_report.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R258,985,18,- Benchmark validity.,docs/reviewer_report.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R259,986,18,- Labels.,docs/reviewer_report.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R260,987,18,- Temporal leakage.,docs/reviewer_report.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R261,988,18,- Graph interpretation.,docs/reviewer_report.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R262,989,18,- Cross-dataset claims.,docs/reviewer_report.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R263,990,18,- Baseline relevance.,docs/reviewer_report.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R264,991,18,- Practical forensic significance.,docs/reviewer_report.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R265,997,18,- Fair training budgets.,docs/reviewer_report.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R266,998,18,- Hyperparameter selection.,docs/reviewer_report.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R267,999,18,- Dependency-aware inference.,docs/reviewer_report.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R268,1000,18,- Uncertainty.,docs/reviewer_report.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R269,1001,18,- Reproducibility.,docs/reviewer_report.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R270,1002,18,- Ablations.,docs/reviewer_report.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R271,1003,18,- Complexity.,docs/reviewer_report.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R272,1019,19,- Verified literature and DOI audit.,docs/project_status.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R273,1020,19,- Research specification traceability.,docs/project_status.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R274,1021,19,- Dataset manifests.,docs/project_status.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R275,1022,19,- Immutable temporal partitions.,docs/project_status.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R276,1023,19,- Validated topology library.,docs/project_status.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R277,1024,19,- Executable TopoAML implementation.,docs/project_status.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R278,1025,19,- Conventional and GNN baselines.,docs/project_status.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R279,1026,19,"- Seven completed experiments, or clearly documented blockers.",docs/project_status.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R280,1027,19,- Raw experiment predictions.,docs/project_status.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R281,1028,19,- Statistical reports.,docs/project_status.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R282,1029,19,- High-quality publication figures.,docs/project_status.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R283,1030,19,- Complete research manuscript.,docs/project_status.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R284,1031,19,- Supplementary materials.,docs/project_status.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R285,1032,19,- Reproducibility instructions.,docs/project_status.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R286,1033,19,- Journal-compliance assessment.,docs/project_status.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R287,1034,19,- Reviewer-style audit.,docs/project_status.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R288,1035,19,- Final project completion report.,docs/project_status.md,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R289,1071,20,1. Report files created.,scripts/run_all.ps1,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R290,1072,20,2. Report tests executed.,scripts/run_all.ps1,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R291,1073,20,3. Report measured outcomes.,scripts/run_all.ps1,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R292,1074,20,4. Record failures and corrections.,scripts/run_all.ps1,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R293,1075,20,5. Update the completion checklist.,scripts/run_all.ps1,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R294,1076,20,6. Commit validated code when repository access is authorized.,scripts/run_all.ps1,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review
+R295,1077,20,7. Continue to the next feasible step.,scripts/run_all.ps1,See phase ledger; mapping does not assert completion,Methods/Results/Limitations as applicable,requires item-level review

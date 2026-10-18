@@ -1,0 +1,988 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        28
+      ]
+    ],
+    "date-time": "2026-09-28T18:06:01Z",
+    "timestamp": 1790618761504,
+    "version": "4.1.0"
+  },
+  "reference-count": 65,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            9,
+            1
+          ]
+        ],
+        "date-time": "2024-09-01T00:00:00Z",
+        "timestamp": 1725148800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            9,
+            1
+          ]
+        ],
+        "date-time": "2024-09-01T00:00:00Z",
+        "timestamp": 1725148800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "11561034"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "11561034"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "10971085"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "10971085"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Mathematics and Computers in Simulation"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        9
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.matcom.2024.04.013",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        21
+      ]
+    ],
+    "date-time": "2024-04-21T05:06:25Z",
+    "timestamp": 1713675985000
+  },
+  "page": "253-274",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 24,
+  "special_numbering": "C",
+  "title": [
+    "Bifurcation and chaos analysis of a fractional-order delay financial risk system using dynamic system approach and persistent homology"
+  ],
+  "prefix": "10.1016",
+  "volume": "223",
+  "author": [
+    {
+      "given": "Ke",
+      "family": "He",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5994-4554",
+      "authenticated-orcid": false,
+      "given": "Jianping",
+      "family": "Shi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Hui",
+      "family": "Fang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.matcom.2024.04.013_b1",
+      "first-page": "129",
+      "article-title": "JavaPlex: A research software package for persistent (co) homology",
+      "author": "Adams",
+      "year": "2014",
+      "journal-title": "Math. Softw.\u2013ICMS"
+    },
+    {
+      "key": "10.1016/j.matcom.2024.04.013_b2",
+      "doi-asserted-by": "crossref",
+      "first-page": "3177",
+      "DOI": "10.1140/epjs/s11734-021-00281-z",
+      "article-title": "Tipping in complex systems: theory, methods and applications",
+      "volume": "230",
+      "author": "Ambika",
+      "year": "2021",
+      "journal-title": "Eur. Phys. J. Spec. Top."
+    },
+    {
+      "issue": "1\u20133",
+      "key": "10.1016/j.matcom.2024.04.013_b3",
+      "doi-asserted-by": "crossref",
+      "first-page": "41",
+      "DOI": "10.1016/j.cnsns.2015.01.004",
+      "article-title": "Chaos in the fractional order nonlinear Bloch equation with delay",
+      "volume": "25",
+      "author": "Baleanu",
+      "year": "2015",
+      "journal-title": "Commun. Nonlinear Sci. Numer. Simul."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.matcom.2024.04.013_b4",
+      "doi-asserted-by": "crossref",
+      "first-page": "391",
+      "DOI": "10.1007/s41468-021-00071-5",
+      "article-title": "Ripser: efficient computation of vietoris\u2013rips persistence barcodes",
+      "volume": "5",
+      "author": "Bauer",
+      "year": "2021",
+      "journal-title": "J. Appl. Comput. Topol."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.matcom.2024.04.013_b5",
+      "first-page": "1",
+      "article-title": "A predictor\u2013corrector scheme for solving nonlinear delay differential equations of fractional order",
+      "volume": "1",
+      "author": "Bhalekar",
+      "year": "2011",
+      "journal-title": "Fract. Calc. Appl. Anal."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.matcom.2024.04.013_b6",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1371/journal.pone.0037278",
+      "article-title": "Structure of the afferent terminals in terminal ganglion of acricket and persistent homology",
+      "volume": "7",
+      "author": "Brown",
+      "year": "2012",
+      "journal-title": "PLoS One"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.matcom.2024.04.013_b7",
+      "first-page": "77",
+      "article-title": "Statistical topological data analysis using persistence landscapes",
+      "volume": "16",
+      "author": "Bubenik",
+      "year": "2015",
+      "journal-title": "J. Mach. Learn. Res."
+    },
+    {
+      "key": "10.1016/j.matcom.2024.04.013_b8",
+      "doi-asserted-by": "crossref",
+      "first-page": "108",
+      "DOI": "10.3389/frai.2021.667963",
+      "article-title": "An introduction to topological data analysis: fundamental and practical aspects for data scientists",
+      "volume": "4",
+      "author": "Chazal",
+      "year": "2021",
+      "journal-title": "Front. Artif. Intell."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.matcom.2024.04.013_b9",
+      "doi-asserted-by": "crossref",
+      "first-page": "1305",
+      "DOI": "10.1016/j.chaos.2006.07.051",
+      "article-title": "Nonlinear dynamics and chaos in a fractional-order financial system",
+      "volume": "36",
+      "author": "Chen",
+      "year": "2008",
+      "journal-title": "Chaos Solitons Fractals"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.matcom.2024.04.013_b10",
+      "doi-asserted-by": "crossref",
+      "first-page": "1194",
+      "DOI": "10.1016/j.chaos.2005.08.218",
+      "article-title": "Complex economic dynamics: chaotic saddle, crisis and intermittency",
+      "volume": "29",
+      "author": "Chian",
+      "year": "2006",
+      "journal-title": "Chaos Solitons Fractals"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.matcom.2024.04.013_b11",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1063/1.5100362",
+      "article-title": "Characterizing the complexity of time series networks of dynamical systems: A simplicial approach",
+      "volume": "30",
+      "author": "Chutani",
+      "year": "2020",
+      "journal-title": "Chaos"
+    },
+    {
+      "issue": "23",
+      "key": "10.1016/j.matcom.2024.04.013_b12",
+      "doi-asserted-by": "crossref",
+      "first-page": "4808",
+      "DOI": "10.3390/math11234808",
+      "article-title": "Bifurcation behavior and hybrid controller design of a 2D Lotka\u2013Volterra commensal symbiosis system accompanying delay",
+      "volume": "11",
+      "author": "Cui",
+      "year": "2023",
+      "journal-title": "Mathematics"
+    },
+    {
+      "issue": "05",
+      "key": "10.1016/j.matcom.2024.04.013_b13",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1142/S0218127418500670",
+      "article-title": "Matlab code for Lyapunov exponents of fractional-order systems",
+      "volume": "28",
+      "author": "Danca",
+      "year": "2018",
+      "journal-title": "Int. J. Bifurcation Chaos"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.matcom.2024.04.013_b14",
+      "doi-asserted-by": "crossref",
+      "first-page": "229",
+      "DOI": "10.1006/jmaa.2000.7194",
+      "article-title": "Analysis of fractional differential equations",
+      "volume": "265",
+      "author": "Diethelm",
+      "year": "2002",
+      "journal-title": "J. Math. Anal. Appl."
+    },
+    {
+      "key": "10.1016/j.matcom.2024.04.013_b15",
+      "doi-asserted-by": "crossref",
+      "first-page": "257",
+      "DOI": "10.1090/conm/453/08802",
+      "article-title": "Persistent homology-a survey",
+      "volume": "453",
+      "author": "Edelsbrunner",
+      "year": "2008",
+      "journal-title": "Contemp. Math."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.matcom.2024.04.013_b16",
+      "doi-asserted-by": "crossref",
+      "first-page": "209",
+      "DOI": "10.1007/s11071-009-9472-5",
+      "article-title": "Chaos and hopf bifurcation of a finance system",
+      "volume": "58",
+      "author": "Gao",
+      "year": "2009",
+      "journal-title": "Nonlinear Dynam."
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/j.matcom.2024.04.013_b17",
+      "doi-asserted-by": "crossref",
+      "first-page": "19",
+      "DOI": "10.1016/j.matcom.2018.06.006",
+      "article-title": "Ultimate bound estimation set and chaos synchronization for a financial risk system",
+      "volume": "154",
+      "author": "Gao",
+      "year": "2018",
+      "journal-title": "Math. Comput. Simulation"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.matcom.2024.04.013_b18",
+      "doi-asserted-by": "crossref",
+      "first-page": "16",
+      "DOI": "10.3390/math6020016",
+      "article-title": "Numerical solution of fractional differential equations: A survey and a software tutorial",
+      "volume": "6",
+      "author": "Garrappa",
+      "year": "2018",
+      "journal-title": "Mathematics"
+    },
+    {
+      "key": "10.1016/j.matcom.2024.04.013_b19",
+      "doi-asserted-by": "crossref",
+      "first-page": "221",
+      "DOI": "10.1007/978-3-662-48410-4_7",
+      "article-title": "The 0-1 test for chaos: A review",
+      "author": "Gottwald",
+      "year": "2016",
+      "journal-title": "Chaos Detect. Predict."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.matcom.2024.04.013_b20",
+      "doi-asserted-by": "crossref",
+      "first-page": "170",
+      "DOI": "10.1137/0148008",
+      "article-title": "Stability and hopf bifurcation in a predator\u2013prey system with several parameters",
+      "volume": "48",
+      "author": "Hainzl",
+      "year": "1988",
+      "journal-title": "SIAM J. Appl. Math."
+    },
+    {
+      "key": "10.1016/j.matcom.2024.04.013_b21",
+      "doi-asserted-by": "crossref",
+      "first-page": "139",
+      "DOI": "10.1016/j.physa.2018.01.019",
+      "article-title": "On the adaptive sliding mode controller for a hyperchaotic fractional-order financial system",
+      "volume": "497",
+      "author": "Hajipour",
+      "year": "2018",
+      "journal-title": "Phys. A"
+    },
+    {
+      "key": "10.1016/j.matcom.2024.04.013_b22",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.physa.2021.126459",
+      "article-title": "Early warning signals of financial crises using persistent homology",
+      "volume": "586",
+      "author": "Ismail",
+      "year": "2022",
+      "journal-title": "Phys. A"
+    },
+    {
+      "key": "10.1016/j.matcom.2024.04.013_b23",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.3389/fams.2022.940133",
+      "article-title": "Early warning signals of financial crises using persistent homology and critical slowing down: evidence from different correlation tests",
+      "volume": "8",
+      "author": "Ismail",
+      "year": "2022",
+      "journal-title": "Front. Appl. Math. Stat."
+    },
+    {
+      "key": "10.1016/j.matcom.2024.04.013_b24",
+      "first-page": "327",
+      "article-title": "A macrodynamic theory of business cycles, econometrica",
+      "volume": "1935",
+      "author": "Kalecki",
+      "year": "1935",
+      "journal-title": "J. Econom."
+    },
+    {
+      "key": "10.1016/j.matcom.2024.04.013_b25",
+      "doi-asserted-by": "crossref",
+      "first-page": "368",
+      "DOI": "10.1016/j.procs.2017.11.196",
+      "article-title": "Chaos theory in finance",
+      "volume": "119",
+      "author": "Klioutchnikov",
+      "year": "2017",
+      "journal-title": "Procedia Comput."
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/j.matcom.2024.04.013_b26",
+      "doi-asserted-by": "crossref",
+      "first-page": "1020",
+      "DOI": "10.1016/j.physd.2011.02.012",
+      "article-title": "A mathematical framework for critical transitions: Bifurcations, fast\u2013slow systems and stochastic dynamics",
+      "volume": "240",
+      "author": "Kuehn",
+      "year": "2011",
+      "journal-title": "Phys. D"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.matcom.2024.04.013_b27",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1038/s41598-018-36798-y",
+      "article-title": "Persistent homology for the quantitative evaluation of architectural features in prostate cancer histology",
+      "volume": "9",
+      "author": "Lawson",
+      "year": "2019",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "10.1016/j.matcom.2024.04.013_b28",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.chaos.2023.113219",
+      "article-title": "Bifurcation behavior and PD\u03b3 control mechanism of a fractional delayed genetic regulatory model",
+      "volume": "168",
+      "author": "Li",
+      "year": "2023",
+      "journal-title": "Chaos Solitons Fractals"
+    },
+    {
+      "key": "10.1016/j.matcom.2024.04.013_b29",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.chaos.2022.112975",
+      "article-title": "Dynamics exploration for a fractional-order delayed zooplankton\u2013phytoplankton system",
+      "volume": "166",
+      "author": "Li",
+      "year": "2023",
+      "journal-title": "Chaos Solitons Fractals"
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.matcom.2024.04.013_b30",
+      "doi-asserted-by": "crossref",
+      "first-page": "1825",
+      "DOI": "10.1007/s12559-023-10155-2",
+      "article-title": "Insight into hopf bifurcation and control methods in fractional order BAM neural networks incorporating symmetric structure and delay",
+      "volume": "15",
+      "author": "Li",
+      "year": "2023",
+      "journal-title": "Cogn. Comput."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.matcom.2024.04.013_b31",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1063/1.4949472",
+      "article-title": "Persistent topological features of dynamical systems",
+      "volume": "26",
+      "author": "Maleti\u0107",
+      "year": "2016",
+      "journal-title": "Chaos"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.matcom.2024.04.013_b32",
+      "doi-asserted-by": "crossref",
+      "first-page": "234",
+      "DOI": "10.1115/1.3424264",
+      "article-title": "The hopf bifurcation and its applications",
+      "volume": "45",
+      "author": "Marsden",
+      "year": "1978",
+      "journal-title": "J. Appl. Mech."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.matcom.2024.04.013_b33",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1103/PhysRevE.104.034116",
+      "article-title": "Persistent homology of fractional Gaussian noise",
+      "volume": "104",
+      "author": "Masoomy",
+      "year": "2021",
+      "journal-title": "Phys. Rev. E"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.matcom.2024.04.013_b34",
+      "doi-asserted-by": "crossref",
+      "first-page": "16414",
+      "DOI": "10.1038/s41598-021-94847-5",
+      "article-title": "Topological analysis of interaction patterns in cancer-specific gene regulatory network: Persistent homology approach",
+      "volume": "11",
+      "author": "Masoomy",
+      "year": "2021",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.matcom.2024.04.013_b35",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1103/PhysRevE.106.064115",
+      "article-title": "Homology groups of embedded fractional Brownian motion",
+      "volume": "106",
+      "author": "Masoomy",
+      "year": "2022",
+      "journal-title": "Phys. Rev. E"
+    },
+    {
+      "key": "10.1016/j.matcom.2024.04.013_b36",
+      "first-page": "361",
+      "article-title": "Local bifurcation analysis of a delayed fractional-order dynamic model of dual congestion control algorithms",
+      "volume": "99",
+      "author": "Min",
+      "year": "2016",
+      "journal-title": "IEEE/CAA J. Autom. Sin."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.matcom.2024.04.013_b37",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1063/1.4983840",
+      "article-title": "Topological characterization and early detection of bifurcations and chaos in complex systems using persistent homology",
+      "volume": "27",
+      "author": "Mittal",
+      "year": "2017",
+      "journal-title": "Chaos"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.matcom.2024.04.013_b38",
+      "first-page": "529",
+      "article-title": "Further insight into bifurcation and hybrid control tactics of a chlorine dioxide\u2013iodine\u2013malonic acid chemical reaction model incorporating delays",
+      "volume": "89",
+      "author": "Mu",
+      "year": "2023",
+      "journal-title": "Match-Commun. Math. Co."
+    },
+    {
+      "issue": "1\u20132",
+      "key": "10.1016/j.matcom.2024.04.013_b39",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1016/0167-2789(92)00026-U",
+      "article-title": "Topology from time series",
+      "volume": "65",
+      "author": "Muldoon",
+      "year": "1993",
+      "journal-title": "Phys. D"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.matcom.2024.04.013_b40",
+      "doi-asserted-by": "crossref",
+      "first-page": "1169",
+      "DOI": "10.1007/s11071-013-1032-3",
+      "article-title": "Feedback synchronization of the fractional order reverse butterfly-shaped chaotic system and its application to digital cryptography",
+      "volume": "74",
+      "author": "Muthukumar",
+      "year": "2013",
+      "journal-title": "Nonlinear Dynam."
+    },
+    {
+      "issue": "3\u20131",
+      "key": "10.1016/j.matcom.2024.04.013_b41",
+      "article-title": "Persistent homology of coarse-grained state-space networks",
+      "volume": "107",
+      "author": "Myers",
+      "year": "2023",
+      "journal-title": "Phys. Rev. E"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.matcom.2024.04.013_b42",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1103/PhysRevE.100.022314",
+      "article-title": "Persistent homology of complex networks for dynamic state detection",
+      "volume": "100",
+      "author": "Myers",
+      "year": "2019",
+      "journal-title": "Phys. Rev. E"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.matcom.2024.04.013_b43",
+      "doi-asserted-by": "crossref",
+      "first-page": "1622",
+      "DOI": "10.3934/math.2024080",
+      "article-title": "Hopf bifurcation exploration and control technique in a predator\u2013prey system incorporating delay",
+      "volume": "9",
+      "author": "Ou",
+      "year": "2024",
+      "journal-title": "AIMS Math."
+    },
+    {
+      "key": "10.1016/j.matcom.2024.04.013_b44",
+      "doi-asserted-by": "crossref",
+      "first-page": "1038",
+      "DOI": "10.1057/jors.1978.229",
+      "article-title": "Transform methods with applications to engineering and operations research",
+      "volume": "29",
+      "author": "Phillips",
+      "year": "1978",
+      "journal-title": "J. Oper. Res. Soc."
+    },
+    {
+      "key": "10.1016/j.matcom.2024.04.013_b45",
+      "series-title": "Fractional Differential Equations, Mathematics in Science and Engineering",
+      "author": "Podlubny",
+      "year": "1999"
+    },
+    {
+      "issue": "2\u20134",
+      "key": "10.1016/j.matcom.2024.04.013_b46",
+      "doi-asserted-by": "crossref",
+      "first-page": "295",
+      "DOI": "10.1016/j.physa.2004.12.040",
+      "article-title": "Analysis of a new chaotic system",
+      "volume": "352",
+      "author": "Qi",
+      "year": "2005",
+      "journal-title": "Phys. A"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.matcom.2024.04.013_b47",
+      "first-page": "1",
+      "article-title": "Adaptive fuzzy synchronization of uncertain fractional-order chaotic systems with different structures and time-delays",
+      "volume": "2019",
+      "author": "Qin",
+      "year": "2019",
+      "journal-title": "Adv. Differential Equations"
+    },
+    {
+      "key": "10.1016/j.matcom.2024.04.013_b48",
+      "series-title": "Delay Differential Equations and Applications To Biology",
+      "author": "Rihan",
+      "year": "2021"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.matcom.2024.04.013_b49",
+      "doi-asserted-by": "crossref",
+      "first-page": "777",
+      "DOI": "10.1007/s11071-015-1905-8",
+      "article-title": "Fractional-order delayed predator\u2013prey systems with Holling type-II functional response",
+      "volume": "80",
+      "author": "Rihan",
+      "year": "2015",
+      "journal-title": "Nonlinear Dynam."
+    },
+    {
+      "key": "10.1016/j.matcom.2024.04.013_b50",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.chaos.2020.110365",
+      "article-title": "Dynamics of fractional-order delay differential model of prey-predator system with holling-type III and infection among predators",
+      "volume": "141",
+      "author": "Rihan",
+      "year": "2020",
+      "journal-title": "Chaos Solitons Fractals"
+    },
+    {
+      "key": "10.1016/j.matcom.2024.04.013_b51",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.chaos.2023.113670",
+      "article-title": "Fractional order delay differential model of a tumor-immune system with vaccine efficacy: Stability, bifurcation and control",
+      "volume": "173",
+      "author": "Rihan",
+      "year": "2023",
+      "journal-title": "Chaos Solitons Fractals"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.matcom.2024.04.013_b52",
+      "doi-asserted-by": "crossref",
+      "first-page": "397",
+      "DOI": "10.1016/0375-9601(76)90101-8",
+      "article-title": "An equation for continuous chaos",
+      "volume": "57",
+      "author": "R\u00f6ssler",
+      "year": "1976",
+      "journal-title": "Phys. Lett. A"
+    },
+    {
+      "key": "10.1016/j.matcom.2024.04.013_b53",
+      "doi-asserted-by": "crossref",
+      "first-page": "348",
+      "DOI": "10.1016/j.matcom.2021.12.009",
+      "article-title": "Chaos, hopf bifurcation and control of a fractional-order delay financial system",
+      "volume": "194",
+      "author": "Shi",
+      "year": "2022",
+      "journal-title": "Math. Comput. Simulation"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.matcom.2024.04.013_b54",
+      "first-page": "1",
+      "article-title": "On the reasonability of linearized approximation and hopf bifurcation control for a fractional-order delay Bhalekar\u2013Gejji chaotic system",
+      "volume": "2020",
+      "author": "Shi",
+      "year": "2020",
+      "journal-title": "Adv. Differential Equations"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.matcom.2024.04.013_b55",
+      "first-page": "1",
+      "article-title": "Dynamical analysis and adaptive fuzzy control for the fractional-order financial risk chaotic system",
+      "volume": "2020",
+      "author": "Sukuno",
+      "year": "2020",
+      "journal-title": "Adv. Differential Equations"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.matcom.2024.04.013_b56",
+      "doi-asserted-by": "crossref",
+      "first-page": "311",
+      "DOI": "10.1038/s42005-023-01429-0",
+      "article-title": "Data-driven detection of critical points of phase transitions in complex systems",
+      "volume": "6",
+      "author": "Tao",
+      "year": "2023",
+      "journal-title": "Commun. Phys."
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.matcom.2024.04.013_b57",
+      "doi-asserted-by": "crossref",
+      "first-page": "509",
+      "DOI": "10.3390/math7060509",
+      "article-title": "On history of mathematical economics: Application of fractional calculus",
+      "volume": "7",
+      "author": "Tarasov",
+      "year": "2019",
+      "journal-title": "Mathematics"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.matcom.2024.04.013_b58",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.18576/pfda/030101",
+      "article-title": "Economic interpretation of fractional derivatives",
+      "volume": "2017",
+      "author": "Tarasova",
+      "year": "2017",
+      "journal-title": "Prog. Fract. Differ. Appl."
+    },
+    {
+      "issue": "08",
+      "key": "10.1016/j.matcom.2024.04.013_b59",
+      "doi-asserted-by": "crossref",
+      "first-page": "1917",
+      "DOI": "10.1142/S0218127400001183",
+      "article-title": "Bifurcation analysis of Chen\u2019s equation",
+      "volume": "10",
+      "author": "Ueta",
+      "year": "2000",
+      "journal-title": "Int. J. Bifurcation Chaos"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.matcom.2024.04.013_b60",
+      "doi-asserted-by": "crossref",
+      "first-page": "1531",
+      "DOI": "10.1016/j.camwa.2011.04.057",
+      "article-title": "Analysis of nonlinear dynamics and chaos in a fractional order financial system with time delay",
+      "volume": "62",
+      "author": "Wang",
+      "year": "2011",
+      "journal-title": "Comput. Math. Appl."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.matcom.2024.04.013_b61",
+      "doi-asserted-by": "crossref",
+      "first-page": "285",
+      "DOI": "10.1016/0167-2789(85)90011-9",
+      "article-title": "Determining Lyapunov exponents from a time series",
+      "volume": "16",
+      "author": "Wolf",
+      "year": "1985",
+      "journal-title": "Phys. D"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.matcom.2024.04.013_b62",
+      "doi-asserted-by": "crossref",
+      "first-page": "6125",
+      "DOI": "10.1007/s11063-022-11130-y",
+      "article-title": "Bifurcation mechanism for fractional-order three-triangle multi-delayed neural networks",
+      "volume": "55",
+      "author": "Xu",
+      "year": "2023",
+      "journal-title": "Neural Process. Lett."
+    },
+    {
+      "key": "10.1016/j.matcom.2024.04.013_b63",
+      "first-page": "1",
+      "article-title": "Mathematical exploration on control of bifurcation for a plankton\u2013oxygen dynamical model owning delay",
+      "author": "Xu",
+      "year": "2023",
+      "journal-title": "J. Math. Chem."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.matcom.2024.04.013_b64",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1088/1674-1056/22/3/030509",
+      "article-title": "Chaotic dynamic behavior analysis and control for a financial risk system",
+      "volume": "22",
+      "author": "Zhang",
+      "year": "2013",
+      "journal-title": "Chin. Phys. B"
+    },
+    {
+      "issue": "2019",
+      "key": "10.1016/j.matcom.2024.04.013_b65",
+      "first-page": "1",
+      "article-title": "Hopf bifurcation and chaos of a delayed finance system",
+      "author": "Zhang",
+      "year": "2019",
+      "journal-title": "Complexity"
+    }
+  ],
+  "container-title": [
+    "Mathematics and Computers in Simulation"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0378475424001393?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0378475424001393?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        15
+      ]
+    ],
+    "date-time": "2025-03-15T10:39:57Z",
+    "timestamp": 1742035197000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0378475424001393"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9
+      ]
+    ]
+  },
+  "references-count": 65,
+  "alternative-id": [
+    "S0378475424001393"
+  ],
+  "URL": "https://doi.org/10.1016/j.matcom.2024.04.013",
+  "relation": {},
+  "ISSN": [
+    "0378-4754"
+  ],
+  "issn-type": [
+    {
+      "value": "0378-4754",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        9
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Bifurcation and chaos analysis of a fractional-order delay financial risk system using dynamic system approach and persistent homology",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Mathematics and Computers in Simulation",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.matcom.2024.04.013",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "\u00a9 2024 International Association for Mathematics and Computers in Simulation (IMACS). Published by Elsevier B.V. All rights reserved.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ]
+}

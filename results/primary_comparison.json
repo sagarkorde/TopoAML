@@ -1,0 +1,12 @@
+{
+  "delta": 0.0003154587696341804,
+  "ci95": [
+    -0.004063312639881259,
+    0.007246605387822358
+  ],
+  "blocks": 10,
+  "replicates": 2000,
+  "scope": "conditional on fitted models; temporal blocks do not eliminate all graph dependence",
+  "seeds": 5,
+  "estimator": "AP difference of equal-weight seed ensembles"
+}

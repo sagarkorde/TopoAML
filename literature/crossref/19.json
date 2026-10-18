@@ -1,0 +1,525 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        19
+      ]
+    ],
+    "date-time": "2026-08-19T19:04:28Z",
+    "timestamp": 1787166268503,
+    "version": "build-2736575974"
+  },
+  "reference-count": 34,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "17",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            12
+          ]
+        ],
+        "date-time": "2024-08-12T00:00:00Z",
+        "timestamp": 1723420800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            12
+          ]
+        ],
+        "date-time": "2024-08-12T00:00:00Z",
+        "timestamp": 1723420800000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "funder": [
+    {
+      "name": "Universit\u00e0 degli Studi di Roma La Sapienza"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "J Supercomput"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        11
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Persistent homology (PH) is a powerful mathematical method to automatically extract relevant insights from images, such as those obtained by high-resolution imaging devices like electron microscopes or new-generation telescopes. However, the application of this method comes at a very high computational cost that is bound to explode more because new imaging devices generate an ever-growing amount of data. In this paper, we present\n                    <jats:italic>PixHomology</jats:italic>\n                    , a novel algorithm for efficiently computing zero-dimensional PH on  images, optimizing memory and processing time. By leveraging the Apache Spark framework, we also present a distributed version of our algorithm with several optimized variants, able to concurrently process large batches of astronomical images. Finally, we present the results of an experimental analysis showing that our algorithm and its distributed version are efficient in terms of required memory, execution time, and scalability, consistently outperforming existing state-of-the-art PH computation tools when used to process large datasets.\n                  </jats:p>",
+  "DOI": "10.1007/s11227-024-06374-5",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        12
+      ]
+    ],
+    "date-time": "2024-08-12T02:02:11Z",
+    "timestamp": 1723428131000
+  },
+  "page": "25510-25532",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 3,
+  "title": [
+    "A distributed approach for persistent homology computation on a large scale"
+  ],
+  "prefix": "10.1007",
+  "volume": "80",
+  "author": [
+    {
+      "given": "Riccardo",
+      "family": "Ceccaroni",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Lorenzo",
+      "family": "Di Rocco",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Umberto",
+      "family": "Ferraro Petrillo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Pierpaolo",
+      "family": "Brutti",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        12
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "issue": "3",
+      "key": "6374_CR1",
+      "doi-asserted-by": "publisher",
+      "first-page": "169",
+      "DOI": "10.1007/s00418-023-02191-8",
+      "volume": "160",
+      "author": "D Poger",
+      "year": "2023",
+      "unstructured": "Poger D, Yen L, Braet F (2023) Big data in contemporary electron microscopy: challenges and opportunities in data transfer, compute and management. Histochem Cell Biol 160(3):169\u2013192",
+      "journal-title": "Histochem Cell Biol"
+    },
+    {
+      "key": "6374_CR2",
+      "unstructured": "Large synoptic survey telescope (2023)"
+    },
+    {
+      "key": "6374_CR3",
+      "volume-title": "Astronomical image and data analysis. Astronomy and astrophysics library",
+      "author": "J Starck",
+      "year": "2007",
+      "unstructured": "Starck J, Murtagh F (2007) Astronomical image and data analysis. Astronomy and astrophysics library. Springer, Berlin"
+    },
+    {
+      "key": "6374_CR4",
+      "volume-title": "Computational topology: an introduction",
+      "author": "H Edelsbrunner",
+      "year": "2010",
+      "unstructured": "Edelsbrunner H, Harer J (2010) Computational topology: an introduction. American Mathematical Society, New York"
+    },
+    {
+      "key": "6374_CR5",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Edelsbrunner H, Letscher D, Zomorodian A (2003) Topological persistence and simplification. Discrete & Computational Geometry, 01",
+      "DOI": "10.1007/s00454-002-2885-2"
+    },
+    {
+      "key": "6374_CR6",
+      "doi-asserted-by": "publisher",
+      "first-page": "255",
+      "DOI": "10.1090/S0273-0979-09-01249-X",
+      "volume": "46",
+      "author": "G Carlsson",
+      "year": "2009",
+      "unstructured": "Carlsson G (2009) Topology and data. Bull Am Math Soc 46:255\u2013308",
+      "journal-title": "Bull Am Math Soc"
+    },
+    {
+      "key": "6374_CR7",
+      "first-page": "06",
+      "volume": "6",
+      "author": "N Otter",
+      "year": "2015",
+      "unstructured": "Otter N, Porter M, Tillmann U, Grindrod P, Harrington H (2015) A roadmap for the computation of persistent homology. EPJ Data Sci 6:06",
+      "journal-title": "EPJ Data Sci"
+    },
+    {
+      "key": "6374_CR8",
+      "volume-title": "Computational homology. Applied mathematical sciences",
+      "author": "T Kaczynski",
+      "year": "2004",
+      "unstructured": "Kaczynski T, Mischaikow K, Mrozek M (2004) Computational homology. Applied mathematical sciences. Springer, New York"
+    },
+    {
+      "key": "6374_CR9",
+      "volume-title": "Geometric and topological inference",
+      "author": "J-D Boissonnat",
+      "year": "2017",
+      "unstructured": "Boissonnat J-D, Chazal F, Yvinec M (2017) Geometric and topological inference. Cambridge University Press, Cambridge (10)"
+    },
+    {
+      "key": "6374_CR10",
+      "volume-title": "Elements of algebraic topology",
+      "author": "J Munkres",
+      "year": "1984",
+      "unstructured": "Munkres J (1984) Elements of algebraic topology, 1st edn. Westview Press, Nashville",
+      "edition": "1"
+    },
+    {
+      "key": "6374_CR11",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Cohen-Steiner D, Edelsbrunner H, Harer J (2007) Stability of persistence diagrams. Discrete and Computational Geometry",
+      "DOI": "10.1007/s00454-006-1276-5"
+    },
+    {
+      "key": "#cr-split#-6374_CR12.1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Adams H, Tausz A, Vejdemo-Johansson M (2014) Javaplex: a research software package for persistent",
+      "DOI": "10.1007/978-3-662-44199-2_23"
+    },
+    {
+      "key": "#cr-split#-6374_CR12.2",
+      "unstructured": "(co) homology. In: Mathematical Software-ICMS 2014: 4th International Congress, Seoul, South Korea, August 5-9, 2014. Proceedings 4. Springer, pp 129-136"
+    },
+    {
+      "key": "6374_CR13",
+      "unstructured": "DM. et\u00a0al. (2012) Dionysus: a software library for topological data analysis"
+    },
+    {
+      "issue": "12",
+      "key": "6374_CR14",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1088/0266-5611/27/12/124003",
+      "volume": "27",
+      "author": "V De Silva",
+      "year": "2011",
+      "unstructured": "De Silva V, Morozov D, Vejdemo-Johansson M (2011) Dualities in persistent (co) homology. Inverse Probl 27(12):124003",
+      "journal-title": "Inverse Probl"
+    },
+    {
+      "key": "6374_CR15",
+      "doi-asserted-by": "crossref",
+      "unstructured": "De\u00a0Silva V, Vejdemo-Johansson M (2009) Persistent cohomology and circular coordinates. In: Proceedings of the Twenty-Fifth Annual Symposium on Computational Geometry, pp 227\u2013236",
+      "DOI": "10.1145/1542362.1542406"
+    },
+    {
+      "key": "6374_CR16",
+      "doi-asserted-by": "publisher",
+      "first-page": "76",
+      "DOI": "10.1016/j.jsc.2016.03.008",
+      "volume": "78",
+      "author": "U Bauer",
+      "year": "2017",
+      "unstructured": "Bauer U, Kerber M, Reininghaus J, Wagner H (2017) Phat\u2014persistent homology algorithms toolbox. J Symb Comput 78:76\u201390 (01)",
+      "journal-title": "J Symb Comput"
+    },
+    {
+      "key": "6374_CR17",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Maria C, Boissonnat J-D, Glisse M, Yvinec M (2014) The gudhi library: simplicial complexes and persistent homology. In: Mathematical software\u2013ICMS 2014: 4th international congress, Seoul, South Korea, August 5\u20139, 2014. Proceedings 4. Springer, pp 167\u2013174",
+      "DOI": "10.1007/978-3-662-44199-2_28"
+    },
+    {
+      "issue": "3",
+      "key": "6374_CR18",
+      "doi-asserted-by": "publisher",
+      "first-page": "391",
+      "DOI": "10.1007/s41468-021-00071-5",
+      "volume": "5",
+      "author": "U Bauer",
+      "year": "2021",
+      "unstructured": "Bauer U (2021) Ripser: efficient computation of Vietoris\u2013Rips persistence barcodes. J Appl Comput Topol 5(3):391\u2013423",
+      "journal-title": "J Appl Comput Topol"
+    },
+    {
+      "key": "6374_CR19",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Wagner H, Chen C, Vu\u00e7ini E (2012) Efficient computation of persistent homology for cubical data. Springer Berlin, pp 91\u2013106",
+      "DOI": "10.1007/978-3-642-23175-9_7"
+    },
+    {
+      "key": "6374_CR20",
+      "first-page": "12692",
+      "volume": "2005",
+      "author": "S Kaji",
+      "year": "2020",
+      "unstructured": "Kaji S, Sudo T, Ahara K (2020) Cubical ripser: Software for computing persistent homology of image and volume data. arXiv preprint arXiv:2005.12692",
+      "journal-title": "arXiv preprint arXiv"
+    },
+    {
+      "key": "6374_CR21",
+      "unstructured": "Wagner H (2023) Slice, simplify and stitch: Topology-preserving simplification scheme for massive voxel data. In: 39th International Symposium on Computational Geometry (SoCG 2023). Schloss Dagstuhl-Leibniz-Zentrum f\u00fcr Informatik"
+    },
+    {
+      "issue": "10\u201310",
+      "key": "6374_CR22",
+      "first-page": "95",
+      "volume": "10",
+      "author": "M Zaharia",
+      "year": "2010",
+      "unstructured": "Zaharia M, Chowdhury M, Franklin MJ, Shenker S, Stoica I et al (2010) Spark: cluster computing with working sets. HotCloud 10(10\u201310):95",
+      "journal-title": "HotCloud"
+    },
+    {
+      "key": "6374_CR23",
+      "first-page": "107",
+      "volume": "51.1",
+      "author": "D Jeffrey",
+      "year": "2008",
+      "unstructured": "Jeffrey D, Ghemawat S (2008) \"MapReduce: simplified data processing on large clusters.\" Commun ACM 51.1:107\u2013113",
+      "journal-title": "Commun ACM"
+    },
+    {
+      "key": "6374_CR24",
+      "unstructured": "Zaharia M, Chowdhury M, Das T, Dave A, Ma J, McCauley M, Franklin M, Shenker S, Stoica I (2012) Resilient distributed datasets: a fault-tolerant abstraction for in-memory cluster computing. In: Proceedings of the 9th USENIX Conference on Networked Systems Design and Implementation, pp 2\u20132, 04"
+    },
+    {
+      "key": "6374_CR25",
+      "unstructured": "Apache Software Foundation. Apache spark documentation. https://spark.apache.org/docs/latest/. Accessed 2 April 2024 (2024)"
+    },
+    {
+      "issue": "2",
+      "key": "6374_CR26",
+      "doi-asserted-by": "publisher",
+      "first-page": "416",
+      "DOI": "10.1137/0117039",
+      "volume": "17",
+      "author": "RL Graham",
+      "year": "1969",
+      "unstructured": "Graham RL (1969) Bounds on multiprocessing timing anomalies. SIAM J Appl Math 17(2):416\u2013429",
+      "journal-title": "SIAM J Appl Math"
+    },
+    {
+      "key": "6374_CR27",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Amorosi L, Rocco LD, Petrillo UF (2022) Scheduling k-mers counting in a distributed environment. In: Amorosi L, Dell\u2019Olmo P, Lari I (eds) Optimization in artificial intelligence and data sciences. Springer, Cham, pp 73\u201383",
+      "DOI": "10.1007/978-3-030-95380-5_7"
+    },
+    {
+      "key": "6374_CR28",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Bompiani E, Petrillo U, Lasinio GJ, Palini F (2020) High-performance computing with terastat. In: 2020 IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf on Pervasive Intelligence and Computing (DASC/PiCom/CBDCom/CyberSciTech). Los Alamitos, CA, USA, Aug 2020. IEEE Computer Society, pp 499\u2013506",
+      "DOI": "10.1109/DASC-PICom-CBDCom-CyberSciTech49142.2020.00092"
+    },
+    {
+      "issue": "2",
+      "key": "6374_CR29",
+      "doi-asserted-by": "publisher",
+      "first-page": "167",
+      "DOI": "10.3847/1538-4357/ac7c74",
+      "volume": "935",
+      "author": "AM Price-Whelan",
+      "year": "2022",
+      "unstructured": "Price-Whelan AM et al (2022) The astropy project: sustaining and growing a community-oriented open-source project and the latest major release (v5.0) of the core package. Astrophys J 935(2):167",
+      "journal-title": "Astrophys J"
+    },
+    {
+      "key": "6374_CR30",
+      "unstructured": "Craig M (2023) A guide to CCD data reduction and stellar photometry using astropy and affiliated packages. github.io"
+    },
+    {
+      "key": "6374_CR31",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1007/s00453-001-0016-8",
+      "volume": "31",
+      "author": "A Efrat",
+      "year": "2001",
+      "unstructured": "Efrat A, Itai A, Katz M (2001) Geometry helps in bottleneck matching and related problems. Algorithmica 31:1\u201328",
+      "journal-title": "Algorithmica"
+    },
+    {
+      "key": "6374_CR32",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Qaiser T, Sirinukunwattana K, Nakane K, Tsang Y-W, Epstein D, Rajpoot N (2016) Persistent homology for fast tumor segmentation in whole slide histology images. Procedia Computer Science, 90:119\u2013124, 2016. 20th Conference on Medical Image Understanding and Analysis (MIUA 2016)",
+      "DOI": "10.1016/j.procs.2016.07.033"
+    },
+    {
+      "key": "6374_CR33",
+      "unstructured": "Ceccaroni R, Brutti P, Castellano M, Fontana A, Merlin E (2022) Topological persistence for astronomical image segmentation. In: The 51st Scientific Meeting of the Italian Statistical Society, pp 1993\u20131998"
+    }
+  ],
+  "container-title": [
+    "The Journal of Supercomputing"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s11227-024-06374-5.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1007/s11227-024-06374-5/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s11227-024-06374-5.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        5
+      ]
+    ],
+    "date-time": "2024-09-05T11:36:16Z",
+    "timestamp": 1725536176000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/s11227-024-06374-5"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        12
+      ]
+    ]
+  },
+  "references-count": 34,
+  "journal-issue": {
+    "issue": "17",
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          11
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "6374"
+  ],
+  "URL": "https://doi.org/10.1007/s11227-024-06374-5",
+  "relation": {},
+  "ISSN": [
+    "0920-8542",
+    "1573-0484"
+  ],
+  "issn-type": [
+    {
+      "value": "0920-8542",
+      "type": "print"
+    },
+    {
+      "value": "1573-0484",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        12
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "17 July 2024",
+      "order": 1,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "12 August 2024",
+      "order": 2,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    }
+  ]
+}

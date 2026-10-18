@@ -1,7 +1,10 @@
 __pycache__/
+*.egg-info/
+node_modules/
 *.pyc
 .pytest_cache/
 .venv/
+.venv-smoke/
 data/raw/
 data/processed/
 *.pt
@@ -10,4 +13,8 @@ data/processed/
 docs/*_readme.txt
 docs/elliptic2_preprocess.txt
 results/logs/
+results/github_repository.png
 manuscript/rendered/
+docs/*_browser.txt
+literature/novelty_preview.png
+literature/*.inspect.ndjson

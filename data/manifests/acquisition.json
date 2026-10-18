@@ -1,0 +1,28 @@
+{
+  "source": "https://github.com/git-disl/EllipticPlusPlus",
+  "commit": "08fe6aded83afb97bf5a79a71130f542ca783c2e",
+  "license": "No explicit dataset license verified; do not redistribute raw data",
+  "files": [
+    {
+      "name": "txs_classes.csv",
+      "sha256": "013a11742969071a906878ded0319571df0657f9b7133e5c6cdb36217bf0d240",
+      "bytes": 2361914,
+      "url": "https://media.githubusercontent.com/media/git-disl/EllipticPlusPlus/08fe6aded83afb97bf5a79a71130f542ca783c2e/Transactions%20Dataset/txs_classes.csv",
+      "download_date": "2026-10-17T23:52:30.215928+00:00"
+    },
+    {
+      "name": "txs_edgelist.csv",
+      "sha256": "a35053ba68a98e4382cae2ba65b9d9e36b23b6439e02dff084971b1b72a5156e",
+      "bytes": 4470584,
+      "url": "https://media.githubusercontent.com/media/git-disl/EllipticPlusPlus/08fe6aded83afb97bf5a79a71130f542ca783c2e/Transactions%20Dataset/txs_edgelist.csv",
+      "download_date": "2026-10-17T23:52:31.644743+00:00"
+    },
+    {
+      "name": "txs_features.csv",
+      "sha256": "2db326ec8ddb68f1d810c1834e1ff62e0a8300378f0984a1e3b2ca82a439821b",
+      "bytes": 694789588,
+      "url": "https://media.githubusercontent.com/media/git-disl/EllipticPlusPlus/08fe6aded83afb97bf5a79a71130f542ca783c2e/Transactions%20Dataset/txs_features.csv",
+      "download_date": "2026-10-17T23:53:27.082509+00:00"
+    }
+  ]
+}

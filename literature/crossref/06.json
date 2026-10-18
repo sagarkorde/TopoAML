@@ -1,0 +1,602 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        26
+      ]
+    ],
+    "date-time": "2026-09-26T15:58:20Z",
+    "timestamp": 1790438300539,
+    "version": "4.1.0"
+  },
+  "reference-count": 43,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            1,
+            13
+          ]
+        ],
+        "date-time": "2026-01-13T00:00:00Z",
+        "timestamp": 1768262400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            1,
+            13
+          ]
+        ],
+        "date-time": "2026-01-13T00:00:00Z",
+        "timestamp": 1768262400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Sci Rep"
+  ],
+  "DOI": "10.1038/s41598-025-23901-3",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        13
+      ]
+    ],
+    "date-time": "2026-01-13T10:27:32Z",
+    "timestamp": 1768300052000
+  },
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 12,
+  "title": [
+    "Detecting illicit transactions in bitcoin: a wavelet-temporal graph transformer approach for anti-money laundering"
+  ],
+  "prefix": "10.1038",
+  "volume": "16",
+  "author": [
+    {
+      "given": "Ziqian",
+      "family": "Lin",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Qining",
+      "family": "Luo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Dongze",
+      "family": "Wu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jie",
+      "family": "Shen",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Lingying",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Xunyi",
+      "family": "Nong",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Zhenkai",
+      "family": "Qin",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        13
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "23901_CR1",
+      "unstructured": "Weber, M., Sirer, E.\u00a0G. & Brun, Y. Anti-money laundering on bitcoin: Experimenting with graph convolutional networks for financial forensics. arXiv preprint arXiv:1908.02591 (2019)."
+    },
+    {
+      "key": "23901_CR2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TKDE.2023.3245120",
+      "author": "J Wang",
+      "year": "2023",
+      "unstructured": "Wang, J., Zhang, L., Zhao, Z. & Liu, Y. Temporalaml: Temporal graph contrastive learning for anti-money laundering on blockchain. IEEE Trans. Knowl. Data Eng. https://doi.org/10.1109/TKDE.2023.3245120 (2023).",
+      "journal-title": "IEEE Trans. Knowl. Data Eng."
+    },
+    {
+      "key": "23901_CR3",
+      "unstructured": "Li, K., Wang, S. & Chen, X. Graph-based anti-money laundering in cryptocurrency: A survey. In Proceedings of the 31st International Joint Conference on Artificial Intelligence (IJCAI), 5190\u20135197 (2022)."
+    },
+    {
+      "key": "23901_CR4",
+      "doi-asserted-by": "publisher",
+      "first-page": "4",
+      "DOI": "10.1109/TNNLS.2020.2978386",
+      "volume": "32",
+      "author": "Z Wu",
+      "year": "2021",
+      "unstructured": "Wu, Z. et al. A comprehensive survey on graph neural networks. IEEE Trans. Neural Netw. Learning Syst. 32, 4\u201324 (2021).",
+      "journal-title": "IEEE Trans. Neural Netw. Learning Syst."
+    },
+    {
+      "key": "23901_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "57",
+      "DOI": "10.1016/j.aiopen.2021.01.001",
+      "volume": "1",
+      "author": "J Zhou",
+      "year": "2020",
+      "unstructured": "Zhou, J. et al. Graph neural networks: A review of methods and applications. AI Open 1, 57\u201381 (2020).",
+      "journal-title": "AI Open"
+    },
+    {
+      "key": "23901_CR6",
+      "unstructured": "Veli\u010dkovi\u0107, P. et al. Graph attention networks. In ICLR (2018)."
+    },
+    {
+      "key": "23901_CR7",
+      "unstructured": "Xu, D., Ruan, C., Korula, N. & Jegelka, S. Inductive representation learning on temporal graphs. In NeurIPS (2020)."
+    },
+    {
+      "key": "23901_CR8",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1145/3611559",
+      "volume": "17",
+      "author": "R Zhou",
+      "year": "2023",
+      "unstructured": "Zhou, R., Liu, W. & Zhang, H. Dynwave-gnn: Dynamic wavelet graph neural networks for fraud detection in time-evolving transactions. ACM Trans. Knowl. Discov. Data (TKDD) 17, 1\u201327. https://doi.org/10.1145/3611559 (2023).",
+      "journal-title": "ACM Trans. Knowl. Discov. Data (TKDD)"
+    },
+    {
+      "key": "23901_CR9",
+      "unstructured": "Nguyen, Q. et al. Time2vec: Learning a vector representation of time. ICLR Workshop (2022)."
+    },
+    {
+      "key": "23901_CR10",
+      "unstructured": "Jin, L., Xu, J. & Wang, R. A hybrid temporal-frequency perspective on blockchain fraud detection. In NeurIPS Workshop on Graph Representation Learning (2023)."
+    },
+    {
+      "key": "23901_CR11",
+      "first-page": "117",
+      "volume": "273",
+      "author": "F Murtagh",
+      "year": "1995",
+      "unstructured": "Murtagh, F. & Starck, J.-L. Wavelet signal processing: Wishful thinking?. Astrophys. Space Sci. 273, 117\u2013122 (1995).",
+      "journal-title": "Astrophys. Space Sci."
+    },
+    {
+      "key": "23901_CR12",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TNNLS.2024.3357902",
+      "author": "C Wu",
+      "year": "2024",
+      "unstructured": "Wu, C., Han, X. & Qian, Y. Spectral temporal encoding for nonstationary graph streams. IEEE Trans. Neural Netw. Learning Syst. https://doi.org/10.1109/TNNLS.2024.3357902 (2024).",
+      "journal-title": "IEEE Trans. Neural Netw. Learning Syst."
+    },
+    {
+      "key": "23901_CR13",
+      "doi-asserted-by": "publisher",
+      "first-page": "367",
+      "DOI": "10.1109/TKDE.2021.3077871",
+      "volume": "35",
+      "author": "S Wu",
+      "year": "2021",
+      "unstructured": "Wu, S. et al. A comprehensive survey on graph-based fraud detection: Methods, challenges, and prospects. IEEE Trans. Knowl. Data Eng. 35, 367\u2013389. https://doi.org/10.1109/TKDE.2021.3077871 (2021).",
+      "journal-title": "IEEE Trans. Knowl. Data Eng."
+    },
+    {
+      "key": "23901_CR14",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1145/3510428",
+      "volume": "55",
+      "author": "C Xu",
+      "year": "2022",
+      "unstructured": "Xu, C., Pan, S., Zhu, X., He, X. & Zhou, J.-Y. A survey on temporal graph neural networks. ACM Comput. Surveys 55, 1\u201337. https://doi.org/10.1145/3510428 (2022).",
+      "journal-title": "ACM Comput. Surveys"
+    },
+    {
+      "key": "23901_CR15",
+      "unstructured": "Kipf, T.\u00a0N. & Welling, M. Semi-Supervised Classification with Graph Convolutional Networks. In ICLR (2017)."
+    },
+    {
+      "key": "23901_CR16",
+      "unstructured": "Defferrard, M., Bresson, X. & Vandergheynst, P. Convolutional neural networks on graphs with fast localized spectral filtering. In Advances in Neural Information Processing Systems (NeurIPS), vol.\u00a029 (2016)."
+    },
+    {
+      "key": "23901_CR17",
+      "unstructured": "Cardoso, A., Meikle, E. & Dwyer, G. Laundrograph: Improving anti-money laundering in crypto-currency networks. Trans. Data Sci. (2022)."
+    },
+    {
+      "key": "23901_CR18",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Xu, M. et al. Graph neural networks with lifting-based adaptive graph wavelets. In ICLR (2022).",
+      "DOI": "10.1109/TSIPN.2022.3140477"
+    },
+    {
+      "key": "23901_CR19",
+      "unstructured": "Li, T. et al. Wavelet-enhanced graph neural networks for nonstationary signal learning. In ICASSP (2023)."
+    },
+    {
+      "key": "23901_CR20",
+      "unstructured": "DiGennaro, M., Rossi, F. & Smith, J. Amatriciana: A temporal graph transformer for blockchain anomaly detection. arXiv preprint arXiv:2501.01234 (2025)."
+    },
+    {
+      "key": "23901_CR21",
+      "unstructured": "Harper, L., Zhao, W. & Lee, K. Stgnn: Spatial-temporal graph neural networks for dynamic transaction forecasting. IEEE TKDE (2025)."
+    },
+    {
+      "key": "23901_CR22",
+      "unstructured": "Zhang, K., Zhou, Y., Cui, P. & Yang, F. Hierarchical diffusion scattering graph neural network. In Proceedings of the 31st International Joint Conference on Artificial Intelligence (IJCAI), 3794\u20133800 (2022)."
+    },
+    {
+      "key": "23901_CR23",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Guo, Y., Wu, M., Zhao, T. & Wang, Y. Tfnet: Joint temporal-frequency attention network for irregular graph streams. In Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI), 2079\u20132085, https://doi.org/10.24963/ijcai.2023/230 (2023).",
+      "DOI": "10.24963/ijcai.2023/230"
+    },
+    {
+      "key": "23901_CR24",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Wang, J. & Deng, Z. A deep graph wavelet convolutional neural network for semi-supervised node classification. arXiv preprint arXiv:2102.09780 (2021).",
+      "DOI": "10.1109/IJCNN52387.2021.9533634"
+    },
+    {
+      "key": "23901_CR25",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Qin, Z. & Wei, B. Sfdformer: A frequency-based sparse decomposition transformer for air pollution time series prediction. Front. Environ. Sci. (2024).",
+      "DOI": "10.3389/fenvs.2025.1549209"
+    },
+    {
+      "key": "23901_CR26",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Song, K., Dhraief, M.\u00a0A. & et al. Identifying money laundering subgraphs on the blockchain. arXiv preprint arXiv:2410.08394 (2024).",
+      "DOI": "10.1145/3677052.3698635"
+    },
+    {
+      "key": "23901_CR27",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Anonymous. Global-local graph attention with cyclic pseudo-labels for bitcoin anti-money laundering. Sci. Rep. https://doi.org/10.1038/s41598-025-08365-9 (2025).",
+      "DOI": "10.1038/s41598-025-08365-9"
+    },
+    {
+      "key": "23901_CR28",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Qin, Z. & Luo, Q. Mas-lstm: A multi-agent lstm-based approach for scalable anomaly detection in iiot networks. Processes (2024).",
+      "DOI": "10.3390/pr13030753"
+    },
+    {
+      "key": "23901_CR29",
+      "unstructured": "McInnes, L., Healy, J. & Melville, J. Umap for graph representation learning. arXiv preprint arXiv:2006.16716 (2020)."
+    },
+    {
+      "key": "23901_CR30",
+      "unstructured": "Wang, Y., Li, Y. & Leskovec, J. Ablation studies in graph neural networks: A survey. arXiv preprint arXiv:2007.05156 (2020)."
+    },
+    {
+      "key": "23901_CR31",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Kou, Q., Zhang, X. & Tang, J. Graphmeta-aml: Meta-learning for few-shot anti-money laundering detection. In Proceedings of the Web Conference (WWW), 2001\u20132012, https://doi.org/10.1145/3543507.3583242 (2023).",
+      "DOI": "10.1145/3543507.3583242"
+    },
+    {
+      "key": "23901_CR32",
+      "unstructured": "Zhang, e.\u00a0a. Fraudgt: A simple, effective, and efficient graph transformer for financial fraud detection. In ICAIF \u201924 (2024)."
+    },
+    {
+      "key": "23901_CR33",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Qin, Z. & Luo, Q. Detecting sarcasm in user-generated content integrating transformers and gated graph neural networks. PeerJ (2024).",
+      "DOI": "10.21203/rs.3.rs-5270483/v1"
+    },
+    {
+      "key": "23901_CR34",
+      "unstructured": "Yang, C., Liu, X., Yin, H., Zhang, S. & Yang, J. Frequency-aware graph neural networks for recommendation. In Proceedings of the Web Conference (WWW), 2149\u20132158 (2021)."
+    },
+    {
+      "key": "23901_CR35",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Liu, R., Yin, R., Liu, Y. & Wang, W. Aswt-sgnn: Adaptive spectral wavelet transform-based self-supervised graph neural network. arXiv preprint arXiv:2312.05736 (2023).",
+      "DOI": "10.1609/aaai.v38i12.29307"
+    },
+    {
+      "key": "23901_CR36",
+      "doi-asserted-by": "publisher",
+      "first-page": "3429",
+      "DOI": "10.1109/TNNLS.2021.3107462",
+      "volume": "33",
+      "author": "Y-H Chang",
+      "year": "2022",
+      "unstructured": "Chang, Y.-H., Chen, S.-Y., Wang, Y., Cheng, C.-Y. & Kao, H.-Y. Graph signal processing meets temporal graph learning: A frequency-aware perspective. IEEE Trans. Neural Netw. Learning Syst. 33, 3429\u20133443. https://doi.org/10.1109/TNNLS.2021.3107462 (2022).",
+      "journal-title": "IEEE Trans. Neural Netw. Learning Syst."
+    },
+    {
+      "key": "23901_CR37",
+      "doi-asserted-by": "publisher",
+      "first-page": "2756",
+      "DOI": "10.3390/electronics14142756",
+      "volume": "14",
+      "author": "T-T Nguyen",
+      "year": "2025",
+      "unstructured": "Nguyen, T.-T. & Park, M. El-gnn: A continual-learning-based graph neural network for task-incremental intrusion detection systems. Electronics 14, 2756 (2025).",
+      "journal-title": "Electronics"
+    },
+    {
+      "key": "23901_CR38",
+      "unstructured": "Smith, A., Chen, B. & Kumar, S. Federated graph neural networks for privacy-preserving anti-money laundering. arXiv preprint arXiv:2405.01234 (2024)."
+    },
+    {
+      "key": "23901_CR39",
+      "unstructured": "Lee, C., Zhao, Y. & Gupta, R. Cross-chain transaction graph neural networks for anti-money laundering. arXiv preprint arXiv:2408.07891 (2024)."
+    },
+    {
+      "key": "23901_CR40",
+      "doi-asserted-by": "publisher",
+      "first-page": "2108",
+      "DOI": "10.3390/rs17122108",
+      "volume": "17",
+      "author": "L Chen",
+      "year": "2025",
+      "unstructured": "Chen, L., Pan, Z., Liu, Q. & Hu, P. Hrrpgraphnet++: Dynamic graph neural network with meta-learning for few-shot hrrp radar target recognition. Remote Sensing 17, 2108 (2025).",
+      "journal-title": "Remote Sensing"
+    },
+    {
+      "key": "23901_CR41",
+      "doi-asserted-by": "publisher",
+      "first-page": "378",
+      "DOI": "10.3390/sym16030378",
+      "volume": "16",
+      "author": "F Wan",
+      "year": "2024",
+      "unstructured": "Wan, F. & Li, P. A novel money laundering prediction model based on a dynamic graph convolutional neural network and long short-term memory. Symmetry 16, 378 (2024).",
+      "journal-title": "Symmetry"
+    },
+    {
+      "key": "23901_CR42",
+      "doi-asserted-by": "publisher",
+      "first-page": "3180",
+      "DOI": "10.3390/electronics12143180",
+      "volume": "12",
+      "author": "J Liu",
+      "year": "2023",
+      "unstructured": "Liu, J. et al. Graph embedding-based money laundering detection for ethereum. Electronics 12, 3180 (2023).",
+      "journal-title": "Electronics"
+    },
+    {
+      "key": "23901_CR43",
+      "doi-asserted-by": "publisher",
+      "first-page": "211",
+      "DOI": "10.3390/e26030211",
+      "volume": "26",
+      "author": "S Ouyang",
+      "year": "2024",
+      "unstructured": "Ouyang, S., Bai, Q., Feng, H. & Hu, B. Bitcoin money laundering detection via subgraph contrastive learning. Entropy 26, 211 (2024).",
+      "journal-title": "Entropy"
+    }
+  ],
+  "container-title": [
+    "Scientific Reports"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.nature.com/articles/s41598-025-23901-3.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s41598-025-23901-3",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s41598-025-23901-3.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        13
+      ]
+    ],
+    "date-time": "2026-01-13T23:03:03Z",
+    "timestamp": 1768345383000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.nature.com/articles/s41598-025-23901-3"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        13
+      ]
+    ]
+  },
+  "references-count": 43,
+  "journal-issue": {
+    "issue": "1",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          12
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "23901"
+  ],
+  "URL": "https://doi.org/10.1038/s41598-025-23901-3",
+  "relation": {},
+  "ISSN": [
+    "2045-2322"
+  ],
+  "issn-type": [
+    {
+      "value": "2045-2322",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        13
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "23 July 2025",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "9 October 2025",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "13 January 2026",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Declarations"
+      }
+    },
+    {
+      "value": "The authors declare no competing interests.",
+      "order": 2,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Competing interests"
+      }
+    }
+  ],
+  "article-number": "1548"
+}

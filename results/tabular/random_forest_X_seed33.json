@@ -1,0 +1,50 @@
+{
+  "name": "random_forest_X_seed33",
+  "family": "random_forest",
+  "group": "X",
+  "seed": 33,
+  "threshold": 0.7539393153404214,
+  "fit_seconds": 0.8865303000002314,
+  "inference_seconds": 0.05012159999932919,
+  "features": [
+    "total_BTC",
+    "fees",
+    "size",
+    "num_input_addresses",
+    "num_output_addresses",
+    "in_BTC_min",
+    "in_BTC_max",
+    "in_BTC_mean",
+    "in_BTC_median",
+    "in_BTC_total",
+    "out_BTC_min",
+    "out_BTC_max",
+    "out_BTC_mean",
+    "out_BTC_median",
+    "out_BTC_total"
+  ],
+  "validation": {
+    "average_precision": 0.7395623245817483,
+    "roc_auc": 0.8522689929820653,
+    "precision": 0.8618233618233618,
+    "recall": 0.6335078534031413,
+    "f1": 0.7302353651176826,
+    "balanced_accuracy": 0.8103044586164643,
+    "recall_at_fpr_01": 0.6010471204188481,
+    "precision_at_100": 0.99,
+    "brier": 0.09483817759944116,
+    "ece_10": 0.14622598977127438
+  },
+  "test": {
+    "average_precision": 0.4292790821391076,
+    "roc_auc": 0.8374443693161897,
+    "precision": 0.7558139534883721,
+    "recall": 0.4088050314465409,
+    "f1": 0.5306122448979592,
+    "balanced_accuracy": 0.7004207182261146,
+    "recall_at_fpr_01": 0.43553459119496857,
+    "precision_at_100": 0.77,
+    "brier": 0.08418503379022929,
+    "ece_10": 0.14704796841977483
+  }
+}

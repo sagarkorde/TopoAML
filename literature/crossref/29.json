@@ -1,0 +1,905 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        3
+      ]
+    ],
+    "date-time": "2026-10-03T17:45:14Z",
+    "timestamp": 1791049514101,
+    "version": "4.1.0"
+  },
+  "reference-count": 59,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "9",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            1,
+            17
+          ]
+        ],
+        "date-time": "2025-01-17T00:00:00Z",
+        "timestamp": 1737072000000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            1,
+            17
+          ]
+        ],
+        "date-time": "2025-01-17T00:00:00Z",
+        "timestamp": 1737072000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/100009473",
+      "name": "Universidad de M\u00e1laga",
+      "doi-asserted-by": "crossref",
+      "id": [
+        {
+          "id": "10.13039/100009473",
+          "id-type": "DOI",
+          "asserted-by": "crossref"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Neural Comput &amp; Applic"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2025,
+        3
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Topological data analysis (TDA) is increasingly acknowledged within financial markets for its capacity to manage complexity and discern nuanced patterns and structures. It has been applied effectively to uncover intricate relationships and capture non-linear dependencies inherent in market data. This manuscript presents a groundbreaking study that delves into integrating features derived from TDA to improve the performance of forecasting models for univariate time series prediction. The research specifically examines whether incorporating features extracted from TDA-such as entropy, amplitude, and the number of points obtained from persistent diagrams can provide valuable supplementary information to the baseline forecasting model. Thus, the aim is to determine if these TDA-derived features can boost forecasting accuracy by offering additional insights that existing models might overlook. The  model serves as the baseline forecasting model due to its robust generalization capabilities and flexibility in incorporating additional features into the model. The proposed methodology is compared against a univariate  model without additional features and other strategies incorporating supplementary features such as temporal decomposition and time delay embeddings. The evaluation includes forecasting for six cryptocurrencies across four distinct time scenarios and four traditional financial instruments across two scenarios each, resulting in 32 datasets. The results obtained were promising, as the proposed method,\n                    <jats:inline-formula>\n                      <jats:alternatives>\n                        <jats:tex-math>$$\\texttt {N-BEATS}_\\mathrm {+TDA}$$</jats:tex-math>\n                        <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                          <mml:mrow>\n                            <mml:mi>N</mml:mi>\n                            <mml:mo>-</mml:mo>\n                            <mml:msub>\n                              <mml:mi>BEATS</mml:mi>\n                              <mml:mrow>\n                                <mml:mo>+</mml:mo>\n                                <mml:mi>TDA</mml:mi>\n                              </mml:mrow>\n                            </mml:msub>\n                          </mml:mrow>\n                        </mml:math>\n                      </jats:alternatives>\n                    </jats:inline-formula>\n                    , achieved the best results in mean performance and mean ranking for the three metrics considered (MAPE, MAE, and RMSE). Significant differences were observed with the rest of the proposed methods using a significance level of\n                    <jats:inline-formula>\n                      <jats:alternatives>\n                        <jats:tex-math>$$\\alpha = 0.10$$</jats:tex-math>\n                        <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                          <mml:mrow>\n                            <mml:mi>\u03b1</mml:mi>\n                            <mml:mo>=</mml:mo>\n                            <mml:mn>0.10</mml:mn>\n                          </mml:mrow>\n                        </mml:math>\n                      </jats:alternatives>\n                    </jats:inline-formula>\n                    , highlighting the effectiveness of integrating TDA features to enhance forecasting models.\n                  </jats:p>",
+  "DOI": "10.1007/s00521-024-10787-x",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        16
+      ]
+    ],
+    "date-time": "2025-01-16T20:37:31Z",
+    "timestamp": 1737059851000
+  },
+  "page": "6527-6545",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 31,
+  "title": [
+    "Enhancing financial time series forecasting through topological data analysis"
+  ],
+  "prefix": "10.1007",
+  "volume": "37",
+  "author": [
+    {
+      "suffix": "Jr.",
+      "given": "Luiz Carlos",
+      "family": "de Jesus",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5599-6170",
+      "authenticated-orcid": false,
+      "given": "Francisco",
+      "family": "Fern\u00e1ndez-Navarro",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Mariano",
+      "family": "Carbonero-Ruz",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        17
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "issue": "2",
+      "key": "10787_CR1",
+      "doi-asserted-by": "publisher",
+      "first-page": "255",
+      "DOI": "10.1090/S0273-0979-09-01249-X",
+      "volume": "46",
+      "author": "G Carlsson",
+      "year": "2009",
+      "unstructured": "Carlsson G (2009) Topology and data. Bull Am Math Soc 46(2):255\u2013308",
+      "journal-title": "Bull Am Math Soc"
+    },
+    {
+      "issue": "1",
+      "key": "10787_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "61",
+      "DOI": "10.1090/S0273-0979-07-01191-3",
+      "volume": "45",
+      "author": "R Ghrist",
+      "year": "2008",
+      "unstructured": "Ghrist R (2008) Barcodes: the persistent topology of data. Bull Am Math Soc 45(1):61\u201375",
+      "journal-title": "Bull Am Math Soc"
+    },
+    {
+      "issue": "4",
+      "key": "10787_CR3",
+      "doi-asserted-by": "publisher",
+      "first-page": "511",
+      "DOI": "10.1007/s00454-002-2885-2",
+      "volume": "28",
+      "author": "H Edelsbrunner",
+      "year": "2002",
+      "unstructured": "Edelsbrunner H, Letscher D, Zomorodian A (2002) Topological persistence and simplification. Discrete Computat Geom 28(4):511\u2013533",
+      "journal-title": "Discrete Computat Geom"
+    },
+    {
+      "key": "10787_CR4",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/CBO9780511546945",
+      "volume-title": "Topology for Computing",
+      "author": "AJ Zomorodian",
+      "year": "2005",
+      "unstructured": "Zomorodian AJ (2005) Topology for Computing, vol 16. Cambridge University Press, Cambridge"
+    },
+    {
+      "issue": "1",
+      "key": "10787_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "501",
+      "DOI": "10.1146/annurev-statistics-031017-100045",
+      "volume": "5",
+      "author": "L Wasserman",
+      "year": "2018",
+      "unstructured": "Wasserman L (2018) Topological data analysis. Annual review of statistics and its application 5(1):501\u2013532",
+      "journal-title": "Annual review of statistics and its application"
+    },
+    {
+      "key": "10787_CR6",
+      "doi-asserted-by": "publisher",
+      "first-page": "689",
+      "DOI": "10.1080/13658810110074519",
+      "volume": "15",
+      "author": "D Theobald",
+      "year": "2001",
+      "unstructured": "Theobald D (2001) Topology revisited: representing spatial relations. Int J Geogr Inf Sci 15:689\u2013705",
+      "journal-title": "Int J Geogr Inf Sci"
+    },
+    {
+      "key": "10787_CR7",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/CBO9780511755767",
+      "volume-title": "Introduction to econophysics: correlations and complexity in finance",
+      "author": "RN Mantegna",
+      "year": "1999",
+      "unstructured": "Mantegna RN, Stanley HE (1999) Introduction to econophysics: correlations and complexity in finance. Cambridge University Press, Cambridge"
+    },
+    {
+      "key": "10787_CR8",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/0471746193",
+      "volume-title": "Analysis of financial time series",
+      "author": "RS Tsay",
+      "year": "2005",
+      "unstructured": "Tsay RS (2005) Analysis of financial time series. Wiley, Hoboken"
+    },
+    {
+      "issue": "6",
+      "key": "10787_CR9",
+      "doi-asserted-by": "publisher",
+      "first-page": "1609",
+      "DOI": "10.1007/s00521-019-04212-x",
+      "volume": "32",
+      "author": "P Yu",
+      "year": "2020",
+      "unstructured": "Yu P, Yan X (2020) Stock price prediction based on deep neural networks. Neural Comput Appl 32(6):1609\u20131628",
+      "journal-title": "Neural Comput Appl"
+    },
+    {
+      "issue": "12",
+      "key": "10787_CR10",
+      "doi-asserted-by": "publisher",
+      "first-page": "7897",
+      "DOI": "10.1007/s00521-019-04236-3",
+      "volume": "32",
+      "author": "H Chung",
+      "year": "2020",
+      "unstructured": "Chung H, Shin K-s (2020) Genetic algorithm-optimized multi-channel convolutional neural network for stock market prediction. Neural Comput Appl 32(12):7897\u20137914",
+      "journal-title": "Neural Comput Appl"
+    },
+    {
+      "issue": "1",
+      "key": "10787_CR11",
+      "doi-asserted-by": "publisher",
+      "first-page": "3",
+      "DOI": "10.1002/isaf.1488",
+      "volume": "28",
+      "author": "AM Khedr",
+      "year": "2021",
+      "unstructured": "Khedr AM, Arif I, El-Bannany M, Alhashmi SM, Sreedharan M (2021) Cryptocurrency price prediction using traditional statistical and machine-learning techniques: a survey. Intell Syst Account Finance Manag 28(1):3\u20134",
+      "journal-title": "Intell Syst Account Finance Manag"
+    },
+    {
+      "key": "10787_CR12",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Gidea M (2017) Topological data analysis of critical transitions in financial networks. In: 3rd International Winter School and Conference on Network Science: NetSci-X 2017 3, pp. 47\u201359. Springer",
+      "DOI": "10.1007/978-3-319-55471-6_5"
+    },
+    {
+      "key": "10787_CR13",
+      "doi-asserted-by": "publisher",
+      "first-page": "820",
+      "DOI": "10.1016/j.physa.2017.09.028",
+      "volume": "491",
+      "author": "M Gidea",
+      "year": "2018",
+      "unstructured": "Gidea M, Katz Y (2018) Topological data analysis of financial time series: landscapes of crashes. Phys A 491:820\u2013834",
+      "journal-title": "Phys A"
+    },
+    {
+      "issue": "1",
+      "key": "10787_CR14",
+      "first-page": "2202331",
+      "volume": "8",
+      "author": "D Leykam",
+      "year": "2023",
+      "unstructured": "Leykam D, Angelakis DG (2023) Topological data analysis and machine learning. Adv Phys X 8(1):2202331",
+      "journal-title": "Adv Phys X"
+    },
+    {
+      "key": "10787_CR15",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.physa.2019.123843",
+      "volume": "548",
+      "author": "M Gidea",
+      "year": "2020",
+      "unstructured": "Gidea M, Goldsmith D, Katz Y, Roldan P, Shmalo Y (2020) Topological recognition of critical transitions in time series of cryptocurrencies. Phys A 548:123843",
+      "journal-title": "Phys A"
+    },
+    {
+      "key": "10787_CR16",
+      "unstructured": "Ruiz-Ortiz MA, G\u00f3mez-Larra\u00f1aga JC, Rodr\u00edguez-Viorato J (2022) A persistent-homology-based turbulence index & some applications of tda on financial markets. arXiv preprint arXiv:2203.05603"
+    },
+    {
+      "issue": "3",
+      "key": "10787_CR17",
+      "doi-asserted-by": "publisher",
+      "first-page": "277",
+      "DOI": "10.1007/s11408-020-00377-x",
+      "volume": "35",
+      "author": "E Baitinger",
+      "year": "2021",
+      "unstructured": "Baitinger E, Flegel S (2021) The better turbulence index? Forecasting adverse financial markets regimes with persistent homology. Fin Markets Portfolio Mgmt 35(3):277\u2013308",
+      "journal-title": "Fin Markets Portfolio Mgmt"
+    },
+    {
+      "issue": "12",
+      "key": "10787_CR18",
+      "doi-asserted-by": "publisher",
+      "first-page": "14069",
+      "DOI": "10.1109/TPAMI.2023.3308391",
+      "volume": "45",
+      "author": "D Ali",
+      "year": "2023",
+      "unstructured": "Ali D, Asaad A, Jimenez M-J, Nanda V, Paluzo-Hidalgo E, Soriano-Trigueros M (2023) A survey of vectorization methods in topological data analysis. IEEE Trans Pattern Anal Mach Intell 45(12):14069\u201314080",
+      "journal-title": "IEEE Trans Pattern Anal Mach Intell"
+    },
+    {
+      "key": "10787_CR19",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cose.2023.103516",
+      "volume": "135",
+      "author": "M Zhong",
+      "year": "2023",
+      "unstructured": "Zhong M, Lin M, He Z (2023) Dynamic multi-scale topological representation for enhancing network intrusion detection. Comput Secur 135:103516",
+      "journal-title": "Comput Secur"
+    },
+    {
+      "key": "10787_CR20",
+      "doi-asserted-by": "publisher",
+      "first-page": "886",
+      "DOI": "10.1109/TRO.2023.3343994",
+      "volume": "40",
+      "author": "EU Samani",
+      "year": "2024",
+      "unstructured": "Samani EU, Banerjee AG (2024) Persistent homology meets object unity: object recognition in clutter. IEEE Trans Robot 40:886\u2013902. https://doi.org/10.1109/TRO.2023.3343994",
+      "journal-title": "IEEE Trans Robot"
+    },
+    {
+      "key": "10787_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "1153386",
+      "DOI": "10.3389/fnins.2023.1153386",
+      "volume": "17",
+      "author": "Y Ren",
+      "year": "2023",
+      "unstructured": "Ren Y, Liu F, Xia S, Shi S, Chen L, Wang Z (2023) Dynamic ecg signal quality evaluation based on persistent homology and googlenet method. Front Neurosci 17:1153386",
+      "journal-title": "Front Neurosci"
+    },
+    {
+      "issue": "2",
+      "key": "10787_CR22",
+      "doi-asserted-by": "publisher",
+      "first-page": "1685",
+      "DOI": "10.1007/s11135-023-01708-6",
+      "volume": "58",
+      "author": "B Arfi",
+      "year": "2024",
+      "unstructured": "Arfi B (2024) The promises of persistent homology, machine learning, and deep neural networks in topological data analysis of democracy survival. Qual Quant 58(2):1685\u20131727",
+      "journal-title": "Qual Quant"
+    },
+    {
+      "key": "10787_CR23",
+      "doi-asserted-by": "publisher",
+      "first-page": "799",
+      "DOI": "10.1007/s10208-014-9206-z",
+      "volume": "15",
+      "author": "JA Perea",
+      "year": "2015",
+      "unstructured": "Perea JA, Harer J (2015) Sliding windows and persistence: an application of topological methods to signal analysis. Found Comput Math 15:799\u2013838",
+      "journal-title": "Found Comput Math"
+    },
+    {
+      "issue": "14",
+      "key": "10787_CR24",
+      "doi-asserted-by": "publisher",
+      "first-page": "195",
+      "DOI": "10.1016/j.ifacol.2018.07.222",
+      "volume": "51",
+      "author": "FA Khasawneh",
+      "year": "2018",
+      "unstructured": "Khasawneh FA, Munch E, Perea JA (2018) Chatter classification in turning using machine learning and topological data analysis. IFAC-PapersOnLine 51(14):195\u2013200",
+      "journal-title": "IFAC-PapersOnLine"
+    },
+    {
+      "key": "10787_CR25",
+      "first-page": "24871",
+      "volume": "34",
+      "author": "S Zeng",
+      "year": "2021",
+      "unstructured": "Zeng S, Graf F, Hofer C, Kwitt R (2021) Topological attention for time series forecasting. Adv Neural Inf Process Syst 34:24871\u201324882",
+      "journal-title": "Adv Neural Inf Process Syst"
+    },
+    {
+      "key": "10787_CR26",
+      "doi-asserted-by": "publisher",
+      "first-page": "66",
+      "DOI": "10.1016/j.jeconom.2013.11.002",
+      "volume": "179",
+      "author": "L Horv\u00e1th",
+      "year": "2014",
+      "unstructured": "Horv\u00e1th L, Kokoszka P, Rice G (2014) Testing stationarity of functional time series. J Econom 179:66\u201382",
+      "journal-title": "J Econom"
+    },
+    {
+      "key": "10787_CR27",
+      "doi-asserted-by": "publisher",
+      "first-page": "933",
+      "DOI": "10.1080/14697688.2017.1393551",
+      "volume": "18",
+      "author": "J Gatheral",
+      "year": "2014",
+      "unstructured": "Gatheral J, Jaisson T, Rosenbaum M (2014) Volatility is rough. Quant Finance 18:933\u2013949",
+      "journal-title": "Quant Finance"
+    },
+    {
+      "issue": "5",
+      "key": "10787_CR28",
+      "doi-asserted-by": "publisher",
+      "first-page": "50001",
+      "DOI": "10.1209/0295-5075/116/50001",
+      "volume": "116",
+      "author": "Z-K Gao",
+      "year": "2017",
+      "unstructured": "Gao Z-K, Small M, Kurths J (2017) Complex network analysis of time series. Europhys Lett 116(5):50001",
+      "journal-title": "Europhys Lett"
+    },
+    {
+      "key": "10787_CR29",
+      "first-page": "411",
+      "volume": "66",
+      "author": "M Babyak",
+      "year": "2004",
+      "unstructured": "Babyak M (2004) What you see may not be what you get: a brief, nontechnical introduction to overfitting in regression-type models. Psychosom Med 66:411\u2013421",
+      "journal-title": "Psychosom Med"
+    },
+    {
+      "key": "10787_CR30",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Sehra S, Flores D, Monta\u00f1ez GD (2021) Undecidability of underfitting in learning algorithms. In: 2021 2nd International Conference on Computing and Data Science (CDS), pp. 591\u2013594 (2021). IEEE",
+      "DOI": "10.1109/CDS52072.2021.00107"
+    },
+    {
+      "issue": "1",
+      "key": "10787_CR31",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1111/j.1467-9892.2012.00819.x",
+      "volume": "34",
+      "author": "A Aue",
+      "year": "2013",
+      "unstructured": "Aue A, Horv\u00e1th L (2013) Structural breaks in time series. J Time Ser Anal 34(1):1\u201316",
+      "journal-title": "J Time Ser Anal"
+    },
+    {
+      "key": "10787_CR32",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Li L, Ou Y, Wu Y, Li Q, Chen D (2018) Research on feature engineering for time series data mining. In: 2018 International Conference on Network Infrastructure and Digital Content (IC-NIDC), pp. 431\u2013435 . IEEE",
+      "DOI": "10.1109/ICNIDC.2018.8525561"
+    },
+    {
+      "key": "10787_CR33",
+      "doi-asserted-by": "publisher",
+      "first-page": "366",
+      "DOI": "10.1007/BFb0091924",
+      "volume": "898",
+      "author": "F Takens",
+      "year": "1981",
+      "unstructured": "Takens F (1981) Detecting strange attractors in turbulence, dynamical systems and turbulence. Lect Notes Math 898:366\u2013381",
+      "journal-title": "Lect Notes Math"
+    },
+    {
+      "issue": "3",
+      "key": "10787_CR34",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1103/PhysRevE.99.032209",
+      "volume": "99",
+      "author": "QH Tran",
+      "year": "2019",
+      "unstructured": "Tran QH, Hasegawa Y (2019) Topological time-series analysis with delay-variant embedding. Phys Rev E 99(3):032209",
+      "journal-title": "Phys Rev E"
+    },
+    {
+      "issue": "4",
+      "key": "10787_CR35",
+      "doi-asserted-by": "publisher",
+      "first-page": "563",
+      "DOI": "10.3934/fods.2022006",
+      "volume": "4",
+      "author": "E Carlsson",
+      "year": "2022",
+      "unstructured": "Carlsson E, Carlsson JG, Sweitzer S (2022) Applying topological data analysis to local search problems. Found Data Sci 4(4):563\u2013579",
+      "journal-title": "Found Data Sci"
+    },
+    {
+      "key": "10787_CR36",
+      "unstructured": "Chazal F, Glisse M, Labru\u00e8re C, Michel B (2014) Convergence rates for persistence diagram estimation in topological data analysis. In: International Conference on Machine Learning, pp. 163\u2013171. PMLR"
+    },
+    {
+      "key": "10787_CR37",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Rucco M, Castiglione F, Merelli E, Pettini M (2016) Characterisation of the idiotypic immune network through persistent entropy. In: Battiston, S., De\u00a0Pellegrini, F., Caldarelli, G., Merelli, E. (eds.) Proceedings of ECCS 2014, pp. 117\u2013128. Springer",
+      "DOI": "10.1007/978-3-319-29228-1_11"
+    },
+    {
+      "key": "10787_CR38",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Chung MK (2012) Topological data analysis. Computational Neuroanatomy, pp 35\u2013366",
+      "DOI": "10.1142/8036"
+    },
+    {
+      "key": "10787_CR39",
+      "unstructured": "Oreshkin BN, Carpov D, Chapados N, Bengio Y (2020) N-BEATS: Neural basis expansion analysis for interpretable time series forecasting. arXiv preprint arXiv:1905.10437 [cs.LG]"
+    },
+    {
+      "key": "10787_CR40",
+      "doi-asserted-by": "publisher",
+      "first-page": "494",
+      "DOI": "10.1016/j.renene.2021.06.099",
+      "volume": "178",
+      "author": "D Putz",
+      "year": "2021",
+      "unstructured": "Putz D, Gumhalter M, Auer H (2021) A novel approach to multi-horizon wind power forecasting based on deep neural architecture. Renew Energy 178:494\u2013505",
+      "journal-title": "Renew Energy"
+    },
+    {
+      "key": "10787_CR41",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1140/epjds/s13688-017-0109-5",
+      "volume": "6",
+      "author": "N Otter",
+      "year": "2017",
+      "unstructured": "Otter N, Porter MA, Tillmann U, Grindrod P, Harrington HA (2017) A roadmap for the computation of persistent homology. EPJ Data Sci 6:1\u201338",
+      "journal-title": "EPJ Data Sci"
+    },
+    {
+      "issue": "1",
+      "key": "10787_CR42",
+      "doi-asserted-by": "publisher",
+      "first-page": "184",
+      "DOI": "10.32614/RJ-2021-033",
+      "volume": "13",
+      "author": "EV Somasundaram",
+      "year": "2021",
+      "unstructured": "Somasundaram EV, Brown SE, Litzler A, Scott JG, Wadhwa RR (2021) Benchmarking R packages for calculation of persistent homology. R J 13(1):184",
+      "journal-title": "R J"
+    },
+    {
+      "key": "10787_CR43",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s00521-020-05129-6",
+      "author": "M Mudassir",
+      "year": "2020",
+      "unstructured": "Mudassir M, Bennbaia S, Unal D, Hammoudeh M (2020) Time-series forecasting of bitcoin prices using high-dimensional features: a machine learning approach. Neural Comput Appl. https://doi.org/10.1007/s00521-020-05129-6",
+      "journal-title": "Neural Comput Appl"
+    },
+    {
+      "issue": "22",
+      "key": "10787_CR44",
+      "doi-asserted-by": "publisher",
+      "first-page": "19441",
+      "DOI": "10.1007/s00521-022-07509-6",
+      "volume": "34",
+      "author": "N Passalis",
+      "year": "2022",
+      "unstructured": "Passalis N, Avramelou L, Seficha S, Tsantekidis A, Doropoulos S, Makris G, Tefas A (2022) Multisource financial sentiment analysis for detecting bitcoin price change indications using deep learning. Neural Comput Appl 34(22):19441\u201319452",
+      "journal-title": "Neural Comput Appl"
+    },
+    {
+      "issue": "1",
+      "key": "10787_CR45",
+      "doi-asserted-by": "publisher",
+      "first-page": "215824402110025",
+      "DOI": "10.1177/21582440211002516",
+      "volume": "11",
+      "author": "CA Anisiuba",
+      "year": "2021",
+      "unstructured": "Anisiuba CA, Egbo OP, Alio FC, Ifediora C, Igwemeka EC, Odidi C, Ezeaku HC (2021) Analysis of cryptocurrency dynamics in the emerging market economies: does reinforcement or substitution effect prevail? SAGE Open 11(1):21582440211002516",
+      "journal-title": "SAGE Open"
+    },
+    {
+      "issue": "2",
+      "key": "10787_CR46",
+      "first-page": "23",
+      "volume": "2",
+      "author": "M Chambino",
+      "year": "2023",
+      "unstructured": "Chambino M, Dias R, Horta N (2023) Asymmetric efficiency of cryptocurrencies during the 2020 and 2022 events. Econom Anal Lett 2(2):23\u201333",
+      "journal-title": "Econom Anal Lett"
+    },
+    {
+      "key": "10787_CR47",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Gamper J, Dign\u00f6s A (2020) Processing temporal and time series data: present state and future challenges. Symposium on Advances in Databases and Information Systems, p 8\u201314",
+      "DOI": "10.1007/978-3-030-54832-2_2"
+    },
+    {
+      "issue": "5",
+      "key": "10787_CR48",
+      "doi-asserted-by": "publisher",
+      "first-page": "551",
+      "DOI": "10.1002/sim.4780080504",
+      "volume": "8",
+      "author": "S Durrleman",
+      "year": "1989",
+      "unstructured": "Durrleman S, Simon R (1989) Flexible regression models with cubic splines. Stat Med 8(5):551\u2013561",
+      "journal-title": "Stat Med"
+    },
+    {
+      "key": "10787_CR49",
+      "first-page": "101",
+      "volume": "44",
+      "author": "Z Guo",
+      "year": "2023",
+      "unstructured": "Guo Z (2023) Research on the augmented dickey-fuller test for predicting stock prices and returns. Adv Econom Manag Polit Sci 44:101\u2013106",
+      "journal-title": "Adv Econom Manag Polit Sci"
+    },
+    {
+      "key": "10787_CR50",
+      "doi-asserted-by": "publisher",
+      "first-page": "491",
+      "DOI": "10.1198/tech.2001.s49",
+      "volume": "43",
+      "author": "M Chernick",
+      "year": "2001",
+      "unstructured": "Chernick M (2001) Wavelet methods for time series analysis. Technometrics 43:491\u2013491",
+      "journal-title": "Technometrics"
+    },
+    {
+      "key": "10787_CR51",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Borkin D, Nemeth M, Michalconok G, Mezentseva O (2019) Adding additional features to improve time series prediction. Research Papers Faculty of Materials Science and Technology Slovak University of Technology, 27:72\u201378",
+      "DOI": "10.2478/rput-2019-0028"
+    },
+    {
+      "issue": "8",
+      "key": "10787_CR52",
+      "doi-asserted-by": "publisher",
+      "first-page": "1130",
+      "DOI": "10.3390/jmse10081130",
+      "volume": "10",
+      "author": "A Lo Duca",
+      "year": "2022",
+      "unstructured": "Lo Duca A, Marchetti A (2022) Towards the evaluation of date time features in a ship route prediction model. J Mar Sci Eng 10(8):1130",
+      "journal-title": "J Mar Sci Eng"
+    },
+    {
+      "issue": "2",
+      "key": "10787_CR53",
+      "doi-asserted-by": "publisher",
+      "first-page": "143",
+      "DOI": "10.1016/S0169-2070(01)00079-6",
+      "volume": "17",
+      "author": "M Adya",
+      "year": "2001",
+      "unstructured": "Adya M, Collopy F, Armstrong JS, Kennedy M (2001) Automatic identification of time series features for rule-based forecasting. Int J Forecast 17(2):143\u2013157",
+      "journal-title": "Int J Forecast"
+    },
+    {
+      "key": "10787_CR54",
+      "doi-asserted-by": "publisher",
+      "first-page": "489",
+      "DOI": "10.1093/biomet/84.2.489",
+      "volume": "84",
+      "author": "M West",
+      "year": "1997",
+      "unstructured": "West M (1997) Time series decomposition. Biometrika 84:489\u2013494",
+      "journal-title": "Biometrika"
+    },
+    {
+      "issue": "3",
+      "key": "10787_CR55",
+      "doi-asserted-by": "publisher",
+      "first-page": "669",
+      "DOI": "10.1016/j.ijforecast.2015.12.003",
+      "volume": "32",
+      "author": "S Kim",
+      "year": "2016",
+      "unstructured": "Kim S, Kim H (2016) A new metric of absolute percentage error for intermittent demand forecasts. Int J Forecast 32(3):669\u2013679",
+      "journal-title": "Int J Forecast"
+    },
+    {
+      "key": "10787_CR56",
+      "doi-asserted-by": "publisher",
+      "first-page": "779",
+      "DOI": "10.1007/s00521-016-2494-2",
+      "volume": "29",
+      "author": "F Fern\u00e1ndez-Navarro",
+      "year": "2018",
+      "unstructured": "Fern\u00e1ndez-Navarro F, Cruz MA, Guti\u00e9rrez PA, Casta\u00f1o A, Herv\u00e1s-Mart\u00ednez C (2018) Time series forecasting by recurrent product unit neural networks. Neural Comput Appl 29:779\u2013791",
+      "journal-title": "Neural Comput Appl"
+    },
+    {
+      "key": "10787_CR57",
+      "doi-asserted-by": "publisher",
+      "first-page": "1309",
+      "DOI": "10.1175/1520-0477(1982)063<1309:SCOTEO>2.0.CO;2",
+      "volume": "63",
+      "author": "C Willmott",
+      "year": "1982",
+      "unstructured": "Willmott C (1982) Some comments on the evaluation of model performance. Bull Am Meteor Soc 63:1309\u20131313",
+      "journal-title": "Bull Am Meteor Soc"
+    },
+    {
+      "key": "10787_CR58",
+      "first-page": "1",
+      "volume": "7",
+      "author": "J Dem\u0161ar",
+      "year": "2006",
+      "unstructured": "Dem\u0161ar J (2006) Statistical comparisons of classifiers over multiple data sets. J Mach Learn Res 7:1\u201330",
+      "journal-title": "J Mach Learn Res"
+    },
+    {
+      "issue": "1",
+      "key": "10787_CR59",
+      "doi-asserted-by": "publisher",
+      "first-page": "86",
+      "DOI": "10.1214/aoms/1177731944",
+      "volume": "11",
+      "author": "M Friedman",
+      "year": "1940",
+      "unstructured": "Friedman M (1940) A comparison of alternative tests of significance for the problem of $$m$$ rankings. Ann Math Stat 11(1):86\u201392",
+      "journal-title": "Ann Math Stat"
+    }
+  ],
+  "container-title": [
+    "Neural Computing and Applications"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s00521-024-10787-x.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1007/s00521-024-10787-x/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s00521-024-10787-x.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        11
+      ]
+    ],
+    "date-time": "2025-04-11T04:29:32Z",
+    "timestamp": 1744345772000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/s00521-024-10787-x"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        17
+      ]
+    ]
+  },
+  "references-count": 59,
+  "journal-issue": {
+    "issue": "9",
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          3
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10787"
+  ],
+  "URL": "https://doi.org/10.1007/s00521-024-10787-x",
+  "relation": {},
+  "ISSN": [
+    "0941-0643",
+    "1433-3058"
+  ],
+  "issn-type": [
+    {
+      "value": "0941-0643",
+      "type": "print"
+    },
+    {
+      "value": "1433-3058",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        17
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "9 August 2024",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "7 November 2024",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "17 January 2025",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Declarations"
+      }
+    },
+    {
+      "value": "The authors declare that they have no conflict of interest with any member of the journal.",
+      "order": 2,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Conflict of interest"
+      }
+    },
+    {
+      "value": "Not applicable",
+      "order": 3,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Ethical approval and consent to participate"
+      }
+    }
+  ]
+}

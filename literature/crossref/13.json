@@ -1,0 +1,482 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        25
+      ]
+    ],
+    "date-time": "2026-09-25T13:22:00Z",
+    "timestamp": 1790342520861,
+    "version": "4.1.0"
+  },
+  "reference-count": 44,
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2024-01-01T00:00:00Z",
+        "timestamp": 1704067200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "name": "Agence Nationale de la Recherche (ANR) and the Bundesministerium f\u00fcr Bildung und Forschung",
+      "award": [
+        "01IS21100A"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "01IS21100A"
+          ]
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "IEEE Access"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024
+      ]
+    ]
+  },
+  "DOI": "10.1109/access.2024.3383784",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        1
+      ]
+    ],
+    "date-time": "2024-04-01T16:02:46Z",
+    "timestamp": 1711987366000
+  },
+  "page": "50012-50029",
+  "source": "Crossref",
+  "is-referenced-by-count": 37,
+  "title": [
+    "Scalable Semi-Supervised Graph Learning Techniques for Anti Money Laundering"
+  ],
+  "prefix": "10.1109",
+  "volume": "12",
+  "author": [
+    {
+      "given": "Md. Rezaul",
+      "family": "Karim",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Information Systems and Databases, RWTH Aachen University, Aachen, Germany"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Felix",
+      "family": "Hermsen",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Information Systems and Databases, RWTH Aachen University, Aachen, Germany"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Sisay Adugna",
+      "family": "Chala",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Information Systems and Databases, RWTH Aachen University, Aachen, Germany"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Paola",
+      "family": "De Perthuis",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "&#x00C9;cole Normale Sup&#x00E9;rieure (ENS), Paris, France"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Avikarsha",
+      "family": "Mandal",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Data Science and Artificial Intelligence, Fraunhofer FIT, Sankt Augustin, Germany"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "263",
+  "reference": [
+    {
+      "key": "ref1",
+      "article-title": "Money laundering detection using tree boosting and graph learning algorithms",
+      "author": "Frumerie",
+      "year": "2021"
+    },
+    {
+      "key": "ref2",
+      "article-title": "Realistic synthetic financial transactions for anti-money laundering models",
+      "author": "Altman",
+      "year": "2023",
+      "journal-title": "arXiv:2306.16424"
+    },
+    {
+      "key": "ref3",
+      "volume-title": "Money Laundering",
+      "year": "2023"
+    },
+    {
+      "key": "ref4",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/UEMCON.2016.7777919"
+    },
+    {
+      "key": "ref5",
+      "article-title": "Scalable graph learning for anti-money laundering: A first look",
+      "author": "Weber",
+      "year": "2018",
+      "journal-title": "arXiv:1812.00076"
+    },
+    {
+      "key": "ref6",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-319-93417-4_38"
+    },
+    {
+      "key": "ref7",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1609/aaai.v34i04.5906"
+    },
+    {
+      "key": "ref8",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5539/cis.v7n1p103"
+    },
+    {
+      "key": "ref9",
+      "article-title": "Semi-supervised classification with graph convolutional networks",
+      "author": "Kipf",
+      "year": "2016",
+      "journal-title": "arXiv:1609.02907"
+    },
+    {
+      "key": "ref10",
+      "first-page": "69",
+      "article-title": "Graph mining approach to suspicious transaction detection",
+      "volume-title": "Proc. Federated Conf. Comput. Sci. Inf. Syst. (FedCSIS)",
+      "author": "Michalak"
+    },
+    {
+      "key": "ref11",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/2939672.2939747"
+    },
+    {
+      "key": "ref12",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3533271.3561727"
+    },
+    {
+      "key": "ref13",
+      "article-title": "Ethereum fraud detection with heterogeneous graph neural networks",
+      "author": "Kanezashi",
+      "year": "2022",
+      "journal-title": "arXiv:2203.12363"
+    },
+    {
+      "key": "ref14",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.14778/3494124.3494128"
+    },
+    {
+      "key": "ref15",
+      "first-page": "10383",
+      "article-title": "Can graph neural networks count substructures?",
+      "volume-title": "Proc. Adv. Neural Inf. Process. Syst.",
+      "volume": "33",
+      "author": "Chen"
+    },
+    {
+      "key": "ref16",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TPAMI.2022.3154319"
+    },
+    {
+      "key": "ref17",
+      "first-page": "1025",
+      "article-title": "Inductive representation learning on large graphs",
+      "volume-title": "Proc. NeuralIPS",
+      "volume": "30",
+      "author": "Hamilton"
+    },
+    {
+      "key": "ref18",
+      "article-title": "FastGCN: Fast learning with graph convolutional networks via importance sampling",
+      "author": "Chen",
+      "year": "2018",
+      "journal-title": "arXiv:1801.10247"
+    },
+    {
+      "key": "ref19",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/bib/bbad236"
+    },
+    {
+      "key": "ref20",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3447772"
+    },
+    {
+      "key": "ref21",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3390/electronics9050750"
+    },
+    {
+      "key": "ref22",
+      "first-page": "557",
+      "article-title": "Knowledge graph embedding by flexible translation",
+      "volume-title": "Proc. 15th Int. Conf. Principles Knowl. Represent. Reasoning",
+      "author": "Feng"
+    },
+    {
+      "key": "ref23",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3307339.3342161"
+    },
+    {
+      "key": "ref24",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s13369-021-06116-2"
+    },
+    {
+      "key": "ref25",
+      "article-title": "Spatio-temporal graph neural networks: A survey",
+      "author": "Al Sahili",
+      "year": "2023",
+      "journal-title": "arXiv:2301.10569"
+    },
+    {
+      "key": "ref26",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/tkde.2023.3333824"
+    },
+    {
+      "key": "ref27",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1609/aaai.v34i04.5984"
+    },
+    {
+      "key": "ref28",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/tkde.2021.3124061"
+    },
+    {
+      "key": "ref29",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3102254.3102279"
+    },
+    {
+      "key": "ref30",
+      "article-title": "Efficient estimation of word representations in vector space",
+      "author": "Mikolov",
+      "year": "2013",
+      "journal-title": "arXiv:1301.3781"
+    },
+    {
+      "key": "ref31",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10618-019-00650-2"
+    },
+    {
+      "key": "ref32",
+      "first-page": "7",
+      "volume-title": "Introduction to Algorithms",
+      "volume": "3",
+      "author": "Cormen",
+      "year": "2009"
+    },
+    {
+      "key": "ref33",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0169-7552(98)00110-X"
+    },
+    {
+      "key": "ref34",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/1963405.1963491"
+    },
+    {
+      "key": "ref35",
+      "first-page": "1",
+      "article-title": "Surrogate decision tree visualization",
+      "volume-title": "Proc. IUI Workshops",
+      "author": "Di Castro"
+    },
+    {
+      "key": "ref36",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41597-023-02569-2"
+    },
+    {
+      "key": "ref37",
+      "article-title": "Anti-money laundering in Bitcoin: Experimenting with graph convolutional networks for financial forensics",
+      "author": "Weber",
+      "year": "2019",
+      "journal-title": "arXiv:1908.02591"
+    },
+    {
+      "key": "ref38",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/DSAA60987.2023.10302562"
+    },
+    {
+      "key": "ref39",
+      "volume-title": "Interpretable Machine Learning",
+      "author": "Molnar",
+      "year": "2020"
+    },
+    {
+      "key": "ref40",
+      "first-page": "9240",
+      "article-title": "GNNExplainer: Generating explanations for graph neural networks",
+      "volume-title": "Proc. NeuralIPS",
+      "author": "Ying"
+    },
+    {
+      "key": "ref41",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3390/info10040122"
+    },
+    {
+      "key": "ref42",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/2976749.2978318"
+    },
+    {
+      "key": "ref43",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3523273"
+    },
+    {
+      "key": "ref44",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3548606.3559374"
+    }
+  ],
+  "container-title": [
+    "IEEE Access"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "http://xplorestaging.ieee.org/ielx7/6287639/10380310/10486886.pdf?arnumber=10486886",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        16
+      ]
+    ],
+    "date-time": "2024-04-16T13:26:28Z",
+    "timestamp": 1713273988000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://ieeexplore.ieee.org/document/10486886/"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024
+      ]
+    ]
+  },
+  "references-count": 44,
+  "URL": "https://doi.org/10.1109/access.2024.3383784",
+  "relation": {},
+  "ISSN": [
+    "2169-3536"
+  ],
+  "issn-type": [
+    {
+      "value": "2169-3536",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024
+      ]
+    ]
+  }
+}

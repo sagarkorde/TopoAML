@@ -1,0 +1,563 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        21
+      ]
+    ],
+    "date-time": "2025-02-21T23:00:02Z",
+    "timestamp": 1740178802341,
+    "version": "3.37.3"
+  },
+  "reference-count": 28,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "7",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            18
+          ]
+        ],
+        "date-time": "2024-04-18T00:00:00Z",
+        "timestamp": 1713398400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            18
+          ]
+        ],
+        "date-time": "2024-04-18T00:00:00Z",
+        "timestamp": 1713398400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100000266",
+      "name": "Engineering and Physical Sciences Research Council",
+      "doi-asserted-by": "crossref",
+      "award": [
+        "EP/R018472/1",
+        "EP/R018472/1"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "EP/R018472/1",
+            "EP/R018472/1"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100000266",
+          "id-type": "DOI",
+          "asserted-by": "crossref"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/100000001",
+      "name": "National Science Foundation",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "DMS-1854748"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "DMS-1854748"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/100000001",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "J Appl. and Comput. Topology"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        11
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Let\u00a0<jats:italic>K</jats:italic> be a finite simplicial, cubical, delta or CW complex. The persistence map\u00a0<jats:inline-formula><jats:alternatives><jats:tex-math>$$\\textrm{PH}$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:mtext>PH</mml:mtext>\n                </mml:math></jats:alternatives></jats:inline-formula> takes a filter\u00a0<jats:inline-formula><jats:alternatives><jats:tex-math>$$f:K\\rightarrow \\mathbb {R}$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:mrow>\n                    <mml:mi>f</mml:mi>\n                    <mml:mo>:</mml:mo>\n                    <mml:mi>K</mml:mi>\n                    <mml:mo>\u2192</mml:mo>\n                    <mml:mi>R</mml:mi>\n                  </mml:mrow>\n                </mml:math></jats:alternatives></jats:inline-formula> as input and returns the barcodes of the sublevel set persistent homology of\u00a0<jats:italic>f</jats:italic> in each dimension. We address the inverse problem: given target barcodes\u00a0<jats:italic>D</jats:italic>, computing the fiber\u00a0<jats:inline-formula><jats:alternatives><jats:tex-math>$$\\textrm{PH}^{-1}(D)$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:mrow>\n                    <mml:msup>\n                      <mml:mtext>PH</mml:mtext>\n                      <mml:mrow>\n                        <mml:mo>-</mml:mo>\n                        <mml:mn>1</mml:mn>\n                      </mml:mrow>\n                    </mml:msup>\n                    <mml:mrow>\n                      <mml:mo>(</mml:mo>\n                      <mml:mi>D</mml:mi>\n                      <mml:mo>)</mml:mo>\n                    </mml:mrow>\n                  </mml:mrow>\n                </mml:math></jats:alternatives></jats:inline-formula>. For this, we use the fact that\u00a0<jats:inline-formula><jats:alternatives><jats:tex-math>$$\\textrm{PH}^{-1}(D)$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:mrow>\n                    <mml:msup>\n                      <mml:mtext>PH</mml:mtext>\n                      <mml:mrow>\n                        <mml:mo>-</mml:mo>\n                        <mml:mn>1</mml:mn>\n                      </mml:mrow>\n                    </mml:msup>\n                    <mml:mrow>\n                      <mml:mo>(</mml:mo>\n                      <mml:mi>D</mml:mi>\n                      <mml:mo>)</mml:mo>\n                    </mml:mrow>\n                  </mml:mrow>\n                </mml:math></jats:alternatives></jats:inline-formula> decomposes as a polyhedral complex when\u00a0<jats:italic>K</jats:italic> is a simplicial complex, and we generalise this result to arbitrary based chain complexes. We then design and implement a depth-first search that recovers the polytopes forming the fiber\u00a0<jats:inline-formula><jats:alternatives><jats:tex-math>$$\\textrm{PH}^{-1}(D)$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:mrow>\n                    <mml:msup>\n                      <mml:mtext>PH</mml:mtext>\n                      <mml:mrow>\n                        <mml:mo>-</mml:mo>\n                        <mml:mn>1</mml:mn>\n                      </mml:mrow>\n                    </mml:msup>\n                    <mml:mrow>\n                      <mml:mo>(</mml:mo>\n                      <mml:mi>D</mml:mi>\n                      <mml:mo>)</mml:mo>\n                    </mml:mrow>\n                  </mml:mrow>\n                </mml:math></jats:alternatives></jats:inline-formula>. As an application, we solve a corpus of 120 sample problems, providing a first insight into the statistical structure of these fibers, for general CW complexes.</jats:p>",
+  "DOI": "10.1007/s41468-024-00165-w",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        18
+      ]
+    ],
+    "date-time": "2024-04-18T18:02:08Z",
+    "timestamp": 1713463328000
+  },
+  "page": "2015-2049",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Algorithmic reconstruction of the fiber of persistent homology on cell complexes"
+  ],
+  "prefix": "10.1007",
+  "volume": "8",
+  "author": [
+    {
+      "given": "Jacob",
+      "family": "Leygonie",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-1889-8272",
+      "authenticated-orcid": false,
+      "given": "Gregory",
+      "family": "Henselman-Petrusek",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        18
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "issue": "1",
+      "key": "165_CR1",
+      "first-page": "218",
+      "volume": "18",
+      "author": "H Adams",
+      "year": "2017",
+      "unstructured": "Adams, H., Emerson, T., Kirby, M., Neville, R., Peterson, C., Shipman, P., Chepushtanova, S., Hanson, E., Motta, F., Ziegelmeier, L.: Persistence images: a stable vector representation of persistent homology. J. Mach. Learn. Res. 18(1), 218\u2013252 (2017)",
+      "journal-title": "J. Mach. Learn. Res."
+    },
+    {
+      "issue": "1",
+      "key": "165_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "198",
+      "DOI": "10.1214/15-AOAS886",
+      "volume": "10",
+      "author": "P Bendich",
+      "year": "2016",
+      "unstructured": "Bendich, P., Marron, J.S., Miller, E., Pieloch, A., Skwerer, S.: Persistent homology analysis of brain artery trees. Ann. Appl. Stat. 10(1), 198 (2016)",
+      "journal-title": "Ann. Appl. Stat."
+    },
+    {
+      "unstructured": "Betthauser, L.M.: Topological reconstruction of grayscale images. PhD thesis (2018)",
+      "key": "165_CR3"
+    },
+    {
+      "issue": "1",
+      "key": "165_CR4",
+      "first-page": "77",
+      "volume": "16",
+      "author": "P Bubenik",
+      "year": "2015",
+      "unstructured": "Bubenik, P.: Statistical topological data analysis using persistence landscapes. J. Mach. Learn. Res. 16(1), 77\u2013102 (2015)",
+      "journal-title": "J. Mach. Learn. Res."
+    },
+    {
+      "doi-asserted-by": "crossref",
+      "unstructured": "Catanzaro, M.J., Curry, J.M., Fasy, B.T., Lazovskis, J., Malen, G., Riess, H., Wang, B., Zabka M.: Moduli spaces of morse functions for persistence. J. Appl. Comput. Topol. pp. 1\u201333 (2020)",
+      "key": "165_CR5",
+      "DOI": "10.1007/s41468-020-00055-x"
+    },
+    {
+      "unstructured": "Chen, C., Ni, X., Bai, Q., Wang Y.: A topological regularizer for classifiers via persistent homology. In: The 22nd International Conference on Artificial Intelligence and Statistics, pp. 2573\u20132582 (2019)",
+      "key": "165_CR6"
+    },
+    {
+      "issue": "1",
+      "key": "165_CR7",
+      "doi-asserted-by": "publisher",
+      "first-page": "103",
+      "DOI": "10.1007/s00454-006-1276-5",
+      "volume": "37",
+      "author": "D Cohen-Steiner",
+      "year": "2007",
+      "unstructured": "Cohen-Steiner, D., Edelsbrunner, H., Harer, J.: Stability of persistence diagrams. Discrete Comput. Geom. 37(1), 103\u2013120 (2007)",
+      "journal-title": "Discrete Comput. Geom."
+    },
+    {
+      "doi-asserted-by": "crossref",
+      "unstructured": "Cohen-Steiner, D., Edelsbrunner, H., Morozov, D.: Vines and vineyards by updating persistence in linear time. In: Proceedings of the twenty-second annual Symposium on Computational Geometry, pp. 119\u2013126. ACM (2006)",
+      "key": "165_CR8",
+      "DOI": "10.1145/1137856.1137877"
+    },
+    {
+      "issue": "3\u20134",
+      "key": "165_CR9",
+      "doi-asserted-by": "publisher",
+      "first-page": "301",
+      "DOI": "10.1007/s41468-019-00024-z",
+      "volume": "2",
+      "author": "J Curry",
+      "year": "2018",
+      "unstructured": "Curry, J.: The fiber of the persistence map for functions on the interval. J. Appl. Comput. Topol. 2(3\u20134), 301\u2013321 (2018)",
+      "journal-title": "J. Appl. Comput. Topol."
+    },
+    {
+      "unstructured": "Curry, J., Mukherjee, S., Turner, K.: How many directions determine a shape and other sufficiency results for two topological transforms. arXiv preprint arXiv:1805.09782 (2018)",
+      "key": "165_CR10"
+    },
+    {
+      "issue": "4",
+      "key": "165_CR11",
+      "doi-asserted-by": "publisher",
+      "first-page": "509",
+      "DOI": "10.1007/s41468-020-00059-7",
+      "volume": "4",
+      "author": "J Cyranka",
+      "year": "2020",
+      "unstructured": "Cyranka, J., Mischaikow, K., Weibel, C.: Contractibility of a persistence map preimage. J. Appl. Comput. Topol. 4(4), 509\u2013523 (2020)",
+      "journal-title": "J. Appl. Comput. Topol."
+    },
+    {
+      "issue": "12",
+      "key": "165_CR12",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1088/0266-5611/27/12/124003",
+      "volume": "27",
+      "author": "V De Silva",
+      "year": "2011",
+      "unstructured": "De Silva, V., Morozov, D., Vejdemo-Johansson, M.: Dualities in persistent (co) homology. Inverse Prob. 27(12), 124003 (2011)",
+      "journal-title": "Inverse Prob."
+    },
+    {
+      "key": "165_CR13",
+      "volume-title": "Computational Topology: An Introduction",
+      "author": "H Edelsbrunner",
+      "year": "2010",
+      "unstructured": "Edelsbrunner, H., Harer, J.: Computational Topology: An Introduction. American Mathematical Society, Providence (2010)"
+    },
+    {
+      "key": "165_CR14",
+      "doi-asserted-by": "publisher",
+      "first-page": "257",
+      "DOI": "10.1090/conm/453/08802",
+      "volume": "453",
+      "author": "H Edelsbrunner",
+      "year": "2008",
+      "unstructured": "Edelsbrunner, H., Harer, J.: Persistent homology-a survey. Contemp. Math. 453, 257\u2013282 (2008)",
+      "journal-title": "Contemp. Math."
+    },
+    {
+      "unstructured": "Fasy, B.T., Micka, S., Millman, D.L., Schenfisch, A., Williams, L.: Persistence diagrams for efficient simplicial complex reconstruction. arXiv preprint arXiv:1912.12759 (2019)",
+      "key": "165_CR15"
+    },
+    {
+      "issue": "1\u20132",
+      "key": "165_CR16",
+      "doi-asserted-by": "publisher",
+      "first-page": "55",
+      "DOI": "10.1007/s41468-018-0017-1",
+      "volume": "2",
+      "author": "R Ghrist",
+      "year": "2018",
+      "unstructured": "Ghrist, R., Levanger, R., Mai, H.: Persistent homology and Euler integral transforms. J. Appl. Comput. Topol. 2(1\u20132), 55\u201360 (2018)",
+      "journal-title": "J. Appl. Comput. Topol."
+    },
+    {
+      "unstructured": "Hang, H., Giusti, C., Ziegelmeier, L., Henselman-Petrusek, G.: U-match factorization: sparse homological algebra, lazy cycle representatives, and dualities in persistent (co)homology (2021)",
+      "key": "165_CR17"
+    },
+    {
+      "unstructured": "Hang, H., Henselman-Petrusek, G.: Exact homological algebra for computational topology (ExHACT). https://github.com/ExHACT (2021)",
+      "key": "165_CR18"
+    },
+    {
+      "issue": "26",
+      "key": "165_CR19",
+      "doi-asserted-by": "publisher",
+      "first-page": "7035",
+      "DOI": "10.1073/pnas.1520877113",
+      "volume": "113",
+      "author": "Y Hiraoka",
+      "year": "2016",
+      "unstructured": "Hiraoka, Y., Nakamura, T., Hirata, A., Escolar, E.G., Matsue, K., Nishiura, Y.: Hierarchical structures of amorphous solids characterized by persistent homology. Proc. Natl. Acad. Sci. 113(26), 7035\u20137040 (2016)",
+      "journal-title": "Proc. Natl. Acad. Sci."
+    },
+    {
+      "unstructured": "Leygonie, J., Henselman-Petrusek, G.: Software Companion to Algorithmic Reconstruction of the Fiber of Persistent Homology on Cell Complexes. https://github.com/Eetion/phfibre (2022)",
+      "key": "165_CR20"
+    },
+    {
+      "doi-asserted-by": "crossref",
+      "unstructured": "Leygonie, J., Beers, D.: Fiber of persistent homology on morse functions. J. Appl. Comput. Topol. 7, 89\u2013102 (2022)",
+      "key": "165_CR21",
+      "DOI": "10.1007/s41468-022-00100-x"
+    },
+    {
+      "doi-asserted-by": "crossref",
+      "unstructured": "Leygonie, J., Tillmann, U.: The fiber of persistent homology for simplicial complexes. arXiv preprint arXiv:2104.01372 (2021)",
+      "key": "165_CR22",
+      "DOI": "10.1016/j.jpaa.2022.107099"
+    },
+    {
+      "doi-asserted-by": "crossref",
+      "unstructured": "Li, C., Ovsjanikov, M., Chazal F.: Persistence-based structural recognition. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 1995\u20132002 (2014)",
+      "key": "165_CR23",
+      "DOI": "10.1109/CVPR.2014.257"
+    },
+    {
+      "doi-asserted-by": "crossref",
+      "unstructured": "Mischaikow, K., Weibel, C.: Persistent homology with non-contractible preimages. arXiv preprint arXiv:2105.08130 (2021)",
+      "key": "165_CR24",
+      "DOI": "10.4310/HHA.2022.v24.n2.a16"
+    },
+    {
+      "issue": "3",
+      "key": "165_CR25",
+      "doi-asserted-by": "publisher",
+      "first-page": "799",
+      "DOI": "10.1007/s10208-014-9206-z",
+      "volume": "15",
+      "author": "JA Perea",
+      "year": "2015",
+      "unstructured": "Perea, J.A., Harer, J.: Sliding windows and persistence: an application of topological methods to signal analysis. Found. Comput. Math. 15(3), 799\u2013838 (2015)",
+      "journal-title": "Found. Comput. Math."
+    },
+    {
+      "issue": "4",
+      "key": "165_CR26",
+      "first-page": "310",
+      "volume": "3",
+      "author": "K Turner",
+      "year": "2014",
+      "unstructured": "Turner, K., Mukherjee, S., Boyer, D.M.: Persistent homology transform for modeling shapes and surfaces. Inf. Inference J. IMA 3(4), 310\u2013344 (2014)",
+      "journal-title": "Inf. Inference J. IMA"
+    },
+    {
+      "issue": "1",
+      "key": "165_CR27",
+      "doi-asserted-by": "publisher",
+      "first-page": "119",
+      "DOI": "10.1007/BF02564296",
+      "volume": "26",
+      "author": "A Weil",
+      "year": "1952",
+      "unstructured": "Weil, A.: Sur les th\u00e9oremes de de rham. Comment. Math. Helv 26(1), 119\u2013145 (1952)",
+      "journal-title": "Comment. Math. Helv"
+    },
+    {
+      "issue": "2",
+      "key": "165_CR28",
+      "doi-asserted-by": "publisher",
+      "first-page": "249",
+      "DOI": "10.1007/s00454-004-1146-y",
+      "volume": "33",
+      "author": "A Zomorodian",
+      "year": "2005",
+      "unstructured": "Zomorodian, A., Carlsson, G.: Computing persistent homology. Discrete Comput. Geom. 33(2), 249\u2013274 (2005)",
+      "journal-title": "Discrete Comput. Geom."
+    }
+  ],
+  "container-title": [
+    "Journal of Applied and Computational Topology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s41468-024-00165-w.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1007/s41468-024-00165-w/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s41468-024-00165-w.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        1
+      ]
+    ],
+    "date-time": "2024-11-01T17:04:59Z",
+    "timestamp": 1730480699000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/s41468-024-00165-w"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        18
+      ]
+    ]
+  },
+  "references-count": 28,
+  "journal-issue": {
+    "issue": "7",
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          11
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "165"
+  ],
+  "URL": "https://doi.org/10.1007/s41468-024-00165-w",
+  "relation": {},
+  "ISSN": [
+    "2367-1726",
+    "2367-1734"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "2367-1726"
+    },
+    {
+      "type": "electronic",
+      "value": "2367-1734"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        18
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "20 March 2022",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "27 July 2023",
+      "order": 2,
+      "name": "revised",
+      "label": "Revised",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "28 December 2023",
+      "order": 3,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "18 April 2024",
+      "order": 4,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Declarations"
+      }
+    },
+    {
+      "value": "The authors have no relevant financial or non-financial interests to disclose.",
+      "order": 2,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Conflict of interest"
+      }
+    }
+  ]
+}

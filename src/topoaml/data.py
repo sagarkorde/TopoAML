@@ -50,6 +50,8 @@ def validate_and_freeze():
     if path.exists() and path.read_bytes()!=payload:
         raise ValueError('Frozen partitions would change')
     path.write_bytes(payload)
+    published=ROOT/'data/splits';published.mkdir(exist_ok=True)
+    split[['txId','Time step','split']].to_csv(published/'ellipticpp_ids.csv',index=False)
     g,times=graph_and_times(f,e)
     report={'dataset':'Elliptic++ transaction release', 'samples':len(f),'nodes':len(g),'edges':len(e),
             'labels':f['class'].value_counts().to_dict(), 'missing':int(f.isna().sum().sum()),

@@ -1,0 +1,6 @@
+feature,mean_step_adjusted_difference,ci_low,ci_high,steps,note
+p_h0_life_mean,0.0,0.0,0.0,30,exploratory linear residual adjustment; not a causal or independent-neighborhood test
+p_h0_entropy,0.0018518660130351595,-0.002226828159814796,0.005662840109572103,30,exploratory linear residual adjustment; not a causal or independent-neighborhood test
+p_h1_life_mean,0.0073871979717767865,-0.003908388399349812,0.020346154818216677,30,exploratory linear residual adjustment; not a causal or independent-neighborhood test
+p_h1_entropy,0.003930869115451902,-0.0046255126362623996,0.012290931046794159,30,exploratory linear residual adjustment; not a causal or independent-neighborhood test
+p_h1_essential,0.0,0.0,0.0,30,exploratory linear residual adjustment; not a causal or independent-neighborhood test

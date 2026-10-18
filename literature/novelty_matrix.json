@@ -1,0 +1,66 @@
+[
+  [
+    "Work",
+    "Domain/task",
+    "Topology contribution",
+    "Temporal protocol relevance",
+    "TopoAML implication",
+    "Source"
+  ],
+  [
+    "PHGAT (2026)",
+    "IIoT anomaly detection",
+    "Persistent homology with GAT",
+    "Different dynamic sensor task",
+    "PH + GAT is prior art",
+    "https://doi.org/10.1016/j.eswa.2025.129923"
+  ],
+  [
+    "Grounded PPH (2025)",
+    "Weighted directed graphs",
+    "New directed invariant and stability",
+    "Not Bitcoin-specific",
+    "Undirected Rips is not grounded PPH",
+    "https://doi.org/10.1007/s10208-024-09679-2"
+  ],
+  [
+    "Elliptic++ (2023)",
+    "Transaction and wallet AML",
+    "Graph benchmark",
+    "49 coarse steps",
+    "Overlap with original Elliptic",
+    "https://doi.org/10.1145/3580305.3599803"
+  ],
+  [
+    "Elliptic2 (2024)",
+    "Subgraph AML",
+    "Subgraph representation benchmark",
+    "Separate official split required",
+    "External task, not node replication",
+    "https://arxiv.org/abs/2404.19109"
+  ],
+  [
+    "GraphSAGE (2017)",
+    "Node representation",
+    "Inductive aggregation",
+    "Supports unseen-node representations",
+    "Baseline, not new component",
+    "https://arxiv.org/abs/1706.02216"
+  ],
+  [
+    "GAT (2018)",
+    "Node classification",
+    "Neighborhood attention",
+    "Inductive/transductive settings",
+    "Baseline, not new component",
+    "https://arxiv.org/abs/1710.10903"
+  ],
+  [
+    "TopoAML (current)",
+    "Bitcoin transaction AML",
+    "Fixed persistence + structural controls",
+    "Step-close future holdout",
+    "Application/evaluation contribution only",
+    "Local specification and measured outputs"
+  ]
+]

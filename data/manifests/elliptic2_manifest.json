@@ -1,0 +1,41 @@
+{
+  "dataset": "Elliptic2 labeled-subgraph release",
+  "source": "https://www.kaggle.com/datasets/ellipticco/elliptic2-data-set",
+  "files": [
+    {
+      "name": "connected_components.csv",
+      "url": "https://www.kaggle.com/api/v1/datasets/download/ellipticco/elliptic2-data-set/connected_components.csv",
+      "sha256": "79511c49f76110d0feae7feda7e85279bc442efe31f5e7a9f53b2caf0019062b",
+      "bytes": 1610070
+    },
+    {
+      "name": "nodes.csv",
+      "url": "https://www.kaggle.com/api/v1/datasets/download/ellipticco/elliptic2-data-set/nodes.csv",
+      "sha256": "c39fe3ac90da31b0684ec2c55d52225aa41a8fa1edccff8aff5ae1fd8817de18",
+      "bytes": 7470115
+    },
+    {
+      "name": "edges.csv",
+      "url": "https://www.kaggle.com/api/v1/datasets/download/ellipticco/elliptic2-data-set/edges.csv",
+      "sha256": "cd5706110242ddb5505074f65287c45f1ff7dbfb52a0ef1c2e6a45da569e3ad0",
+      "bytes": 11356690
+    }
+  ],
+  "subgraphs": 121810,
+  "memberships": 444521,
+  "edges": 367137,
+  "labels": {
+    "licit": 119047,
+    "suspicious": 2763
+  },
+  "overlap_nodes": 0,
+  "license": "Provider dataset terms require verification; raw data not redistributed",
+  "protocol": "actual upstream preprocess_glass.py file-order counter modulo 10",
+  "scope": "within-subgraph structural/topology baselines; no full background graph, timestamps or original node attributes",
+  "limitations": [
+    "Not GLASS/GNNSeg/Sub2vec reproduction",
+    "No temporal generalization claim for Elliptic2",
+    "Inter-dataset independence of records not established"
+  ],
+  "split_sha256": "2e6c382aa5018a39bd57b0df1a981be5a2f0e12e79312c553a8629d96c1c74ce"
+}

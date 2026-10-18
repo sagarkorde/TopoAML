@@ -1,0 +1,795 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        17
+      ]
+    ],
+    "date-time": "2026-08-17T15:53:14Z",
+    "timestamp": 1786981994867,
+    "version": "build-2736575974"
+  },
+  "reference-count": 53,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            31
+          ]
+        ],
+        "date-time": "2024-01-31T00:00:00Z",
+        "timestamp": 1706659200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            31
+          ]
+        ],
+        "date-time": "2024-01-31T00:00:00Z",
+        "timestamp": 1706659200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Adv Data Anal Classif"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2025,
+        3
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Persistent homology is a methodology central to topological data analysis that extracts and summarizes the topological features within a dataset as a persistence diagram. It has recently gained much popularity from its myriad successful applications to many domains, however, its algebraic construction induces a metric space of persistence diagrams with a highly complex geometry. In this paper, we prove convergence of the\n                    <jats:italic>k</jats:italic>\n                    -means clustering algorithm on persistence diagram space and establish theoretical properties of the solution to the optimization problem in the Karush\u2013Kuhn\u2013Tucker framework. Additionally, we perform numerical experiments on both simulated and real data of various representations of persistent homology, including embeddings of persistence diagrams as well as diagrams themselves and their generalizations as persistence measures. We find that\n                    <jats:italic>k</jats:italic>\n                    -means clustering performance directly on persistence diagrams and measures outperform their vectorized representations.\n                  </jats:p>",
+  "DOI": "10.1007/s11634-023-00578-y",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        31
+      ]
+    ],
+    "date-time": "2024-01-31T04:03:12Z",
+    "timestamp": 1706673792000
+  },
+  "page": "95-119",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 8,
+  "title": [
+    "k-means clustering for persistent homology"
+  ],
+  "prefix": "10.1007",
+  "volume": "19",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-8856-2902",
+      "authenticated-orcid": false,
+      "given": "Yueqi",
+      "family": "Cao",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Prudence",
+      "family": "Leung",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Anthea",
+      "family": "Monod",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        31
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "issue": "8",
+      "key": "578_CR1",
+      "first-page": "1",
+      "volume": "18",
+      "author": "H Adams",
+      "year": "2017",
+      "unstructured": "Adams H, Emerson T, Kirby M, Neville R, Peterson C, Shipman P, Chepushtanova S, Hanson E, Motta F, Ziegelmeier L (2017) Persistence images: a stable vector representation of persistent homology. J Mach Learn Res 18(8):1\u201335",
+      "journal-title": "J Mach Learn Res"
+    },
+    {
+      "key": "578_CR3",
+      "unstructured": "Arthur D, Vassilvitskii S (2006) k-means++: The advantages of careful seeding. Technical Report 2006-13, Stanford InfoLab"
+    },
+    {
+      "issue": "2",
+      "key": "578_CR4",
+      "doi-asserted-by": "crossref",
+      "first-page": "204",
+      "DOI": "10.1080/17459737.2020.1786745",
+      "volume": "14",
+      "author": "MG Bergomi",
+      "year": "2020",
+      "unstructured": "Bergomi MG, Barat\u00e8 A (2020) Homological persistence in time series: an application to music classification. J Math Music 14(2):204\u2013221",
+      "journal-title": "J Math Music"
+    },
+    {
+      "issue": "3",
+      "key": "578_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "578",
+      "DOI": "10.1109/TRO.2015.2412051",
+      "volume": "31",
+      "author": "S Bhattacharya",
+      "year": "2015",
+      "unstructured": "Bhattacharya S, Ghrist R, Kumar V (2015) Persistent homology for path planning in uncertain environments. IEEE Transact Robot 31(3):578\u2013590. https://doi.org/10.1109/TRO.2015.2412051",
+      "journal-title": "IEEE Transact Robot"
+    },
+    {
+      "key": "578_CR6",
+      "first-page": "369",
+      "volume-title": "Regression analysis for interval-valued data, data analysis, classification, and related methods",
+      "author": "L Billard",
+      "year": "2000",
+      "unstructured": "Billard L, Diday E (2000) Regression analysis for interval-valued data, data analysis, classification, and related methods. Springer, pp 369\u2013374"
+    },
+    {
+      "key": "578_CR7",
+      "unstructured": "Blanchard M, Jaffe AQ (2022) Fr\u00e9chet mean set estimation in the hausdorff metric, via relaxation. arXiv preprint arXiv:2212.12057"
+    },
+    {
+      "key": "578_CR8",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1017/CBO9780511804441",
+      "volume-title": "Convex optimization",
+      "author": "SP Boyd",
+      "year": "2004",
+      "unstructured": "Boyd SP, Vandenberghe L (2004) Convex optimization. Cambridge University Press"
+    },
+    {
+      "issue": "3",
+      "key": "578_CR9",
+      "first-page": "77",
+      "volume": "16",
+      "author": "P Bubenik",
+      "year": "2015",
+      "unstructured": "Bubenik P (2015) Statistical topological data analysis using persistence landscapes. J Mach Learn Res 16(3):77\u2013102",
+      "journal-title": "J Mach Learn Res"
+    },
+    {
+      "key": "578_CR10",
+      "first-page": "77",
+      "volume": "16",
+      "author": "P Bubenik",
+      "year": "2015",
+      "unstructured": "Bubenik P (2015) Statistical topological data analysis using persistence landscapes. J Mach Learn Res 16:77\u2013102",
+      "journal-title": "J Mach Learn Res"
+    },
+    {
+      "issue": "3",
+      "key": "578_CR11",
+      "doi-asserted-by": "crossref",
+      "first-page": "449",
+      "DOI": "10.1080/03081087.2020.1733461",
+      "volume": "70",
+      "author": "L Cao",
+      "year": "2022",
+      "unstructured": "Cao L, McLaren D, Plosker S (2022) Centrosymmetric stochastic matrices. Linear Multilinear Algebr 70(3):449\u2013464",
+      "journal-title": "Linear Multilinear Algebr"
+    },
+    {
+      "key": "578_CR12",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1007/978-3-319-42545-0",
+      "volume-title": "The structure and stability of persistence modules",
+      "author": "F Chazal",
+      "year": "2016",
+      "unstructured": "Chazal F, De Silva V, Glisse M, Oudot S (2016) The structure and stability of persistence modules. Springer"
+    },
+    {
+      "issue": "531",
+      "key": "578_CR13",
+      "doi-asserted-by": "publisher",
+      "first-page": "1139",
+      "DOI": "10.1080/01621459.2019.1671198",
+      "volume": "115",
+      "author": "L Crawford",
+      "year": "2020",
+      "unstructured": "Crawford L, Monod A, Chen AX, Mukherjee S, Rabad\u00e1n R (2020) Predicting clinical outcomes in glioblastoma: an application of topological and functional data analysis. J Am Stat Assoc 115(531):1139\u20131150. https://doi.org/10.1080/01621459.2019.1671198",
+      "journal-title": "J Am Stat Assoc"
+    },
+    {
+      "key": "578_CR14",
+      "doi-asserted-by": "crossref",
+      "first-page": "126",
+      "DOI": "10.1016/j.ins.2015.06.039",
+      "volume": "324",
+      "author": "RC De Amorim",
+      "year": "2015",
+      "unstructured": "De Amorim RC, Hennig C (2015) Recovering the number of clusters in data sets with noise features using feature rescaling factors. Inf Sci 324:126\u2013145",
+      "journal-title": "Inf Sci"
+    },
+    {
+      "issue": "1",
+      "key": "578_CR15",
+      "doi-asserted-by": "publisher",
+      "first-page": "339",
+      "DOI": "10.2140/agt.2007.7.339",
+      "volume": "7",
+      "author": "V de Silva",
+      "year": "2007",
+      "unstructured": "de Silva V, Ghrist R (2007) Coverage in sensor networks via persistent homology. Algeb Geom Topol 7(1):339\u2013358. https://doi.org/10.2140/agt.2007.7.339",
+      "journal-title": "Algeb Geom Topol"
+    },
+    {
+      "issue": "2",
+      "key": "578_CR16",
+      "first-page": "127",
+      "volume": "10",
+      "author": "V Divol",
+      "year": "2019",
+      "unstructured": "Divol V, Chazal F (2019) The density of expected persistence diagrams and its kernel based estimation. J Comput Geom 10(2):127\u2013153",
+      "journal-title": "J Comput Geom"
+    },
+    {
+      "key": "578_CR17",
+      "unstructured": "Divol V, Lacombe T (2021) Estimation and quantization of expected persistence diagrams. International conference on machine learning, pp 2760\u20132770"
+    },
+    {
+      "issue": "1",
+      "key": "578_CR18",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1007/s41468-020-00061-z",
+      "volume": "5",
+      "author": "V Divol",
+      "year": "2021",
+      "unstructured": "Divol V, Lacombe T (2021) Understanding the topology and the geometry of the space of persistence diagrams via optimal partial transport. J Appl Comput Topol 5(1):1\u201353",
+      "journal-title": "J Appl Comput Topol"
+    },
+    {
+      "issue": "3",
+      "key": "578_CR19",
+      "doi-asserted-by": "publisher",
+      "first-page": "1102",
+      "DOI": "10.1214/09-AOAS249",
+      "volume": "3",
+      "author": "IL Dryden",
+      "year": "2009",
+      "unstructured": "Dryden IL, Koloydenko A, Zhou D (2009) Non-Euclidean statistics for covariance matrices, with applications to diffusion tensor imaging. Ann Appl Stat 3(3):1102\u20131123. https://doi.org/10.1214/09-AOAS249",
+      "journal-title": "Ann Appl Stat"
+    },
+    {
+      "issue": "4",
+      "key": "578_CR20",
+      "doi-asserted-by": "publisher",
+      "first-page": "511",
+      "DOI": "10.1007/s00454-002-2885-2",
+      "volume": "28",
+      "author": "Letscher Edelsbrunner",
+      "year": "2002",
+      "unstructured": "Edelsbrunner Letscher, Zomorodian (2002) Topological Persistence and Simplification. Discr Comput Geom 28(4):511\u2013533. https://doi.org/10.1007/s00454-002-2885-2",
+      "journal-title": "Discr Comput Geom"
+    },
+    {
+      "key": "578_CR21",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Emmett K, Schweinhart B, Rabadan R (2015) Multiscale topology of chromatin folding",
+      "DOI": "10.4108/eai.3-12-2015.2262453"
+    },
+    {
+      "issue": "78",
+      "key": "578_CR22",
+      "first-page": "1",
+      "volume": "22",
+      "author": "R Flamary",
+      "year": "2021",
+      "unstructured": "Flamary R, Courty N, Gramfort A, Alaya MZ, Boisbunon A, Chambon S, Chapel L, Corenflos A, Fatras K, Fournier N, Gautheron L, Gayraud NT, Janati H, Rakotomamonjy A, Redko I, Rolet A, Schutz A, Seguy V, Sutherland DJ, Tavenard R, Tong A, Vayer T (2021) Pot: python optimal transport. J Mach Learn Res 22(78):1\u20138",
+      "journal-title": "J Mach Learn Res"
+    },
+    {
+      "key": "578_CR23",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Frosini P (1992) Measuring shapes by size functions. In: Intelligent robots and computer vision X: algorithms and techniques, vol 1607, pp 122\u2013134. International society for optics and photonics",
+      "DOI": "10.1117/12.57059"
+    },
+    {
+      "issue": "4",
+      "key": "578_CR24",
+      "doi-asserted-by": "publisher",
+      "first-page": "327",
+      "DOI": "10.1007/s002000100078",
+      "volume": "12",
+      "author": "P Frosini",
+      "year": "2001",
+      "unstructured": "Frosini P, Landi C (2001) Size functions and formal series. Appl Algebr Eng Commun Comput 12(4):327\u2013349. https://doi.org/10.1007/s002000100078",
+      "journal-title": "Appl Algebr Eng Commun Comput"
+    },
+    {
+      "key": "578_CR25",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1007/s13160-014-0153-5",
+      "volume": "32",
+      "author": "M Gameiro",
+      "year": "2014",
+      "unstructured": "Gameiro M, Hiraoka Y, Izumi S, Kram\u00e1r M, Mischaikow K, Nanda V (2014) A topological measurement of protein compressibility. Japan J Ind Appl Math 32:1\u201317. https://doi.org/10.1007/s13160-014-0153-5",
+      "journal-title": "Japan J Ind Appl Math"
+    },
+    {
+      "issue": "1",
+      "key": "578_CR26",
+      "doi-asserted-by": "crossref",
+      "first-page": "61",
+      "DOI": "10.1090/S0273-0979-07-01191-3",
+      "volume": "45",
+      "author": "R Ghrist",
+      "year": "2008",
+      "unstructured": "Ghrist R (2008) Barcodes: the persistent topology of data. Bull Am Math Soc 45(1):61\u201375",
+      "journal-title": "Bull Am Math Soc"
+    },
+    {
+      "issue": "3",
+      "key": "578_CR27",
+      "doi-asserted-by": "crossref",
+      "first-page": "165",
+      "DOI": "10.1002/hbm.1031",
+      "volume": "13",
+      "author": "C Goutte",
+      "year": "2001",
+      "unstructured": "Goutte C, Hansen LK, Liptrot MG, Rostrup E (2001) Feature-space clustering for FMRI meta-analysis. Human Brain Mapp 13(3):165\u2013183",
+      "journal-title": "Human Brain Mapp"
+    },
+    {
+      "issue": "1",
+      "key": "578_CR28",
+      "doi-asserted-by": "publisher",
+      "first-page": "100",
+      "DOI": "10.2307/2346830",
+      "volume": "28",
+      "author": "JA Hartigan",
+      "year": "1979",
+      "unstructured": "Hartigan JA, Wong MA (1979) Algorithm AS 136: a $$k$$-means clustering algorithm. Appl Stat 28(1):100. https://doi.org/10.2307/2346830",
+      "journal-title": "Appl Stat"
+    },
+    {
+      "issue": "26",
+      "key": "578_CR29",
+      "doi-asserted-by": "crossref",
+      "first-page": "7035",
+      "DOI": "10.1073/pnas.1520877113",
+      "volume": "113",
+      "author": "Y Hiraoka",
+      "year": "2016",
+      "unstructured": "Hiraoka Y, Nakamura T, Hirata A, Escolar EG, Matsue K, Nishiura Y (2016) Hierarchical structures of amorphous solids characterized by persistent homology. Proc Natl Acad Sci 113(26):7035\u20137040",
+      "journal-title": "Proc Natl Acad Sci"
+    },
+    {
+      "issue": "1",
+      "key": "578_CR30",
+      "doi-asserted-by": "publisher",
+      "first-page": "193",
+      "DOI": "10.1007/BF01908075",
+      "volume": "2",
+      "author": "L Hubert",
+      "year": "1985",
+      "unstructured": "Hubert L, Arabie P (1985) Comparing partitions. Journal of Classification 2(1):193\u2013218. https://doi.org/10.1007/BF01908075",
+      "journal-title": "Journal of Classification"
+    },
+    {
+      "issue": "4",
+      "key": "578_CR31",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/env.2539",
+      "volume": "30",
+      "author": "U Islambekov",
+      "year": "2019",
+      "unstructured": "Islambekov U, Gel YR (2019) Unsupervised space-time clustering using persistent homology. Environmetrics 30(4):e2539. https://doi.org/10.1002/env.2539",
+      "journal-title": "Environmetrics"
+    },
+    {
+      "key": "578_CR32",
+      "doi-asserted-by": "publisher",
+      "first-page": "202042",
+      "DOI": "10.1109/ACCESS.2020.3036370",
+      "volume": "8",
+      "author": "MS Ismail",
+      "year": "2020",
+      "unstructured": "Ismail MS, Hussain SI, Noorani MSM (2020) Detecting early warning signals of major financial crashes in bitcoin using persistent homology. IEEE Access 8:202042\u2013202057. https://doi.org/10.1109/ACCESS.2020.3036370",
+      "journal-title": "IEEE Access"
+    },
+    {
+      "key": "578_CR33",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1515/sagmb-2015-0057",
+      "author": "V Kovacev-Nikolic",
+      "year": "2016",
+      "unstructured": "Kovacev-Nikolic V, Bubenik P, Nikoli\u0107 D, Heo G (2016) Using persistent homology and dynamical distances to analyze protein binding. Stat Appl Genet Mol Biol. https://doi.org/10.1515/sagmb-2015-0057",
+      "journal-title": "Stat Appl Genet Mol Biol"
+    },
+    {
+      "key": "578_CR34",
+      "unstructured": "Lacombe T, Cuturi M, Oudot S (2018) Large scale computation of means and clusters for persistence diagrams using optimal transport. arXiv:1805.08331 [cs, stat]"
+    },
+    {
+      "issue": "1",
+      "key": "578_CR35",
+      "doi-asserted-by": "publisher",
+      "first-page": "101",
+      "DOI": "10.1239/aap/1013540025",
+      "volume": "32",
+      "author": "H Le",
+      "year": "2000",
+      "unstructured": "Le H, Kume A (2000) The fr\u00e9chet mean shape and the shape of the means. Adv Appl Probab 32(1):101\u2013113. https://doi.org/10.1239/aap/1013540025",
+      "journal-title": "Adv Appl Probab"
+    },
+    {
+      "key": "578_CR36",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.eswa.2020.113868",
+      "volume": "162",
+      "author": "S Majumdar",
+      "year": "2020",
+      "unstructured": "Majumdar S, Laha AK (2020) Clustering and classification of time series using topological data analysis with applications to finance. Expert Syst Appl 162:113868. https://doi.org/10.1016/j.eswa.2020.113868",
+      "journal-title": "Expert Syst Appl"
+    },
+    {
+      "key": "578_CR37",
+      "doi-asserted-by": "publisher",
+      "first-page": "103940W",
+      "DOI": "10.1117/12.2273067",
+      "volume": "10394",
+      "author": "A Marchese",
+      "year": "2017",
+      "unstructured": "Marchese A, Maroulas V, Mike J (2017) $$K$$-means clustering on the space of persistence diagrams. Wavel Sparsity XVII 10394:103940W. https://doi.org/10.1117/12.2273067",
+      "journal-title": "Wavel Sparsity XVII"
+    },
+    {
+      "issue": "12",
+      "key": "578_CR38",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1088/0266-5611/27/12/124007",
+      "volume": "27",
+      "author": "Y Mileyko",
+      "year": "2011",
+      "unstructured": "Mileyko Y, Mukherjee S, Harer J (2011) Probability measures on the space of persistence diagrams. Invers Probl 27(12):124007. https://doi.org/10.1088/0266-5611/27/12/124007",
+      "journal-title": "Invers Probl"
+    },
+    {
+      "key": "578_CR39",
+      "unstructured": "Miolane N, Guigui N, Le\u00a0Brigant A, Mathe J, Hou B, Thanwerdas Y, Heyder S, Peltre O, Koep N, Zaatiti H, Hajri H, Cabanes Y, Gerald T, Chauchat P, Shewmake C, Brooks D, Kainz B, Donnat C, Holmes S, Pennec X (2020) Geomstats: a python package for riemannian geometry in machine learning. J Mach Learn Res\u00a021(1)"
+    },
+    {
+      "issue": "2",
+      "key": "578_CR40",
+      "doi-asserted-by": "publisher",
+      "first-page": "337",
+      "DOI": "10.1137/17M1148037",
+      "volume": "3",
+      "author": "A Monod",
+      "year": "2019",
+      "unstructured": "Monod A, Kali\u0161nik S, Patino-Galindo JA, Crawford L (2019) Tropical sufficient statistics for persistent homology. SIAM J Appl Algebr Geom 3(2):337\u2013371. https://doi.org/10.1137/17M1148037",
+      "journal-title": "SIAM J Appl Algebr Geom"
+    },
+    {
+      "key": "578_CR41",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1021/acs.jctc.2c01204",
+      "author": "B Murayama",
+      "year": "2023",
+      "unstructured": "Murayama B, Kobayashi M, Aoki M, Ishibashi S, Saito T, Nakamura T, Teramoto H, Taketsugu T (2023) Characterizing reaction route map of realistic molecular reactions based on weight rank clique filtration of persistent homology. J Chem Theor Comput. https://doi.org/10.1021/acs.jctc.2c01204",
+      "journal-title": "J Chem Theor Comput"
+    },
+    {
+      "issue": "1",
+      "key": "578_CR42",
+      "doi-asserted-by": "publisher",
+      "first-page": "17",
+      "DOI": "10.1140/epjds/s13688-017-0109-5",
+      "volume": "6",
+      "author": "N Otter",
+      "year": "2017",
+      "unstructured": "Otter N, Porter MA, Tillmann U, Grindrod P, Harrington HA (2017) A roadmap for the computation of persistent homology. EPJ Data Sci 6(1):17. https://doi.org/10.1140/epjds/s13688-017-0109-5",
+      "journal-title": "EPJ Data Sci"
+    },
+    {
+      "key": "578_CR43",
+      "unstructured": "Panagopoulos D (2022) Topological data analysis and clustering. arXiv preprint arXiv:2201.09054"
+    },
+    {
+      "issue": "1",
+      "key": "578_CR44",
+      "doi-asserted-by": "crossref",
+      "first-page": "103",
+      "DOI": "10.1243/095440605X8298",
+      "volume": "219",
+      "author": "DT Pham",
+      "year": "2005",
+      "unstructured": "Pham DT, Dimov SS, Nguyen CD (2005) Selection of k in k-means clustering. Proc Inst Mech Eng Part C J Mech Eng Sci 219(1):103\u2013119",
+      "journal-title": "Proc Inst Mech Eng Part C J Mech Eng Sci"
+    },
+    {
+      "issue": "1\u20133",
+      "key": "578_CR45",
+      "doi-asserted-by": "publisher",
+      "first-page": "204",
+      "DOI": "10.1177/0278364915586713",
+      "volume": "35",
+      "author": "FT Pokorny",
+      "year": "2016",
+      "unstructured": "Pokorny FT, Hawasly M, Ramamoorthy S (2016) Topological trajectory classification with filtrations of simplicial complexes and persistent homology. Int J Robot Res 35(1\u20133):204\u2013223. https://doi.org/10.1177/0278364915586713",
+      "journal-title": "Int J Robot Res"
+    },
+    {
+      "key": "578_CR46",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Reininghaus J, Huber S, Bauer U, Kwitt R (2015) A stable multi-scale kernel for topological machine learning. In: 2015 IEEE conference on computer vision and pattern recognition (CVPR), Boston, MA, USA, pp 4741\u20134748. IEEE",
+      "DOI": "10.1109/CVPR.2015.7299106"
+    },
+    {
+      "key": "578_CR47",
+      "doi-asserted-by": "crossref",
+      "first-page": "81",
+      "DOI": "10.1109/TPAMI.1984.4767478",
+      "volume": "1",
+      "author": "SZ Selim",
+      "year": "1984",
+      "unstructured": "Selim SZ, Ismail MA (1984) K-means-type algorithms: a generalized convergence theorem and characterization of local optimality. IEEE Transact Pattern Anal Mach Intell 1:81\u201387",
+      "journal-title": "IEEE Transact Pattern Anal Mach Intell"
+    },
+    {
+      "issue": "3",
+      "key": "578_CR48",
+      "doi-asserted-by": "crossref",
+      "first-page": "399",
+      "DOI": "10.1145/1015706.1015736",
+      "volume": "23",
+      "author": "RW Sumner",
+      "year": "2004",
+      "unstructured": "Sumner RW, Popovi\u0107 J (2004) Deformation transfer for triangle meshes. ACM Transact Graph (TOG) 23(3):399\u2013405",
+      "journal-title": "ACM Transact Graph (TOG)"
+    },
+    {
+      "issue": "4",
+      "key": "578_CR49",
+      "doi-asserted-by": "crossref",
+      "first-page": "267",
+      "DOI": "10.1007/BF02289263",
+      "volume": "18",
+      "author": "RL Thorndike",
+      "year": "1953",
+      "unstructured": "Thorndike RL (1953) Who belongs in the family? Psychometrika 18(4):267\u2013276",
+      "journal-title": "Psychometrika"
+    },
+    {
+      "issue": "1",
+      "key": "578_CR50",
+      "doi-asserted-by": "crossref",
+      "first-page": "44",
+      "DOI": "10.1007/s00454-014-9604-7",
+      "volume": "52",
+      "author": "K Turner",
+      "year": "2014",
+      "unstructured": "Turner K, Mileyko Y, Mukherjee S, Harer J (2014) Fr\u00e9chet means for distributions of persistence diagrams. Discr Comput Geom 52(1):44\u201370",
+      "journal-title": "Discr Comput Geom"
+    },
+    {
+      "issue": "1",
+      "key": "578_CR51",
+      "doi-asserted-by": "publisher",
+      "first-page": "101",
+      "DOI": "10.1016/j.nahs.2012.07.006",
+      "volume": "7",
+      "author": "R Vasudevan",
+      "year": "2013",
+      "unstructured": "Vasudevan R, Ames A, Bajcsy R (2013) Persistent homology for automatic determination of human-data based cost of bipedal walking. Nonlinear Anal Hybrid Syst 7(1):101\u2013115. https://doi.org/10.1016/j.nahs.2012.07.006",
+      "journal-title": "Nonlinear Anal Hybrid Syst"
+    },
+    {
+      "issue": "2",
+      "key": "578_CR52",
+      "doi-asserted-by": "publisher",
+      "first-page": "99",
+      "DOI": "10.1007/BF00200823",
+      "volume": "70",
+      "author": "A Verri",
+      "year": "1993",
+      "unstructured": "Verri A, Uras C, Frosini P, Ferri M (1993) On the use of size functions for shape analysis. Biol Cybern 70(2):99\u2013107. https://doi.org/10.1007/BF00200823",
+      "journal-title": "Biol Cybern"
+    },
+    {
+      "key": "578_CR53",
+      "unstructured": "Xia K, Li Z, Mu L (2016) Multiscale persistent functions for biomolecular structure characterization"
+    },
+    {
+      "issue": "2",
+      "key": "578_CR54",
+      "doi-asserted-by": "publisher",
+      "first-page": "249",
+      "DOI": "10.1007/s00454-004-1146-y",
+      "volume": "33",
+      "author": "A Zomorodian",
+      "year": "2005",
+      "unstructured": "Zomorodian A, Carlsson G (2005) Computing persistent homology. Discr Comput Geom 33(2):249\u2013274. https://doi.org/10.1007/s00454-004-1146-y",
+      "journal-title": "Discr Comput Geom"
+    }
+  ],
+  "container-title": [
+    "Advances in Data Analysis and Classification"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s11634-023-00578-y.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1007/s11634-023-00578-y/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s11634-023-00578-y.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        30
+      ]
+    ],
+    "date-time": "2025-03-30T12:50:28Z",
+    "timestamp": 1743339028000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/s11634-023-00578-y"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        31
+      ]
+    ]
+  },
+  "references-count": 53,
+  "journal-issue": {
+    "issue": "1",
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          3
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "578"
+  ],
+  "URL": "https://doi.org/10.1007/s11634-023-00578-y",
+  "relation": {},
+  "ISSN": [
+    "1862-5347",
+    "1862-5355"
+  ],
+  "issn-type": [
+    {
+      "value": "1862-5347",
+      "type": "print"
+    },
+    {
+      "value": "1862-5355",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        31
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "1 March 2023",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "29 December 2023",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "31 January 2024",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    }
+  ]
+}

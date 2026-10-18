@@ -1,0 +1,737 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        29
+      ]
+    ],
+    "date-time": "2026-04-29T02:17:06Z",
+    "timestamp": 1777429026618,
+    "version": "3.51.4"
+  },
+  "reference-count": 46,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "2",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            20
+          ]
+        ],
+        "date-time": "2024-01-20T00:00:00Z",
+        "timestamp": 1705708800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            20
+          ]
+        ],
+        "date-time": "2024-01-20T00:00:00Z",
+        "timestamp": 1705708800000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "funder": [
+    {
+      "name": "National Science Foundation",
+      "award": [
+        "CCF-2006661"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "CCF-2006661"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CAREER Award",
+      "award": [
+        "DMS-1943758"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "DMS-1943758"
+          ]
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "J Appl. and Comput. Topology"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        6
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Matrix reduction is the standard procedure for computing the persistent homology of a filtered simplicial complex with<jats:italic>m</jats:italic>simplices. Its output is a particular decomposition of the total boundary matrix, from which the persistence diagrams and generating cycles are derived. Persistence diagrams are known to vary continuously with respect to their input, motivating the study of their computation for time-varying filtered complexes. Computing persistence dynamically can be reduced to maintaining a valid decomposition under adjacent transpositions in the filtration order. Since there are<jats:inline-formula><jats:alternatives><jats:tex-math>$$O(m^2)$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mrow><mml:mi>O</mml:mi><mml:mo>(</mml:mo><mml:msup><mml:mi>m</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>)</mml:mo></mml:mrow></mml:math></jats:alternatives></jats:inline-formula>such transpositions, this maintenance procedure exhibits limited scalability and is often too fine for many applications. We propose a coarser strategy for maintaining the decomposition over a 1-parameter family of filtrations. By reduction to a particular longest common subsequence problem, we show that the minimal number of decomposition updates<jats:italic>d</jats:italic>can be found in<jats:inline-formula><jats:alternatives><jats:tex-math>$$O(m \\log \\log m)$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mrow><mml:mi>O</mml:mi><mml:mo>(</mml:mo><mml:mi>m</mml:mi><mml:mo>log</mml:mo><mml:mo>log</mml:mo><mml:mi>m</mml:mi><mml:mo>)</mml:mo></mml:mrow></mml:math></jats:alternatives></jats:inline-formula>time and<jats:italic>O</jats:italic>(<jats:italic>m</jats:italic>) space, and that the corresponding sequence of permutations\u2014which we call a<jats:italic>schedule</jats:italic>\u2014can be constructed in<jats:inline-formula><jats:alternatives><jats:tex-math>$$O(d m \\log m)$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mrow><mml:mi>O</mml:mi><mml:mo>(</mml:mo><mml:mi>d</mml:mi><mml:mi>m</mml:mi><mml:mo>log</mml:mo><mml:mi>m</mml:mi><mml:mo>)</mml:mo></mml:mrow></mml:math></jats:alternatives></jats:inline-formula>time. We also show that, in expectation, the storage needed to employ this strategy is actually sublinear in<jats:italic>m</jats:italic>. Exploiting this connection, we show experimentally that the decrease in operations to compute diagrams across a family of filtrations is proportional to the difference between the expected quadratic number of states and the proposed sublinear coarsening. Applications to video data, dynamic metric space data, and multiparameter persistence are also presented.</jats:p>",
+  "DOI": "10.1007/s41468-023-00156-3",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        20
+      ]
+    ],
+    "date-time": "2024-01-20T09:02:16Z",
+    "timestamp": 1705741336000
+  },
+  "page": "301-345",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "Move schedules: fast persistence computations in coarse dynamic settings"
+  ],
+  "prefix": "10.1007",
+  "volume": "8",
+  "author": [
+    {
+      "given": "Matthew",
+      "family": "Piekenbrock",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Jose A.",
+      "family": "Perea",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        20
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "156_CR1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Abboud, A., Backurs, A., Williams, V.V.: Tight hardness results for lcs and other sequence similarity measures. In: 2015 IEEE 56th Annual Symposium on Foundations of Computer Science, pp. 59\u201378 (2015). IEEE",
+      "DOI": "10.1109/FOCS.2015.14"
+    },
+    {
+      "key": "156_CR2",
+      "first-page": "1",
+      "volume": "18",
+      "author": "H Adams",
+      "year": "2017",
+      "unstructured": "Adams, H., Emerson, T., Kirby, M., Neville, R., Peterson, C., Shipman, P., Chepushtanova, S., Hanson, E., Motta, F., Ziegelmeier, L.: Persistence images: a stable vector representation of persistent homology. J. Mach. Learn. Res. 18, 1\u201335 (2017)",
+      "journal-title": "J. Mach. Learn. Res."
+    },
+    {
+      "issue": "4",
+      "key": "156_CR3",
+      "doi-asserted-by": "publisher",
+      "first-page": "1119",
+      "DOI": "10.1090/S0894-0347-99-00307-0",
+      "volume": "12",
+      "author": "J Baik",
+      "year": "1999",
+      "unstructured": "Baik, J., Deift, P., Johansson, K.: On the distribution of the length of the longest increasing subsequence of random permutations. J. Am. Math. Soc. 12(4), 1119\u20131178 (1999)",
+      "journal-title": "J. Am. Math. Soc."
+    },
+    {
+      "key": "156_CR4",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1007/s41468-020-00061-z",
+      "volume": "5",
+      "author": "U Bauer",
+      "year": "2021",
+      "unstructured": "Bauer, U.: Ripser: efficient computation of vietoris-rips persistence barcodes. J. Appl. Comput. Topol. 5, 1\u201333 (2021)",
+      "journal-title": "J. Appl. Comput. Topol."
+    },
+    {
+      "key": "156_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "76",
+      "DOI": "10.1016/j.jsc.2016.03.008",
+      "volume": "78",
+      "author": "U Bauer",
+      "year": "2017",
+      "unstructured": "Bauer, U., Kerber, M., Reininghaus, J., Wagner, H.: Phat-persistent homology algorithms toolbox. J. Symb. Comput. 78, 76\u201390 (2017)",
+      "journal-title": "J. Symb. Comput."
+    },
+    {
+      "key": "156_CR6",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Bergroth, L., Hakonen, H., Raita, T.: A survey of longest common subsequence algorithms. In: Proceedings Seventh International Symposium on String Processing and Information Retrieval. SPIRE 2000, pp. 39\u201348 (2000). IEEE",
+      "DOI": "10.1109/SPIRE.2000.878178"
+    },
+    {
+      "issue": "1\u20132",
+      "key": "156_CR7",
+      "doi-asserted-by": "publisher",
+      "first-page": "7",
+      "DOI": "10.1016/S0020-0190(00)00124-1",
+      "volume": "76",
+      "author": "S Bespamyatnikh",
+      "year": "2000",
+      "unstructured": "Bespamyatnikh, S., Segal, M.: Enumerating longest increasing subsequences and patience sorting. Inf. Process. Lett. 76(1\u20132), 7\u201311 (2000)",
+      "journal-title": "Inf. Process. Lett."
+    },
+    {
+      "issue": "7",
+      "key": "156_CR8",
+      "doi-asserted-by": "publisher",
+      "first-page": "1813",
+      "DOI": "10.1016/j.disc.2007.12.088",
+      "volume": "309",
+      "author": "T Biedl",
+      "year": "2009",
+      "unstructured": "Biedl, T., Brandenburg, F.J., Deng, X.: On the complexity of crossings in permutations. Discret. Math. 309(7), 1813\u20131823 (2009)",
+      "journal-title": "Discret. Math."
+    },
+    {
+      "key": "156_CR9",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Blelloch, G.E., Reid-Miller, M.: Fast set operations using treaps. In: Proceedings of the Tenth Annual ACM Symposium on Parallel Algorithms and Architectures, pp. 16\u201326 (1998)",
+      "DOI": "10.1145/277651.277660"
+    },
+    {
+      "issue": "4",
+      "key": "156_CR10",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1145/3229146",
+      "volume": "14",
+      "author": "J-D Boissonnat",
+      "year": "2018",
+      "unstructured": "Boissonnat, J.-D., Karthik, C.S.: An efficient representation for filtrations of simplicial complexes. ACM Trans. Algorithms TALG 14(4), 1\u201321 (2018)",
+      "journal-title": "ACM Trans. Algorithms TALG"
+    },
+    {
+      "issue": "5",
+      "key": "156_CR11",
+      "doi-asserted-by": "publisher",
+      "first-page": "1401",
+      "DOI": "10.1137/S0097539797329373",
+      "volume": "29",
+      "author": "J-D Boissonnat",
+      "year": "2000",
+      "unstructured": "Boissonnat, J.-D., Preparata, F.P.: Robust plane sweep for intersecting segments. SIAM J. Comput. 29(5), 1401\u20131421 (2000)",
+      "journal-title": "SIAM J. Comput."
+    },
+    {
+      "issue": "1",
+      "key": "156_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "35",
+      "DOI": "10.1016/S0925-7721(99)00057-7",
+      "volume": "16",
+      "author": "J-D Boissonnat",
+      "year": "2000",
+      "unstructured": "Boissonnat, J.-D., Snoeyink, J.: Efficient algorithms for line and curve segment intersection using restricted predicates. Comput. Geom. 16(1), 35\u201352 (2000)",
+      "journal-title": "Comput. Geom."
+    },
+    {
+      "key": "156_CR13",
+      "unstructured": "Buchet, M., Chazal, F., Dey, T.K., Fan, F., Oudot, S.Y., Wang, Y.: Topological analysis of scalar fields with outliers. In: 31st International Symposium on Computational Geometry, pp. 827\u2013841 (2015). Schloss Dagstuhl, Leibniz-Zentrum f\u00fc Informatik GmbH"
+    },
+    {
+      "issue": "04",
+      "key": "156_CR14",
+      "doi-asserted-by": "publisher",
+      "first-page": "539",
+      "DOI": "10.1142/S1793830910000875",
+      "volume": "2",
+      "author": "O Busaryev",
+      "year": "2010",
+      "unstructured": "Busaryev, O., Dey, T.K., Wang, Y.: Tracking a generator by persistence. Discret. Math. Algorithms Appl. 2(04), 539\u2013552 (2010)",
+      "journal-title": "Discret. Math. Algorithms Appl."
+    },
+    {
+      "issue": "1",
+      "key": "156_CR15",
+      "doi-asserted-by": "publisher",
+      "first-page": "71",
+      "DOI": "10.1007/s00454-009-9176-0",
+      "volume": "42",
+      "author": "G Carlsson",
+      "year": "2009",
+      "unstructured": "Carlsson, G., Zomorodian, A.: The theory of multidimensional persistence. Discret. Comput. Geom. 42(1), 71\u201393 (2009)",
+      "journal-title": "Discret. Comput. Geom."
+    },
+    {
+      "issue": "1",
+      "key": "156_CR16",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1007/s11263-007-0056-x",
+      "volume": "76",
+      "author": "G Carlsson",
+      "year": "2008",
+      "unstructured": "Carlsson, G., Ishkhanov, T., De Silva, V., Zomorodian, A.: On the local behavior of spaces of natural images. Int. J. Comput. Vision 76(1), 1\u201312 (2008)",
+      "journal-title": "Int. J. Comput. Vision"
+    },
+    {
+      "key": "156_CR17",
+      "unstructured": "Chen, C., Kerber, M.: Persistent homology computation with a twist. In: Proceedings 27th European workshop on computational geometry, vol. 11, pp. 197\u2013200 (2011)"
+    },
+    {
+      "issue": "4",
+      "key": "156_CR18",
+      "doi-asserted-by": "publisher",
+      "first-page": "435",
+      "DOI": "10.1016/j.comgeo.2012.02.010",
+      "volume": "46",
+      "author": "C Chen",
+      "year": "2013",
+      "unstructured": "Chen, C., Kerber, M.: An output-sensitive algorithm for persistent homology. Comput. Geom. 46(4), 435\u2013447 (2013)",
+      "journal-title": "Comput. Geom."
+    },
+    {
+      "key": "156_CR19",
+      "first-page": "1",
+      "volume-title": "Operations Research Forum",
+      "author": "N Christofides",
+      "year": "2022",
+      "unstructured": "Christofides, N.: Worst-case analysis of a new heuristic for the travelling salesman problem. In: Operations Research Forum, vol. 3, pp. 1\u20134. Springer, Berlin (2022)"
+    },
+    {
+      "key": "156_CR20",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Cohen-Steiner, D., Edelsbrunner, H., Morozov, D.: Vines and vineyards by updating persistence in linear time. In: Proceedings of the Twenty-second Annual Symposium on Computational Geometry, pp. 119\u2013126 (2006)",
+      "DOI": "10.1145/1137856.1137877"
+    },
+    {
+      "issue": "1",
+      "key": "156_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "103",
+      "DOI": "10.1007/s00454-006-1276-5",
+      "volume": "37",
+      "author": "D Cohen-Steiner",
+      "year": "2007",
+      "unstructured": "Cohen-Steiner, D., Edelsbrunner, H., Harer, J.: Stability of persistence diagrams. Discret. Comput. Geom. 37(1), 103\u2013120 (2007)",
+      "journal-title": "Discret. Comput. Geom."
+    },
+    {
+      "issue": "12",
+      "key": "156_CR22",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1088/0266-5611/27/12/124003",
+      "volume": "27",
+      "author": "V De Silva",
+      "year": "2011",
+      "unstructured": "De Silva, V., Morozov, D., Vejdemo-Johansson, M.: Dualities in persistent (co) homology. Inverse Prob. 27(12), 124003 (2011)",
+      "journal-title": "Inverse Prob."
+    },
+    {
+      "issue": "7",
+      "key": "156_CR23",
+      "doi-asserted-by": "publisher",
+      "first-page": "771",
+      "DOI": "10.1016/0167-8396(95)00016-Y",
+      "volume": "12",
+      "author": "CJA Delfinado",
+      "year": "1995",
+      "unstructured": "Delfinado, C.J.A., Edelsbrunner, H.: An incremental algorithm for Betti numbers of simplicial complexes on the 3-sphere. Comput. Aided Geom. Design 12(7), 771\u2013784 (1995)",
+      "journal-title": "Comput. Aided Geom. Design"
+    },
+    {
+      "issue": "2",
+      "key": "156_CR24",
+      "doi-asserted-by": "publisher",
+      "first-page": "262",
+      "DOI": "10.1111/j.2517-6161.1977.tb01624.x",
+      "volume": "39",
+      "author": "P Diaconis",
+      "year": "1977",
+      "unstructured": "Diaconis, P., Graham, R.L.: Spearman\u2019s footrule as a measure of disarray. J. Roy. Stat. Soc.: Ser. B (Methodol.) 39(2), 262\u2013268 (1977)",
+      "journal-title": "J. Roy. Stat. Soc.: Ser. B (Methodol.)"
+    },
+    {
+      "issue": "1\u20133",
+      "key": "156_CR25",
+      "doi-asserted-by": "publisher",
+      "first-page": "455",
+      "DOI": "10.1016/j.tcs.2006.05.024",
+      "volume": "359",
+      "author": "LP Dinu",
+      "year": "2006",
+      "unstructured": "Dinu, L.P., Manea, F.: An efficient approach for the rank aggregation problem. Theoret. Comput. Sci. 359(1\u20133), 455\u2013461 (2006)",
+      "journal-title": "Theoret. Comput. Sci."
+    },
+    {
+      "key": "156_CR26",
+      "unstructured": "Edelsbrunner, H., Letscher, D., Zomorodian, A.: Topological persistence and simplification. In: Proceedings 41st annual symposium on foundations of computer science, pp. 454\u2013463 (2000). IEEE"
+    },
+    {
+      "key": "156_CR27",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Kapron, B.M., King, V., Mountjoy, B.: Dynamic graph connectivity in polylogarithmic worst case time. In: Proceedings of the twenty-fourth annual ACM-SIAM symposium on discrete algorithms, pp. 1131\u20131142 (2013). SIAM",
+      "DOI": "10.1137/1.9781611973105.81"
+    },
+    {
+      "key": "156_CR28",
+      "first-page": "1",
+      "volume": "66",
+      "author": "W Kim",
+      "year": "2020",
+      "unstructured": "Kim, W., M\u00e9moli, F.: Spatiotemporal persistent homology for dynamic metric spaces. Discret. Comput. Geom. 66, 1\u201345 (2020)",
+      "journal-title": "Discret. Comput. Geom."
+    },
+    {
+      "issue": "3",
+      "key": "156_CR29",
+      "doi-asserted-by": "publisher",
+      "first-page": "353",
+      "DOI": "10.1007/BF00265993",
+      "volume": "24",
+      "author": "SK Kumar",
+      "year": "1987",
+      "unstructured": "Kumar, S.K., Rangan, C.P.: A linear space algorithm for the lcs problem. Acta Inf. 24(3), 353\u2013362 (1987)",
+      "journal-title": "Acta Inf."
+    },
+    {
+      "issue": "3",
+      "key": "156_CR30",
+      "doi-asserted-by": "publisher",
+      "first-page": "1410",
+      "DOI": "10.1137/13090897X",
+      "volume": "27",
+      "author": "A Labarre",
+      "year": "2013",
+      "unstructured": "Labarre, A.: Lower bounding edit distances between permutations. SIAM J. Discret. Math. 27(3), 1410\u20131428 (2013)",
+      "journal-title": "SIAM J. Discret. Math."
+    },
+    {
+      "key": "156_CR31",
+      "unstructured": "Landi, C.: The rank invariant stability via interleavings. arXiv preprint arXiv:1412.3374 (2014)"
+    },
+    {
+      "issue": "1",
+      "key": "156_CR32",
+      "doi-asserted-by": "publisher",
+      "first-page": "83",
+      "DOI": "10.1023/A:1023705401078",
+      "volume": "54",
+      "author": "AB Lee",
+      "year": "2003",
+      "unstructured": "Lee, A.B., Pedersen, K.S., Mumford, D.: The nonlinear statistics of high-contrast patches in natural images. Int. J. Comput. Vision 54(1), 83\u2013103 (2003)",
+      "journal-title": "Int. J. Comput. Vision"
+    },
+    {
+      "key": "156_CR33",
+      "unstructured": "Lesnick, M., Wright, M.: Computing minimal presentations and bigraded betti numbers of 2-parameter persistent homology. arXiv preprint arXiv:1902.05708 (2019)"
+    },
+    {
+      "key": "156_CR34",
+      "unstructured": "Lesnick, M., Wright, M.: Interactive visualization of 2-d persistence modules. arXiv preprint arXiv:1512.00180 (2015)"
+    },
+    {
+      "key": "156_CR35",
+      "unstructured": "Lesnick, M.P.: Multidimensional interleavings and applications to topological inference. PhD thesis, Stanford University (2012)"
+    },
+    {
+      "key": "156_CR36",
+      "unstructured": "Luo, Y., Nelson, B.J.: Accelerating iterated persistent homology computations with warm starts. arXiv preprint arXiv:2108.05022 (2021)"
+    },
+    {
+      "key": "156_CR37",
+      "first-page": "87",
+      "volume-title": "Topological Methods in Data Analysis and Visualization",
+      "author": "P Oesterling",
+      "year": "2015",
+      "unstructured": "Oesterling, P., Heine, C., Weber, G.H., Morozov, D., Scheuermann, G.: Computing and visualizing time-varying merge trees for high-dimensional data. In: Topological Methods in Data Analysis and Visualization, pp. 87\u2013101. Springer, NewYork (2015)"
+    },
+    {
+      "key": "156_CR38",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1140/epjds/s13688-017-0109-5",
+      "volume": "6",
+      "author": "N Otter",
+      "year": "2017",
+      "unstructured": "Otter, N., Porter, M.A., Tillmann, U., Grindrod, P., Harrington, H.A.: A roadmap for the computation of persistent homology. EPJ Data Sci. 6, 1\u201338 (2017)",
+      "journal-title": "EPJ Data Sci."
+    },
+    {
+      "issue": "1",
+      "key": "156_CR39",
+      "doi-asserted-by": "publisher",
+      "first-page": "75",
+      "DOI": "10.1007/s11263-013-0676-2",
+      "volume": "107",
+      "author": "JA Perea",
+      "year": "2014",
+      "unstructured": "Perea, J.A., Carlsson, G.: A Klein-bottle-based dictionary for texture representation. Int. J. Comput. Vision 107(1), 75\u201397 (2014)",
+      "journal-title": "Int. J. Comput. Vision"
+    },
+    {
+      "key": "156_CR40",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Polanco, L., Perea, J.A.: Adaptive template systems: Data-driven feature selection for learning with persistence diagrams. In: 2019 18th IEEE international conference on machine learning and applications (ICMLA), pp. 1115\u20131121 (2019). IEEE",
+      "DOI": "10.1109/ICMLA.2019.00186"
+    },
+    {
+      "key": "156_CR41",
+      "unstructured": "The RIVET developers: RIVET. https://github.com/rivetTDA/rivet/"
+    },
+    {
+      "issue": "5",
+      "key": "156_CR42",
+      "doi-asserted-by": "publisher",
+      "first-page": "0126383",
+      "DOI": "10.1371/journal.pone.0126383",
+      "volume": "10",
+      "author": "CM Topaz",
+      "year": "2015",
+      "unstructured": "Topaz, C.M., Ziegelmeier, L., Halverson, T.: Topological data analysis of biological aggregation models. PLoS ONE 10(5), 0126383 (2015)",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "issue": "3",
+      "key": "156_CR43",
+      "doi-asserted-by": "publisher",
+      "first-page": "0213679",
+      "DOI": "10.1371/journal.pone.0213679",
+      "volume": "14",
+      "author": "M Ulmer",
+      "year": "2019",
+      "unstructured": "Ulmer, M., Ziegelmeier, L., Topaz, C.M.: A topological approach to selecting models of biological experiments. PLoS ONE 14(3), 0213679 (2019)",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "issue": "1394",
+      "key": "156_CR44",
+      "doi-asserted-by": "publisher",
+      "first-page": "359",
+      "DOI": "10.1098/rspb.1998.0303",
+      "volume": "265",
+      "author": "JH Van Hateren",
+      "year": "1998",
+      "unstructured": "Van Hateren, J.H., van der Schaaf, A.: Independent component filters of natural images compared with simple cells in primary visual cortex. Proc. Biol. Sci. 265(1394), 359\u2013366 (1998)",
+      "journal-title": "Proc. Biol. Sci."
+    },
+    {
+      "key": "156_CR45",
+      "unstructured": "Xian, L., Adams, H., Topaz, C.M., Ziegelmeier, L.: Capturing dynamics of time-varying data via topology. arXiv preprint arXiv:2010.05780 (2020)"
+    },
+    {
+      "issue": "2",
+      "key": "156_CR46",
+      "doi-asserted-by": "publisher",
+      "first-page": "249",
+      "DOI": "10.1007/s00454-004-1146-y",
+      "volume": "33",
+      "author": "A Zomorodian",
+      "year": "2005",
+      "unstructured": "Zomorodian, A., Carlsson, G.: Computing persistent homology. Discret. Comput. Geom. 33(2), 249\u2013274 (2005)",
+      "journal-title": "Discret. Comput. Geom."
+    }
+  ],
+  "container-title": [
+    "Journal of Applied and Computational Topology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s41468-023-00156-3.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1007/s41468-023-00156-3/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s41468-023-00156-3.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        8
+      ]
+    ],
+    "date-time": "2024-11-08T17:51:03Z",
+    "timestamp": 1731088263000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/s41468-023-00156-3"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        20
+      ]
+    ]
+  },
+  "references-count": 46,
+  "journal-issue": {
+    "issue": "2",
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          6
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "156"
+  ],
+  "URL": "https://doi.org/10.1007/s41468-023-00156-3",
+  "relation": {},
+  "ISSN": [
+    "2367-1726",
+    "2367-1734"
+  ],
+  "issn-type": [
+    {
+      "value": "2367-1726",
+      "type": "print"
+    },
+    {
+      "value": "2367-1734",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        20
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "24 May 2023",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "13 October 2023",
+      "order": 2,
+      "name": "revised",
+      "label": "Revised",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "10 December 2023",
+      "order": 3,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "20 January 2024",
+      "order": 4,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Declarations"
+      }
+    },
+    {
+      "value": "The authors declare that they have no competing interests that could influence the interpretation or presentation of the research findings. There are no financial or personal relationships with individuals or organizations that could bias the outcomes of this work.",
+      "order": 2,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Conflict of interest"
+      }
+    },
+    {
+      "value": "Not applicable.",
+      "order": 3,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Ethical Approval"
+      }
+    }
+  ]
+}

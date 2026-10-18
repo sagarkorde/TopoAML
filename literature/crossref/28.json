@@ -1,0 +1,794 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        12
+      ]
+    ],
+    "date-time": "2026-10-12T00:32:11Z",
+    "timestamp": 1791765131502,
+    "version": "4.3.4"
+  },
+  "reference-count": 47,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2025-01-01T00:00:00Z",
+        "timestamp": 1735689600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2025-01-01T00:00:00Z",
+        "timestamp": 1735689600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2025-01-01T00:00:00Z",
+        "timestamp": 1735689600000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-017"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2025-01-01T00:00:00Z",
+        "timestamp": 1735689600000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-037"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2025-01-01T00:00:00Z",
+        "timestamp": 1735689600000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-012"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2025-01-01T00:00:00Z",
+        "timestamp": 1735689600000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-029"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2025-01-01T00:00:00Z",
+        "timestamp": 1735689600000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-004"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Physica A: Statistical Mechanics and its Applications"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2025,
+        1
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.physa.2024.130194",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        19
+      ]
+    ],
+    "date-time": "2024-11-19T12:08:00Z",
+    "timestamp": 1732018080000
+  },
+  "page": "130194",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 6,
+  "special_numbering": "C",
+  "title": [
+    "Can topological transitions in cryptocurrency systems serve as early warning signals for extreme fluctuations in traditional markets?"
+  ],
+  "prefix": "10.1016",
+  "volume": "657",
+  "author": [
+    {
+      "given": "Shijia",
+      "family": "Song",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3613-7327",
+      "authenticated-orcid": false,
+      "given": "Handong",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "issue": "1",
+      "key": "10.1016/j.physa.2024.130194_b1",
+      "doi-asserted-by": "crossref",
+      "first-page": "13",
+      "DOI": "10.1186/s40854-021-00321-6",
+      "article-title": "Cryptocurrency trading: A comprehensive survey",
+      "volume": "8",
+      "author": "Fang",
+      "year": "2022",
+      "journal-title": "Financial Innov."
+    },
+    {
+      "key": "10.1016/j.physa.2024.130194_b2",
+      "series-title": "Transforming Climate Finance and Green Investment with Blockchains",
+      "first-page": "23",
+      "article-title": "Chapter 3 - blockchain 101: What is blockchain and how does this revolutionary technology work?",
+      "author": "Meunier",
+      "year": "2018"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.physa.2024.130194_b3",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1007/s40812-019-00138-6",
+      "article-title": "Cryptocurrencies: Market analysis and perspectives",
+      "volume": "47",
+      "author": "Giudici",
+      "year": "2020",
+      "journal-title": "J. Ind. Bus. Econ."
+    },
+    {
+      "key": "10.1016/j.physa.2024.130194_b4",
+      "doi-asserted-by": "crossref",
+      "first-page": "28",
+      "DOI": "10.1016/j.econlet.2018.01.004",
+      "article-title": "Exploring the dynamic relationships between cryptocurrencies and other financial assets",
+      "volume": "165",
+      "author": "Corbet",
+      "year": "2018",
+      "journal-title": "Econom. Lett."
+    },
+    {
+      "key": "10.1016/j.physa.2024.130194_b5",
+      "series-title": "Risks and returns of cryptocurrency",
+      "author": "Liu",
+      "year": "2018"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.physa.2024.130194_b6",
+      "doi-asserted-by": "crossref",
+      "first-page": "71",
+      "DOI": "10.1007/s40812-019-00133-x",
+      "article-title": "Disentangling the relationship between bitcoin and market attention measures",
+      "volume": "47",
+      "author": "Fig\u00e0-Talamanca",
+      "year": "2020",
+      "journal-title": "J. Ind. Bus. Econ."
+    },
+    {
+      "key": "10.1016/j.physa.2024.130194_b7",
+      "series-title": "2019 IEEE International Conference on Intelligence and Security Informatics",
+      "first-page": "137",
+      "article-title": "Towards an understanding of cryptocurrency: A comparative analysis of cryptocurrency, foreign exchange, and stock",
+      "author": "Liang",
+      "year": "2019"
+    },
+    {
+      "key": "10.1016/j.physa.2024.130194_b8",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.frl.2022.103070",
+      "article-title": "Asymmetric dynamic spillover effect between cryptocurrency and China\u2019s financial market: Evidence from TVP-var based connectedness approach",
+      "volume": "49",
+      "author": "Cao",
+      "year": "2022",
+      "journal-title": "Finance Res. Lett."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.physa.2024.130194_b9",
+      "doi-asserted-by": "crossref",
+      "first-page": "377",
+      "DOI": "10.3390/e25020377",
+      "article-title": "Cryptocurrencies are becoming part of the world global financial market",
+      "volume": "25",
+      "author": "W\u0105torek",
+      "year": "2023",
+      "journal-title": "Entropy"
+    },
+    {
+      "key": "10.1016/j.physa.2024.130194_b10",
+      "first-page": "1",
+      "article-title": "The trend of digital finance: Unveiling the multidimensional network of cryptocurrency risk propagation",
+      "author": "Zhou",
+      "year": "2024",
+      "journal-title": "Appl. Econ."
+    },
+    {
+      "key": "10.1016/j.physa.2024.130194_b11",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.physa.2024.129955",
+      "article-title": "Cryptocurrency: A new player or a new crisis in financial markets? \u2014\u2014 evolutionary analysis of association and risk spillover based on network science",
+      "volume": "648",
+      "author": "Zhou",
+      "year": "2024",
+      "journal-title": "Phys. A"
+    },
+    {
+      "key": "10.1016/j.physa.2024.130194_b12",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1080/1540496X.2024.2404173",
+      "article-title": "Application of event study methodology in the analysis of cryptocurrency returns",
+      "author": "Zhou",
+      "year": "2024",
+      "journal-title": "Emerg. Markets Finance Trade"
+    },
+    {
+      "issue": "10",
+      "key": "10.1016/j.physa.2024.130194_b13",
+      "doi-asserted-by": "crossref",
+      "first-page": "4477",
+      "DOI": "10.1007/s11229-017-1415-y",
+      "article-title": "Market crashes as critical phenomena? Explanation, idealization, and universality in econophysics",
+      "volume": "195",
+      "author": "Jhun",
+      "year": "2018",
+      "journal-title": "Synthese"
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.physa.2024.130194_b14",
+      "doi-asserted-by": "crossref",
+      "first-page": "953",
+      "DOI": "10.1016/j.jimonfin.2006.07.007",
+      "article-title": "Towards a new early warning system of financial crises",
+      "volume": "25",
+      "author": "Bussiere",
+      "year": "2006",
+      "journal-title": "J. Int. Money Finance"
+    },
+    {
+      "key": "10.1016/j.physa.2024.130194_b15",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.jbankfin.2021.106196",
+      "article-title": "Early warning or too late? A (pseudo-)real-time identification of leading indicators of financial stress",
+      "volume": "138",
+      "author": "Duprey",
+      "year": "2022",
+      "journal-title": "J. Bank. Financ."
+    },
+    {
+      "key": "10.1016/j.physa.2024.130194_b16",
+      "doi-asserted-by": "crossref",
+      "first-page": "344",
+      "DOI": "10.1016/j.jebo.2019.12.023",
+      "article-title": "An early warning system for predicting systemic banking crises in the eurozone: A logit regression approach",
+      "volume": "172",
+      "author": "Filippopoulou",
+      "year": "2020",
+      "journal-title": "J. Econ. Behav. Organ."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.physa.2024.130194_b17",
+      "doi-asserted-by": "crossref",
+      "first-page": "2",
+      "DOI": "10.1093/rfs/hhw088",
+      "article-title": "Measuring systemic risk",
+      "volume": "30",
+      "author": "Acharya",
+      "year": "2017",
+      "journal-title": "Rev. Financ. Stud."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.physa.2024.130194_b18",
+      "doi-asserted-by": "crossref",
+      "first-page": "48",
+      "DOI": "10.1093/rfs/hhw060",
+      "article-title": "SRISK: A conditional capital shortfall measure of systemic risk",
+      "volume": "30",
+      "author": "Brownlees",
+      "year": "2017",
+      "journal-title": "Rev. Financ. Stud."
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/j.physa.2024.130194_b19",
+      "doi-asserted-by": "crossref",
+      "first-page": "1705",
+      "DOI": "10.1257/aer.20120555",
+      "article-title": "CoVar",
+      "volume": "106",
+      "author": "Adrian",
+      "year": "2016",
+      "journal-title": "Amer. Econ. Rev."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.physa.2024.130194_b20",
+      "doi-asserted-by": "crossref",
+      "first-page": "313",
+      "DOI": "10.1038/s41567-019-0459-y",
+      "article-title": "From networks to optimal higher-order models of complex systems",
+      "volume": "15",
+      "author": "Lambiotte",
+      "year": "2019",
+      "journal-title": "Nat. Phys."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.physa.2024.130194_b21",
+      "doi-asserted-by": "crossref",
+      "first-page": "594",
+      "DOI": "10.1002/ijfe.1806",
+      "article-title": "Network-based early warning system to predict financial crisis",
+      "volume": "26",
+      "author": "Dastkhan",
+      "year": "2021",
+      "journal-title": "Int. J. Finance Econ."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.physa.2024.130194_b22",
+      "doi-asserted-by": "crossref",
+      "first-page": "5671",
+      "DOI": "10.1038/s41598-019-42223-9",
+      "article-title": "Flickering in information spreading precedes critical transitions in financial markets",
+      "volume": "9",
+      "author": "Gatfaoui",
+      "year": "2019",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.physa.2024.130194_b23",
+      "doi-asserted-by": "crossref",
+      "first-page": "3991",
+      "DOI": "10.1038/srep03991",
+      "article-title": "Cross-border portfolio investment networks and indicators for financial crises",
+      "volume": "4",
+      "author": "Joseph",
+      "year": "2014",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "10.1016/j.physa.2024.130194_b24",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.irfa.2020.101507",
+      "article-title": "Machine learning as an early warning system to predict financial crisis",
+      "volume": "71",
+      "author": "Samitas",
+      "year": "2020",
+      "journal-title": "Int. Rev. Financ. Anal."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.physa.2024.130194_b25",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1038/srep30286",
+      "article-title": "Detecting early signs of the 2007\u20132008 crisis in the world trade",
+      "volume": "6",
+      "author": "Saracco",
+      "year": "2016",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.physa.2024.130194_b26",
+      "doi-asserted-by": "crossref",
+      "first-page": "3357",
+      "DOI": "10.1038/srep03357",
+      "article-title": "Early-warning signals of topological collapse in interbank networks",
+      "volume": "3",
+      "author": "Squartini",
+      "year": "2013",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.physa.2024.130194_b27",
+      "doi-asserted-by": "crossref",
+      "first-page": "15508",
+      "DOI": "10.1038/srep15508",
+      "article-title": "Network structure of multivariate time series",
+      "volume": "5",
+      "author": "Lacasa",
+      "year": "2015",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.physa.2024.130194_b28",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1140/epjds/s13688-024-00457-2",
+      "article-title": "Early warning signals for stock market crashes: Empirical and analytical insights utilizing nonlinear methods",
+      "volume": "13",
+      "author": "Song",
+      "year": "2024",
+      "journal-title": "EPJ Data Sci."
+    },
+    {
+      "key": "10.1016/j.physa.2024.130194_b29",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1137/21M1414024",
+      "article-title": "What are higher-order networks?",
+      "author": "Bick",
+      "year": "2023",
+      "journal-title": "SIAM Rev."
+    },
+    {
+      "key": "10.1016/j.physa.2024.130194_b30",
+      "series-title": "Statistical topological data analysis using persistence landscapes",
+      "author": "Bubenik",
+      "year": "2012"
+    },
+    {
+      "key": "10.1016/j.physa.2024.130194_b31",
+      "series-title": "Topological Data Analysis",
+      "first-page": "97",
+      "article-title": "The persistence landscape and some of its properties",
+      "author": "Bubenik",
+      "year": "2020"
+    },
+    {
+      "key": "10.1016/j.physa.2024.130194_b32",
+      "series-title": "Proceedings of the Thirtieth Annual Symposium on Computational Geometry",
+      "first-page": "474",
+      "article-title": "Stochastic convergence of persistence landscapes and silhouettes",
+      "author": "Chazal",
+      "year": "2014"
+    },
+    {
+      "key": "10.1016/j.physa.2024.130194_b33",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.physa.2019.123843",
+      "article-title": "Topological recognition of critical transitions in time series of cryptocurrencies",
+      "volume": "548",
+      "author": "Gidea",
+      "year": "2020",
+      "journal-title": "Phys. A"
+    },
+    {
+      "key": "10.1016/j.physa.2024.130194_b34",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.physa.2021.125816",
+      "article-title": "Time-resolved topological data analysis of market instabilities",
+      "volume": "571",
+      "author": "Katz",
+      "year": "2021",
+      "journal-title": "Phys. A"
+    },
+    {
+      "key": "10.1016/j.physa.2024.130194_b35",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.cnsns.2023.107665",
+      "article-title": "Why topological data analysis detects financial bubbles?",
+      "volume": "128",
+      "author": "Akingbade",
+      "year": "2024",
+      "journal-title": "Commun. Nonlinear Sci. Numer. Simul."
+    },
+    {
+      "key": "10.1016/j.physa.2024.130194_b36",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.irfa.2023.102759",
+      "article-title": "On the topology of cryptocurrency markets",
+      "volume": "89",
+      "author": "Rudkin",
+      "year": "2023",
+      "journal-title": "Int. Rev. Financ. Anal."
+    },
+    {
+      "key": "10.1016/j.physa.2024.130194_b37",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.cnsns.2021.105996",
+      "article-title": "Topological features of multivariate distributions: Dependency on the covariance matrix",
+      "volume": "103",
+      "author": "Aromi",
+      "year": "2021",
+      "journal-title": "Commun. Nonlinear Sci. Numer. Simul."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.physa.2024.130194_b38",
+      "doi-asserted-by": "crossref",
+      "first-page": "492",
+      "DOI": "10.3934/fods.2024024",
+      "article-title": "A topological approach for capturing high-order interactions in graph data with applications to anomaly detection in time-varying cryptocurrency transaction graphs",
+      "volume": "6",
+      "author": "Islambekov",
+      "year": "2024",
+      "journal-title": "Found. Data Sci."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.physa.2024.130194_b39",
+      "doi-asserted-by": "crossref",
+      "first-page": "17",
+      "DOI": "10.1140/epjds/s13688-017-0109-5",
+      "article-title": "A roadmap for the computation of persistent homology",
+      "volume": "6",
+      "author": "Otter",
+      "year": "2017",
+      "journal-title": "EPJ Data Sci."
+    },
+    {
+      "key": "10.1016/j.physa.2024.130194_b40",
+      "series-title": "Introduction to the R package TDA",
+      "author": "Fasy",
+      "year": "2014"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.physa.2024.130194_b41",
+      "first-page": "27",
+      "article-title": "Review of the development of multidimensional scaling methods",
+      "volume": "41",
+      "author": "Mead",
+      "year": "1992",
+      "journal-title": "J. R. Stat. Soc. Ser. D: Statist."
+    },
+    {
+      "issue": "3\u20134",
+      "key": "10.1016/j.physa.2024.130194_b42",
+      "doi-asserted-by": "crossref",
+      "first-page": "325",
+      "DOI": "10.1093/biomet/53.3-4.325",
+      "article-title": "Some distance properties of latent root and vector methods used in multivariate analysis",
+      "volume": "53",
+      "author": "Gower",
+      "year": "1966",
+      "journal-title": "Biometrika"
+    },
+    {
+      "issue": "2\u20133",
+      "key": "10.1016/j.physa.2024.130194_b43",
+      "doi-asserted-by": "crossref",
+      "first-page": "115",
+      "DOI": "10.1016/S0927-5398(97)00004-2",
+      "article-title": "Intraday periodicity and volatility persistence in financial markets",
+      "volume": "4",
+      "author": "Andersen",
+      "year": "1997",
+      "journal-title": "J. Empir. Financ."
+    },
+    {
+      "key": "10.1016/j.physa.2024.130194_b44",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.frl.2019.07.016",
+      "article-title": "Time-of-day periodicities of trading volume and volatility in bitcoin exchange: Does the stock market matter?",
+      "volume": "34",
+      "author": "Wang",
+      "year": "2020",
+      "journal-title": "Finance Res. Lett."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.physa.2024.130194_b45",
+      "doi-asserted-by": "crossref",
+      "first-page": "125",
+      "DOI": "10.3390/jrfm17030125",
+      "article-title": "Analyzing portfolio optimization in cryptocurrency markets: A comparative study of short-term investment strategies using hourly data approach",
+      "volume": "17",
+      "author": "Sahu",
+      "year": "2024",
+      "journal-title": "J. Risk Financial Manag."
+    },
+    {
+      "key": "10.1016/j.physa.2024.130194_b46",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1093/jjfinec/nbh001",
+      "article-title": "Power and bipower variation with stochastic volatility and jumps",
+      "volume": "2",
+      "author": "Barndorff-Nielsen",
+      "year": "2004",
+      "journal-title": "J. Financial Econom."
+    },
+    {
+      "key": "10.1016/j.physa.2024.130194_b47",
+      "series-title": "Realized volatility",
+      "author": "Andersen",
+      "year": "2008"
+    }
+  ],
+  "container-title": [
+    "Physica A: Statistical Mechanics and its Applications"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0378437124007039?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0378437124007039?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        9
+      ]
+    ],
+    "date-time": "2024-12-09T03:19:10Z",
+    "timestamp": 1733714350000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0378437124007039"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1
+      ]
+    ]
+  },
+  "references-count": 47,
+  "alternative-id": [
+    "S0378437124007039"
+  ],
+  "URL": "https://doi.org/10.1016/j.physa.2024.130194",
+  "relation": {},
+  "ISSN": [
+    "0378-4371"
+  ],
+  "issn-type": [
+    {
+      "value": "0378-4371",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        1
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Can topological transitions in cryptocurrency systems serve as early warning signals for extreme fluctuations in traditional markets?",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Physica A: Statistical Mechanics and its Applications",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.physa.2024.130194",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "\u00a9 2024 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "130194"
+}

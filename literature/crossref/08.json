@@ -1,0 +1,808 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        5
+      ]
+    ],
+    "date-time": "2026-10-05T19:52:24Z",
+    "timestamp": 1791229944982,
+    "version": "4.1.0"
+  },
+  "reference-count": 61,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            1
+          ]
+        ],
+        "date-time": "2025-08-01T00:00:00Z",
+        "timestamp": 1754006400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            1
+          ]
+        ],
+        "date-time": "2025-08-01T00:00:00Z",
+        "timestamp": 1754006400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            1
+          ]
+        ],
+        "date-time": "2025-08-01T00:00:00Z",
+        "timestamp": 1754006400000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-017"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            1
+          ]
+        ],
+        "date-time": "2025-08-01T00:00:00Z",
+        "timestamp": 1754006400000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-037"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            1
+          ]
+        ],
+        "date-time": "2025-08-01T00:00:00Z",
+        "timestamp": 1754006400000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-012"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            1
+          ]
+        ],
+        "date-time": "2025-08-01T00:00:00Z",
+        "timestamp": 1754006400000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-029"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            1
+          ]
+        ],
+        "date-time": "2025-08-01T00:00:00Z",
+        "timestamp": 1754006400000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-004"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100012166",
+      "name": "National Key Research and Development Program of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "2018YFB1700902"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2018YFB1700902"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100012166",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Computers and Electrical Engineering"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2025,
+        8
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.compeleceng.2025.110428",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        28
+      ]
+    ],
+    "date-time": "2025-05-28T08:44:38Z",
+    "timestamp": 1748421878000
+  },
+  "page": "110428",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 18,
+  "special_numbering": "C",
+  "title": [
+    "Metapath-guided graph neural networks for financial fraud detection"
+  ],
+  "prefix": "10.1016",
+  "volume": "126",
+  "author": [
+    {
+      "given": "Junjie",
+      "family": "Qian",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3020-8278",
+      "authenticated-orcid": false,
+      "given": "Guoxiang",
+      "family": "Tong",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b1",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.elerap.2022.101207",
+      "article-title": "Fraud detection and prevention in e-commerce: A systematic literature review",
+      "volume": "56",
+      "author": "Rodrigues",
+      "year": "2022",
+      "journal-title": "Electron Commer Res Appl"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b2",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.compeleceng.2022.107734",
+      "article-title": "Digital payment fraud detection methods in digital ages and industry 4.0",
+      "volume": "100",
+      "author": "Chang",
+      "year": "2022",
+      "journal-title": "Comput Electr Eng"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b3",
+      "article-title": "Autonomous credit card fraud detection using machine learning approach",
+      "volume": "102",
+      "author": "Roseline",
+      "year": "2022",
+      "journal-title": "Comput Electr Eng"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b4",
+      "first-page": "10927",
+      "article-title": "Graph neural network: Current state of art, challenges and applications",
+      "volume": "46",
+      "author": "Gupta",
+      "year": "2021",
+      "journal-title": "Mater Today: Proc"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b5",
+      "series-title": "Scalable graph learning for anti-money laundering: A first look",
+      "first-page": "1",
+      "author": "Weber",
+      "year": "2018"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b6",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Kudo W, Nishiguchi M, Toriumi F. Fraudulent user detection on rating networks based on expanded balance theory and GCNs. In: Proceedings of the 2019 IEEE/ACM international conference on advances in social networks analysis and mining. 2019, p. 121\u20136.",
+      "DOI": "10.1145/3341161.3342929"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b7",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Liu Y, Ao X, Qin Z, Chi J, Feng J, Yang H, et al. Pick and choose: a GNN-based imbalanced learning approach for fraud detection. In: Proceedings of the web conference 2021. 2021, p. 3168\u201377.",
+      "DOI": "10.1145/3442381.3449989"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b8",
+      "series-title": "2017 international conference on machine learning and cybernetics, vol. 1",
+      "first-page": "217",
+      "article-title": "A hybrid semi-supervised approach for financial fraud detection",
+      "author": "Liu",
+      "year": "2017"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b9",
+      "series-title": "Deep semi-supervised anomaly detection",
+      "author": "Ruff",
+      "year": "2019"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b10",
+      "series-title": "Deep semi-supervised anomaly detection for finding fraud in the futures market",
+      "author": "DeLise",
+      "year": "2023"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b11",
+      "article-title": "Financial fraud detection using graph neural networks: A systematic review",
+      "author": "Motie",
+      "year": "2023",
+      "journal-title": "Expert Syst Appl"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b12",
+      "series-title": "2017 tenth international conference on contemporary computing",
+      "first-page": "1",
+      "article-title": "Fraud detection and frequent pattern matching in insurance claims using data mining techniques",
+      "author": "Verma",
+      "year": "2017"
+    },
+    {
+      "issue": "10",
+      "key": "10.1016/j.compeleceng.2025.110428_b13",
+      "article-title": "Empirical oversampling threshold strategy for machine learning performance optimisation in insurance fraud detection",
+      "volume": "11",
+      "author": "Itri",
+      "year": "2020",
+      "journal-title": "Int J Adv Comput Sci Appl"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b14",
+      "first-page": "333",
+      "article-title": "Cost sensitive credit card fraud detection using Bayes minimum risk",
+      "volume": "vol. 1",
+      "author": "Bahnsen",
+      "year": "2013"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b15",
+      "doi-asserted-by": "crossref",
+      "first-page": "261",
+      "DOI": "10.35940/ijeat.D6815.049420",
+      "article-title": "Isolation forest and local outlier factor for credit card fraud detection system",
+      "volume": "9",
+      "author": "Vijayakumar",
+      "year": "2020",
+      "journal-title": "Int J Eng Adv Technology (IJEAT)"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b16",
+      "series-title": "2019 18th IEEE international conference on machine learning and applications",
+      "first-page": "126",
+      "article-title": "Deeptrax: Embedding graphs of financial transactions",
+      "author": "Khazane",
+      "year": "2019"
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.compeleceng.2025.110428_b17",
+      "doi-asserted-by": "crossref",
+      "first-page": "4153",
+      "DOI": "10.1109/TNNLS.2021.3123876",
+      "article-title": "HIN-RNN: a graph representation learning neural network for fraudster group detection with no handcrafted features",
+      "volume": "34",
+      "author": "Shehnepoor",
+      "year": "2021",
+      "journal-title": "IEEE Trans Neural Networks Learn Syst"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b18",
+      "series-title": "A review on graph neural network methods in financial applications",
+      "author": "Wang",
+      "year": "2021"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b19",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Dou Y, Liu Z, Sun L, Deng Y, Peng H, Yu PS. Enhancing graph neural network-based fraud detectors against camouflaged fraudsters. In: Proceedings of the 29th ACM international conference on information & knowledge management. 2020, p. 315\u201324.",
+      "DOI": "10.1145/3340531.3411903"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b20",
+      "article-title": "ASA-GNN: Adaptive sampling and aggregation-based graph neural network for transaction fraud detection",
+      "author": "Tian",
+      "year": "2023",
+      "journal-title": "IEEE Trans Comput Soc Syst"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.compeleceng.2025.110428_b21",
+      "doi-asserted-by": "crossref",
+      "first-page": "1116",
+      "DOI": "10.1109/TBDATA.2023.3234529",
+      "article-title": "LGM-GNN: A local and global aware memory-based graph neural network for fraud detection",
+      "volume": "9",
+      "author": "Li",
+      "year": "2023",
+      "journal-title": "IEEE Trans Big Data"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b22",
+      "series-title": "Advanced financial fraud detection using GNN-CL model",
+      "author": "Cheng",
+      "year": "2024"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.compeleceng.2025.110428_b23",
+      "doi-asserted-by": "crossref",
+      "first-page": "7",
+      "DOI": "10.1007/s42484-024-00143-6",
+      "article-title": "Financial fraud detection using quantum graph neural networks",
+      "volume": "6",
+      "author": "Innan",
+      "year": "2024",
+      "journal-title": "Quantum Mach Intell"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b24",
+      "series-title": "CCF conference on big data",
+      "first-page": "112",
+      "article-title": "UD-GCN: Uncertainty-based semi-supervised deep GCN for imbalanced node classification",
+      "author": "Wei",
+      "year": "2023"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b25",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1109/TBDATA.2024.3352978",
+      "article-title": "GAT-COBO: Cost-sensitive graph neural network for telecom fraud detection",
+      "author": "Hu",
+      "year": "2024",
+      "journal-title": "IEEE Trans Big Data"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b26",
+      "series-title": "2024 9th international conference on intelligent computing and signal processing",
+      "first-page": "323",
+      "article-title": "GraphFA: Graph enhanced fraud detectors with camouflage detection for financial anti-fraud",
+      "author": "Fang",
+      "year": "2024"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b27",
+      "series-title": "2021 IEEE 1st international conference on digital twins and parallel intelligence",
+      "first-page": "320",
+      "article-title": "A GNN-based few-shot learning model on the Credit Card Fraud detection",
+      "author": "Jing",
+      "year": "2021"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b28",
+      "series-title": "2019 IEEE international conference on data mining",
+      "first-page": "598",
+      "article-title": "A semi-supervised graph attentive network for financial fraud detection",
+      "author": "Wang",
+      "year": "2019"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b29",
+      "first-page": "14557",
+      "article-title": "Semi-supervised credit card fraud detection via attribute-driven graph representation",
+      "volume": "vol. 37",
+      "author": "Xiang",
+      "year": "2023"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b30",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Domingos P, Richardson M. Mining the network value of customers. In: Proceedings of the seventh ACM SIGKDD international conference on knowledge discovery and data mining. 2001, p. 57\u201366.",
+      "DOI": "10.1145/502512.502525"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b31",
+      "doi-asserted-by": "crossref",
+      "first-page": "626",
+      "DOI": "10.1007/s10618-014-0365-y",
+      "article-title": "Graph based anomaly detection and description: a survey",
+      "volume": "29",
+      "author": "Akoglu",
+      "year": "2015",
+      "journal-title": "Data Min Knowl Discov"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b32",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Hu Z, Dong Y, Wang K, Sun Y. Heterogeneous graph transformer. In: Proceedings of the web conference 2020. 2020, p. 2704\u201310.",
+      "DOI": "10.1145/3366423.3380027"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b33",
+      "series-title": "Heterogeneous graph representation learning and applications",
+      "author": "Shi",
+      "year": "2022"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b34",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Zhang C, Song D, Huang C, Swami A, Chawla NV. Heterogeneous graph neural network. In: Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery & data mining. 2019, p. 793\u2013803.",
+      "DOI": "10.1145/3292500.3330961"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.compeleceng.2025.110428_b35",
+      "doi-asserted-by": "crossref",
+      "first-page": "233",
+      "DOI": "10.26599/BDMA.2021.9020008",
+      "article-title": "Attention-aware heterogeneous graph neural network",
+      "volume": "4",
+      "author": "Zhang",
+      "year": "2021",
+      "journal-title": "Big Data Min Anal"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b36",
+      "series-title": "2021 IEEE 24th international conference on computer supported cooperative work in design",
+      "first-page": "397",
+      "article-title": "Attributed heterogeneous graph neural network for malicious domain detection",
+      "author": "Zhang",
+      "year": "2021"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b37",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Wu B, Yao X, Zhang B, Chao K-M, Li Y. SplitGNN: Spectral Graph Neural Network for Fraud Detection against Heterophily. In: Proceedings of the 32nd ACM international conference on information and knowledge management. 2023, p. 2737\u201346.",
+      "DOI": "10.1145/3583780.3615067"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b38",
+      "first-page": "9214",
+      "article-title": "Revisiting graph-based fraud detection in sight of heterophily and spectrum",
+      "volume": "vol. 38",
+      "author": "Xu",
+      "year": "2024"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b39",
+      "first-page": "1",
+      "article-title": "Subgraph generation applied in graphsage deal with imbalanced node classification",
+      "author": "Huang",
+      "year": "2024",
+      "journal-title": "Soft Comput"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b40",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.asoc.2023.110984",
+      "article-title": "Financial transaction fraud detector based on imbalance learning and graph neural network",
+      "volume": "149",
+      "author": "Tong",
+      "year": "2023",
+      "journal-title": "Appl Soft Comput"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.compeleceng.2025.110428_b41",
+      "doi-asserted-by": "crossref",
+      "first-page": "388",
+      "DOI": "10.1007/s11704-018-7289-4",
+      "article-title": "Meta-path-based outlier detection in heterogeneous information network",
+      "volume": "14",
+      "author": "Liu",
+      "year": "2020",
+      "journal-title": "Front Comput Sci"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b42",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Fu X, Zhang J, Meng Z, King I. Magnn: Metapath aggregated graph neural network for heterogeneous graph embedding. In: Proceedings of the web conference 2020. 2020, p. 2331\u201341.",
+      "DOI": "10.1145/3366423.3380297"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b43",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1109/TNSE.2024.3384499",
+      "article-title": "Time-aware metapath feature augmentation for ponzi detection in ethereum",
+      "author": "Jin",
+      "year": "2024",
+      "journal-title": "IEEE Trans Netw Sci Eng"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b44",
+      "series-title": "2024 5th international conference on computer engineering and application",
+      "first-page": "137",
+      "article-title": "An anomaly detection method based on meta-path and heterogeneous graph attention network",
+      "author": "Peng",
+      "year": "2024"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b45",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.asoc.2022.109438",
+      "article-title": "Metapath and syntax-aware heterogeneous subgraph neural networks for spam review detection",
+      "volume": "128",
+      "author": "Zhang",
+      "year": "2022",
+      "journal-title": "Appl Soft Comput"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b46",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Rayana S, Akoglu L. Collective opinion spam detection: Bridging review networks and metadata. In: Proceedings of the 21th acm sigkdd international conference on knowledge discovery and data mining. 2015, p. 985\u201394.",
+      "DOI": "10.1145/2783258.2783370"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b47",
+      "series-title": "Anti-money laundering in bitcoin: Experimenting with graph convolutional networks for financial forensics",
+      "author": "Weber",
+      "year": "2019"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b48",
+      "series-title": "International conference on machine learning",
+      "first-page": "21076",
+      "article-title": "Rethinking graph neural networks for anomaly detection",
+      "author": "Tang",
+      "year": "2022"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b49",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Chen T, Guestrin C. Xgboost: A scalable tree boosting system. In: Proceedings of the 22nd acm sigkdd international conference on knowledge discovery and data mining. 2016, p. 785\u201394.",
+      "DOI": "10.1145/2939672.2939785"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b50",
+      "article-title": "CatBoost: unbiased boosting with categorical features",
+      "volume": "31",
+      "author": "Prokhorenkova",
+      "year": "2018",
+      "journal-title": "Adv Neural Inf Process Syst"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b51",
+      "series-title": "Semi-supervised classification with graph convolutional networks",
+      "author": "Kipf",
+      "year": "2016"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.compeleceng.2025.110428_b52",
+      "doi-asserted-by": "crossref",
+      "first-page": "519",
+      "DOI": "10.1007/s10994-021-06044-0",
+      "article-title": "ResGCN: attention-based deep residual modeling for anomaly detection on attributed networks",
+      "volume": "111",
+      "author": "Pei",
+      "year": "2022",
+      "journal-title": "Mach Learn"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b53",
+      "first-page": "3950",
+      "article-title": "Beyond low-frequency information in graph convolutional networks",
+      "volume": "vol. 35",
+      "author": "Bo",
+      "year": "2021"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b54",
+      "series-title": "2021 international joint conference on neural networks",
+      "first-page": "1",
+      "article-title": "Semi-supervised anomaly detection on attributed graphs",
+      "author": "Kumagai",
+      "year": "2021"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b55",
+      "series-title": "Graphsaint: Graph sampling based inductive learning method",
+      "author": "Zeng",
+      "year": "2019"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b56",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Liu Z, Dou Y, Yu PS, Deng Y, Peng H. Alleviating the inconsistency problem of applying graph neural network to fraud detection. In: Proceedings of the 43rd international ACM SIGIR conference on research and development in information retrieval. 2020, p. 1569\u201372.",
+      "DOI": "10.1145/3397271.3401253"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b57",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ding Y, Yao Q, Zhao H, Zhang T. Diffmg: Differentiable meta graph search for heterogeneous graph neural networks. In: Proceedings of the 27th ACM SIGKDD conference on knowledge discovery & data mining. 2021, p. 279\u201388.",
+      "DOI": "10.1145/3447548.3467447"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b58",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Wang X, Ji H, Shi C, Wang B, Ye Y, Cui P, et al. Heterogeneous graph attention network. In: The world wide web conference. 2019, p. 2022\u201332.",
+      "DOI": "10.1145/3308558.3313562"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b59",
+      "first-page": "9127",
+      "article-title": "Protgnn: Towards self-explaining graph neural networks",
+      "volume": "vol. 36",
+      "author": "Zhang",
+      "year": "2022"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b60",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ren L, Hu R, Wang Z, Xiao Y, Li D, Wu J, et al. Heterophilic Graph Invariant Learning for Out-of-Distribution of Fraud Detection. In: Proceedings of the 32nd ACM international conference on multimedia. 2024, p. 11032\u201340.",
+      "DOI": "10.1145/3664647.3681312"
+    },
+    {
+      "key": "10.1016/j.compeleceng.2025.110428_b61",
+      "unstructured": "Pi H. Debiasing Frequency Adaptive Graph Neural Network-based Fraud Detector. Acad J Comput Inf Sci 7(4):17\u201323."
+    }
+  ],
+  "container-title": [
+    "Computers and Electrical Engineering"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0045790625003714?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0045790625003714?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        25
+      ]
+    ],
+    "date-time": "2025-07-25T07:29:25Z",
+    "timestamp": 1753428565000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0045790625003714"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8
+      ]
+    ]
+  },
+  "references-count": 61,
+  "alternative-id": [
+    "S0045790625003714"
+  ],
+  "URL": "https://doi.org/10.1016/j.compeleceng.2025.110428",
+  "relation": {},
+  "ISSN": [
+    "0045-7906"
+  ],
+  "issn-type": [
+    {
+      "value": "0045-7906",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        8
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Metapath-guided graph neural networks for financial fraud detection",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Computers and Electrical Engineering",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.compeleceng.2025.110428",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "\u00a9 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "110428"
+}

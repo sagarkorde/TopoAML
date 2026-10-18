@@ -1,0 +1,1173 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        12
+      ]
+    ],
+    "date-time": "2026-10-12T16:19:12Z",
+    "timestamp": 1791821952690,
+    "version": "4.3.4"
+  },
+  "reference-count": 102,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "4",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            29
+          ]
+        ],
+        "date-time": "2024-02-29T00:00:00Z",
+        "timestamp": 1709164800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            29
+          ]
+        ],
+        "date-time": "2024-02-29T00:00:00Z",
+        "timestamp": 1709164800000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100000995",
+      "name": "Australian National University",
+      "doi-asserted-by": "crossref",
+      "id": [
+        {
+          "id": "10.13039/501100000995",
+          "id-type": "DOI",
+          "asserted-by": "crossref"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Artif Intell Rev"
+  ],
+  "abstract": "<jats:title>Abstract</jats:title><jats:p><jats:italic>Topological deep learning</jats:italic> (TDL) is an emerging area that combines the principles of <jats:italic>Topological data analysis</jats:italic> (TDA) with deep learning techniques. TDA provides insight into data shape; it obtains global descriptions of multi-dimensional data whilst exhibiting robustness to deformation and noise. Such properties are desirable in deep learning pipelines, but they are typically obtained using non-TDA strategies. This is partly caused by the difficulty of combining TDA constructs (e.g. barcode and persistence diagrams) with current deep learning algorithms. Fortunately, we are now witnessing a growth of deep learning applications embracing topologically-guided components. In this survey, we review the nascent field of topological deep learning by first revisiting the core concepts of TDA. We then explore how the use of TDA techniques has evolved over time to support deep learning frameworks, and how they can be integrated into different aspects of deep learning. Furthermore, we touch on TDA usage for analyzing existing deep models; <jats:italic>deep topological analytics</jats:italic>. Finally, we discuss the challenges and future prospects of topological deep learning.</jats:p>",
+  "DOI": "10.1007/s10462-024-10710-9",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        29
+      ]
+    ],
+    "date-time": "2024-02-29T15:02:17Z",
+    "timestamp": 1709218937000
+  },
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 67,
+  "title": [
+    "Topological deep learning: a review of an emerging paradigm"
+  ],
+  "prefix": "10.1007",
+  "volume": "57",
+  "author": [
+    {
+      "given": "Ali",
+      "family": "Zia",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Abdelwahed",
+      "family": "Khamis",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "James",
+      "family": "Nichols",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Usman Bashir",
+      "family": "Tayab",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Zeeshan",
+      "family": "Hayder",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Vivien",
+      "family": "Rolland",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Eric",
+      "family": "Stone",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Lars",
+      "family": "Petersson",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        29
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "issue": "1",
+      "key": "10710_CR1",
+      "first-page": "218",
+      "volume": "18",
+      "author": "H Adams",
+      "year": "2017",
+      "unstructured": "Adams H, Emerson T, Kirby M, Neville R, Peterson C, Shipman P et al (2017) Persistence images: a stable vector representation of persistent homology. J Mach Learn Res 18(1):218\u2013252",
+      "journal-title": "J Mach Learn Res"
+    },
+    {
+      "issue": "1",
+      "key": "10710_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "381",
+      "DOI": "10.4310/HHA.2016.v18.n1.a21",
+      "volume": "18",
+      "author": "A Adcock",
+      "year": "2016",
+      "unstructured": "Adcock A, Carlsson E, Carlsson G (2016) The ring of algebraic functions on persistence bar codes. Homol Homotopy Appl 18(1):381\u2013402",
+      "journal-title": "Homol Homotopy Appl"
+    },
+    {
+      "issue": "12",
+      "key": "10710_CR3",
+      "doi-asserted-by": "publisher",
+      "first-page": "14069",
+      "DOI": "10.1109/TPAMI.2023.3308391",
+      "volume": "45",
+      "author": "D Ali",
+      "year": "2023",
+      "unstructured": "Ali D, Asaad A, Jimenez MJ, Nanda V, Paluzo-Hidalgo E, Soriano-Trigueros M (2023) A survey of vectorization methods in topological data analysis. IEEE Trans Pattern Anal Mach Intell 45(12):14069\u201314080",
+      "journal-title": "IEEE Trans Pattern Anal Mach Intell"
+    },
+    {
+      "issue": "4",
+      "key": "10710_CR4",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pone.0284820",
+      "volume": "18",
+      "author": "EJ Am\u00e9zquita",
+      "year": "2023",
+      "unstructured": "Am\u00e9zquita EJ, Nasrin F, Storey KM, Yoshizawa M (2023) Genomics data analysis via spectral shape and topology. PLoS ONE 18(4):e0284820",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "key": "10710_CR5",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Anirudh R, Venkataraman V, Natesan\u00a0Ramamurthy K, Turaga P (2016) A riemannian framework for statistical analysis of topological persistence diagrams. In: Conference on computer vision and pattern recognition workshops. pp 68\u201376",
+      "DOI": "10.1109/CVPRW.2016.132"
+    },
+    {
+      "issue": "8",
+      "key": "10710_CR6",
+      "doi-asserted-by": "publisher",
+      "first-page": "1798",
+      "DOI": "10.1109/TPAMI.2013.50",
+      "volume": "35",
+      "author": "Y Bengio",
+      "year": "2013",
+      "unstructured": "Bengio Y, Courville A, Vincent P (2013) Representation learning: a review and new perspectives. IEEE Trans Pattern Anal Mach Intell 35(8):1798\u20131828",
+      "journal-title": "IEEE Trans Pattern Anal Mach Intell"
+    },
+    {
+      "key": "10710_CR7",
+      "doi-asserted-by": "crossref",
+      "unstructured": "BenTaieb A, Hamarneh G (2016) Topology aware fully convolutional networks for histology gland segmentation. In: Medical image computing and computer-assisted intervention. Springer, New York, pp 460\u2013468",
+      "DOI": "10.1007/978-3-319-46723-8_53"
+    },
+    {
+      "key": "10710_CR8",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Bubenik P (2020) The persistence landscape and some of its properties. In: Topological data analysis. Springer, New York, pp 97\u2013117",
+      "DOI": "10.1007/978-3-030-43408-3_4"
+    },
+    {
+      "key": "10710_CR9",
+      "doi-asserted-by": "publisher",
+      "first-page": "91",
+      "DOI": "10.1016/j.jsc.2016.03.009",
+      "volume": "78",
+      "author": "P Bubenik",
+      "year": "2017",
+      "unstructured": "Bubenik P, D\u0142otko P (2017) A persistence landscapes toolbox for topological statistics. J Symb Comput 78:91\u2013114",
+      "journal-title": "J Symb Comput"
+    },
+    {
+      "key": "10710_CR10",
+      "unstructured": "Bubenik P, de\u00a0Silva V, Scott J (2018) Interleaving and Gromov-Hausdorff distance. ArXiv preprint. arXiv:1707.06288"
+    },
+    {
+      "key": "10710_CR11",
+      "doi-asserted-by": "publisher",
+      "first-page": "204800401664546",
+      "DOI": "10.1177/2048004016645467",
+      "volume": "5",
+      "author": "N Byrne",
+      "year": "2016",
+      "unstructured": "Byrne N, Forte MV, Tandon A, Valverde I, Hussain T (2016) A systematic review of image segmentation methodology, used in the additive manufacture of patient-specific 3D printed models of the cardiovascular system. JRSM Cardiovasc Dis 5:204800401664546",
+      "journal-title": "JRSM Cardiovasc Dis"
+    },
+    {
+      "key": "10710_CR12",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Byrne N, Clough JR, Montana G, King AP (2021) A persistent homology-based topological loss function for multi-class CNN segmentation of cardiac MRI. In: Statistical atlases and computational models of the heart. Springer, New York, pp 3\u201313",
+      "DOI": "10.1007/978-3-030-68107-4_1"
+    },
+    {
+      "issue": "496",
+      "key": "10710_CR13",
+      "doi-asserted-by": "publisher",
+      "first-page": "1566",
+      "DOI": "10.1198/jasa.2011.tm11199",
+      "volume": "106",
+      "author": "T Cai",
+      "year": "2011",
+      "unstructured": "Cai T, Liu W (2011) A direct estimation approach to sparse linear discriminant analysis. J Am Stat Assoc 106(496):1566\u20131577",
+      "journal-title": "J Am Stat Assoc"
+    },
+    {
+      "issue": "7",
+      "key": "10710_CR14",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pcbi.1005690",
+      "volume": "13",
+      "author": "Z Cang",
+      "year": "2017",
+      "unstructured": "Cang Z, Wei GW (2017) TopologyNet: topology based deep convolutional and multi-task neural networks for biomolecular property predictions. PLOS Comput Biol 13(7):e1005690",
+      "journal-title": "PLOS Comput Biol"
+    },
+    {
+      "key": "10710_CR16",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Cang Z, Mu L, Wu K, Opron K, Xia K, Wei GW (2015) A topological approach for protein classification. Comput Math Biophys 3(1)",
+      "DOI": "10.1515/mlbmb-2015-0009"
+    },
+    {
+      "issue": "1",
+      "key": "10710_CR15",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pcbi.1005929",
+      "volume": "14",
+      "author": "Z Cang",
+      "year": "2018",
+      "unstructured": "Cang Z, Mu L, Wei GW (2018) Representability of algebraic topology for biomolecules in machine learning based scoring and virtual screening. PLoS Comput Biol 14(1):e1005929",
+      "journal-title": "PLoS Comput Biol"
+    },
+    {
+      "issue": "2",
+      "key": "10710_CR17",
+      "doi-asserted-by": "publisher",
+      "first-page": "255",
+      "DOI": "10.1090/S0273-0979-09-01249-X",
+      "volume": "46",
+      "author": "G Carlsson",
+      "year": "2009",
+      "unstructured": "Carlsson G (2009) Topology and data. Bull Am Math Soc 46(2):255\u2013308",
+      "journal-title": "Bull Am Math Soc"
+    },
+    {
+      "key": "10710_CR20",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Carlsson G, Gabrielsson RB (2020) Topological approaches to deep learning. In: Topological data analysis. Springer, New York, pp 119\u2013146",
+      "DOI": "10.1007/978-3-030-43408-3_5"
+    },
+    {
+      "issue": "1",
+      "key": "10710_CR18",
+      "doi-asserted-by": "publisher",
+      "first-page": "71",
+      "DOI": "10.1007/s00454-009-9176-0",
+      "volume": "42",
+      "author": "G Carlsson",
+      "year": "2009",
+      "unstructured": "Carlsson G, Zomorodian A (2009) The theory of multidimensional persistence. Discret Comput Geom 42(1):71\u201393",
+      "journal-title": "Discret Comput Geom"
+    },
+    {
+      "issue": "1",
+      "key": "10710_CR19",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1007/s11263-007-0056-x",
+      "volume": "76",
+      "author": "G Carlsson",
+      "year": "2007",
+      "unstructured": "Carlsson G, Ishkhanov T, de Silva V, Zomorodian A (2007) On the local behavior of spaces of natural images. Int J Comput Vis 76(1):1\u201312",
+      "journal-title": "Int J Comput Vis"
+    },
+    {
+      "key": "10710_CR21",
+      "unstructured": "Carri\u00e8re M, Chazal F, Ike Y, Lacombe T, Royer M, Umeda Y (2020) Perslay: a neural network layer for persistence diagrams and new graph topological signatures. In: International conference on artificial intelligence and statistics. PMLR, pp 2786\u20132796"
+    },
+    {
+      "issue": "3",
+      "key": "10710_CR22",
+      "doi-asserted-by": "publisher",
+      "first-page": "208",
+      "DOI": "10.3934/DSFE.2023013",
+      "volume": "3",
+      "author": "C Chang",
+      "year": "2023",
+      "unstructured": "Chang C, Lin H (2023) A topological based feature extraction method for the stock market. Data Sci Financ Econ 3(3):208\u2013229",
+      "journal-title": "Data Sci Financ Econ"
+    },
+    {
+      "key": "10710_CR23",
+      "doi-asserted-by": "publisher",
+      "first-page": "108",
+      "DOI": "10.3389/frai.2021.667963",
+      "volume": "4",
+      "author": "F Chazal",
+      "year": "2021",
+      "unstructured": "Chazal F, Michel B (2021) An introduction to topological data analysis: fundamental and practical aspects for data scientists. Front Artif Intell 4:108",
+      "journal-title": "Front Artif Intell"
+    },
+    {
+      "issue": "6",
+      "key": "10710_CR24",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1145/2535927",
+      "volume": "60",
+      "author": "F Chazal",
+      "year": "2013",
+      "unstructured": "Chazal F, Guibas LJ, Oudot SY, Skraba P (2013) Persistence-based clustering in Riemannian manifolds. J ACM 60(6):1\u201338",
+      "journal-title": "J ACM"
+    },
+    {
+      "key": "10710_CR26",
+      "unstructured": "Chen C, Ni X, Bai Q, Wang Y (2019) A topological regularizer for classifiers via persistent homology. In: International conference on artificial intelligence and statistics. PMLR, pp 2573\u20132582"
+    },
+    {
+      "key": "10710_CR25",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.compbiomed.2022.106262",
+      "volume": "151",
+      "author": "J Chen",
+      "year": "2022",
+      "unstructured": "Chen J, Qiu Y, Wang R, Wei GW (2022) Persistent Laplacian projected Omicron BA.4 and BA.5 to become new dominating variants. Comput Biol Med 151:106262",
+      "journal-title": "Comput Biol Med"
+    },
+    {
+      "issue": "1",
+      "key": "10710_CR27",
+      "doi-asserted-by": "publisher",
+      "first-page": "192",
+      "DOI": "10.1109/TPAMI.2018.2885516",
+      "volume": "42",
+      "author": "I Chevyrev",
+      "year": "2020",
+      "unstructured": "Chevyrev I, Nanda V, Oberhauser H (2020) Persistence paths and signature features in topological data analysis. IEEE Trans Pattern Anal Mach Intell 42(1):192\u2013202",
+      "journal-title": "IEEE Trans Pattern Anal Mach Intell"
+    },
+    {
+      "issue": "8",
+      "key": "10710_CR28",
+      "doi-asserted-by": "publisher",
+      "first-page": "1532",
+      "DOI": "10.1111/risa.12801",
+      "volume": "37",
+      "author": "MC Chiu",
+      "year": "2017",
+      "unstructured": "Chiu MC, Pun CS, Wong HY (2017) Big data challenges of high-dimensional continuous-time mean-variance portfolio selection and a remedy. Risk Anal 37(8):1532\u20131549",
+      "journal-title": "Risk Anal"
+    },
+    {
+      "issue": "8",
+      "key": "10710_CR29",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pcbi.1011329",
+      "volume": "19",
+      "author": "S Chuli\u00e1n",
+      "year": "2023",
+      "unstructured": "Chuli\u00e1n S, Stolz BJ, Mart\u00ednez-Rubio \u00c1, Bl\u00e1zquez Go\u00f1i C, Rodr\u00edguez Guti\u00e9rrez JF, Caballero Vel\u00e1zquez T et al (2023) The shape of cancer relapse: Topological data analysis predicts recurrence in paediatric acute lymphoblastic leukaemia. PLoS Comput Biol 19(8):e1011329",
+      "journal-title": "PLoS Comput Biol"
+    },
+    {
+      "issue": "12",
+      "key": "10710_CR30",
+      "doi-asserted-by": "publisher",
+      "first-page": "8766",
+      "DOI": "10.1109/TPAMI.2020.3013679",
+      "volume": "44",
+      "author": "JR Clough",
+      "year": "2022",
+      "unstructured": "Clough JR, Byrne N, Oksuz I, Zimmer VA, Schnabel JA, King AP (2022) A topological loss function for deep-learning based image segmentation using persistent homology. IEEE Trans Pattern Anal Mach Intell 44(12):8766\u20138778",
+      "journal-title": "IEEE Trans Pattern Anal Mach Intell"
+    },
+    {
+      "key": "10710_CR31",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Cohen-Steiner D, Edelsbrunner H, Harer J (2005) Stability of persistence diagrams. In: Symposium on computational geometry, pp 263\u2013271",
+      "DOI": "10.1145/1064092.1064133"
+    },
+    {
+      "key": "10710_CR32",
+      "unstructured": "de\u00a0Surrel T, Hensel F, Carri\u00e8re M, Lacombe T, Ike Y, Kurihara H et\u00a0al (2022) RipsNet: a general architecture for fast and robust estimation of the persistent homology of point clouds. In: Topological, algebraic and geometric learning workshops. PMLR. pp 96\u2013106"
+    },
+    {
+      "key": "10710_CR34",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Edelsbrunner H, Harer J (2008) Persistent homology\u2014a survey. In: Surveys on discrete and computational geometry. vol 453. Amer Mathematical Society, p 257",
+      "DOI": "10.1090/conm/453/08802"
+    },
+    {
+      "key": "10710_CR33",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Edelsbrunner, Letscher, Zomorodian (2002) Topological persistence and simplification. Discret Comput Geom 28(4):511\u2013533",
+      "DOI": "10.1007/s00454-002-2885-2"
+    },
+    {
+      "key": "10710_CR35",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Fan Q, Sun C, Hu B, Wang Q (2023) Recent advances of lanthanide nanomaterials in Tumor NIR fluorescence detection and treatment. Mater Today Bio 100646",
+      "DOI": "10.1016/j.mtbio.2023.100646"
+    },
+    {
+      "key": "10710_CR36",
+      "unstructured": "Glatt R, Liu S (2023) Topological data analysis guided segment anything model prompt optimization for zero-shot segmentation in biological imaging. ArXiv preprint. arXiv:2306.17400"
+    },
+    {
+      "key": "10710_CR37",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.eswa.2020.113222",
+      "volume": "147",
+      "author": "A Goel",
+      "year": "2020",
+      "unstructured": "Goel A, Pasricha P, Mehra A (2020) Topological data analysis in investment decisions. Expert Syst Appl 147:113222",
+      "journal-title": "Expert Syst Appl"
+    },
+    {
+      "key": "10710_CR38",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Guo W, Qiu H, Liu Z, Zhu J, Wang Q (2022) GLD-Net: deep learning to detect DDoS attack via topological and traffic feature fusion. Comput Intell Neurosci",
+      "DOI": "10.1155/2022/4611331"
+    },
+    {
+      "key": "10710_CR39",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Hafez SM, Nainay ME, Abougabal M, Kosba A (2022) Ethereum price prediction using topological data analysis. In: Global conference on artificial intelligence and Internet of Things, pp 146\u2013153",
+      "DOI": "10.1109/GCAIoT57150.2022.10019049"
+    },
+    {
+      "key": "10710_CR40",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Haft-Javaherian M, Villiger M, Schaffer CB, Nishimura N, Golland P, Bouma BE (2020) A topological encoding convolutional neural network for segmentation of 3D multiphoton images of brain vasculature using persistent homology. In: Conference on computer vision and pattern recognition workshops, pp 4262\u20134271",
+      "DOI": "10.1109/CVPRW50498.2020.00503"
+    },
+    {
+      "key": "10710_CR41",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Hajij M, Zamzmi G, Batayneh F (2021) TDA-Net: fusion of persistent homology and deep learning features for COVID-19 detection from chest X-ray images. In: International conference of the IEEE engineering in medicine & biology society. IEEE, pp 4115\u20134119",
+      "DOI": "10.1109/EMBC46164.2021.9629828"
+    },
+    {
+      "key": "10710_CR42",
+      "volume-title": "Algebraic topology",
+      "author": "A Hatcher",
+      "year": "2002",
+      "unstructured": "Hatcher A (2002) Algebraic topology. Cambridge University Press, Cambridge"
+    },
+    {
+      "key": "10710_CR43",
+      "doi-asserted-by": "crossref",
+      "unstructured": "He K, Zhang X, Ren S, Sun J (2016) Deep residual learning for image recognition. In: Conference on computer vision and pattern recognition. IEEE, pp 770\u2013778",
+      "DOI": "10.1109/CVPR.2016.90"
+    },
+    {
+      "key": "10710_CR46",
+      "unstructured": "Hofer C, Kwitt R, Niethammer M, Uhl A (2017) Deep learning with topological signatures. Adv Neural Inf Process Syst 30"
+    },
+    {
+      "issue": "126",
+      "key": "10710_CR44",
+      "first-page": "1",
+      "volume": "20",
+      "author": "CD Hofer",
+      "year": "2019",
+      "unstructured": "Hofer CD, Kwitt R, Niethammer M (2019) Learning representations of persistence barcodes. J Mach Learn Res 20(126):1\u201345",
+      "journal-title": "J Mach Learn Res"
+    },
+    {
+      "key": "10710_CR45",
+      "unstructured": "Hofer C, Graf F, Rieck B, Niethammer M, Kwitt R (2020) Graph filtration learning. In: III HD, Singh A (eds) International conference on machine learning. vol. 119 of proceedings of machine learning research. PMLR, pp 4314\u20134323"
+    },
+    {
+      "key": "10710_CR47",
+      "unstructured": "Horn M, Brouwer ED, Moor M, Moreau Y, Rieck B, Borgwardt K (2022) Topological graph neural networks. In: International conference on learning representations. p\u00a0x"
+    },
+    {
+      "key": "10710_CR48",
+      "unstructured": "Hu X, Li F, Samaras D, Chen C (2019) Topology-preserving deep image segmentation. Adv Neural Inf Process Syst 32"
+    },
+    {
+      "key": "10710_CR49",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Huynh V, Phung DQ, Zhao H (2021) Optimal transport for deep generative models: state of the art and research challenges. In: International joint conference on artificial intelligence, pp 4450\u20134457",
+      "DOI": "10.24963/ijcai.2021/607"
+    },
+    {
+      "issue": "1",
+      "key": "10710_CR50",
+      "doi-asserted-by": "publisher",
+      "first-page": "101",
+      "DOI": "10.1007/s10208-018-9379-y",
+      "volume": "19",
+      "author": "S Kali\u0161nik",
+      "year": "2018",
+      "unstructured": "Kali\u0161nik S (2018) Tropical coordinates on the space of persistence Barcodes. Found Comput Math 19(1):101\u2013129",
+      "journal-title": "Found Comput Math"
+    },
+    {
+      "key": "10710_CR51",
+      "first-page": "15965",
+      "volume": "33",
+      "author": "K Kim",
+      "year": "2020",
+      "unstructured": "Kim K, Kim J, Zaheer M, Kim J, Chazal F, Wasserman L (2020) Pllay: efficient topological layer based on persistent landscapes. Adv Neural Inf Process Syst 33:15965\u201315977",
+      "journal-title": "Adv Neural Inf Process Syst"
+    },
+    {
+      "key": "10710_CR52",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ko S, Koo D (2023) A novel approach for wafer defect pattern classification based on topological data analysis. Expert Syst Appl 120765",
+      "DOI": "10.1016/j.eswa.2023.120765"
+    },
+    {
+      "key": "10710_CR53",
+      "unstructured": "Krizhevsky A, Sutskever I, Hinton GE (2012) Imagenet classification with deep convolutional neural networks. Adv Neural Inf Process Syst 25"
+    },
+    {
+      "key": "10710_CR54",
+      "unstructured": "Kusano G, Hiraoka Y, Fukumizu K (2016) Persistence weighted Gaussian kernel for topological data analysis. In: International conference on machine learning. PMLR. pp 2004\u20132013"
+    },
+    {
+      "key": "10710_CR55",
+      "unstructured": "Kwitt R, Huber S, Niethammer M, Lin W, Bauer U (2015) Statistical topological data analysis-a kernel perspective. Adv Neural Inf Process Syst 28"
+    },
+    {
+      "key": "10710_CR56",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Li C, Ovsjanikov M, Chazal F (2014) Persistence-based structural recognition. In: Conference on computer vision and pattern recognition, pp 2003\u20132010",
+      "DOI": "10.1109/CVPR.2014.257"
+    },
+    {
+      "issue": "1",
+      "key": "10710_CR57",
+      "doi-asserted-by": "publisher",
+      "first-page": "291",
+      "DOI": "10.1109/TVCG.2019.2934594",
+      "volume": "26",
+      "author": "S Liu",
+      "year": "2020",
+      "unstructured": "Liu S, Gaffney J, Peterson L, Robinson PB, Bhatia H, Pascucci V et al (2020) Scalable topological data analysis and visualization for evaluating data-driven models in scientific applications. IEEE Trans Visual Comput Graphics 26(1):291\u2013300",
+      "journal-title": "IEEE Trans Visual Comput Graphics"
+    },
+    {
+      "issue": "12",
+      "key": "10710_CR58",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1088/0266-5611/27/12/124007",
+      "volume": "27",
+      "author": "Y Mileyko",
+      "year": "2011",
+      "unstructured": "Mileyko Y, Mukherjee S, Harer J (2011) Probability measures on the space of persistence diagrams. Inverse Prob 27(12):124007",
+      "journal-title": "Inverse Prob"
+    },
+    {
+      "key": "10710_CR59",
+      "unstructured": "Moor M, Horn M, Rieck B, Borgwardt K (2020) Topological autoencoders. In: International conference on machine learning. PMLR, pp 7045\u20137054"
+    },
+    {
+      "issue": "1",
+      "key": "10710_CR60",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.isci.2021.103685",
+      "volume": "25",
+      "author": "I Morilla",
+      "year": "2022",
+      "unstructured": "Morilla I, Chan P, Caffin F, Svilar L, Selbonne S, Ladaigue S et al (2022) Deep models of integrated multiscale molecular data decipher the endothelial cell response to ionizing radiation. Icience 25(1):103685",
+      "journal-title": "Icience"
+    },
+    {
+      "key": "10710_CR61",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Mosinska A, Marquez-Neila P, Kozinski M, Fua P (2018) Beyond the pixel-wise loss for topology-aware delineation. In: Conference on computer vision and pattern recognition. IEEE, pp 3136\u20133145",
+      "DOI": "10.1109/CVPR.2018.00331"
+    },
+    {
+      "key": "10710_CR62",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Munkres J (1993) 1. In: Homology groups of a simplicial complex. CRC Press, New York, pp 1\u201378",
+      "DOI": "10.1201/9780429493911-1"
+    },
+    {
+      "key": "10710_CR63",
+      "unstructured": "Murugan J, Robertson D (2019) An introduction to topological data analysis for physicists: from LGM to FRBs. ArXiv preprint. arXiv:1904.11044"
+    },
+    {
+      "issue": "1",
+      "key": "10710_CR64",
+      "first-page": "7503",
+      "volume": "21",
+      "author": "G Naitzat",
+      "year": "2020",
+      "unstructured": "Naitzat G, Zhitnikov A, Lim LH (2020) Topology of deep neural networks. J Mach Learn Res 21(1):7503\u20137542",
+      "journal-title": "J Mach Learn Res"
+    },
+    {
+      "key": "10710_CR65",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Narayana J, Mac\u00a0Aog\u00e1in M, Ivan F, Jaggi T, Keir H, Dicker A et\u00a0al (2023) Topological data analysis reveals antimicrobial resistotypes associated to the microbiome in bronchiectasis: an international multi-centre study. In: Microbiome research. American Thoracic Society, pp A2652\u2013A2652",
+      "DOI": "10.1164/ajrccm-conference.2023.207.1_MeetingAbstracts.A2652"
+    },
+    {
+      "key": "10710_CR66",
+      "unstructured": "Papillon M, Hajij M, Myers A, Frantzen F, Zamzmi G, Jenne H et\u00a0al (2023a) Topological deep learning challenge: design and results. In: Workshop on topology, algebra, and geometry in machine learning. vol 221 of Proceedings of machine learning research. PMLR, p 3\u20138"
+    },
+    {
+      "key": "10710_CR67",
+      "unstructured": "Papillon M, Sanborn S, Hajij M, Miolane N (2023b) Architectures of topological deep learning: a survey on topological neural networks. ArXiv preprint. arXiv:2304.10031"
+    },
+    {
+      "issue": "5\u20136",
+      "key": "10710_CR68",
+      "doi-asserted-by": "publisher",
+      "first-page": "355",
+      "DOI": "10.1561/2200000073",
+      "volume": "11",
+      "author": "G Peyr\u00e9",
+      "year": "2019",
+      "unstructured": "Peyr\u00e9 G, Cuturi M et al (2019) Computational optimal transport: with applications to data science. Found Trends Mach Learn 11(5\u20136):355\u2013607",
+      "journal-title": "Found Trends Mach Learn"
+    },
+    {
+      "key": "10710_CR69",
+      "unstructured": "Polianskii V (2018) An investigation of neural network structure with topological data analysis [Master\u2019s Thesis]. KTH, School of Electrical Engineering and Computer Science (EECS)"
+    },
+    {
+      "issue": "1",
+      "key": "10710_CR70",
+      "doi-asserted-by": "publisher",
+      "first-page": "410",
+      "DOI": "10.1137/19M1291674",
+      "volume": "12",
+      "author": "CS Pun",
+      "year": "2021",
+      "unstructured": "Pun CS (2021) A sparse learning approach to relative-volatility-managed portfolio selection. SIAM J Financ Math 12(1):410\u2013445",
+      "journal-title": "SIAM J Financ Math"
+    },
+    {
+      "issue": "7",
+      "key": "10710_CR71",
+      "doi-asserted-by": "publisher",
+      "first-page": "5169",
+      "DOI": "10.1007/s10462-022-10146-z",
+      "volume": "55",
+      "author": "CS Pun",
+      "year": "2022",
+      "unstructured": "Pun CS, Lee SX, Xia K (2022) Persistent-homology-based machine learning: a survey and a comparative study. Artif Intell Rev 55(7):5169\u20135213",
+      "journal-title": "Artif Intell Rev"
+    },
+    {
+      "issue": "2",
+      "key": "10710_CR72",
+      "doi-asserted-by": "publisher",
+      "first-page": "149",
+      "DOI": "10.1038/s43588-022-00394-y",
+      "volume": "3",
+      "author": "Y Qiu",
+      "year": "2023",
+      "unstructured": "Qiu Y, Wei GW (2023a) Persistent spectral theory-guided protein engineering. Nat Comput Sci 3(2):149\u2013163",
+      "journal-title": "Nat Comput Sci"
+    },
+    {
+      "issue": "5",
+      "key": "10710_CR73",
+      "doi-asserted-by": "publisher",
+      "first-page": "bbad289",
+      "DOI": "10.1093/bib/bbad289",
+      "volume": "24",
+      "author": "Y Qiu",
+      "year": "2023",
+      "unstructured": "Qiu Y, Wei GW (2023b) Artificial intelligence-aided protein engineering: from topological data analysis to deep protein language models. Briefings Bioinform 24(5):bbad289",
+      "journal-title": "Briefings Bioinform"
+    },
+    {
+      "issue": "1",
+      "key": "10710_CR74",
+      "doi-asserted-by": "publisher",
+      "first-page": "382",
+      "DOI": "10.1111/cgf.14195",
+      "volume": "40",
+      "author": "A Rathore",
+      "year": "2021",
+      "unstructured": "Rathore A, Chalapathi N, Palande S, Wang B (2021) TopoAct: visually exploring the shape of activations in deep learning. Comput Graphics Forum 40(1):382\u2013397",
+      "journal-title": "Comput Graphics Forum"
+    },
+    {
+      "key": "10710_CR75",
+      "unstructured": "Reinauer R, Caorsi M, Berkouk N (2021) Persformer: a transformer architecture for topological machine learning. ArXiv preprint. arXiv:2112.15210"
+    },
+    {
+      "key": "10710_CR76",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Reininghaus J, Huber S, Bauer U, Kwitt R (2015) A stable multi-scale kernel for topological machine learning. In: Conference on computer vision and pattern recognition. IEEE. pp 4741\u20134748",
+      "DOI": "10.1109/CVPR.2015.7299106"
+    },
+    {
+      "key": "10710_CR77",
+      "unstructured": "Rieck B, Togninalli M, Bock C, Moor M, Horn M, Gumbsch T et\u00a0al (2019) Neural persistence: a complexity measure for deep neural networks using algebraic topology. In: International conference on learning representations, p\u00a0x"
+    },
+    {
+      "key": "10710_CR78",
+      "first-page": "503",
+      "volume": "24",
+      "author": "V Robins",
+      "year": "1999",
+      "unstructured": "Robins V (1999) Towards computing homology from approximations. Topol Proc 24:503\u2013532",
+      "journal-title": "Topol Proc"
+    },
+    {
+      "key": "10710_CR79",
+      "doi-asserted-by": "publisher",
+      "first-page": "99102",
+      "DOI": "10.1109/ACCESS.2022.3204278",
+      "volume": "10",
+      "author": "RE Sarpietro",
+      "year": "2022",
+      "unstructured": "Sarpietro RE, Pino C, Coffa S, Messina A, Palazzo S, Battiato S et al (2022) Explainable deep learning system for advanced silicon and silicon carbide electrical wafer defect map assessment. IEEE Access 10:99102\u201399128",
+      "journal-title": "IEEE Access"
+    },
+    {
+      "key": "10710_CR80",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Senekane M, Matjelo NJ, Taele BM (2021) Improving short-term output power forecasting using topological data analysis and machine learning. In: International conference on electrical, computer and energy technologies. IEEE, pp 1\u20136",
+      "DOI": "10.1109/ICECET52533.2021.9698599"
+    },
+    {
+      "issue": "7",
+      "key": "10710_CR81",
+      "doi-asserted-by": "publisher",
+      "first-page": "682",
+      "DOI": "10.1136/thorax-2022-219731",
+      "volume": "78",
+      "author": "A Shapanis",
+      "year": "2023",
+      "unstructured": "Shapanis A, Jones MG, Schofield J, Skipp P (2023) Topological data analysis identifies molecular phenotypes of idiopathic pulmonary fibrosis. Thorax 78(7):682\u2013689",
+      "journal-title": "Thorax"
+    },
+    {
+      "issue": "8",
+      "key": "10710_CR82",
+      "doi-asserted-by": "publisher",
+      "first-page": "11",
+      "DOI": "10.1167/8.8.11",
+      "volume": "8",
+      "author": "G Singh",
+      "year": "2008",
+      "unstructured": "Singh G, Memoli F, Ishkhanov T, Sapiro G, Carlsson G, Ringach DL (2008) Topological analysis of population activity in visual cortex. J Vis 8(8):11",
+      "journal-title": "J Vis"
+    },
+    {
+      "issue": "1",
+      "key": "10710_CR83",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1186/s13244-023-01413-w",
+      "volume": "14",
+      "author": "Y Singh",
+      "year": "2023",
+      "unstructured": "Singh Y, Farrelly CM, Hathaway QA, Leiner T, Jagtap J, Carlsson GE et al (2023) Topological data analysis in medical imaging: current state of the art. Insights Imaging 14(1):1\u201310",
+      "journal-title": "Insights Imaging"
+    },
+    {
+      "key": "10710_CR84",
+      "unstructured": "Solomon Y, Wagner A, Bendich P (2021) A fast and robust method for global topological functional optimization. In: International conference on artificial intelligence and statistics. PMLR, pp 109\u2013117"
+    },
+    {
+      "key": "10710_CR85",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Som A, Thopalli K, Natesan\u00a0Ramamurthy K, Venkataraman V, Shukla A, Turaga P (2018) Perturbation robust representations of topological persistence diagrams. In: European conference on computer vision (ECCV), pp 617\u2013635",
+      "DOI": "10.1007/978-3-030-01234-2_38"
+    },
+    {
+      "issue": "56",
+      "key": "10710_CR86",
+      "first-page": "1929",
+      "volume": "15",
+      "author": "N Srivastava",
+      "year": "2014",
+      "unstructured": "Srivastava N, Hinton G, Krizhevsky A, Sutskever I, Salakhutdinov R (2014) Dropout: a simple way to prevent neural networks from overfitting. J Mach Learn Res 15(56):1929\u20131958",
+      "journal-title": "J Mach Learn Res"
+    },
+    {
+      "issue": "4",
+      "key": "10710_CR87",
+      "doi-asserted-by": "publisher",
+      "first-page": "310",
+      "DOI": "10.1093/imaiai/iau011",
+      "volume": "3",
+      "author": "K Turner",
+      "year": "2014",
+      "unstructured": "Turner K, Mukherjee S, Boyer DM (2014) Persistent homology transform for modeling shapes and surfaces. Inf Inference 3(4):310\u2013344",
+      "journal-title": "Inf Inference"
+    },
+    {
+      "key": "10710_CR88",
+      "unstructured": "Uray M, Giunti B, Kerber M, Huber S (2023) Topological data analysis in smart manufacturing processes\u2014a survey on the state of the art. ArXiv preprint. arXiv:2310.09319"
+    },
+    {
+      "issue": "2",
+      "key": "10710_CR89",
+      "first-page": "171",
+      "volume": "10",
+      "author": "M Vukicevic",
+      "year": "2017",
+      "unstructured": "Vukicevic M, Mosadegh B, Min JK, Little SH (2017) Cardiac 3D printing and its future directions. Cardiovasc Imaging 10(2):171\u2013184",
+      "journal-title": "Cardiovasc Imaging"
+    },
+    {
+      "issue": "1",
+      "key": "10710_CR90",
+      "doi-asserted-by": "publisher",
+      "first-page": "11478",
+      "DOI": "10.1038/s41598-023-38251-1",
+      "volume": "13",
+      "author": "M Wamil",
+      "year": "2023",
+      "unstructured": "Wamil M, Hassaine A, Rao S, Li Y, Mamouei M, Canoy D et al (2023) Stratification of diabetes in the context of comorbidities, using representation learning and topological data analysis. Sci Rep 13(1):11478",
+      "journal-title": "Sci Rep"
+    },
+    {
+      "key": "10710_CR91",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Wang F, Liu H, Samaras D, Chen C (2020) Topogan: a topology-aware generative adversarial network. In: European conference on computer vision. Springer, NewYork, pp 118\u2013136",
+      "DOI": "10.1007/978-3-030-58580-8_8"
+    },
+    {
+      "issue": "1",
+      "key": "10710_CR92",
+      "doi-asserted-by": "publisher",
+      "first-page": "75",
+      "DOI": "10.1007/s10472-021-09761-3",
+      "volume": "90",
+      "author": "S Watanabe",
+      "year": "2021",
+      "unstructured": "Watanabe S, Yamana H (2021) Topological measurement of deep neural networks using persistent homology. Ann Math Artif Intell 90(1):75\u201392",
+      "journal-title": "Ann Math Artif Intell"
+    },
+    {
+      "issue": "1",
+      "key": "10710_CR93",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1007/s11538-017-0362-6",
+      "volume": "80",
+      "author": "K Xia",
+      "year": "2017",
+      "unstructured": "Xia K, Li Z, Mu L (2017) Multiscale persistent functions for biomolecular structure characterization. Bull Math Biol 80(1):1\u201331",
+      "journal-title": "Bull Math Biol"
+    },
+    {
+      "issue": "1",
+      "key": "10710_CR94",
+      "doi-asserted-by": "publisher",
+      "first-page": "400",
+      "DOI": "10.1038/s41467-023-36134-7",
+      "volume": "14",
+      "author": "Z Yu",
+      "year": "2023",
+      "unstructured": "Yu Z, Su Y, Lu Y, Yang Y, Wang F, Zhang S et al (2023) Topological identification and interpretation for single-cell gene regulation elucidation across multiple platforms using scMGCA. Nat Commun 14(1):400",
+      "journal-title": "Nat Commun"
+    },
+    {
+      "key": "10710_CR95",
+      "unstructured": "Zaheer M, Kottur S, Ravanbakhsh S, Poczos B, Salakhutdinov RR, Smola AJ (2017) Deep sets. In: Advances in neural information processing systems. vol\u00a030, pp 3391\u20133401"
+    },
+    {
+      "key": "10710_CR96",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cma.2021.114083",
+      "volume": "386",
+      "author": "Z Zhang",
+      "year": "2021",
+      "unstructured": "Zhang Z, Li Y, Zhou W, Chen X, Yao W, Zhao Y (2021) TONR: an exploration for a novel way combining neural network with topology optimization. Comput Methods Appl Mech Eng 386:114083",
+      "journal-title": "Comput Methods Appl Mech Eng"
+    },
+    {
+      "key": "10710_CR97",
+      "unstructured": "Zhao Q, Ye Z, Chen C, Wang Y (2020) Persistence enhanced graph neural network. In: International conference on artificial intelligence and statistics. vol 108 of proceedings of machine learning research. PMLR, pp 2896\u20132906"
+    },
+    {
+      "key": "10710_CR98",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Zhen Z, Chen Y, Segovia-Dominguez I, Gel YR (2022) Tlife-GDN: detecting and forecasting spatio-temporal anomalies via persistent homology and geometric deep learning. In: Pacific-Asia conference on knowledge discovery and data mining. Springer, New York, pp 511\u2013525",
+      "DOI": "10.1007/978-3-031-05936-0_40"
+    },
+    {
+      "key": "10710_CR99",
+      "doi-asserted-by": "publisher",
+      "first-page": "269",
+      "DOI": "10.1016/j.cag.2021.10.022",
+      "volume": "102",
+      "author": "C Zhou",
+      "year": "2022",
+      "unstructured": "Zhou C, Dong Z, Lin H (2022) Learning persistent homology of 3D point clouds. Comput Graph 102:269\u2013279",
+      "journal-title": "Comput Graph"
+    },
+    {
+      "key": "10710_CR100",
+      "unstructured": "Zhu X, Vartanian A, Bansal M, Nguyen D, Brandl L (2016) Stochastic multiresolution persistent homology kernel. In: International joint conferences on artificial intelligence. pp 2449\u20132457"
+    },
+    {
+      "issue": "3",
+      "key": "10710_CR101",
+      "doi-asserted-by": "publisher",
+      "first-page": "1969",
+      "DOI": "10.1007/s10462-020-09897-4",
+      "volume": "54",
+      "author": "B Zieli\u0144ski",
+      "year": "2020",
+      "unstructured": "Zieli\u0144ski B, Lipi\u0144ski M, Juda M, Zeppelzauer M, D\u0142otko P (2020) Persistence codebooks for topological data analysis. Artif Intell Rev 54(3):1969\u20132009",
+      "journal-title": "Artif Intell Rev"
+    },
+    {
+      "issue": "3",
+      "key": "10710_CR102",
+      "doi-asserted-by": "publisher",
+      "first-page": "263",
+      "DOI": "10.1016/j.cag.2010.03.007",
+      "volume": "34",
+      "author": "A Zomorodian",
+      "year": "2010",
+      "unstructured": "Zomorodian A (2010) Fast construction of the Vietoris-Rips complex. Comput Graph 34(3):263\u2013271",
+      "journal-title": "Comput Graph"
+    }
+  ],
+  "container-title": [
+    "Artificial Intelligence Review"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s10462-024-10710-9.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1007/s10462-024-10710-9/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s10462-024-10710-9.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        13
+      ]
+    ],
+    "date-time": "2024-04-13T07:06:00Z",
+    "timestamp": 1712991960000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/s10462-024-10710-9"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        29
+      ]
+    ]
+  },
+  "references-count": 102,
+  "journal-issue": {
+    "issue": "4",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          4
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10710"
+  ],
+  "URL": "https://doi.org/10.1007/s10462-024-10710-9",
+  "relation": {},
+  "ISSN": [
+    "1573-7462"
+  ],
+  "issn-type": [
+    {
+      "value": "1573-7462",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        29
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "18 January 2024",
+      "order": 1,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "29 February 2024",
+      "order": 2,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Declarations"
+      }
+    },
+    {
+      "value": "The authors declare no competing interests.",
+      "order": 2,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Conflict of interest"
+      }
+    }
+  ],
+  "article-number": "77"
+}

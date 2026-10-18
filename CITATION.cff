@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: "Cite the software version and accompanying manuscript when released."
+title: "TopoAML: Persistent Homology-Guided Graph Learning for Leakage-Free Bitcoin Anti-Money Laundering"
+type: software
+version: 0.1.0
+abstract: "A reproducible historical-graph AML research implementation; empirical status is documented in the repository."

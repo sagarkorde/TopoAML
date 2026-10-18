@@ -1,0 +1,1790 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        17
+      ]
+    ],
+    "date-time": "2026-10-17T21:49:55Z",
+    "timestamp": 1792273795840,
+    "version": "4.4.0"
+  },
+  "reference-count": 152,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "9",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            1,
+            22
+          ]
+        ],
+        "date-time": "2025-01-22T00:00:00Z",
+        "timestamp": 1737504000000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            1,
+            22
+          ]
+        ],
+        "date-time": "2025-01-22T00:00:00Z",
+        "timestamp": 1737504000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Front. Comput. Sci."
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2025,
+        9
+      ]
+    ]
+  },
+  "DOI": "10.1007/s11704-024-40474-y",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        22
+      ]
+    ],
+    "date-time": "2025-01-22T10:31:27Z",
+    "timestamp": 1737541887000
+  },
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 155,
+  "title": [
+    "Graph neural networks for financial fraud detection: a review"
+  ],
+  "prefix": "10.1007",
+  "volume": "19",
+  "author": [
+    {
+      "given": "Dawei",
+      "family": "Cheng",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Yao",
+      "family": "Zou",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Sheng",
+      "family": "Xiang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Changjun",
+      "family": "Jiang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        22
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "40474_CR1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "AlFalahi L, Nobanee H. Conceptual building of sustainable economic growth and corporate bankruptcy. SSRN Electronic Journal, 2019",
+      "DOI": "10.2139/ssrn.3472409"
+    },
+    {
+      "issue": "6",
+      "key": "40474_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "1213",
+      "DOI": "10.3846/tede.2019.10717",
+      "volume": "25",
+      "author": "D M\u00e1t\u00e9",
+      "year": "2019",
+      "unstructured": "M\u00e1t\u00e9 D, Sadaf R, Ol\u00e1h J, Popp J, Sz\u0171cs E. The effects of accountability, governance capital, and legal origin on reported frauds. Technological and Economic Development of Economy, 2019, 25(6): 1213\u20131231",
+      "journal-title": "Technological and Economic Development of Economy"
+    },
+    {
+      "key": "40474_CR3",
+      "volume-title": "Financial fraud losses",
+      "author": "CAFC",
+      "year": "2024",
+      "unstructured": "CAFC. Financial fraud losses. See antifraudcentre-centreantifraude.ca/index-eng.htm, website, 2024"
+    },
+    {
+      "key": "40474_CR4",
+      "doi-asserted-by": "publisher",
+      "first-page": "122156",
+      "DOI": "10.1016/j.eswa.2023.122156",
+      "volume": "240",
+      "author": "S Motie",
+      "year": "2024",
+      "unstructured": "Motie S, Raahemi B. Financial fraud detection using graph neural networks: a systematic review. Expert Systems with Applications, 2024, 240: 122156",
+      "journal-title": "Expert Systems with Applications"
+    },
+    {
+      "key": "40474_CR5",
+      "first-page": "286",
+      "volume-title": "Proceedings of Business Intelligence Workshop of 13th Portugese Conference on Artificial Intelligence",
+      "author": "R Alves",
+      "year": "2007",
+      "unstructured": "Alves R, Ferreira P M S, Belo O, Ribeiro J T S. Detecting telecommunications fraud based on signature clustering analysis. In: Proceedings of Business Intelligence Workshop of 13th Portugese Conference on Artificial Intelligence. 2007, 286\u2013299"
+    },
+    {
+      "key": "40474_CR6",
+      "doi-asserted-by": "publisher",
+      "first-page": "252797",
+      "DOI": "10.1155/2014/252797",
+      "volume": "2014",
+      "author": "K R Seeja",
+      "year": "2014",
+      "unstructured": "Seeja K R, Zareapoor M. FraudMiner: a novel credit card fraud detection model based on frequent itemset mining. The Scientific World Journal, 2014, 2014: 252797",
+      "journal-title": "The Scientific World Journal"
+    },
+    {
+      "key": "40474_CR7",
+      "first-page": "270",
+      "volume-title": "Proceedings of the 1st International NAISO Congress on NEURO FUZZY THECHNOLOGIES",
+      "author": "S Maes",
+      "year": "2002",
+      "unstructured": "Maes S, Tuyls K, Vanschoenwinkel B, Manderick B. Credit card fraud detection using Bayesian and neural networks. In: Proceedings of the 1st International NAISO Congress on NEURO FUZZY THECHNOLOGIES. 2002, 270"
+    },
+    {
+      "issue": "3",
+      "key": "40474_CR8",
+      "first-page": "311",
+      "volume": "6",
+      "author": "F N Ogwueleka",
+      "year": "2011",
+      "unstructured": "Ogwueleka F N. Data mining application in credit card fraud detection system. Journal of Engineering Science and Technology, 2011, 6(3): 311\u2013322",
+      "journal-title": "Journal of Engineering Science and Technology"
+    },
+    {
+      "issue": "6",
+      "key": "40474_CR9",
+      "first-page": "66",
+      "volume": "4",
+      "author": "J R Gaikwad",
+      "year": "2014",
+      "unstructured": "Gaikwad J R, Deshmane A B, Somavanshi H V, Patil S V, Badgujar R A. Credit card fraud detection using decision tree induction algorithm. International Journal of Innovative Technology and Exploring Engineering, 2014, 4(6): 66\u201369",
+      "journal-title": "International Journal of Innovative Technology and Exploring Engineering"
+    },
+    {
+      "key": "40474_CR10",
+      "first-page": "841",
+      "volume-title": "Proceedings of the 14th International Conference on Neural Information Processing Systems: Natural and Synthetic",
+      "author": "A Y Ng",
+      "year": "2001",
+      "unstructured": "Ng A Y, Jordan M I. On discriminative vs. generative classifiers: a comparison of logistic regression and naive Bayes. In: Proceedings of the 14th International Conference on Neural Information Processing Systems: Natural and Synthetic. 2001, 841\u2013848"
+    },
+    {
+      "key": "40474_CR11",
+      "first-page": "315",
+      "volume-title": "Proceedings of 2011 International Symposium on Innovations in Intelligent Systems and Applications",
+      "author": "Y Sahin",
+      "year": "2011",
+      "unstructured": "Sahin Y, Duman E. Detecting credit card fraud by ANN and logistic regression. In: Proceedings of 2011 International Symposium on Innovations in Intelligent Systems and Applications. 2011, 315\u2013319"
+    },
+    {
+      "key": "40474_CR12",
+      "volume-title": "Proceedings of 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "author": "O Avrahami",
+      "year": "2022",
+      "unstructured": "Avrahami O, Lischinski D, Fried O. Blended diffusion for text-driven editing of natural images. In: Proceedings of 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022"
+    },
+    {
+      "key": "40474_CR13",
+      "volume-title": "Proceedings of the 37th International Conference on Neural Information Processing Systems",
+      "author": "W Feng",
+      "year": "2023",
+      "unstructured": "Feng W, Zhu W, Fu J T, Jampani V, Akula A R, He X, Basu S, Wang X E, Wang W Y. LayoutGPT: compositional visual planning and generation with large language models. In: Proceedings of the 37th International Conference on Neural Information Processing Systems. 2023"
+    },
+    {
+      "key": "40474_CR14",
+      "doi-asserted-by": "publisher",
+      "first-page": "108102",
+      "DOI": "10.1016/j.patcog.2021.108102",
+      "volume": "120",
+      "author": "X Bai",
+      "year": "2021",
+      "unstructured": "Bai X, Wang X, Liu X, Liu Q, Song J, Sebe N, Kim B. Explainable deep learning for efficient and robust pattern recognition: a survey of recent developments. Pattern Recognition, 2021, 120: 108102",
+      "journal-title": "Pattern Recognition"
+    },
+    {
+      "key": "40474_CR15",
+      "volume-title": "Deep learning applied to NLP",
+      "author": "M M Lopez",
+      "year": "2017",
+      "unstructured": "Lopez M M, Kalita J. Deep learning applied to NLP. 2017, arXiv preprint arXiv: 1703.03091"
+    },
+    {
+      "key": "40474_CR16",
+      "first-page": "1120",
+      "volume-title": "Proceedings of the 2nd International Conference on Trends in Electronics and Informatics",
+      "author": "R R Popat",
+      "year": "2018",
+      "unstructured": "Popat R R, Chaudhary J. A survey on credit card fraud detection using machine learning. In: Proceedings of the 2nd International Conference on Trends in Electronics and Informatics. 2018, 1120\u20131125"
+    },
+    {
+      "key": "40474_CR17",
+      "first-page": "4654",
+      "volume-title": "Proceedings of the Twenty-Ninth International Conference on International Joint Conferences on Artificial Intelligence",
+      "author": "W Zheng",
+      "year": "2021",
+      "unstructured": "Zheng W, Yan L, Gou C, Wang F Y. Federated meta-learning for fraudulent credit card detection. Proceedings of the Twenty-Ninth International Conference on International Joint Conferences on Artificial Intelligence. 2021, 4654\u20134660"
+    },
+    {
+      "key": "40474_CR18",
+      "doi-asserted-by": "publisher",
+      "first-page": "03002",
+      "DOI": "10.1051/matecconf/201818903002",
+      "volume": "189",
+      "author": "X Zhou",
+      "year": "2018",
+      "unstructured": "Zhou X, Cheng S, Zhu M, Guo C, Zhou S, Xu P, Xue Z, Zhang W. A state of the art survey of data mining-based fraud detection and credit scoring. MATEC Web of Conferences, 2018, 189: 03002",
+      "journal-title": "MATEC Web of Conferences"
+    },
+    {
+      "key": "40474_CR19",
+      "doi-asserted-by": "publisher",
+      "first-page": "278",
+      "DOI": "10.1016/j.future.2015.01.001",
+      "volume": "55",
+      "author": "M Ahmed",
+      "year": "2016",
+      "unstructured": "Ahmed M, Mahmood A N, Islam M R. A survey of anomaly detection techniques in financial domain. Future Generation Computer Systems, 2016, 55: 278\u2013288",
+      "journal-title": "Future Generation Computer Systems"
+    },
+    {
+      "issue": "8",
+      "key": "40474_CR20",
+      "doi-asserted-by": "publisher",
+      "first-page": "3800",
+      "DOI": "10.1109/TKDE.2020.3025588",
+      "volume": "34",
+      "author": "D Cheng",
+      "year": "2022",
+      "unstructured": "Cheng D, Wang X, Zhang Y, Zhang L. Graph neural network for fraud detection via spatial-temporal attention. IEEE Transactions on Knowledge and Data Engineering, 2022, 34(8): 3800\u20133813",
+      "journal-title": "IEEE Transactions on Knowledge and Data Engineering"
+    },
+    {
+      "key": "40474_CR21",
+      "first-page": "1025",
+      "volume-title": "Proceedings of the 31st International Conference on Neural Information Processing Systems",
+      "author": "W L Hamilton",
+      "year": "2017",
+      "unstructured": "Hamilton W L, Ying R, Leskovec J. Inductive representation learning on large graphs. In: Proceedings of the 31st International Conference on Neural Information Processing Systems. 2017, 1025\u20131035"
+    },
+    {
+      "key": "40474_CR22",
+      "doi-asserted-by": "publisher",
+      "first-page": "983",
+      "DOI": "10.1109/ICDMW53433.2021.00128",
+      "volume-title": "Proceedings of 2021 International Conference on Data Mining Workshops",
+      "author": "Y Li",
+      "year": "2021",
+      "unstructured": "Li Y, Tam D S H, Xie S, Liu X, Ying Q F, Lau W C, Chiu D M, Chen S Z. Temporal graph representation learning for detecting anomalies in E-payment systems. In: Proceedings of 2021 International Conference on Data Mining Workshops. 2021, 983\u2013990"
+    },
+    {
+      "key": "40474_CR23",
+      "first-page": "2014",
+      "volume-title": "Proceedings of the 33rd International Conference on International Conference on Machine Learning",
+      "author": "M Niepert",
+      "year": "2016",
+      "unstructured": "Niepert M, Ahmed M, Kutzkov K. Learning convolutional neural networks for graphs. In: Proceedings of the 33rd International Conference on International Conference on Machine Learning. 2016, 2014\u20132023"
+    },
+    {
+      "issue": "12",
+      "key": "40474_CR24",
+      "doi-asserted-by": "publisher",
+      "first-page": "12012",
+      "DOI": "10.1109/TKDE.2021.3118815",
+      "volume": "35",
+      "author": "X Ma",
+      "year": "2023",
+      "unstructured": "Ma X, Wu J, Xue S, Yang J, Zhou C, Sheng Q Z, Xiong H, Akoglu L. A comprehensive survey on graph anomaly detection with deep learning. IEEE Transactions on Knowledge and Data Engineering, 2023, 35(12): 12012\u201312038",
+      "journal-title": "IEEE Transactions on Knowledge and Data Engineering"
+    },
+    {
+      "key": "40474_CR25",
+      "first-page": "23",
+      "volume-title": "Proceedings of the 5th International Conference on Machine Learning Technologies",
+      "author": "I Alarab",
+      "year": "2020",
+      "unstructured": "Alarab I, Prakoonwit S, Nacer M I. Competence of graph convolutional networks for anti-money laundering in bitcoin blockchain. In: Proceedings of the 5th International Conference on Machine Learning Technologies. 2020, 23\u201327"
+    },
+    {
+      "issue": "2",
+      "key": "40474_CR26",
+      "doi-asserted-by": "publisher",
+      "first-page": "1921",
+      "DOI": "10.1007/s13369-021-06116-2",
+      "volume": "47",
+      "author": "P Xia",
+      "year": "2022",
+      "unstructured": "Xia P, Ni Z, Xiao H, Zhu X, Peng P. A novel spatiotemporal prediction approach based on graph convolution neural networks and long short-term memory for money laundering fraud. Arabian Journal for Science and Engineering, 2022, 47(2): 1921\u20131937",
+      "journal-title": "Arabian Journal for Science and Engineering"
+    },
+    {
+      "issue": "3",
+      "key": "40474_CR27",
+      "doi-asserted-by": "publisher",
+      "first-page": "594",
+      "DOI": "10.1108/JMLC-07-2021-0076",
+      "volume": "25",
+      "author": "G Y Sheu",
+      "year": "2022",
+      "unstructured": "Sheu G Y, Li C Y. On the potential of a graph attention network in money laundering detection. Journal of Money Laundering Control, 2022, 25(3): 594\u2013608",
+      "journal-title": "Journal of Money Laundering Control"
+    },
+    {
+      "key": "40474_CR28",
+      "first-page": "14557",
+      "volume-title": "Proceedings of the 37th AAAI Conference on Artificial Intelligence",
+      "author": "S Xiang",
+      "year": "2023",
+      "unstructured": "Xiang S, Zhu M, Cheng D, Li E, Zhao R, Ouyang Y, Chen L, Zheng Y. Semi-supervised credit card fraud detection via attribute-driven graph representation. In: Proceedings of the 37th AAAI Conference on Artificial Intelligence. 2023, 14557\u201314565"
+    },
+    {
+      "key": "40474_CR29",
+      "first-page": "1",
+      "volume-title": "Proceedings of 2021 International Conference on Cyber-Physical Social Intelligence",
+      "author": "G Liu",
+      "year": "2021",
+      "unstructured": "Liu G, Tang J, Tian Y, Wang J. Graph neural network for credit card fraud detection. In: Proceedings of 2021 International Conference on Cyber-Physical Social Intelligence. 2021, 1\u20136"
+    },
+    {
+      "key": "40474_CR30",
+      "first-page": "572",
+      "volume-title": "Proceedings of 2002 IEEE World Congress on Computational Intelligence. 2002 IEEE International Conference on Fuzzy Systems",
+      "author": "M Syeda",
+      "year": "2002",
+      "unstructured": "Syeda M, Zhang Y Q, Pan Y. Parallel granular neural networks for fast credit card fraud detection. In: Proceedings of 2002 IEEE World Congress on Computational Intelligence. 2002 IEEE International Conference on Fuzzy Systems. 2002, 572\u2013577"
+    },
+    {
+      "key": "40474_CR31",
+      "first-page": "6138",
+      "volume-title": "Proceedings of the 32nd International Joint Conference on Artificial Intelligence",
+      "author": "J Ma",
+      "year": "2023",
+      "unstructured": "Ma J, Li F, Zhang R, Xu Z, Cheng D, Ouyang Y, Zhao R, Zheng J, Zheng Y, Jiang C. Fighting against organized fraudsters using risk diffusion-based parallel graph neural network. In: Proceedings of the 32nd International Joint Conference on Artificial Intelligence. 2023, 6138\u20136146"
+    },
+    {
+      "key": "40474_CR32",
+      "first-page": "7500",
+      "volume-title": "Proceedings of the 33rd International Joint Conference on Artificial Intelligence",
+      "author": "J Wu",
+      "year": "2024",
+      "unstructured": "Wu J, Liu X, Cheng D, Ouyang Y, Wu X, Zheng Y. Safeguarding fraud detection from attacks: a robust graph learning approach. In: Proceedings of the 33rd International Joint Conference on Artificial Intelligence. 2024, 7500\u20137508"
+    },
+    {
+      "key": "40474_CR33",
+      "doi-asserted-by": "publisher",
+      "first-page": "401",
+      "DOI": "10.1145/3419111.3421281",
+      "volume-title": "Proceedings of the 11th ACM Symposium on Cloud Computing",
+      "author": "Z Lin",
+      "year": "2020",
+      "unstructured": "Lin Z, Li C, Miao Y, Liu Y, Xu Y. PaGraph: scaling GNN training on large graphs via computation-aware caching. In: Proceedings of the 11th ACM Symposium on Cloud Computing. 2020, 401\u2013415"
+    },
+    {
+      "key": "40474_CR34",
+      "volume-title": "Quiver: supporting GPUs for low-latency, high-throughput GNN serving with workload awareness",
+      "author": "Z Tan",
+      "year": "2023",
+      "unstructured": "Tan Z, Yuan X, He C, Sit M K, Li G, Liu X, Ai B, Zeng K, Pietzuch P, Mai L. Quiver: supporting GPUs for low-latency, high-throughput GNN serving with workload awareness. 2023, arXiv preprint arXiv: 2305.10863"
+    },
+    {
+      "issue": "11",
+      "key": "40474_CR35",
+      "doi-asserted-by": "publisher",
+      "first-page": "2626",
+      "DOI": "10.14778/3551793.3551819",
+      "volume": "15",
+      "author": "Y Park",
+      "year": "2022",
+      "unstructured": "Park Y, Min S, Lee J W. Ginex: SSD-enabled billion-scale graph neural network training on a single machine via provably optimal inmemory caching. Proceedings of the VLDB Endowment, 2022, 15(11): 2626\u20132639",
+      "journal-title": "Proceedings of the VLDB Endowment"
+    },
+    {
+      "key": "40474_CR36",
+      "first-page": "440",
+      "volume-title": "Proceedings of the 36th International Conference on Neural Information Processing Systems",
+      "author": "Z Zhang",
+      "year": "2024",
+      "unstructured": "Zhang Z, Wang X, Zhang Z, Li H, Qin Z, Zhu W. Dynamic graph neural networks under spatio-temporal distribution shift. In: Proceedings of the 36th International Conference on Neural Information Processing Systems. 2024, 440"
+    },
+    {
+      "issue": "1",
+      "key": "40474_CR37",
+      "first-page": "70",
+      "volume": "21",
+      "author": "S M Kazemi",
+      "year": "2020",
+      "unstructured": "Kazemi S M, Goel R, Jain K, Kobyzev I, Sethi A, Forsyth P, Poupart P. Representation learning for dynamic graphs: a survey. The Journal of Machine Learning Research, 2020, 21(1): 70",
+      "journal-title": "The Journal of Machine Learning Research"
+    },
+    {
+      "key": "40474_CR38",
+      "first-page": "829",
+      "volume-title": "Proceedings of the 33rd International Conference on Neural Information Processing Systems",
+      "author": "Z Ying",
+      "year": "2019",
+      "unstructured": "Ying Z, Bourgeois D, You J, Zitnik M, Leskovec J. GNNExplainer: generating explanations for graph neural networks. In: Proceedings of the 33rd International Conference on Neural Information Processing Systems. 2019, 829"
+    },
+    {
+      "key": "40474_CR39",
+      "volume-title": "Proceedings of the 10th International Conference on Learning Representations",
+      "author": "Y Wu",
+      "year": "2022",
+      "unstructured": "Wu Y, Wang X, Zhang A, He X, Chua T S. Discovering invariant rationales for graph neural networks. In: Proceedings of the 10th International Conference on Learning Representations. 2022"
+    },
+    {
+      "key": "40474_CR40",
+      "doi-asserted-by": "publisher",
+      "first-page": "1696",
+      "DOI": "10.1145/3534678.3539366",
+      "volume-title": "Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+      "author": "Y Sui",
+      "year": "2022",
+      "unstructured": "Sui Y, Wang X, Wu J, Lin M, He X, Chua T S. Causal attention for interpretable and generalizable graph classification. In: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2022, 1696\u20131705"
+    },
+    {
+      "key": "40474_CR41",
+      "doi-asserted-by": "publisher",
+      "first-page": "72504",
+      "DOI": "10.1109/ACCESS.2021.3096799",
+      "volume": "10",
+      "author": "M N Ashtiani",
+      "year": "2022",
+      "unstructured": "Ashtiani M N, Raahemi B. Intelligent fraud detection in financial statements using machine learning and data mining: a systematic literature review. IEEE Access, 2022, 10: 72504\u201372525",
+      "journal-title": "IEEE Access"
+    },
+    {
+      "key": "40474_CR42",
+      "doi-asserted-by": "publisher",
+      "first-page": "47",
+      "DOI": "10.1016/j.cose.2015.09.005",
+      "volume": "57",
+      "author": "J West",
+      "year": "2016",
+      "unstructured": "West J, Bhattacharya M. Intelligent financial fraud detection: a comprehensive review. Computers & Security, 2016, 57: 47\u201366",
+      "journal-title": "Computers & Security"
+    },
+    {
+      "issue": "3",
+      "key": "40474_CR43",
+      "doi-asserted-by": "publisher",
+      "first-page": "559",
+      "DOI": "10.1016/j.dss.2010.08.006",
+      "volume": "50",
+      "author": "E W T Ngai",
+      "year": "2011",
+      "unstructured": "Ngai E W T, Hu Y, Wong Y H, Chen Y, Sun X. The application of data mining techniques in financial fraud detection: a classification framework and an academic review of literature. Decision Support Systems, 2011, 50(3): 559\u2013569",
+      "journal-title": "Decision Support Systems"
+    },
+    {
+      "issue": "C",
+      "key": "40474_CR44",
+      "doi-asserted-by": "publisher",
+      "first-page": "100402",
+      "DOI": "10.1016/j.cosrev.2021.100402",
+      "volume": "40",
+      "author": "K G Al-Hashedi",
+      "year": "2021",
+      "unstructured": "Al-Hashedi K G, Magalingam P. Financial fraud detection applying data mining techniques: a comprehensive review from 2009 to 2019. Computer Science Review, 2021, 40(C): 100402",
+      "journal-title": "Computer Science Review"
+    },
+    {
+      "key": "40474_CR45",
+      "first-page": "5519",
+      "volume-title": "Proceedings of 2007 International Conference on Wireless Communications, Networking and Mobile Computing",
+      "author": "D Yue",
+      "year": "2007",
+      "unstructured": "Yue D, Wu X, Wang Y, Li Y, Chu C H. A review of data mining-based financial fraud detection research. In: Proceedings of 2007 International Conference on Wireless Communications, Networking and Mobile Computing. 2007, 5519\u20135522"
+    },
+    {
+      "issue": "1",
+      "key": "40474_CR46",
+      "doi-asserted-by": "publisher",
+      "first-page": "37",
+      "DOI": "10.5120/4787-7016",
+      "volume": "39",
+      "author": "A Sharma",
+      "year": "2012",
+      "unstructured": "Sharma A, Kumar Panigrahi P. A review of financial accounting fraud detection based on data mining techniques. International Journal of Computer Applications, 2012, 39(1): 37\u201347",
+      "journal-title": "International Journal of Computer Applications"
+    },
+    {
+      "issue": "19",
+      "key": "40474_CR47",
+      "doi-asserted-by": "publisher",
+      "first-page": "9637",
+      "DOI": "10.3390/app12199637",
+      "volume": "12",
+      "author": "A Ali",
+      "year": "2022",
+      "unstructured": "Ali A, Abd Razak S, Othman S H, Eisa T A E, Al-Dhaqm A, Nasser M, Elhassan T, Elshafie H, Saif A. Financial fraud detection based on machine learning: a systematic literature review. Applied Sciences, 2022, 12(19): 9637",
+      "journal-title": "Applied Sciences"
+    },
+    {
+      "key": "40474_CR48",
+      "doi-asserted-by": "publisher",
+      "first-page": "115466",
+      "DOI": "10.1016/j.eswa.2021.115466",
+      "volume": "184",
+      "author": "J Y Kim",
+      "year": "2021",
+      "unstructured": "Kim J Y, Cho S B. A systematic analysis and guidelines of graph neural networks for practical applications. Expert Systems with Applications, 2021, 184: 115466",
+      "journal-title": "Expert Systems with Applications"
+    },
+    {
+      "key": "40474_CR49",
+      "doi-asserted-by": "publisher",
+      "first-page": "57",
+      "DOI": "10.1016/j.aiopen.2021.01.001",
+      "volume": "1",
+      "author": "J Zhou",
+      "year": "2020",
+      "unstructured": "Zhou J, Cui G, Hu S, Zhang Z, Yang C, Liu Z, Wang L, Li C, Sun M. Graph neural networks: a review of methods and applications. AI Open, 2020, 1: 57\u201381",
+      "journal-title": "AI Open"
+    },
+    {
+      "key": "40474_CR50",
+      "first-page": "7581",
+      "volume-title": "Proceedings of the 33rd International Joint Conference on Artificial Intelligence",
+      "author": "Y Zou",
+      "year": "2024",
+      "unstructured": "Zou Y, Cheng D. Effective high-order graph representation learning for credit card fraud detection. In: Proceedings of the 33rd International Joint Conference on Artificial Intelligence. 2024, 7581\u20137589"
+    },
+    {
+      "key": "40474_CR51",
+      "first-page": "22511",
+      "volume-title": "Proceedings of the 38th AAAI Conference on Artificial Intelligence",
+      "author": "R Zhang",
+      "year": "2024",
+      "unstructured": "Zhang R, Cheng D, Yang J, Ouyang Y, Wu X, Zheng Y, Jiang C. Pretrained online contrastive learning for insurance fraud detection. In: Proceedings of the 38th AAAI Conference on Artificial Intelligence. 2024, 22511\u201322519"
+    },
+    {
+      "issue": "3",
+      "key": "40474_CR52",
+      "doi-asserted-by": "publisher",
+      "first-page": "47",
+      "DOI": "10.1145/3474379",
+      "volume": "40",
+      "author": "G Zhang",
+      "year": "2022",
+      "unstructured": "Zhang G, Li Z, Huang J, Wu J, Zhou C, Yang J, Gao J. eFraudCom: an E-commerce fraud detection system via competitive graph neural networks. ACM Transactions on Information Systems, 2022, 40(3): 47",
+      "journal-title": "ACM Transactions on Information Systems"
+    },
+    {
+      "key": "40474_CR53",
+      "doi-asserted-by": "publisher",
+      "first-page": "5685",
+      "DOI": "10.1145/3580305.3599865",
+      "volume-title": "Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+      "author": "W Zheng",
+      "year": "2023",
+      "unstructured": "Zheng W, Xu B, Lu E, Li Y, Cao Q, Zong X, Shen H. MIDLG: mutual information based dual level GNN for transaction fraud complaint verification. In: Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2023, 5685\u20135694"
+    },
+    {
+      "key": "40474_CR54",
+      "doi-asserted-by": "publisher",
+      "first-page": "200240",
+      "DOI": "10.1016/j.iswa.2023.200240",
+      "volume": "19",
+      "author": "V Balmaseda",
+      "year": "2023",
+      "unstructured": "Balmaseda V, Coronado M, de Cadenas-Santiago G. Predicting systemic risk in financial systems using Deep Graph Learning. Intelligent Systems with Applications, 2023, 19: 200240",
+      "journal-title": "Intelligent Systems with Applications"
+    },
+    {
+      "key": "40474_CR55",
+      "volume-title": "Proceedings of the 6th International Conference on Learning Representations",
+      "author": "P Veli\u010dkovi\u0107",
+      "year": "2018",
+      "unstructured": "Veli\u010dkovi\u0107 P, Cucurull G, Casanova A, Romero A, Li\u00f2 P, Bengio Y. Graph attention networks. In: Proceedings of the 6th International Conference on Learning Representations. 2018"
+    },
+    {
+      "key": "40474_CR56",
+      "doi-asserted-by": "publisher",
+      "first-page": "702",
+      "DOI": "10.1137/1.9781611976700.79",
+      "volume-title": "Proceedings of 2021 SIAM International Conference on Data Mining",
+      "author": "D Wang",
+      "year": "2021",
+      "unstructured": "Wang D, Zhang Z, Zhou J, Cui P, Fang J, Jia Q, Fang Y, Qi Y. Temporal-aware graph neural network for credit risk prediction. In: Proceedings of 2021 SIAM International Conference on Data Mining. 2021, 702\u2013710"
+    },
+    {
+      "key": "40474_CR57",
+      "doi-asserted-by": "publisher",
+      "first-page": "634",
+      "DOI": "10.1007/978-3-031-46677-9_44",
+      "volume-title": "Proceedings of the 19th International Conference on Advanced Data Mining and Applications",
+      "author": "H Huang",
+      "year": "2023",
+      "unstructured": "Huang H, Wang P, Zhang Z, Zhao Q. A spatio-temporal attention-based GCN for anti-money laundering transaction detection. In: Proceedings of the 19th International Conference on Advanced Data Mining and Applications. 2023, 634\u2013648"
+    },
+    {
+      "issue": "4",
+      "key": "40474_CR58",
+      "doi-asserted-by": "publisher",
+      "first-page": "905",
+      "DOI": "10.1109/TBDATA.2021.3132672",
+      "volume": "8",
+      "author": "N Jiang",
+      "year": "2022",
+      "unstructured": "Jiang N, Duan F, Chen H, Huang W, Liu X. MAFI: GNN-based multiple aggregators and feature interactions network for fraud detection over heterogeneous graph. IEEE Transactions on Big Data, 2022, 8(4): 905\u2013919",
+      "journal-title": "IEEE Transactions on Big Data"
+    },
+    {
+      "issue": "6",
+      "key": "40474_CR59",
+      "doi-asserted-by": "publisher",
+      "first-page": "1553",
+      "DOI": "10.1007/s13042-021-01465-8",
+      "volume": "13",
+      "author": "X Liang",
+      "year": "2022",
+      "unstructured": "Liang X, Ma Y, Cheng G, Fan C, Yang Y, Liu Z. Meta-path-based heterogeneous graph neural networks in academic network. International Journal of Machine Learning and Cybernetics, 2022, 13(6): 1553\u20131569",
+      "journal-title": "International Journal of Machine Learning and Cybernetics"
+    },
+    {
+      "key": "40474_CR60",
+      "doi-asserted-by": "publisher",
+      "first-page": "2022",
+      "DOI": "10.1145/3308558.3313562",
+      "volume-title": "Proceedings of the World Wide Web Conference",
+      "author": "X Wang",
+      "year": "2019",
+      "unstructured": "Wang X, Ji H, Shi C, Wang B, Ye Y, Cui P, Yu P S. Heterogeneous graph attention network. In: Proceedings of the World Wide Web Conference. 2019, 2022\u20132032"
+    },
+    {
+      "key": "40474_CR61",
+      "doi-asserted-by": "publisher",
+      "first-page": "754",
+      "DOI": "10.1145/2736277.2741123",
+      "volume-title": "Proceedings of the 24th International Conference on World Wide Web",
+      "author": "C Meng",
+      "year": "2015",
+      "unstructured": "Meng C, Cheng R, Maniu S, Senellart P, Zhang W. Discovering meta-paths in large heterogeneous information networks. In: Proceedings of the 24th International Conference on World Wide Web. 2015, 754\u2013764"
+    },
+    {
+      "key": "40474_CR62",
+      "doi-asserted-by": "publisher",
+      "first-page": "3280",
+      "DOI": "10.1145/3447548.3467142",
+      "volume-title": "Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining",
+      "author": "C Liu",
+      "year": "2021",
+      "unstructured": "Liu C, Sun L, Ao X, Feng J, He Q, Yang H. Intention-aware heterogeneous graph attention networks for fraud transactions detection. In: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021, 3280\u20133288"
+    },
+    {
+      "key": "40474_CR63",
+      "doi-asserted-by": "publisher",
+      "first-page": "185",
+      "DOI": "10.1145/3604237.3626856",
+      "volume-title": "Proceedings of the 4th ACM International Conference on AI in Finance",
+      "author": "S Ghosh",
+      "year": "2023",
+      "unstructured": "Ghosh S, Anand R, Bhowmik T, Chandrashekhar S. GoSage: heterogeneous graph neural network using hierarchical attention for collusion fraud detection. In: Proceedings of the 4th ACM International Conference on AI in Finance. 2023, 185\u2013192"
+    },
+    {
+      "key": "40474_CR64",
+      "doi-asserted-by": "publisher",
+      "first-page": "1959",
+      "DOI": "10.1145/3459637.3482277",
+      "volume-title": "Proceedings of the 30th ACM International Conference on Information & Knowledge Management",
+      "author": "L Wang",
+      "year": "2021",
+      "unstructured": "Wang L, Li P, Xiong K, Zhao J, Lin R. Modeling heterogeneous graph network on fraud detection: a community-based framework with attention mechanism. In: Proceedings of the 30th ACM International Conference on Information & Knowledge Management. 2021, 1959\u20131968"
+    },
+    {
+      "key": "40474_CR65",
+      "volume-title": "Anti-money laundering in bitcoin: experimenting with graph convolutional networks for financial forensics",
+      "author": "M Weber",
+      "year": "2019",
+      "unstructured": "Weber M, Domeniconi G, Chen J, Weidele D K I, Bellei C, Robinson T, Leiserson C E. Anti-money laundering in bitcoin: experimenting with graph convolutional networks for financial forensics. 2019, arXiv preprint arXiv: 1908.02591"
+    },
+    {
+      "key": "40474_CR66",
+      "first-page": "1268",
+      "volume-title": "Proceedings of 2020 IEEE International Conference on Data Mining",
+      "author": "I Sukharev",
+      "year": "2020",
+      "unstructured": "Sukharev I, Shumovskaia V, Fedyanin K, Panov M, Berestnev D. EWS-GCN: Edge weight-shared graph convolutional network for transactional banking data. In: Proceedings of 2020 IEEE International Conference on Data Mining. 2020, 1268\u20131273"
+    },
+    {
+      "issue": "3",
+      "key": "40474_CR67",
+      "doi-asserted-by": "publisher",
+      "first-page": "3536",
+      "DOI": "10.1109/TCSS.2023.3335485",
+      "volume": "11",
+      "author": "Y Tian",
+      "year": "2024",
+      "unstructured": "Tian Y, Liu G, Wang J, Zhou M. ASA-GNN: adaptive sampling and aggregation-based graph neural network for transaction fraud detection. IEEE Transactions on Computational Social Systems, 2024, 11(3): 3536\u20133549",
+      "journal-title": "IEEE Transactions on Computational Social Systems"
+    },
+    {
+      "issue": "3",
+      "key": "40474_CR68",
+      "doi-asserted-by": "publisher",
+      "first-page": "2963",
+      "DOI": "10.1109/TNSE.2024.3355089",
+      "volume": "11",
+      "author": "H Sun",
+      "year": "2024",
+      "unstructured": "Sun H, Liu Z, Wang S, Wang H. Adaptive attention-based graph representation learning to detect phishing accounts on the ethereum blockchain. IEEE Transactions on Network Science and Engineering, 2024, 11(3): 2963\u20132975",
+      "journal-title": "IEEE Transactions on Network Science and Engineering"
+    },
+    {
+      "issue": "4",
+      "key": "40474_CR69",
+      "doi-asserted-by": "publisher",
+      "first-page": "6978",
+      "DOI": "10.1109/TASE.2023.3335145",
+      "volume": "21",
+      "author": "Y Xie",
+      "year": "2024",
+      "unstructured": "Xie Y, Liu G, Zhou M, Wei L, Zhu H, Zhou R, Cao L. A spatial-temporal gated network for credit card fraud detection by learning transactional representations. IEEE Transactions on Automation Science and Engineering, 2024, 21(4): 6978\u20136991",
+      "journal-title": "IEEE Transactions on Automation Science and Engineering"
+    },
+    {
+      "key": "40474_CR70",
+      "doi-asserted-by": "publisher",
+      "first-page": "3670",
+      "DOI": "10.1145/3447548.3467065",
+      "volume-title": "Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining",
+      "author": "Z Li",
+      "year": "2021",
+      "unstructured": "Li Z, Wang H, Zhang P, Hui P, Huang J, Liao J, Zhang J, Bu J. Live-streaming fraud detection: a heterogeneous graph neural network approach. In: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021, 3670\u20133678"
+    },
+    {
+      "key": "40474_CR71",
+      "doi-asserted-by": "publisher",
+      "first-page": "102335",
+      "DOI": "10.1016/j.is.2023.102335",
+      "volume": "121",
+      "author": "B Wu",
+      "year": "2024",
+      "unstructured": "Wu B, Chao K M, Li Y. Heterogeneous graph neural networks for fraud detection and explanation in supply chain finance. Information Systems, 2024, 121: 102335",
+      "journal-title": "Information Systems"
+    },
+    {
+      "key": "40474_CR72",
+      "first-page": "288",
+      "volume-title": "Proceedings of the 29th IEEE International Conference on Parallel and Distributed Systems",
+      "author": "F Xu",
+      "year": "2023",
+      "unstructured": "Xu F, Wang N, Wen X, Gao M, Guo C, Zhao X. Few-shot message-enhanced contrastive learning for graph anomaly detection. In: Proceedings of the 29th IEEE International Conference on Parallel and Distributed Systems. 2023, 288\u2013295"
+    },
+    {
+      "key": "40474_CR73",
+      "first-page": "349",
+      "volume-title": "Proceedings of the 2nd International Seminar on Artificial Intelligence, Networking and Information Technology",
+      "author": "M Li",
+      "year": "2021",
+      "unstructured": "Li M, Sun M, Liu Q, Zhang Y. Fraud detection based on graph neural networks with self-attention. In: Proceedings of the 2nd International Seminar on Artificial Intelligence, Networking and Information Technology. 2021, 349\u2013353"
+    },
+    {
+      "key": "40474_CR74",
+      "first-page": "1300",
+      "volume-title": "Proceedings of the 37th International Conference on Neural Information Processing Systems",
+      "author": "E Altman",
+      "year": "2024",
+      "unstructured": "Altman E, Blanu\u0161a J, von Niederh\u00e4usern L, Egressy B, Anghel A, Atasu K. Realistic synthetic financial transactions for anti-money laundering models. In: Proceedings of the 37th International Conference on Neural Information Processing Systems. 2024, 1300"
+    },
+    {
+      "key": "40474_CR75",
+      "doi-asserted-by": "publisher",
+      "first-page": "100418",
+      "DOI": "10.1016/j.accinf.2019.06.001",
+      "volume": "34",
+      "author": "K Singh",
+      "year": "2019",
+      "unstructured": "Singh K, Best P. Anti-money laundering: using data visualization to identify suspicious activity. International Journal of Accounting Information Systems, 2019, 34: 100418",
+      "journal-title": "International Journal of Accounting Information Systems"
+    },
+    {
+      "key": "40474_CR76",
+      "first-page": "1092",
+      "volume-title": "Proceedings of 2023 IEEE International Conference on Data Mining Workshops",
+      "author": "H Kim",
+      "year": "2023",
+      "unstructured": "Kim H, Choi J, Whang J J. Dynamic relation-attentive graph neural networks for fraud detection. In: Proceedings of 2023 IEEE International Conference on Data Mining Workshops. 2023, 1092\u20131096"
+    },
+    {
+      "issue": "5",
+      "key": "40474_CR77",
+      "doi-asserted-by": "publisher",
+      "first-page": "1292",
+      "DOI": "10.1111/joes.12294",
+      "volume": "32",
+      "author": "A Reurink",
+      "year": "2018",
+      "unstructured": "Reurink A. Financial fraud: a literature review. Journal of Economic Surveys, 2018, 32(5): 1292\u20131325",
+      "journal-title": "Journal of Economic Surveys"
+    },
+    {
+      "key": "40474_CR78",
+      "doi-asserted-by": "publisher",
+      "first-page": "104458",
+      "DOI": "10.1016/j.frl.2023.104458",
+      "volume": "58",
+      "author": "F Shi",
+      "year": "2023",
+      "unstructured": "Shi F, Zhao C. Enhancing financial fraud detection with hierarchical graph attention networks: a study on integrating local and extensive structural information. Finance Research Letters, 2023, 58: 104458",
+      "journal-title": "Finance Research Letters"
+    },
+    {
+      "key": "40474_CR79",
+      "doi-asserted-by": "publisher",
+      "first-page": "209",
+      "DOI": "10.1007/978-3-319-40803-3_9",
+      "volume-title": "Complex Networks and Dynamics: Social and Economic Interactions",
+      "author": "A M D\u2019Arcangelis",
+      "year": "2016",
+      "unstructured": "D\u2019Arcangelis A M, Rotundo G. Complex networks in finance. In: Commendatore P, Matilla-Garc\u00eda M, Varela L M, C\u00e1novas J S, eds. Complex Networks and Dynamics: Social and Economic Interactions. Cham: Springer, 2016, 209\u2013235"
+    },
+    {
+      "key": "40474_CR80",
+      "doi-asserted-by": "publisher",
+      "first-page": "351",
+      "DOI": "10.1016/j.procs.2022.11.185",
+      "volume": "214",
+      "author": "X Mao",
+      "year": "2022",
+      "unstructured": "Mao X, Liu M, Wang Y. Using GNN to detect financial fraud based on the related party transactions network. Procedia Computer Science, 2022, 214: 351\u2013358",
+      "journal-title": "Procedia Computer Science"
+    },
+    {
+      "issue": "3",
+      "key": "40474_CR81",
+      "doi-asserted-by": "publisher",
+      "first-page": "626",
+      "DOI": "10.1007/s10618-014-0365-y",
+      "volume": "29",
+      "author": "L Akoglu",
+      "year": "2015",
+      "unstructured": "Akoglu L, Tong H, Koutra D. Graph based anomaly detection and description: a survey. Data Mining and Knowledge Discovery, 2015, 29(3): 626\u2013688",
+      "journal-title": "Data Mining and Knowledge Discovery"
+    },
+    {
+      "key": "40474_CR82",
+      "volume-title": "Proceedings of the 20th Annual Network and Distributed System Security Symposium",
+      "author": "M Egele",
+      "year": "2013",
+      "unstructured": "Egele M, Stringhini G, Kr\u00fcgel C, Vigna G. COMPA: detecting compromised accounts on social networks. In: Proceedings of the 20th Annual Network and Distributed System Security Symposium. 2013"
+    },
+    {
+      "key": "40474_CR83",
+      "doi-asserted-by": "publisher",
+      "first-page": "375",
+      "DOI": "10.1007/978-981-97-5572-1_26",
+      "volume-title": "Proceedings of the 29th International Conference on Database Systems for Advanced Applications",
+      "author": "Y Zou",
+      "year": "2024",
+      "unstructured": "Zou Y, Xiang S, Miao Q, Cheng D, Jiang C. Subgraph patterns enhanced graph neural network for fraud detection. In: Proceedings of the 29th International Conference on Database Systems for Advanced Applications. 2024, 375\u2013384"
+    },
+    {
+      "issue": "1",
+      "key": "40474_CR84",
+      "doi-asserted-by": "publisher",
+      "first-page": "128",
+      "DOI": "10.1080/07350015.2015.1017643",
+      "volume": "34",
+      "author": "P Giudici",
+      "year": "2016",
+      "unstructured": "Giudici P, Spelta A. Graphical network models for international financial flows. Journal of Business & Economic Statistics, 2016, 34(1): 128\u2013138",
+      "journal-title": "Journal of Business & Economic Statistics"
+    },
+    {
+      "key": "40474_CR85",
+      "doi-asserted-by": "publisher",
+      "first-page": "3342",
+      "DOI": "10.1145/3511808.3557136",
+      "volume-title": "Proceedings of the 31st ACM International Conference on Information & Knowledge Management",
+      "author": "M Lu",
+      "year": "2022",
+      "unstructured": "Lu M, Han Z, Rao S X, Zhang Z, Zhao Y, Shan Y, Raghunathan R, Zhang C, Jiang J. BRIGHT - graph neural networks in real-time fraud detection. In: Proceedings of the 31st ACM International Conference on Information & Knowledge Management. 2022, 3342\u20133351"
+    },
+    {
+      "issue": "1",
+      "key": "40474_CR86",
+      "doi-asserted-by": "publisher",
+      "first-page": "7",
+      "DOI": "10.1007/s42484-024-00143-6",
+      "volume": "6",
+      "author": "N Innan",
+      "year": "2024",
+      "unstructured": "Innan N, Sawaika A, Dhor A, Dutta S, Thota S, Gokal H, Patel N, Khan M A Z, Theodonis I, Bennai M. Financial fraud detection using quantum graph neural networks. Quantum Machine Intelligence, 2024, 6(1): 7",
+      "journal-title": "Quantum Machine Intelligence"
+    },
+    {
+      "issue": "4",
+      "key": "40474_CR87",
+      "doi-asserted-by": "publisher",
+      "first-page": "565",
+      "DOI": "10.1142/S1793351X20300022",
+      "volume": "14",
+      "author": "E Kurshan",
+      "year": "2020",
+      "unstructured": "Kurshan E, Shen H. Graph computing for financial crime and fraud detection: trends, challenges and outlook. International Journal of Semantic Computing, 2020, 14(4): 565\u2013589",
+      "journal-title": "International Journal of Semantic Computing"
+    },
+    {
+      "key": "40474_CR88",
+      "doi-asserted-by": "publisher",
+      "first-page": "1269",
+      "DOI": "10.1145/3292500.3330895",
+      "volume-title": "Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining",
+      "author": "S Kumar",
+      "year": "2019",
+      "unstructured": "Kumar S, Zhang X, Leskovec J. Predicting dynamic embedding trajectory in temporal interaction networks. In: Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2019, 1269\u20131278"
+    },
+    {
+      "issue": "9",
+      "key": "40474_CR89",
+      "doi-asserted-by": "publisher",
+      "first-page": "3848",
+      "DOI": "10.1109/TITS.2019.2935152",
+      "volume": "21",
+      "author": "L Zhao",
+      "year": "2020",
+      "unstructured": "Zhao L, Song Y, Zhang C, Liu Y, Wang P, Lin T, Deng M, Li H. T-GCN: a temporal graph convolutional network for traffic prediction. IEEE Transactions on Intelligent Transportation Systems, 2020, 21(9): 3848\u20133858",
+      "journal-title": "IEEE Transactions on Intelligent Transportation Systems"
+    },
+    {
+      "key": "40474_CR90",
+      "first-page": "2086",
+      "volume-title": "Proceedings of the 27th International Joint Conference on Artificial Intelligence",
+      "author": "L Du",
+      "year": "2018",
+      "unstructured": "Du L, Wang Y, Song G, Lu Z, Wang J. Dynamic network embedding: an extended approach for skip-gram based network embedding. In: Proceedings of the 27th International Joint Conference on Artificial Intelligence. 2018, 2086\u20132092"
+    },
+    {
+      "issue": "9",
+      "key": "40474_CR91",
+      "doi-asserted-by": "publisher",
+      "first-page": "1449",
+      "DOI": "10.1109/JPROC.2015.2460697",
+      "volume": "103",
+      "author": "D Lahat",
+      "year": "2015",
+      "unstructured": "Lahat D, Adali T, Jutten C. Multimodal data fusion: an overview of methods, challenges, and prospects. Proceedings of the IEEE, 2015, 103(9): 1449\u20131477",
+      "journal-title": "Proceedings of the IEEE"
+    },
+    {
+      "key": "40474_CR92",
+      "doi-asserted-by": "publisher",
+      "first-page": "108218",
+      "DOI": "10.1016/j.patcog.2021.108218",
+      "volume": "121",
+      "author": "D Cheng",
+      "year": "2022",
+      "unstructured": "Cheng D, Yang F, Xiang S, Liu J. Financial time series forecasting with multi-modality graph neural network. Pattern Recognition, 2022, 121: 108218",
+      "journal-title": "Pattern Recognition"
+    },
+    {
+      "issue": "1",
+      "key": "40474_CR93",
+      "doi-asserted-by": "publisher",
+      "first-page": "4",
+      "DOI": "10.1109/TNNLS.2020.2978386",
+      "volume": "32",
+      "author": "Z Wu",
+      "year": "2021",
+      "unstructured": "Wu Z, Pan S, Chen F, Long G, Zhang C, Yu P S. A comprehensive survey on graph neural networks. IEEE Transactions on Neural Networks and Learning Systems, 2021, 32(1): 4\u201324",
+      "journal-title": "IEEE Transactions on Neural Networks and Learning Systems"
+    },
+    {
+      "issue": "12",
+      "key": "40474_CR94",
+      "doi-asserted-by": "publisher",
+      "first-page": "10",
+      "DOI": "10.14569/IJACSA.2021.0121202",
+      "volume": "12",
+      "author": "C Ikeda",
+      "year": "2021",
+      "unstructured": "Ikeda C, Ouazzane K, Yu Q, Hubenova S. New feature engineering framework for deep learning in financial fraud detection. International Journal of Advanced Computer Science and Applications, 2021, 12(12): 10\u201321",
+      "journal-title": "International Journal of Advanced Computer Science and Applications"
+    },
+    {
+      "key": "40474_CR95",
+      "doi-asserted-by": "publisher",
+      "first-page": "103894",
+      "DOI": "10.1016/j.cities.2022.103894",
+      "volume": "131",
+      "author": "J Carpio-Pinedo",
+      "year": "2022",
+      "unstructured": "Carpio-Pinedo J, Romanillos G, Aparicio D, Mart\u00edn-Caro M S H, Garc\u00eda-Palomares J C, Guti\u00e9rrez J. Towards a new urban geography of expenditure: using bank card transactions data to analyze multi-sector spatiotemporal distributions. Cities, 2022, 131: 103894",
+      "journal-title": "Cities"
+    },
+    {
+      "issue": "12",
+      "key": "40474_CR96",
+      "doi-asserted-by": "publisher",
+      "first-page": "3681",
+      "DOI": "10.1080/00207540902810593",
+      "volume": "48",
+      "author": "F Isik",
+      "year": "2010",
+      "unstructured": "Isik F. An entropy-based approach for measuring complexity in supply chains. International Journal of Production Research, 2010, 48(12): 3681\u20133696",
+      "journal-title": "International Journal of Production Research"
+    },
+    {
+      "key": "40474_CR97",
+      "first-page": "8",
+      "volume": "3",
+      "author": "R Devaki",
+      "year": "2014",
+      "unstructured": "Devaki R, Kathiresan V, Gunasekaran S. Credit card fraud detection using time series analysis. International Journal of Computer Applications, 2014, 3: 8\u201310",
+      "journal-title": "International Journal of Computer Applications"
+    },
+    {
+      "issue": "11",
+      "key": "40474_CR98",
+      "first-page": "13454",
+      "volume": "45",
+      "author": "B Wang",
+      "year": "2023",
+      "unstructured": "Wang B, Jiang B, Tang J, Luo B. Generalizing aggregation functions in GNNs: building high capacity and robust GNNs via nonlinear aggregation. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023, 45(11): 13454\u201313466",
+      "journal-title": "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+    },
+    {
+      "key": "40474_CR99",
+      "first-page": "9211",
+      "volume-title": "Proceedings of 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "author": "L Gong",
+      "year": "2019",
+      "unstructured": "Gong L, Cheng Q. Exploiting edge features for graph neural networks. In: Proceedings of 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019, 9211\u20139219"
+    },
+    {
+      "key": "40474_CR100",
+      "doi-asserted-by": "publisher",
+      "first-page": "110264",
+      "DOI": "10.1016/j.patcog.2024.110264",
+      "volume": "150",
+      "author": "P Zheng",
+      "year": "2024",
+      "unstructured": "Zheng P, Guo X, Chen E, Qi L, Guan L. Edge-labeling based modified gated graph network for few-shot learning. Pattern Recognition, 2024, 150: 110264",
+      "journal-title": "Pattern Recognition"
+    },
+    {
+      "key": "40474_CR101",
+      "doi-asserted-by": "publisher",
+      "first-page": "119",
+      "DOI": "10.1186/s12911-020-1109-0",
+      "volume": "20",
+      "author": "X Jia",
+      "year": "2020",
+      "unstructured": "Jia X, Liu Y, Yang Z, Yang D. Multi-modality self-attention aware deep network for 3D biomedical segmentation. BMC Medical Informatics and Decision Making, 2020, 20: 119",
+      "journal-title": "BMC Medical Informatics and Decision Making"
+    },
+    {
+      "issue": "13",
+      "key": "40474_CR102",
+      "doi-asserted-by": "publisher",
+      "first-page": "2532",
+      "DOI": "10.3390/rs13132532",
+      "volume": "13",
+      "author": "J Kim",
+      "year": "2021",
+      "unstructured": "Kim J, Chi M. SAFFNet: self-attention-based feature fusion network for remote sensing few-shot scene classification. Remote Sensing, 2021, 13(13): 2532",
+      "journal-title": "Remote Sensing"
+    },
+    {
+      "issue": "19",
+      "key": "40474_CR103",
+      "doi-asserted-by": "publisher",
+      "first-page": "12397",
+      "DOI": "10.3390/su141912397",
+      "volume": "14",
+      "author": "L Zhang",
+      "year": "2022",
+      "unstructured": "Zhang L, Geng X, Qin Z, Wang H, Wang X, Zhang Y, Liang J, Wu G, Song X, Wang Y. Multi-modal graph interaction for multi-graph convolution network in urban spatiotemporal forecasting. Sustainability, 2022, 14(19): 12397",
+      "journal-title": "Sustainability"
+    },
+    {
+      "key": "40474_CR104",
+      "doi-asserted-by": "publisher",
+      "first-page": "1437",
+      "DOI": "10.1145/3343031.3351034",
+      "volume-title": "Proceedings of the 27th ACM International Conference on Multimedia",
+      "author": "Y Wei",
+      "year": "2019",
+      "unstructured": "Wei Y, Wang X, Nie L, He X, Hong R, Chua T S. MMGCN: multimodal graph convolution network for personalized recommendation of micro-video. In: Proceedings of the 27th ACM International Conference on Multimedia. 2019, 1437\u20131445"
+    },
+    {
+      "issue": "7",
+      "key": "40474_CR105",
+      "first-page": "8419",
+      "volume": "45",
+      "author": "Z Lian",
+      "year": "2023",
+      "unstructured": "Lian Z, Chen L, Sun L, Liu B, Tao J. GCNet: graph completion network for incomplete multimodal learning in conversation. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023, 45(7): 8419\u20138432",
+      "journal-title": "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+    },
+    {
+      "key": "40474_CR106",
+      "doi-asserted-by": "publisher",
+      "first-page": "833",
+      "DOI": "10.1145/3437963.3441720",
+      "volume-title": "Proceedings of the 14th ACM International Conference on Web Search and Data Mining",
+      "author": "T Zhao",
+      "year": "2021",
+      "unstructured": "Zhao T, Zhang X, Wang S. GraphSMOTE: imbalanced node classification on graphs with graph neural networks. In: Proceedings of the 14th ACM International Conference on Web Search and Data Mining. 2021, 833\u2013841"
+    },
+    {
+      "issue": "5",
+      "key": "40474_CR107",
+      "doi-asserted-by": "publisher",
+      "first-page": "1233",
+      "DOI": "10.1109/TKDE.2014.2365780",
+      "volume": "27",
+      "author": "M P\u00e9rez-Ortiz",
+      "year": "2015",
+      "unstructured": "P\u00e9rez-Ortiz M, Guti\u00e9rrez P A, Herv\u00e1s-Mart\u00ednez C, Yao X. Graph-based approaches for over-sampling in the context of ordinal regression. IEEE Transactions on Knowledge and Data Engineering, 2015, 27(5): 1233\u20131245",
+      "journal-title": "IEEE Transactions on Knowledge and Data Engineering"
+    },
+    {
+      "key": "40474_CR108",
+      "doi-asserted-by": "publisher",
+      "first-page": "120580",
+      "DOI": "10.1016/j.ins.2024.120580",
+      "volume": "669",
+      "author": "J Wu",
+      "year": "2024",
+      "unstructured": "Wu J, Hu R, Li D, Ren L, Hu W, Zang Y. A GNN-based fraud detector with dual resistance to graph disassortativity and imbalance. Information Sciences, 2024, 669: 120580",
+      "journal-title": "Information Sciences"
+    },
+    {
+      "issue": "11",
+      "key": "40474_CR109",
+      "doi-asserted-by": "publisher",
+      "first-page": "btad703",
+      "DOI": "10.1093/bioinformatics/btad703",
+      "volume": "39",
+      "author": "B Pfeifer",
+      "year": "2023",
+      "unstructured": "Pfeifer B, Chereda H, Martin R, Saranti A, Clemens S, Hauschild A C, Bei\u00dfbarth T, Holzinger A, Heider D. Ensemble-GNN: federated ensemble learning with graph neural networks for disease module discovery and classification. Bioinformatics, 2023, 39(11): btad703",
+      "journal-title": "Bioinformatics"
+    },
+    {
+      "key": "40474_CR110",
+      "doi-asserted-by": "publisher",
+      "first-page": "775688",
+      "DOI": "10.3389/fnbot.2021.775688",
+      "volume": "15",
+      "author": "S Shi",
+      "year": "2021",
+      "unstructured": "Shi S, Qiao K, Yang S, Wang L, Chen J, Yan B. Boosting-GNN: boosting algorithm for graph networks on imbalanced node classification. Frontiers in Neurorobotics, 2021, 15: 775688",
+      "journal-title": "Frontiers in Neurorobotics"
+    },
+    {
+      "issue": "2",
+      "key": "40474_CR111",
+      "doi-asserted-by": "publisher",
+      "first-page": "2675",
+      "DOI": "10.1109/TCSS.2023.3302651",
+      "volume": "11",
+      "author": "X Hu",
+      "year": "2024",
+      "unstructured": "Hu X, Chen H, Chen H, Liu S, Li X, Zhang S, Wang Y, Xue X. Cost-sensitive GNN-based imbalanced learning for mobile social network fraud detection. IEEE Transactions on Computational Social Systems, 2024, 11(2): 2675\u20132690",
+      "journal-title": "IEEE Transactions on Computational Social Systems"
+    },
+    {
+      "key": "40474_CR112",
+      "first-page": "1",
+      "volume-title": "Proceedings of 2022 International Joint Conference on Neural Networks",
+      "author": "Y Duan",
+      "year": "2022",
+      "unstructured": "Duan Y, Liu X, Jatowt A, Yu H T, Lynden S, Kim K S, Matono A. Dual cost-sensitive graph convolutional network. In: Proceedings of 2022 International Joint Conference on Neural Networks. 2022, 1\u20138"
+    },
+    {
+      "key": "40474_CR113",
+      "first-page": "1",
+      "volume-title": "Proceedings of 2022 IEEE International Conference on Networking, Sensing and Control",
+      "author": "C Ma",
+      "year": "2022",
+      "unstructured": "Ma C, An J, Bai X E, Bao H Q. Attention and cost-sensitive graph neural network for imbalanced node classification. In: Proceedings of 2022 IEEE International Conference on Networking, Sensing and Control. 2022, 1\u20136"
+    },
+    {
+      "key": "40474_CR114",
+      "first-page": "240",
+      "volume-title": "Proceedings of the 8th International Joint Conference on Web and Big Data",
+      "author": "E Li",
+      "year": "2024",
+      "unstructured": "Li E, Ouyang J, Xiang S, Qin L, Chen L. Relation-aware heterogeneous graph neural network for fraud detection. In: Proceedings of the 8th International Joint Conference on Web and Big Data. 2024, 240\u2013255"
+    },
+    {
+      "key": "40474_CR115",
+      "first-page": "21171",
+      "volume-title": "Proceedings of the 36th International Conference on Neural Information Processing Systems",
+      "author": "Z Zhang",
+      "year": "2022",
+      "unstructured": "Zhang Z, Liu Q, Hu Q, Lee C K. Hierarchical graph transformer with adaptive node sampling. In: Proceedings of the 36th International Conference on Neural Information Processing Systems. 2022, 21171\u201321183"
+    },
+    {
+      "issue": "2s",
+      "key": "40474_CR116",
+      "doi-asserted-by": "publisher",
+      "first-page": "72",
+      "DOI": "10.1145/3395620",
+      "volume": "16",
+      "author": "X Hu",
+      "year": "2020",
+      "unstructured": "Hu X, Shan J, Liu Y, Zhang L, Shirmohammadi S. An adaptive two-layer light field compression scheme using GNN-based reconstruction. ACM Transactions on Multimedia Computing, Communications, and Applications, 2020, 16(2s): 72",
+      "journal-title": "ACM Transactions on Multimedia Computing, Communications, and Applications"
+    },
+    {
+      "key": "40474_CR117",
+      "first-page": "10067",
+      "volume-title": "Proceedings of the 25th International Conference on Artificial Intelligence and Statistics",
+      "author": "V B Nguyen",
+      "year": "2022",
+      "unstructured": "Nguyen V B, Dastidar K G, Granitzer M, Siblini W. The importance of future information in credit card fraud detection. In: Proceedings of the 25th International Conference on Artificial Intelligence and Statistics. 2022, 10067\u201310077"
+    },
+    {
+      "key": "40474_CR118",
+      "doi-asserted-by": "publisher",
+      "first-page": "116463",
+      "DOI": "10.1016/j.eswa.2021.116463",
+      "volume": "193",
+      "author": "R Van Belle",
+      "year": "2022",
+      "unstructured": "Van Belle R, Van Damme C, Tytgat H, De Weerdt J. Inductive graph representation learning for fraud detection. Expert Systems with Applications, 2022, 193: 116463",
+      "journal-title": "Expert Systems with Applications"
+    },
+    {
+      "key": "40474_CR119",
+      "first-page": "946",
+      "volume-title": "Proceedings of the 33rd AAAI Conference on Artificial Intelligence",
+      "author": "B Hu",
+      "year": "2019",
+      "unstructured": "Hu B, Zhang Z, Shi C, Zhou J, Li X, Qi Y. Cash-out user detection based on attributed heterogeneous information network with a hierarchical attention mechanism. In: Proceedings of the 33rd AAAI Conference on Artificial Intelligence. 2019, 946\u2013953"
+    },
+    {
+      "key": "40474_CR120",
+      "doi-asserted-by": "publisher",
+      "first-page": "2077",
+      "DOI": "10.1145/3269206.3272010",
+      "volume-title": "Proceedings of the 27th ACM International Conference on Information and Knowledge Management",
+      "author": "Z Liu",
+      "year": "2018",
+      "unstructured": "Liu Z, Chen C, Yang X, Zhou J, Li X, Song L. Heterogeneous graph neural networks for malicious account detection. In: Proceedings of the 27th ACM International Conference on Information and Knowledge Management. 2018, 2077\u20132085"
+    },
+    {
+      "key": "40474_CR121",
+      "first-page": "1",
+      "volume-title": "Proceedings of 2022 International Conference on Electrical, Computer and Energy Technologies",
+      "author": "Y Yoo",
+      "year": "2022",
+      "unstructured": "Yoo Y, Shin D, Han D, Kyeong S, Shin J. Medicare fraud detection using graph neural networks. In: Proceedings of 2022 International Conference on Electrical, Computer and Energy Technologies. 2022, 1\u20135"
+    },
+    {
+      "key": "40474_CR122",
+      "doi-asserted-by": "publisher",
+      "first-page": "110888",
+      "DOI": "10.1016/j.knosys.2023.110888",
+      "volume": "278",
+      "author": "L Ren",
+      "year": "2023",
+      "unstructured": "Ren L, Hu R, Li D, Liu Y, Wu J, Zang Y, Hu W. Dynamic graph neural network-based fraud detectors against collaborative fraudsters. Knowledge-Based Systems, 2023, 278: 110888",
+      "journal-title": "Knowledge-Based Systems"
+    },
+    {
+      "key": "40474_CR123",
+      "first-page": "1",
+      "volume-title": "Proceedings of IEEE International Conference on Multimedia and Expo",
+      "author": "J Zhang",
+      "year": "2022",
+      "unstructured": "Zhang J, Yang F, Lin K, Lai Y. Hierarchical multi-modal fusion on dynamic heterogeneous graph for health insurance fraud detection. In: Proceedings of IEEE International Conference on Multimedia and Expo. 2022, 1\u20136"
+    },
+    {
+      "key": "40474_CR124",
+      "doi-asserted-by": "publisher",
+      "first-page": "130",
+      "DOI": "10.1145/3533271.3561727",
+      "volume-title": "Proceedings of the 3rd ACM International Conference on AI in Finance",
+      "author": "M Cardoso",
+      "year": "2022",
+      "unstructured": "Cardoso M, Saleiro P, Bizarro P. LaundroGraph: self-supervised graph representation learning for anti-money laundering. In: Proceedings of the 3rd ACM International Conference on AI in Finance. 2022, 130\u2013138"
+    },
+    {
+      "issue": "12",
+      "key": "40474_CR125",
+      "doi-asserted-by": "publisher",
+      "first-page": "12444",
+      "DOI": "10.1109/TKDE.2023.3272396",
+      "volume": "35",
+      "author": "D Cheng",
+      "year": "2023",
+      "unstructured": "Cheng D, Ye Y, Xiang S, Ma Z, Zhang Y, Jiang C. Anti-money laundering by group-aware deep graph learning. IEEE Transactions on Knowledge and Data Engineering, 2023, 35(12): 12444\u201312457",
+      "journal-title": "IEEE Transactions on Knowledge and Data Engineering"
+    },
+    {
+      "key": "40474_CR126",
+      "volume-title": "Proceedings of the 2nd KDD Workshop on Anomaly Detection in Finance",
+      "author": "M Weber",
+      "year": "2019",
+      "unstructured": "Weber M, Domeniconi G, Chen J, Weidele D K I, Bellei C, Robinson T, Leiserson C E. Anti-money laundering in bitcoin: experimenting with graph convolutional networks for financial forensics. In: Proceedings of the 2nd KDD Workshop on Anomaly Detection in Finance. 2019"
+    },
+    {
+      "key": "40474_CR127",
+      "doi-asserted-by": "publisher",
+      "first-page": "62109",
+      "DOI": "10.1109/ACCESS.2023.3288026",
+      "volume": "11",
+      "author": "Z Li",
+      "year": "2023",
+      "unstructured": "Li Z, He E. Graph neural network-based bitcoin transaction tracking model. IEEE Access, 2023, 11: 62109\u201362120",
+      "journal-title": "IEEE Access"
+    },
+    {
+      "key": "40474_CR128",
+      "volume-title": "IEEE Transactions on Neural Networks and Learning Systems",
+      "author": "S Munikoti",
+      "year": "2023",
+      "unstructured": "Munikoti S, Agarwal D, Das L, Halappanavar M, Natarajan B. Challenges and opportunities in deep reinforcement learning with graph neural networks: a comprehensive review of algorithms and applications. IEEE Transactions on Neural Networks and Learning Systems, 2023."
+    },
+    {
+      "key": "40474_CR129",
+      "first-page": "525",
+      "volume-title": "Proceedings of the 37th International Conference on Neural Information Processing Systems",
+      "author": "L Kong",
+      "year": "2024",
+      "unstructured": "Kong L, Feng J, Liu H, Tao D, Chen Y, Zhang M. MAG-GNN: reinforcement learning boosted graph neural network. In: Proceedings of the 37th International Conference on Neural Information Processing Systems. 2024, 525"
+    },
+    {
+      "key": "40474_CR130",
+      "doi-asserted-by": "publisher",
+      "first-page": "315",
+      "DOI": "10.1145/3340531.3411903",
+      "volume-title": "Proceedings of the 29th ACM International Conference on Information & Knowledge Management",
+      "author": "Y Dou",
+      "year": "2020",
+      "unstructured": "Dou Y, Liu Z, Sun L, Deng Y, Peng H, Yu P S. Enhancing graph neural network-based fraud detectors against camouflaged fraudsters. In: Proceedings of the 29th ACM International Conference on Information & Knowledge Management. 2020, 315\u2013324"
+    },
+    {
+      "key": "40474_CR131",
+      "doi-asserted-by": "publisher",
+      "first-page": "121643",
+      "DOI": "10.1016/j.eswa.2023.121643",
+      "volume": "237",
+      "author": "J Chen",
+      "year": "2024",
+      "unstructured": "Chen J, Chen Q, Jiang F, Guo X, Sha K, Wang Y. SCN_GNN: a GNN-based fraud detection algorithm combining strong node and graph topology information. Expert Systems with Applications, 2024, 237: 121643",
+      "journal-title": "Expert Systems with Applications"
+    },
+    {
+      "key": "40474_CR132",
+      "first-page": "1311",
+      "volume": "2022",
+      "author": "M Huang",
+      "year": "2022",
+      "unstructured": "Huang M, Liu Y, Ao X, Li K, Chi J, Feng J, Yang H, He Q. AUC-oriented graph neural network for fraud detection. In: Proceedings of the ACM Web Conference 2022. 2022, 1311\u20131321",
+      "journal-title": "Proceedings of the ACM Web Conference"
+    },
+    {
+      "issue": "3",
+      "key": "40474_CR133",
+      "doi-asserted-by": "publisher",
+      "first-page": "1394",
+      "DOI": "10.1109/TCSS.2022.3189368",
+      "volume": "10",
+      "author": "R Li",
+      "year": "2023",
+      "unstructured": "Li R, Liu Z, Ma Y, Yang D, Sun S. Internet financial fraud detection based on graph learning. IEEE Transactions on Computational Social Systems, 2023, 10(3): 1394\u20131401",
+      "journal-title": "IEEE Transactions on Computational Social Systems"
+    },
+    {
+      "key": "40474_CR134",
+      "first-page": "777",
+      "volume-title": "Proceedings of the 34th International Conference on Neural Information Processing Systems",
+      "author": "X Zhang",
+      "year": "2020",
+      "unstructured": "Zhang X, Zitnik M. GNNGUARD: defending graph neural networks against adversarial attacks. In: Proceedings of the 34th International Conference on Neural Information Processing Systems. 2020, 777"
+    },
+    {
+      "key": "40474_CR135",
+      "doi-asserted-by": "publisher",
+      "first-page": "1645",
+      "DOI": "10.1145/3447548.3467295",
+      "volume-title": "Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining",
+      "author": "B Wang",
+      "year": "2021",
+      "unstructured": "Wang B, Jia J, Cao X, Gong N Z. Certified robustness of graph neural networks against adversarial structural perturbation. In: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021, 1645\u20131653"
+    },
+    {
+      "issue": "2",
+      "key": "40474_CR136",
+      "doi-asserted-by": "publisher",
+      "first-page": "2946",
+      "DOI": "10.1109/JSYST.2021.3109082",
+      "volume": "16",
+      "author": "O Boyaci",
+      "year": "2022",
+      "unstructured": "Boyaci O, Umunnakwe A, Sahu A, Narimani M R, Ismail M, Davis K R, Serpedin E. Graph neural networks based detection of stealth false data injection attacks in smart grids. IEEE Systems Journal, 2022, 16(2): 2946\u20132957",
+      "journal-title": "IEEE Systems Journal"
+    },
+    {
+      "issue": "8",
+      "key": "40474_CR137",
+      "first-page": "7693",
+      "volume": "35",
+      "author": "L Sun",
+      "year": "2023",
+      "unstructured": "Sun L, Dou Y, Yang C, Zhang K, Wang J, Yu P S, He L, Li B. Adversarial attack and defense on graph data: a survey. IEEE Transactions on Knowledge and Data Engineering, 2023, 35(8): 7693\u20137711",
+      "journal-title": "IEEE Transactions on Knowledge and Data Engineering"
+    },
+    {
+      "key": "40474_CR138",
+      "first-page": "391",
+      "volume-title": "Proceedings of the 20th IEEE International Conference on Machine Learning and Applications",
+      "author": "A Singh",
+      "year": "2021",
+      "unstructured": "Singh A, Gupta A, Wadhwa H, Asthana S, Arora A. Temporal debiasing using adversarial loss based GNN architecture for crypto fraud detection. In: Proceedings of the 20th IEEE International Conference on Machine Learning and Applications. 2021, 391\u2013396"
+    },
+    {
+      "key": "40474_CR139",
+      "doi-asserted-by": "publisher",
+      "first-page": "39",
+      "DOI": "10.1016/j.ins.2022.10.072",
+      "volume": "618",
+      "author": "Z Deng",
+      "year": "2022",
+      "unstructured": "Deng Z, Xin G, Liu Y, Wang W, Wang B. Contrastive graph neural network-based camouflaged fraud detector. Information Sciences, 2022, 618: 39\u201352",
+      "journal-title": "Information Sciences"
+    },
+    {
+      "key": "40474_CR140",
+      "volume-title": "Proceedings of the 8th International Conference on Learning Representations",
+      "author": "W Hu",
+      "year": "2020",
+      "unstructured": "Hu W, Liu B, Gomes J, Zitnik M, Liang P, Pande V S, Leskovec J. Strategies for pre-training graph neural networks. In: Proceedings of the 8th International Conference on Learning Representations. 2020"
+    },
+    {
+      "key": "40474_CR141",
+      "doi-asserted-by": "publisher",
+      "first-page": "1150",
+      "DOI": "10.1145/3394486.3403168",
+      "volume-title": "Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining",
+      "author": "J Qiu",
+      "year": "2020",
+      "unstructured": "Qiu J, Chen Q, Dong Y, Zhang J, Yang H, Ding M, Wang K, Tang J. GCC: graph contrastive coding for graph neural network pre-training. In: Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020, 1150\u20131160"
+    },
+    {
+      "issue": "2",
+      "key": "40474_CR142",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1145/3589288",
+      "volume": "1",
+      "author": "X Wan",
+      "year": "2023",
+      "unstructured": "Wan X, Xu K, Liao X, Jin Y, Chen K, Jin X. Scalable and efficient full-graph gnn training for large graphs. Proceedings of the ACM on Management of Data, 2023, 1(2): 1\u201323",
+      "journal-title": "Proceedings of the ACM on Management of Data"
+    },
+    {
+      "key": "40474_CR143",
+      "first-page": "25684",
+      "volume-title": "Proceedings of the 39th International Conference on Machine Learning",
+      "author": "H Yu",
+      "year": "2022",
+      "unstructured": "Yu H, Wang L, Wang B, Liu M, Yang T, Ji S. GraphFM: improving large-scale GNN training via feature momentum. In: Proceedings of the 39th International Conference on Machine Learning. 2022, 25684\u201325701"
+    },
+    {
+      "issue": "10",
+      "key": "40474_CR144",
+      "doi-asserted-by": "publisher",
+      "first-page": "2541",
+      "DOI": "10.1109/TPDS.2021.3065737",
+      "volume": "32",
+      "author": "Y Bai",
+      "year": "2021",
+      "unstructured": "Bai Y, Li C, Lin Z, Wu Y, Miao Y, Liu Y, Xu Y. Efficient data loader for fast sampling-based GNN training on large graphs. IEEE Transactions on Parallel and Distributed Systems, 2021, 32(10): 2541\u20132556",
+      "journal-title": "IEEE Transactions on Parallel and Distributed Systems"
+    },
+    {
+      "key": "40474_CR145",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1186/s40537-014-0007-7",
+      "volume": "2",
+      "author": "M M Najafabadi",
+      "year": "2015",
+      "unstructured": "Najafabadi M M, Villanustre F, Khoshgoftaar T M, Seliya N, Wald R, Muharemagic E. Deep learning applications and challenges in big data analytics. Journal of Big Data, 2015, 2: 1",
+      "journal-title": "Journal of Big Data"
+    },
+    {
+      "key": "40474_CR146",
+      "doi-asserted-by": "publisher",
+      "first-page": "159",
+      "DOI": "10.1007/978-3-030-92307-5_19",
+      "volume-title": "Proceedings of the 28th International Conference on Neural Information Processing",
+      "author": "Y Rao",
+      "year": "2021",
+      "unstructured": "Rao Y, Mi X, Duan C, Ren X, Cheng J, Chen Y, You H, Gao Q, Zeng Z, Wei X. Know-GNN: an explainable knowledge-guided graph neural network for fraud detection. In: Proceedings of the 28th International Conference on Neural Information Processing. 2021, 159\u2013167"
+    },
+    {
+      "key": "40474_CR147",
+      "doi-asserted-by": "publisher",
+      "first-page": "4414",
+      "DOI": "10.1145/3511808.3557598",
+      "volume-title": "Proceedings of the 31st ACM International Conference on Information & Knowledge Management",
+      "author": "Z Qin",
+      "year": "2022",
+      "unstructured": "Qin Z, Liu Y, He Q, Ao X. Explainable graph-based fraud detection via neural meta-graph search. In: Proceedings of the 31st ACM International Conference on Information & Knowledge Management. 2022, 4414\u20134418"
+    },
+    {
+      "key": "40474_CR148",
+      "doi-asserted-by": "publisher",
+      "first-page": "302",
+      "DOI": "10.1145/3459637.3482306",
+      "volume-title": "Proceedings of the 30th ACM International Conference on Information & Knowledge Management",
+      "author": "E Dai",
+      "year": "2021",
+      "unstructured": "Dai E, Wang S. Towards self-explainable graph neural network. In: Proceedings of the 30th ACM International Conference on Information & Knowledge Management. 2021, 302\u2013311"
+    },
+    {
+      "key": "40474_CR149",
+      "doi-asserted-by": "publisher",
+      "first-page": "201",
+      "DOI": "10.1145/1242572.1242600",
+      "volume-title": "Proceedings of the 16th international conference on World Wide Web",
+      "author": "S Pandit",
+      "year": "2007",
+      "unstructured": "Pandit S, Chau D H, Wang S, Faloutsos C. Netprobe: a fast and scalable system for fraud detection in online auction networks. In: Proceedings of the 16th international conference on World Wide Web. 2007, 201\u2013210"
+    },
+    {
+      "key": "40474_CR150",
+      "first-page": "197",
+      "volume-title": "Proceedings of the 13th International Conference Information Visualisation",
+      "author": "M L Huang",
+      "year": "2009",
+      "unstructured": "Huang M L, Liang J, Nguyen Q V. A visualization approach for frauds detection in financial market. In: Proceedings of the 13th International Conference Information Visualisation. 2009, 197\u2013202"
+    },
+    {
+      "issue": "24",
+      "key": "40474_CR151",
+      "doi-asserted-by": "publisher",
+      "first-page": "10815",
+      "DOI": "10.1073/pnas.0912671107",
+      "volume": "107",
+      "author": "J G Foster",
+      "year": "2010",
+      "unstructured": "Foster J G, Foster D V, Grassberger P, Paczuski M. Edge direction and the structure of networks. Proceedings of the National Academy of Sciences of the United States of America, 2010, 107(24): 10815\u201310820",
+      "journal-title": "Proceedings of the National Academy of Sciences of the United States of America"
+    },
+    {
+      "key": "40474_CR152",
+      "doi-asserted-by": "publisher",
+      "first-page": "101591",
+      "DOI": "10.1016/j.jocs.2022.101591",
+      "volume": "60",
+      "author": "L Meng",
+      "year": "2022",
+      "unstructured": "Meng L, Xu G, Yang P, Tu D. A novel potential edge weight method for identifying influential nodes in complex networks based on neighborhood and position. Journal of Computational Science, 2022, 60: 101591",
+      "journal-title": "Journal of Computational Science"
+    }
+  ],
+  "container-title": [
+    "Frontiers of Computer Science"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s11704-024-40474-y.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1007/s11704-024-40474-y/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s11704-024-40474-y.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        22
+      ]
+    ],
+    "date-time": "2025-01-22T10:31:51Z",
+    "timestamp": 1737541911000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/s11704-024-40474-y"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        22
+      ]
+    ]
+  },
+  "references-count": 152,
+  "journal-issue": {
+    "issue": "9",
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          9
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "40474"
+  ],
+  "URL": "https://doi.org/10.1007/s11704-024-40474-y",
+  "relation": {},
+  "ISSN": [
+    "2095-2228",
+    "2095-2236"
+  ],
+  "issn-type": [
+    {
+      "value": "2095-2228",
+      "type": "print"
+    },
+    {
+      "value": "2095-2236",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        22
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "11 May 2024",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "20 October 2024",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "22 January 2025",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "Competing interests\n                      The authors declare that they have no competing interests or financial conflicts to disclose.",
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Ethics"
+      }
+    }
+  ],
+  "article-number": "199609"
+}

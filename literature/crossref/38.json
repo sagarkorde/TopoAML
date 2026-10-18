@@ -1,0 +1,596 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        25
+      ]
+    ],
+    "date-time": "2026-09-25T16:32:15Z",
+    "timestamp": 1790353935205,
+    "version": "4.1.0"
+  },
+  "reference-count": 38,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            11,
+            4
+          ]
+        ],
+        "date-time": "2025-11-04T00:00:00Z",
+        "timestamp": 1762214400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            11,
+            4
+          ]
+        ],
+        "date-time": "2025-11-04T00:00:00Z",
+        "timestamp": 1762214400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Discov Computing"
+  ],
+  "DOI": "10.1007/s10791-025-09783-z",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        4
+      ]
+    ],
+    "date-time": "2025-11-04T16:36:09Z",
+    "timestamp": 1762274169000
+  },
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 3,
+  "title": [
+    "A unified spectral-persistent homology framework for stable and generalizable topological deep learning"
+  ],
+  "prefix": "10.1007",
+  "volume": "28",
+  "author": [
+    {
+      "given": "Saif Hameed Abbood",
+      "family": "Alwaeli",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ali A.",
+      "family": "Abdulsaeed",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Shams Jamal",
+      "family": "Fayyadh",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Muhammad I.",
+      "family": "Khan",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Abdallah",
+      "family": "Yousif",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Tanzila",
+      "family": "Saba",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Saeed Ali",
+      "family": "Bahaj",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        4
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "9783_CR1",
+      "unstructured": "Bronstein MM, Bruna J, Cohen T, Velickovic P. Geometric deep learning: grids, groups, graphs, geodesics, and gauges. CoRR. 2021;abs/2104.1. https://arxiv.org/abs/2104.13478."
+    },
+    {
+      "key": "9783_CR2",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Papillon M, Sanborn S, Hajij M, Miolane N. Architectures of topological deep learning: a survey on topological neural networks. 2023. https://doi.org/10.48550/arXiv.2304.10031.",
+      "DOI": "10.48550/arXiv.2304.10031"
+    },
+    {
+      "key": "9783_CR3",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1016/j.physrep.2020.05.004",
+      "volume": "874",
+      "author": "F Battiston",
+      "year": "2020",
+      "unstructured": "Battiston F, et al. Networks beyond pairwise interactions: structure and dynamics. Phys Rep. 2020;874:1\u201392. https://doi.org/10.1016/j.physrep.2020.05.004.",
+      "journal-title": "Phys Rep"
+    },
+    {
+      "key": "9783_CR4",
+      "unstructured": "Ebli S, Spreemann G. A notion of harmonic clustering in simplicial complexes. CoRR. 2019;abs/1910.0. http://arxiv.org/abs/1910.07247."
+    },
+    {
+      "key": "9783_CR5",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Pun CS, Lee SX, Xia K. Persistent-homology-based machine learning: a survey and a comparative study. Artif Intell Rev. 2022;55(7):5169\u20135213. https://doi.org/10.1007/s10462-022-10146-z",
+      "DOI": "10.1007/s10462-022-10146-z"
+    },
+    {
+      "key": "9783_CR6",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Schaub M, Benson A, Horn P, Lippner G, Jadbabaie A. Random walks on simplicial complexes and the normalized Hodge 1-Laplacian. SIAM Rev. 2020;62:353\u201391. https://doi.org/10.1137/18M1201019.",
+      "DOI": "10.1137/18M1201019"
+    },
+    {
+      "key": "9783_CR7",
+      "unstructured": "Glaze N, Roddenberry TM, Segarra S. Principled simplicial neural networks for trajectory prediction. CoRR. 2021; abs/2102.1. https://arxiv.org/abs/2102.10058."
+    },
+    {
+      "key": "9783_CR8",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Wu H, Yip A, Long J, Zhang J, Ng MK. Simplicial complex neural networks. IEEE Trans Pattern Anal Mach Intell. 2024;46(1):561\u201375. https://doi.org/10.1109/TPAMI.2023.3323624.",
+      "DOI": "10.1109/TPAMI.2023.3323624"
+    },
+    {
+      "key": "9783_CR9",
+      "unstructured": "Carlsson GE, Gabrielsson RB. Topological approaches to deep learning. CoRR. 2018;abs/1811.0. http://arxiv.org/abs/1811.01122."
+    },
+    {
+      "key": "9783_CR10",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Mishra, A., & Motta, F. C. (2023). Stability and machine learning applications of persistent homology using the Delaunay-Rips complex. Frontiers in Applied Mathematics and Statistics, 9, 1179301. https://doi.org/10.3389/fams.2023.1179301. . .",
+      "DOI": "10.3389/fams.2023.1179301"
+    },
+    {
+      "key": "9783_CR11",
+      "unstructured": "Ruiz L, Gama F, Ribeiro A. Graph neural networks: architectures, stability and transferability. CoRR. 2020;abs/2008.0. https://arxiv.org/abs/2008.01767."
+    },
+    {
+      "key": "9783_CR12",
+      "unstructured": "Levie R, Monti F, Bresson X, Bronstein MM. CayleyNets: graph convolutional neural networks with complex rational spectral filters. CoRR. 2017;abs/1705.0. http://arxiv.org/abs/1705.07664."
+    },
+    {
+      "key": "9783_CR13",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Abbood SH, Abdull Hamed HN, Mohd Rahim MS, Alaidi AHM, Salim ALRikabi HTM. DR-LL gan: diabetic retinopathy lesions synthesis using generative adversarial network. Int J Online Biomed Eng. 2022;18(3).",
+      "DOI": "10.3991/ijoe.v18i03.28005"
+    },
+    {
+      "key": "9783_CR14",
+      "doi-asserted-by": "publisher",
+      "first-page": "73079",
+      "DOI": "10.1109/ACCESS.2022.3189374",
+      "volume": "10",
+      "author": "SH Abbood",
+      "year": "2022",
+      "unstructured": "Abbood SH, Hamed HNA, Rahim MSM, Rehman A, Saba T, Bahaj SA. Hybrid retinal image enhancement algorithm for diabetic retinopathy diagnostic using deep learning model. IEEE Access. 2022;10:73079\u201386. https://doi.org/10.1109/ACCESS.2022.3189374.",
+      "journal-title": "IEEE Access"
+    },
+    {
+      "key": "9783_CR15",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3389/frai.2021.667963",
+      "author": "F Chazal",
+      "year": "2021",
+      "unstructured": "Chazal F, Michel B. Front Artif Intell. 2021;4\u2013. https://doi.org/10.3389/frai.2021.667963. An Introduction to Topological Data Analysis: Fundamental and Practical Aspects for Data Scientists."
+    },
+    {
+      "issue": "2",
+      "key": "9783_CR16",
+      "doi-asserted-by": "publisher",
+      "first-page": "858",
+      "DOI": "10.1137/21M1435471",
+      "volume": "4",
+      "author": "F M\u00e9moli",
+      "year": "2022",
+      "unstructured": "M\u00e9moli F, Wan Z, Wang Y. Persistent laplacians: Properties, algorithms and implications. SIAM J Math Data Sci. 2022;4(2):858\u201384. https://doi.org/10.1137/21M1435471.",
+      "journal-title": "SIAM J Math Data Sci"
+    },
+    {
+      "key": "9783_CR17",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Belkin M, Hsu D, Ma S, Mandal S. Reconciling modern machine-learning practice and the classical bias\u2013variance trade-off. Proc Natl Acad Sci. 2019;116(32):15849\u201315854. https://doi.org/10.1073/pnas.1903070116.",
+      "DOI": "10.1073/pnas.1903070116"
+    },
+    {
+      "key": "9783_CR18",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.48550/arXiv.2302.03836",
+      "author": "A Khamis",
+      "year": "2023",
+      "unstructured": "Khamis A, Nichols J, Hayder Z, Rolland V, Petersson L. Topological Deep Learning: Rev Emerg Paradigm. 2023. https://doi.org/10.48550/arXiv.2302.03836.",
+      "journal-title": "Topological Deep Learning: Rev Emerg Paradigm"
+    },
+    {
+      "key": "9783_CR19",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Anand VD, Chung M. Hodge-Laplacian of brain networks and its application to modeling cycles. 2021. https://doi.org/10.48550/arXiv.2110.14599.",
+      "DOI": "10.48550/arXiv.2110.14599"
+    },
+    {
+      "key": "9783_CR20",
+      "doi-asserted-by": "publisher",
+      "first-page": "5680",
+      "DOI": "10.1109/TSP.2020.3026980",
+      "volume": "68",
+      "author": "F Gama",
+      "year": "2020",
+      "unstructured": "Gama F, Bruna J, Ribeiro A. Stability properties of graph neural networks. IEEE Trans Signal Process. 2020;68:5680\u201395. https://doi.org/10.1109/TSP.2020.3026980.",
+      "journal-title": "IEEE Trans Signal Process"
+    },
+    {
+      "key": "9783_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "57",
+      "DOI": "10.1016/j.aiopen.2021.01.001",
+      "volume": "1",
+      "author": "J Zhou",
+      "year": "2020",
+      "unstructured": "Zhou J, et al. Graph neural networks: A review of methods and applications. AI Open. 2020;1:57\u201381. https://doi.org/10.1016/j.aiopen.2021.01.001.",
+      "journal-title": "AI Open"
+    },
+    {
+      "key": "9783_CR22",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Yen PT-W, Cheong SA. Using topological data analysis (TDA) and persistent homology to analyze the stock markets in Singapore and Taiwan. Front Phys. 2021;9. https://doi.org/10.3389/fphy.2021.572216.",
+      "DOI": "10.3389/fphy.2021.572216"
+    },
+    {
+      "key": "9783_CR23",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Corcoran P, Jones C. Topological data analysis for geographical information science using persistent homology. Int J Geogr Inf Sci. Jan. 2023;37:1\u201334. https://doi.org/10.1080/13658816.2022.2155654.",
+      "DOI": "10.1080/13658816.2022.2155654"
+    },
+    {
+      "key": "9783_CR24",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Oudot S, Solomon E. Inverse problems in topological persistence, 2020, pp. 405\u201333. https://doi.org/10.1007/978-3-030-43408-3_16",
+      "DOI": "10.1007/978-3-030-43408-3_16"
+    },
+    {
+      "key": "9783_CR25",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.48550/arXiv.2309.02138",
+      "author": "C Battiloro",
+      "year": "2023",
+      "unstructured": "Battiloro C, Testa L, Giusti L, Sardellitti S, Di Lorenzo P, Barbarossa S. Generalized Simplicial Atten Neural Networks. 2023. https://doi.org/10.48550/arXiv.2309.02138.",
+      "journal-title": "Generalized Simplicial Atten Neural Networks"
+    },
+    {
+      "key": "9783_CR26",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Maria C, Boissonnat J-D, Glisse M, Yvinec M. The Gudhi Library: simplicial complexes and persistent homology. 2014. https://doi.org/10.1007/978-3-662-44199-2_28.",
+      "DOI": "10.1007/978-3-662-44199-2_28"
+    },
+    {
+      "key": "9783_CR27",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Schaub M, Seby J-B, Frantzen F, Roddenberry T, Zhu Y, Segarra S. Signal processing on simplicial complexes. 2022; pp. 301\u201328. https://doi.org/10.1007/978-3-030-91374-8_12.",
+      "DOI": "10.1007/978-3-030-91374-8_12"
+    },
+    {
+      "key": "9783_CR28",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/ICASSP43922.2022.9747233",
+      "author": "T Roddenberry",
+      "year": "2022",
+      "unstructured": "Roddenberry T, Schaub M, Hajij M. Signal Process Cell Complexes. 2022. https://doi.org/10.1109/ICASSP43922.2022.9747233.",
+      "journal-title": "Signal Process Cell Complexes"
+    },
+    {
+      "key": "9783_CR29",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Cang Z, Mu L, Wu K, Opron K, Xia K, Wei G-W. A topological approach for protein classification. Mol Based Math Biol. 2015;3. https://doi.org/10.1515/mlbmb-2015-0009.",
+      "DOI": "10.1515/mlbmb-2015-0009"
+    },
+    {
+      "key": "9783_CR30",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Shen C, Zhang Y, Han F, Xia K. Molecular topological deep learning for polymer property prediction. 2024. https://doi.org/10.48550/arXiv.2410.04765.",
+      "DOI": "10.48550/arXiv.2410.04765"
+    },
+    {
+      "key": "9783_CR31",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Sefer E. DRGAT: predicting drug responses via diffusion-based graph attention network. J Comput Biol J Comput Mol Cell Biol. 2025;32(3):330\u2013350. https://doi.org/10.1089/cmb.2024.0807.",
+      "DOI": "10.1089/cmb.2024.0807"
+    },
+    {
+      "key": "9783_CR32",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Cetin S, Sefer E. A graphlet-based explanation generator for graph neural networks over biological datasets. Curr Bioinform. 2025;20. https://doi.org/10.2174/0115748936355418250114104026.",
+      "DOI": "10.2174/0115748936355418250114104026"
+    },
+    {
+      "key": "9783_CR33",
+      "unstructured": "Yang M, Isufi E, Leus G. Simplicial convolutional neural networks. CoRR. 2021;abs/2110.0. https://arxiv.org/abs/2110.02585."
+    },
+    {
+      "key": "9783_CR34",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Einizade A, Thanou D, Malliaros F, Giraldo J. COSMOS: Continuous Simplicial Neural Networks. 2025. https://doi.org/10.48550/arXiv.2503.12919.",
+      "DOI": "10.48550/arXiv.2503.12919"
+    },
+    {
+      "key": "9783_CR35",
+      "doi-asserted-by": "publisher",
+      "first-page": "120474",
+      "DOI": "10.1016/j.ins.2024.120474",
+      "volume": "667",
+      "author": "E Paluzo-Hidalgo",
+      "year": "2024",
+      "unstructured": "Paluzo-Hidalgo E, Gonzalez-Diaz R, Guti\u00e9rrez-Naranjo MA. Trainable and explainable simplicial map neural networks. Inf Sci (Ny). 2024;667:120474. https://doi.org/10.1016/j.ins.2024.120474.",
+      "journal-title": "Inf Sci (Ny)"
+    },
+    {
+      "key": "9783_CR36",
+      "unstructured": "Eitan Y, Gelberg Y, Bar-Shalom G, Frasca F, Bronstein M, Maron H. Topological blind spots: Understanding and extending topological deep learning through the lens of expressivity. arXiv Prepr. arXiv2408.05486, 2024."
+    },
+    {
+      "key": "9783_CR37",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Dai E, Jin W, Liu H, Wang S. Towards robust graph neural networks for noisy graphs with sparse labels. In Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining, 2022, pp. 181\u2013191. https://doi.org/10.1145/3488560.3498408.",
+      "DOI": "10.1145/3488560.3498408"
+    },
+    {
+      "key": "9783_CR38",
+      "unstructured": "Zhang Y, Jha RKC, Bharadwaj S, Thakkar VS, Hoarfrost A, Sun J. A benchmark dataset for multimodal prediction of enzymatic function coupling DNA sequences and natural language. arXiv Prepr. arXiv2407.15888, 2024."
+    }
+  ],
+  "container-title": [
+    "Discover Computing"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s10791-025-09783-z.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1007/s10791-025-09783-z/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s10791-025-09783-z.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        4
+      ]
+    ],
+    "date-time": "2025-11-04T16:36:14Z",
+    "timestamp": 1762274174000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/s10791-025-09783-z"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        4
+      ]
+    ]
+  },
+  "references-count": 38,
+  "journal-issue": {
+    "issue": "1",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          12
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "9783"
+  ],
+  "URL": "https://doi.org/10.1007/s10791-025-09783-z",
+  "relation": {
+    "references": [
+      {
+        "id-type": "doi",
+        "id": "10.3389/frai.2021.667963",
+        "asserted-by": "subject"
+      }
+    ]
+  },
+  "ISSN": [
+    "2948-2992"
+  ],
+  "issn-type": [
+    {
+      "value": "2948-2992",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        4
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "19 August 2025",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "31 October 2025",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "4 November 2025",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Declarations"
+      }
+    },
+    {
+      "value": "Not applicable.",
+      "order": 2,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Ethics approval and consent to participate"
+      }
+    },
+    {
+      "value": "Not applicable.",
+      "order": 3,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Consent for publication"
+      }
+    },
+    {
+      "value": "The authors declare no competing interests.",
+      "order": 4,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Competing interests"
+      }
+    }
+  ],
+  "article-number": "255"
+}

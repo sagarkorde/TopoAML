@@ -1,0 +1,836 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        17
+      ]
+    ],
+    "date-time": "2026-10-17T20:22:11Z",
+    "timestamp": 1792268531845,
+    "version": "4.4.0"
+  },
+  "reference-count": 58,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2024-04-01T00:00:00Z",
+        "timestamp": 1711929600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2024-04-01T00:00:00Z",
+        "timestamp": 1711929600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2024-04-01T00:00:00Z",
+        "timestamp": 1711929600000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-017"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2024-04-01T00:00:00Z",
+        "timestamp": 1711929600000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-037"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2024-04-01T00:00:00Z",
+        "timestamp": 1711929600000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-012"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2024-04-01T00:00:00Z",
+        "timestamp": 1711929600000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-029"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2024-04-01T00:00:00Z",
+        "timestamp": 1711929600000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-004"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100000038",
+      "name": "Natural Sciences and Engineering Research Council of Canada",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "RGPIN-2023-03733"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "RGPIN-2023-03733"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100000038",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Expert Systems with Applications"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        4
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.eswa.2023.122156",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        30
+      ]
+    ],
+    "date-time": "2023-10-30T11:49:48Z",
+    "timestamp": 1698666588000
+  },
+  "page": "122156",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 204,
+  "special_numbering": "C",
+  "title": [
+    "Financial fraud detection using graph neural networks: A systematic review"
+  ],
+  "prefix": "10.1016",
+  "volume": "240",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-3675-4774",
+      "authenticated-orcid": false,
+      "given": "Soroor",
+      "family": "Motie",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-6302-2918",
+      "authenticated-orcid": false,
+      "given": "Bijan",
+      "family": "Raahemi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0005",
+      "doi-asserted-by": "crossref",
+      "first-page": "90",
+      "DOI": "10.1016/j.jnca.2016.04.007",
+      "article-title": "Fraud Detection System: A Survey",
+      "volume": "68",
+      "author": "Abdallah",
+      "year": "2016",
+      "journal-title": "Journal of Network and Computer Applications"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0010",
+      "doi-asserted-by": "crossref",
+      "first-page": "278",
+      "DOI": "10.1016/j.future.2015.01.001",
+      "article-title": "A Survey of Anomaly Detection Techniques in Financial Domain",
+      "volume": "55",
+      "author": "Ahmed",
+      "year": "2016",
+      "journal-title": "Future Generation Computer Systems"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.eswa.2023.122156_b0015",
+      "doi-asserted-by": "crossref",
+      "first-page": "626",
+      "DOI": "10.1007/s10618-014-0365-y",
+      "article-title": "Graph Based Anomaly Detection and Description: A Survey",
+      "volume": "29",
+      "author": "Akoglu",
+      "year": "2015",
+      "journal-title": "Data Mining and Knowledge Discovery"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0020",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Alarab, I., S. Prakoonwit, and M. I. Nacer. 2020. \u201cCompetence of Graph Convolutional Networks for Anti-Money Laundering in Bitcoin Blockchain.\u201d Pp. 23\u201327 in. Association for Computing Machinery.",
+      "DOI": "10.1145/3409073.3409080"
+    },
+    {
+      "issue": "9",
+      "key": "10.1016/j.eswa.2023.122156_b0025",
+      "doi-asserted-by": "crossref",
+      "first-page": "1616",
+      "DOI": "10.1109/TKDE.2018.2807452",
+      "article-title": "A comprehensive survey of graph embedding: problems, techniques, and applications",
+      "volume": "30",
+      "author": "Cai",
+      "year": "2018",
+      "journal-title": "IEEE Transactions on Knowledge and Data Engineering"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.eswa.2023.122156_b0030",
+      "first-page": "480",
+      "article-title": "Medical insurance fraud detection using graph neural networks with spatio-temporal constraints",
+      "volume": "7",
+      "author": "Chen",
+      "year": "2022",
+      "journal-title": "Journal of Network Intelligence"
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.eswa.2023.122156_b0035",
+      "doi-asserted-by": "crossref",
+      "first-page": "3800",
+      "DOI": "10.1109/TKDE.2020.3025588",
+      "article-title": "Graph neural network for fraud detection via spatial-temporal attention",
+      "volume": "34",
+      "author": "Cheng",
+      "year": "2022",
+      "journal-title": "IEEE Transactions on Knowledge and Data Engineering"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.eswa.2023.122156_b0040",
+      "doi-asserted-by": "crossref",
+      "first-page": "145",
+      "DOI": "10.1016/j.jksuci.2022.11.008",
+      "article-title": "Credit card fraud detection in the era of disruptive technologies: A systematic review",
+      "volume": "35",
+      "author": "Cherif",
+      "year": "2023",
+      "journal-title": "Journal of King Saud University - Computer and Information Sciences"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0045",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Duan, X. C., Yan, B. W., Dong, A. M., Zhang, L., & Yu, J. G. (2022). Phishing frauds detection based on graph neural network on Ethereum. International Conference on Wireless Algorithms, Systems, and Applications pp. 351\u201363 in Vol. 13471.",
+      "DOI": "10.1007/978-3-031-19208-1_29"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_bib253",
+      "series-title": "International Conference on Wireless Algorithms, Systems, and Applications",
+      "first-page": "351",
+      "article-title": "Phishing frauds detection based on graph neural network on Ethereum",
+      "author": "Duan",
+      "year": "2022"
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.eswa.2023.122156_bib252",
+      "doi-asserted-by": "crossref",
+      "first-page": "1223",
+      "DOI": "10.1007/s10207-022-00606-6",
+      "article-title": "CT-GCN: A phishing identification model for blockchain cryptocurrency transactions",
+      "volume": "21",
+      "author": "Fu",
+      "year": "2022",
+      "journal-title": "International Journal of Information Security"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0050",
+      "article-title": "Inductive representation learning on large graphs",
+      "volume": "30",
+      "author": "Hamilton",
+      "year": "2017",
+      "journal-title": "Advances in neural information processing systems"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0055",
+      "first-page": "223",
+      "article-title": "Research on abnormal transaction detection method for blockchain",
+      "volume": "Vol. 1679",
+      "author": "Han",
+      "year": "2022"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0060",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.eswa.2021.116429",
+      "article-title": "Financial Fraud: A Review of Anomaly Detection Techniques and Recent Advances",
+      "volume": "193",
+      "author": "Hilal",
+      "year": "2022",
+      "journal-title": "Expert Systems with Applications"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0065",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Kim, Hwan, Byung Suk Lee, Won-Yong Shin, and Sungsu Lim. 2022. \u201cGraph Anomaly Detection With Graph Neural Networks: Current Status and Challenges.\u201d IEEE Access 10:111820\u201329. 10.1109/ACCESS.2022.3211306.",
+      "DOI": "10.1109/ACCESS.2022.3211306"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0070",
+      "unstructured": "Kipf, Thomas N., and Max Welling. 2017. \u201cSemi-Supervised Classification with Graph Convolutional Networks.\u201d In: Proceedings of ICLR (International Conference on Learning Representations)."
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_bib246",
+      "series-title": "2021 IEEE 1st International Conference on Digital Twins and Parallel Intelligence (DTPI)",
+      "first-page": "320",
+      "article-title": "A GNN-based Few-shot learning model on the Credit Card Fraud detection",
+      "author": "Jing",
+      "year": "2021"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_bib247",
+      "series-title": "2019 4th IEEE International Conference on Cybernetics (Cybconf)",
+      "first-page": "1",
+      "article-title": "A Graph-Based Semi-Supervised Fraud Detection Framework",
+      "author": "Jing",
+      "year": "2019"
+    },
+    {
+      "issue": "2004",
+      "key": "10.1016/j.eswa.2023.122156_b0075",
+      "first-page": "1",
+      "article-title": "Procedures for Performing Systematic Reviews",
+      "volume": "33",
+      "author": "Kitchenham",
+      "year": "2004",
+      "journal-title": "UK, Keele University"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0080",
+      "series-title": "Blockchain Abnormal Transaction Detection Method Based on Weighted Sampling Neighborhood Nodes",
+      "first-page": "746",
+      "author": "Li",
+      "year": "2022"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0085",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Li, Sijia, Gaopeng Gou, Chang Liu, Chengshang Hou, Zhenzhen Li, and Gang Xiong. 2022. \u201cTTAGN: Temporal Transaction Aggregation Graph Network for Ethereum Phishing Scams Detection.\u201d Pp. 661\u201369 in Proceedings of the ACM Web Conference 2022. Virtual Event, Lyon France: ACM.",
+      "DOI": "10.1145/3485447.3512226"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0090",
+      "first-page": "983",
+      "article-title": "Temporal Graph Representation Learning for Detecting Anomalies in E-Payment Systems",
+      "volume": "in Vols",
+      "author": "Li",
+      "year": "2021"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0095",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Li, Yi, Yilun Jin, Guojie Song, Zihao Zhu, Chuan Shi, and Yiming Wang. 2021. \u201cGraphMSE: Efficient Meta-Path Selection in Semantically Aligned Feature Space for Graph Neural Networks.\u201d Proceedings of the AAAI Conference on Artificial Intelligence 35(5):4206\u201314. 10.1609/aaai.v35i5.16544.",
+      "DOI": "10.1609/aaai.v35i5.16544"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0100",
+      "series-title": "Enhanced temporal graph embedding for identifying fraudulent transactions on transaction networks",
+      "first-page": "71",
+      "author": "Liangguang",
+      "year": "2021"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0105",
+      "doi-asserted-by": "crossref",
+      "first-page": "158",
+      "DOI": "10.1016/j.future.2021.08.023",
+      "article-title": "Blockchain-Enabled Fraud Discovery through Abnormal Smart Contract Detection on Ethereum",
+      "volume": "128",
+      "author": "Liu",
+      "year": "2022",
+      "journal-title": "Future Generation Computer Systems-the International Journal of Escience"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_bib248",
+      "series-title": "2019 IEEE Conference on Computational Intelligence for Financial Engineering & Economics (CIFEr)",
+      "first-page": "1",
+      "article-title": "Auto-encoder based graph convolutional networks for online financial anti-fraud",
+      "author": "Lv",
+      "year": "2019"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0110",
+      "article-title": "A Comprehensive Survey on Graph Anomaly Detection with Deep Learning",
+      "volume": "1\u20131",
+      "author": "Ma",
+      "year": "2021",
+      "journal-title": "IEEE Transactions on Knowledge and Data Engineering"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0115",
+      "unstructured": "Niepert, Mathias, Mohamed Ahmed, and Konstantin Kutzkov. 2016. \u201cLearning Convolutional Neural Networks for Graphs.\u201d in Proceedings of The 33rd International Conference on Machine Learning, PMLR."
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0120",
+      "article-title": "The PRISMA 2020 Statement: An Updated Guideline for Reporting Systematic Reviews",
+      "volume": "n71",
+      "author": "Page",
+      "year": "2021",
+      "journal-title": "BMJ"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0125",
+      "first-page": "132",
+      "article-title": "Graph Deep Learning Based Anomaly Detection in Ethereum Blockchain Network",
+      "volume": "Vol. 12570",
+      "author": "Patel",
+      "year": "2020"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0130",
+      "first-page": "444",
+      "article-title": "EvAnGCN: Evolving Graph Deep Neural Network Based Anomaly Detection in Blockchain",
+      "volume": "Vol. 13725",
+      "author": "Patel",
+      "year": "2022"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_bib250",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Rao, Y., Ren, X., Duan, C., Mi, X., Cheng, J., Chen, Y., \u2026 & Wei, X. (2021). Knowledge-guided fraud detection using semi-supervised graph neural network. In Web Information Systems Engineering\u2013WISE 2021: 22nd International Conference on Web Information Systems Engineering, WISE 2021, Melbourne, VIC, Australia, October 26\u201329, 2021, Proceedings, Part I 22 (pp. 385\u2013393). Springer International Publishing.",
+      "DOI": "10.1007/978-3-030-90888-1_29"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0135",
+      "series-title": "TeGraF: Temporal and Graph Based Fraudulent Transaction Detection Framework",
+      "author": "Reddy",
+      "year": "2021"
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.eswa.2023.122156_bib249",
+      "doi-asserted-by": "crossref",
+      "first-page": "865",
+      "DOI": "10.3103/S0146411622080223",
+      "article-title": "Bank Fraud Detection with Graph Neural Networks",
+      "volume": "56",
+      "author": "Sergadeeva",
+      "year": "2022",
+      "journal-title": "Automatic Control and Computer Sciences"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0140",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.eswa.2022.118903",
+      "article-title": "An Edge Feature Aware Heterogeneous Graph Neural Network Model to Support Tax Evasion Detection",
+      "volume": "213",
+      "author": "Shi",
+      "year": "2023",
+      "journal-title": "Expert Systems with Applications"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0145",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Singh, A., A. Gupta, H. Wadhwa, S. Asthana, and A. Arora. 2021. \u201cTemporal Debiasing Using Adversarial Loss Based GNN Architecture for Crypto Fraud Detection.\u201d Pp. 391\u201396 in. Institute of Electrical and Electronics Engineers Inc.",
+      "DOI": "10.1109/ICMLA52953.2021.00067"
+    },
+    {
+      "issue": "11",
+      "key": "10.1016/j.eswa.2023.122156_b0150",
+      "doi-asserted-by": "crossref",
+      "first-page": "992",
+      "DOI": "10.14778/3402707.3402736",
+      "article-title": "PathSim: Meta Path-Based Top-K Similarity Search in Heterogeneous Information Networks",
+      "volume": "4",
+      "author": "Sun",
+      "year": "2011",
+      "journal-title": "Proceedings of the VLDB Endowment"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_bib255",
+      "series-title": "2021 IEEE international conference on big knowledge (ICBK)",
+      "first-page": "78",
+      "article-title": "Graph neural network for ethereum fraud detection",
+      "author": "Tan",
+      "year": "2021"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0155",
+      "volume": "Vol. 1490 CCIS",
+      "author": "Tian",
+      "year": "2021"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0160",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Van Belle, R., S. Mitrovic, and J. De Weerdt. 2020. \u201cRepresentation Learning in Graphs for Credit Card Fraud Detection.\u201d Mining Data for Financial Applications: 4th ECML PKDD Workshop, MIDAS 2019, W\u00fcrzburg, Germany, September 16, 2019, Revised Selected Papers, Pp. 32\u201346 in Vol. 11985.",
+      "DOI": "10.1007/978-3-030-37720-5_3"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0165",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.eswa.2021.116463",
+      "article-title": "Inductive Graph Representation Learning for Fraud Detection",
+      "volume": "193",
+      "author": "Van Belle",
+      "year": "2022",
+      "journal-title": "Expert Systems with Applications"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0170",
+      "series-title": "In: Proceedings of ICLR (International Conference on Learning Representations)",
+      "article-title": "Graph Attention Networks",
+      "author": "Veli\u010dkovi\u0107",
+      "year": "2018"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0175",
+      "series-title": "APAN: Asynchronous Propagation Attention Network for Real-Time Temporal Graph Embedding",
+      "first-page": "2628",
+      "author": "Wang",
+      "year": "2021"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.eswa.2023.122156_b0180",
+      "doi-asserted-by": "crossref",
+      "first-page": "4",
+      "DOI": "10.1109/TNNLS.2020.2978386",
+      "article-title": "A Comprehensive Survey on Graph Neural Networks",
+      "volume": "32",
+      "author": "Wu",
+      "year": "2021",
+      "journal-title": "IEEE Transactions on Neural Networks and Learning Systems"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.eswa.2023.122156_b0185",
+      "doi-asserted-by": "crossref",
+      "first-page": "1921",
+      "DOI": "10.1007/s13369-021-06116-2",
+      "article-title": "A Novel Spatiotemporal Prediction Approach Based on Graph Convolution Neural Networks and Long Short-Term Memory for Money Laundering Fraud",
+      "volume": "47",
+      "author": "Xia",
+      "year": "2022",
+      "journal-title": "Arabian Journal for Science and Engineering"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.eswa.2023.122156_b0190",
+      "doi-asserted-by": "crossref",
+      "first-page": "4",
+      "DOI": "10.1007/s00138-021-01251-0",
+      "article-title": "Graph Neural Networks in Node Classification: Survey and Evaluation",
+      "volume": "33",
+      "author": "Xiao",
+      "year": "2022",
+      "journal-title": "Machine Vision and Applications"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.eswa.2023.122156_bib251",
+      "doi-asserted-by": "crossref",
+      "first-page": "4537",
+      "DOI": "10.1609/aaai.v35i5.16582",
+      "article-title": "May). Towards consumer loan fraud detection: Graph neural networks with role-constrained conditional random field",
+      "volume": "35",
+      "author": "Xu",
+      "year": "2021",
+      "journal-title": "Proceedings of the AAAI Conference on Artificial Intelligence"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0195",
+      "series-title": "In: Proceedings of ICLR (International Conference on Learning Representations)",
+      "article-title": "How Powerful Are Graph Neural Networks?",
+      "author": "Xu",
+      "year": "2019"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0200",
+      "series-title": "IEEE Conference on Telecommunications, Optics and Computer Science (TOCS)",
+      "first-page": "666",
+      "article-title": "GRU-GAT Model for Blockchain Bitcoin Abnormal Transaction Detection",
+      "author": "Zheng",
+      "year": "2022"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0205",
+      "doi-asserted-by": "crossref",
+      "first-page": "75729",
+      "DOI": "10.1109/ACCESS.2022.3191784",
+      "article-title": "A Comprehensive Survey of Graph Neural Networks for Knowledge Graphs",
+      "volume": "10",
+      "author": "Ye",
+      "year": "2022",
+      "journal-title": "IEEE Access"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0210",
+      "series-title": "Anomaly Detection in Financial Data Using Deep Learning: A Comparative Analysis",
+      "first-page": "1",
+      "author": "Yildiz",
+      "year": "2022"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0215",
+      "unstructured": "Yun, Seongjun, Minbyul Jeong, Raehyun Kim, Jaewoo Kang, and Hyunwoo J. Kim. 2019. \u201cGraph Transformer Networks.\u201d Advances in neural information processing systems,32."
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0220",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Zhang, J., F. Yang, K. Lin, and Y. Lai. 2022. \u201cHierarchical Multi-Modal Fusion on Dynamic Heterogeneous Graph for Health Insurance Fraud Detection.\u201d IEEE International Conference on Multimedia and Expo (ICME) Vols. 2022-July. IEEE Computer Society.",
+      "DOI": "10.1109/ICME52920.2022.9859871"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.eswa.2023.122156_b0225",
+      "doi-asserted-by": "crossref",
+      "first-page": "249",
+      "DOI": "10.1109/TKDE.2020.2981333",
+      "article-title": "Deep Learning on Graphs: A Survey",
+      "volume": "34",
+      "author": "Zhang",
+      "year": "2022",
+      "journal-title": "IEEE Transactions on Knowledge and Data Engineering"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0230",
+      "doi-asserted-by": "crossref",
+      "first-page": "3433",
+      "DOI": "10.1109/TIFS.2022.3208471",
+      "article-title": "Behavior-Aware Account De-Anonymization on Ethereum Interaction Graph",
+      "volume": "17",
+      "author": "Zhou",
+      "year": "2022",
+      "journal-title": "IEEE Transactions on Information Forensics and Security"
+    },
+    {
+      "key": "10.1016/j.eswa.2023.122156_b0235",
+      "doi-asserted-by": "crossref",
+      "first-page": "57",
+      "DOI": "10.1016/j.aiopen.2021.01.001",
+      "article-title": "Graph Neural Networks: A Review of Methods and Applications",
+      "volume": "1",
+      "author": "Zhou",
+      "year": "2020",
+      "journal-title": "AI Open"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.eswa.2023.122156_b0240",
+      "first-page": "1",
+      "article-title": "Graph Neural Networks: Taxonomy, Advances, and Trends",
+      "volume": "13",
+      "author": "Zhou",
+      "year": "2022",
+      "journal-title": "ACM Transactions on Intelligent Systems and Technology"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.eswa.2023.122156_b0245",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.xinn.2021.100176",
+      "article-title": "Intelligent Financial Fraud Detection Practices in Post-Pandemic Era",
+      "volume": "2",
+      "author": "Zhu",
+      "year": "2021",
+      "journal-title": "The Innovation"
+    }
+  ],
+  "container-title": [
+    "Expert Systems with Applications"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0957417423026581?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0957417423026581?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        11
+      ]
+    ],
+    "date-time": "2026-05-11T16:25:54Z",
+    "timestamp": 1778516754000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0957417423026581"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4
+      ]
+    ]
+  },
+  "references-count": 58,
+  "alternative-id": [
+    "S0957417423026581"
+  ],
+  "URL": "https://doi.org/10.1016/j.eswa.2023.122156",
+  "relation": {},
+  "ISSN": [
+    "0957-4174"
+  ],
+  "issn-type": [
+    {
+      "value": "0957-4174",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        4
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Financial fraud detection using graph neural networks: A systematic review",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Expert Systems with Applications",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.eswa.2023.122156",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "\u00a9 2023 Elsevier Ltd. All rights reserved.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "122156"
+}

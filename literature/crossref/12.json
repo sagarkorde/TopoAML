@@ -1,0 +1,917 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        7
+      ]
+    ],
+    "date-time": "2026-10-07T17:31:45Z",
+    "timestamp": 1791394305108,
+    "version": "4.3.3"
+  },
+  "reference-count": 104,
+  "publisher": "Wiley",
+  "issue": "3",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            21
+          ]
+        ],
+        "date-time": "2025-08-21T00:00:00Z",
+        "timestamp": 1755734400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100003130",
+      "name": "Fonds Wetenschappelijk Onderzoek",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "1SHEN24N"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "1SHEN24N"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100003130",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100003130",
+      "name": "Fonds Wetenschappelijk Onderzoek",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "G015020N"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "G015020N"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100003130",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100011878",
+      "name": "Vlaamse regering",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100011878",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "wires.onlinelibrary.wiley.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "WIREs Computational Stats"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2025,
+        9
+      ]
+    ]
+  },
+  "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Financial institutions are required by regulation to report suspicious financial transactions related to money laundering. Therefore, they need to constantly monitor vast amounts of incoming and outgoing transactions. Given the involvement of many parties in money laundering, graph analytics is vital for effective monitoring. A particular challenge in detecting money laundering is that money launderers continuously adapt their tactics to evade detection. Hence, detection methods need constant fine\u2010tuning. Traditional machine learning models suffer from catastrophic forgetting when fine\u2010tuning the model on new data, thereby limiting their effectiveness in dynamic environments. Continual learning addresses this issue and enhances current anti\u2010money laundering (AML) practices by allowing models to incorporate new information while retaining prior knowledge. Research on continual graph learning for AML, however, is still scarce. In this review, we critically evaluate state\u2010of\u2010the\u2010art continual graph learning approaches for AML applications. We categorize methods into replay\u2010based, regularization\u2010based, and architecture\u2010based strategies within the graph neural network (GNN) framework, and we provide in\u2010depth experimental evaluations on both synthetic and real\u2010world AML data sets that showcase the effect of the different hyperparameters. Our analysis demonstrates that continual learning improves model adaptability and robustness in the face of extreme class imbalances and evolving fraud patterns. Finally, we outline key challenges and propose directions for future research.</jats:p>\n                  <jats:p>\n                    This article is categorized under:\n                    <jats:list list-type=\"simple\">\n                      <jats:list-item>\n                        <jats:p>Data: Types and Structure &gt; Graph and Network Data</jats:p>\n                      </jats:list-item>\n                      <jats:list-item>\n                        <jats:p>Data: Types and Structure &gt; Streaming Data</jats:p>\n                      </jats:list-item>\n                      <jats:list-item>\n                        <jats:p>Statistical Learning and Exploratory Methods of the Data Sciences &gt; Deep Learning</jats:p>\n                      </jats:list-item>\n                    </jats:list>\n                  </jats:p>",
+  "DOI": "10.1002/wics.70040",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        21
+      ]
+    ],
+    "date-time": "2025-08-21T23:25:21Z",
+    "timestamp": 1755818721000
+  },
+  "update-policy": "https://doi.org/10.1002/crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 19,
+  "title": [
+    "Advances in Continual Graph Learning for Anti\u2010Money Laundering Systems: A Comprehensive Review"
+  ],
+  "prefix": "10.1002",
+  "volume": "17",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-0817-0501",
+      "authenticated-orcid": false,
+      "given": "Bruno",
+      "family": "Deprez",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "KU Leuven  Leuven Belgium"
+        },
+        {
+          "name": "University of Antwerp \u2013 imec  Antwerp Belgium"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-5651-8712",
+      "authenticated-orcid": false,
+      "given": "Wei",
+      "family": "Wei",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University of Antwerp \u2013 imec, IDLab  Antwerp Belgium"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-8438-0535",
+      "authenticated-orcid": false,
+      "given": "Wouter",
+      "family": "Verbeke",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "KU Leuven  Leuven Belgium"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5831-5668",
+      "authenticated-orcid": false,
+      "given": "Bart",
+      "family": "Baesens",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "KU Leuven  Leuven Belgium"
+        },
+        {
+          "name": "University of Southampton  Southampton UK"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4812-4841",
+      "authenticated-orcid": false,
+      "given": "Kevin",
+      "family": "Mets",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University of Antwerp \u2013 imec, IDLab  Antwerp Belgium"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-1105-2028",
+      "authenticated-orcid": false,
+      "given": "Tim",
+      "family": "Verdonck",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "KU Leuven  Leuven Belgium"
+        },
+        {
+          "name": "University of Antwerp \u2013 imec  Antwerp Belgium"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "311",
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        21
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_2_12_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/widm.1526"
+    },
+    {
+      "key": "e_1_2_12_3_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3409073.3409080"
+    },
+    {
+      "key": "e_1_2_12_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-030-01219-9_9"
+    },
+    {
+      "key": "e_1_2_12_5_1",
+      "first-page": "29851",
+      "volume-title": "Advances in Neural Information Processing Systems",
+      "author": "Altman E.",
+      "year": "2023"
+    },
+    {
+      "key": "e_1_2_12_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/9781119146841"
+    },
+    {
+      "key": "e_1_2_12_7_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/1553374.1553380"
+    },
+    {
+      "key": "e_1_2_12_8_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1214/ss/1042727940"
+    },
+    {
+      "key": "e_1_2_12_9_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3533271.3561727"
+    },
+    {
+      "key": "e_1_2_12_10_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Carta A. A.Cossu F.Errica andD.Bacciu.2021.\u201cCatastrophic Forgetting in Deep Graph Networks: An Introductory Benchmark for Graph Classification.\u201dhttps://arxiv.org/abs/2103.11750.",
+      "DOI": "10.3389/frai.2022.824655"
+    },
+    {
+      "key": "e_1_2_12_11_1",
+      "article-title": "Hyperparameters in Continual Learning: A Reality Check",
+      "author": "Cha S.",
+      "year": "2025",
+      "journal-title": "Transactions on Machine Learning Research"
+    },
+    {
+      "key": "e_1_2_12_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10115\u2010017\u20101144\u2010z"
+    },
+    {
+      "key": "e_1_2_12_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TPAMI.2021.3057446"
+    },
+    {
+      "key": "e_1_2_12_14_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Deprez B. T.Vanderschueren B.Baesens T.Verdonck andW.Verbeke.2024.\u201cNetwork Analytics for Anti\u2010Money Laundering\u2014A Systematic Literature Review and Experimental Evaluation.\u201darXiv Preprint arXiv:2405.19383.https://arxiv.org/abs/2405.19383.",
+      "DOI": "10.1287/ijds.2024.0042.cd"
+    },
+    {
+      "key": "e_1_2_12_15_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s13385\u2010024\u201000384\u20106"
+    },
+    {
+      "key": "e_1_2_12_16_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ins.2014.10.015"
+    },
+    {
+      "key": "e_1_2_12_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1609/aaai.v38i10.29069"
+    },
+    {
+      "key": "e_1_2_12_18_1",
+      "unstructured": "Elliptic. n.d.\u201cElliptic.\u201dAccessed January 31 2024.www.elliptic.co."
+    },
+    {
+      "key": "e_1_2_12_19_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/MCI.2022.3222049"
+    },
+    {
+      "key": "e_1_2_12_20_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S1364\u20106613(99)01294\u20102"
+    },
+    {
+      "key": "e_1_2_12_21_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.eswa.2016.09.029"
+    },
+    {
+      "key": "e_1_2_12_22_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.neunet.2023.04.022"
+    },
+    {
+      "key": "e_1_2_12_23_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1108/13685200710746875"
+    },
+    {
+      "key": "e_1_2_12_24_1",
+      "unstructured": "Goodfellow I. J. M.Mirza D.Xiao A.Courville andY.Bengio.2015.\u201cAn Empirical Investigation of Catastrophic Forgetting in Gradient\u2010Based Neural Networks.\u201dhttps://arxiv.org/abs/1312.6211."
+    },
+    {
+      "key": "e_1_2_12_25_1",
+      "volume-title": "Advances in Neural Information Processing Systems",
+      "author": "Hamilton W.",
+      "year": "2017"
+    },
+    {
+      "key": "e_1_2_12_26_1",
+      "unstructured": "Hemati H. M.Schreyer andD.Borth.2022.\u201cContinual Learning for Unsupervised Anomaly Detection in Continuous Auditing of Financial Accounting Data.\u201dhttps://arxiv.org/abs/2112.13215."
+    },
+    {
+      "key": "e_1_2_12_27_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/ACCESS.2023.3239549"
+    },
+    {
+      "key": "e_1_2_12_28_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TCSII.2022.3177898"
+    },
+    {
+      "key": "e_1_2_12_29_1",
+      "unstructured": "Kipf T. N. andM.Welling.2017.\u201cSemi\u2010Supervised Classification With Graph Convolutional Networks.\u201d"
+    },
+    {
+      "key": "e_1_2_12_30_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.1611835114"
+    },
+    {
+      "key": "e_1_2_12_31_1",
+      "unstructured": "Ko J. S.Kang T.Kwon H.Moon andK.Shin.2024.\u201cBegin: Extensive Benchmark Scenarios and an Easy\u2010to\u2010Use Framework for Graph Continual Learning.\u201dhttps://arxiv.org/abs/2211.14568."
+    },
+    {
+      "key": "e_1_2_12_32_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1142/S1793351X20300022"
+    },
+    {
+      "key": "e_1_2_12_33_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.eswa.2024.123445"
+    },
+    {
+      "key": "e_1_2_12_34_1",
+      "first-page": "6109",
+      "volume-title": "International Conference on Machine Learning",
+      "author": "Lee S.",
+      "year": "2021"
+    },
+    {
+      "key": "e_1_2_12_35_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1086/501508"
+    },
+    {
+      "key": "e_1_2_12_36_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/ICBAIE56435.2022.9985815"
+    },
+    {
+      "key": "e_1_2_12_37_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1609/aaai.v32i1.11604"
+    },
+    {
+      "key": "e_1_2_12_38_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1609/aaai.v34i04.5906"
+    },
+    {
+      "key": "e_1_2_12_39_1",
+      "unstructured": "Li Y. Y.Yang X.Yang Q.Gao andF.Zhou.2022.\u201cForgetting Prevention for Cross\u2010Regional Fraud Detection With Heterogeneous Trade Graph.\u201dhttps://arxiv.org/abs/2204.10085."
+    },
+    {
+      "key": "e_1_2_12_40_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TPAMI.2017.2773081"
+    },
+    {
+      "key": "e_1_2_12_41_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.23919/JSC.2022.0011"
+    },
+    {
+      "key": "e_1_2_12_42_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/widm.1558"
+    },
+    {
+      "key": "e_1_2_12_43_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1609/aaai.v35i10.17049"
+    },
+    {
+      "key": "e_1_2_12_44_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/ICDM58522.2023.00141"
+    },
+    {
+      "key": "e_1_2_12_45_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10489\u2010023\u201004504\u20109"
+    },
+    {
+      "key": "e_1_2_12_46_1",
+      "volume-title": "Advances in Neural Information Processing Systems",
+      "author": "Lopez\u2010Paz D.",
+      "year": "2017"
+    },
+    {
+      "key": "e_1_2_12_47_1",
+      "volume-title": "Proceedings of the First ACM International Conference on AI in Finance (ICAIF '20)",
+      "author": "Lorenz J.",
+      "year": "2021"
+    },
+    {
+      "key": "e_1_2_12_48_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-030-01225-0_5"
+    },
+    {
+      "key": "e_1_2_12_49_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/CVPR.2018.00810"
+    },
+    {
+      "key": "e_1_2_12_50_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.1803839115"
+    },
+    {
+      "key": "e_1_2_12_51_1",
+      "first-page": "109",
+      "volume-title": "Psychology of Learning and Motivation",
+      "author": "McCloskey M.",
+      "year": "1989"
+    },
+    {
+      "key": "e_1_2_12_52_1",
+      "unstructured": "Mirzadeh S. I. A.Chaudhry D.Yin et\u00a0al.2022.\u201cArchitecture Matters in Continual Learning.\u201dhttps://arxiv.org/abs/2202.00275."
+    },
+    {
+      "key": "e_1_2_12_53_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1108/DTA\u201006\u20102021\u20100167"
+    },
+    {
+      "key": "e_1_2_12_54_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.eswa.2023.122156"
+    },
+    {
+      "key": "e_1_2_12_55_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.dss.2010.08.006"
+    },
+    {
+      "key": "e_1_2_12_56_1",
+      "unstructured": "Nguyen C. V. A.Achille M.Lam T.Hassner V.Mahadevan andS.Soatto.2019.\u201cToward Understanding Catastrophic Forgetting in Continual Learning.\u201dhttps://arxiv.org/abs/1908.01091."
+    },
+    {
+      "key": "e_1_2_12_57_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10618\u2010023\u201000925\u20109"
+    },
+    {
+      "key": "e_1_2_12_58_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/risa.13693"
+    },
+    {
+      "key": "e_1_2_12_59_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/ASONAM.2012.156"
+    },
+    {
+      "key": "e_1_2_12_60_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.future.2024.05.027"
+    },
+    {
+      "key": "e_1_2_12_61_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.neunet.2019.01.012"
+    },
+    {
+      "key": "e_1_2_12_62_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3477314.3507113"
+    },
+    {
+      "key": "e_1_2_12_63_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/ICDMW.2018.00043"
+    },
+    {
+      "key": "e_1_2_12_64_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/widm.1208"
+    },
+    {
+      "key": "e_1_2_12_65_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/CVPR.2017.587"
+    },
+    {
+      "key": "e_1_2_12_66_1",
+      "volume-title": "Advances in Neural Information Processing Systems",
+      "author": "Rolnick D.",
+      "year": "2019"
+    },
+    {
+      "key": "e_1_2_12_67_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TNN.2008.2005605"
+    },
+    {
+      "key": "e_1_2_12_68_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/WI.2005.67"
+    },
+    {
+      "key": "e_1_2_12_69_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1609/aimag.v16i4.1169"
+    },
+    {
+      "key": "e_1_2_12_70_1",
+      "first-page": "4548",
+      "volume-title": "Proceedings of the 35th International Conference on Machine Learning, 80 of Proceedings of Machine Learning Research",
+      "author": "Serra J.",
+      "year": "2018"
+    },
+    {
+      "key": "e_1_2_12_71_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/ISCSIC57216.2022.00077"
+    },
+    {
+      "key": "e_1_2_12_72_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-031-74643-7_29"
+    },
+    {
+      "key": "e_1_2_12_73_1",
+      "unstructured": "Tian Z. D.Zhang andH.\u2010N.Dai.2024.\u201cContinual Learning on Graphs: A Survey.\u201darXiv Preprint arXiv:2402.06330."
+    },
+    {
+      "key": "e_1_2_12_74_1",
+      "unstructured": "United Nations Office on Drugs and Crime (UNODC). n.d.\u201cMoney Laundering.\u201dAccessed April 7 2023.https://www.unodc.org/unodc/en/money\u2010laundering/overview.html."
+    },
+    {
+      "key": "e_1_2_12_75_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.dss.2022.113866"
+    },
+    {
+      "key": "e_1_2_12_76_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.eswa.2021.116463"
+    },
+    {
+      "key": "e_1_2_12_77_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TKDE.2024.3381240"
+    },
+    {
+      "key": "e_1_2_12_78_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-030-37720-5_3"
+    },
+    {
+      "key": "e_1_2_12_79_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s42256\u2010022\u201000568\u20103"
+    },
+    {
+      "key": "e_1_2_12_80_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.dss.2015.04.013"
+    },
+    {
+      "key": "e_1_2_12_81_1",
+      "unstructured": "Veli\u010dkovi\u0107 P. G.Cucurull A.Casanova A.Romero P.Li\u00f2 andY.Bengio.2018.\u201cGraph Attention Networks.\u201d"
+    },
+    {
+      "key": "e_1_2_12_82_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3340531.3411963"
+    },
+    {
+      "key": "e_1_2_12_83_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TPAMI.2024.3367329"
+    },
+    {
+      "key": "e_1_2_12_84_1",
+      "unstructured": "Weber M. G.Domeniconi J.Chen et\u00a0al.2019.\u201cAnti\u2010Money Laundering in Bitcoin: Experimenting With Graph Convolutional Networks for Financial Forensics.\u201dhttps://arxiv.org/abs/1908.02591."
+    },
+    {
+      "key": "e_1_2_12_85_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5220/0012394400003660"
+    },
+    {
+      "key": "e_1_2_12_86_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/CVPRW63382.2024.00766"
+    },
+    {
+      "key": "e_1_2_12_87_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.14428/esann/2025.ES2025-139"
+    },
+    {
+      "key": "e_1_2_12_88_1",
+      "article-title": "Smurfs, Money Laundering, and the Federal Criminal Law: The Crime of Structuring Transactions",
+      "volume": "41",
+      "author": "Welling S. N.",
+      "year": "1989",
+      "journal-title": "Florida Law Review"
+    },
+    {
+      "key": "e_1_2_12_89_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s13369\u2010021\u201006116\u20102"
+    },
+    {
+      "key": "e_1_2_12_90_1",
+      "unstructured": "Xu K. W.Hu J.Leskovec andS.Jegelka.2019.\u201cHow Powerful Are Graph Neural Networks?\u201d."
+    },
+    {
+      "key": "e_1_2_12_91_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/CVPR46437.2021.00303"
+    },
+    {
+      "key": "e_1_2_12_92_1",
+      "unstructured": "Yuan Q. S.\u2010U.Guan P.Ni et\u00a0al.2023.\u201cContinual Graph Learning: A Survey.\u201dhttps://arxiv.org/abs/2301.12230."
+    },
+    {
+      "key": "e_1_2_12_93_1",
+      "first-page": "3987",
+      "volume-title": "Proceedings of the 34th International Conference on Machine Learning, Volume 70 of Proceedings of Machine Learning Research",
+      "author": "Zenke F.",
+      "year": "2017"
+    },
+    {
+      "key": "e_1_2_12_94_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3539618.3591652"
+    },
+    {
+      "key": "e_1_2_12_95_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1609/aaai.v38i20.30259"
+    },
+    {
+      "key": "e_1_2_12_96_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/SMDS53860.2021.00032"
+    },
+    {
+      "key": "e_1_2_12_97_1",
+      "first-page": "13006",
+      "volume-title": "Advances in Neural Information Processing Systems",
+      "author": "Zhang X.",
+      "year": "2022"
+    },
+    {
+      "key": "e_1_2_12_98_1",
+      "unstructured": "Zhang X. D.Song andD.Tao.2024.\u201cContinual Learning on Graphs: Challenges Solutions and Opportunities.\u201dhttps://arxiv.org/abs/2402.11565."
+    },
+    {
+      "key": "e_1_2_12_99_1",
+      "article-title": "AGALE: A Graph\u2010Aware Continual Learning Evaluation Framework",
+      "author": "Zhao T.",
+      "year": "2024",
+      "journal-title": "Transactions on Machine Learning Research"
+    },
+    {
+      "key": "e_1_2_12_100_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/ARES.2014.10"
+    },
+    {
+      "key": "e_1_2_12_101_1",
+      "first-page": "6026",
+      "article-title": "Structure\u2010Free Graph Condensation: From Large\u2010Scale Graphs to Condensed Graph\u2010Free Data",
+      "volume": "36",
+      "author": "Zheng X.",
+      "year": "2023",
+      "journal-title": "Advances in Neural Information Processing Systems"
+    },
+    {
+      "key": "e_1_2_12_102_1",
+      "first-page": "655",
+      "volume-title": "Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD '17)",
+      "author": "Zhou D.",
+      "year": "2017"
+    },
+    {
+      "key": "e_1_2_12_103_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TPAMI.2024.3429383"
+    },
+    {
+      "key": "e_1_2_12_104_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1609/aaai.v35i5.16602"
+    },
+    {
+      "key": "e_1_2_12_105_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.knosys.2012.12.003"
+    }
+  ],
+  "container-title": [
+    "WIREs Computational Statistics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wics.70040",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        2
+      ]
+    ],
+    "date-time": "2025-12-02T02:18:32Z",
+    "timestamp": 1764641912000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://wires.onlinelibrary.wiley.com/doi/10.1002/wics.70040"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        21
+      ]
+    ]
+  },
+  "references-count": 104,
+  "journal-issue": {
+    "issue": "3",
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          9
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1002/wics.70040"
+  ],
+  "URL": "https://doi.org/10.1002/wics.70040",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "1939-5108",
+    "1939-0068"
+  ],
+  "issn-type": [
+    {
+      "value": "1939-5108",
+      "type": "print"
+    },
+    {
+      "value": "1939-0068",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        21
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2025-04-01",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2025-07-30",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2025-08-21",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ],
+  "article-number": "e70040"
+}

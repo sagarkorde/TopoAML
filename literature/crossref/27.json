@@ -1,0 +1,572 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        17
+      ]
+    ],
+    "date-time": "2026-10-17T21:07:11Z",
+    "timestamp": 1792271231005,
+    "version": "4.4.0"
+  },
+  "reference-count": 62,
+  "publisher": "American Chemical Society (ACS)",
+  "issue": "4",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            2,
+            6
+          ]
+        ],
+        "date-time": "2025-02-06T00:00:00Z",
+        "timestamp": 1738800000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/100000078",
+      "name": "Division of Materials Research",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "DMR-2314050"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "DMR-2314050"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/100000078",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Chem. Mater."
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        25
+      ]
+    ]
+  },
+  "DOI": "10.1021/acs.chemmater.4c03028",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        6
+      ]
+    ],
+    "date-time": "2025-02-06T17:41:11Z",
+    "timestamp": 1738863671000
+  },
+  "page": "1531-1540",
+  "source": "Crossref",
+  "is-referenced-by-count": 26,
+  "title": [
+    "Leveraging Persistent Homology Features for Accurate Defect Formation Energy Predictions via Graph Neural Networks"
+  ],
+  "prefix": "10.1021",
+  "volume": "37",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-6841-3934",
+      "authenticated-orcid": true,
+      "given": "Zhenyao",
+      "family": "Fang",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Physics",
+          "place": [
+            "Boston, United States"
+          ]
+        },
+        {
+          "name": "Northeastern University",
+          "place": [
+            "Boston, United States"
+          ]
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Qimin",
+      "family": "Yan",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Physics",
+          "place": [
+            "Boston, United States"
+          ]
+        },
+        {
+          "name": "Northeastern University",
+          "place": [
+            "Boston, United States"
+          ]
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "316",
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        6
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "ref1/cit1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1103/PhysRevB.105.224102"
+    },
+    {
+      "key": "ref2/cit2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1021/acs.jpcc.0c09796"
+    },
+    {
+      "key": "ref3/cit3",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1039/D2RA07483D"
+    },
+    {
+      "key": "ref4/cit4",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1039/c3nr00476g"
+    },
+    {
+      "key": "ref5/cit5",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1039/C4TA05033A"
+    },
+    {
+      "key": "ref6/cit6",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1021/acs.nanolett.4c00358"
+    },
+    {
+      "key": "ref7/cit7",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1063/1.1682673"
+    },
+    {
+      "key": "ref8/cit8",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1103/RevModPhys.86.253"
+    },
+    {
+      "key": "ref9/cit9",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1088/1468-6996/12/3/034302"
+    },
+    {
+      "key": "ref10/cit10",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.mssp.2012.05.011"
+    },
+    {
+      "key": "ref11/cit11",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1103/PhysRevB.78.235104"
+    },
+    {
+      "key": "ref12/cit12",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1103/PhysRevB.97.205425"
+    },
+    {
+      "key": "ref13/cit13",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1021/acsnano.0c05267"
+    },
+    {
+      "key": "ref14/cit14",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1021/acs.jpclett.5b00710"
+    },
+    {
+      "key": "ref15/cit15",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1021/jacs.1c05570"
+    },
+    {
+      "key": "ref16/cit16",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41524-023-00981-1"
+    },
+    {
+      "key": "ref17/cit17",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/adma.202303098"
+    },
+    {
+      "key": "ref18/cit18",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1021/acs.chemmater.9b01294"
+    },
+    {
+      "key": "ref19/cit19",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s43246-022-00315-6"
+    },
+    {
+      "key": "ref20/cit20",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41524-021-00554-0"
+    },
+    {
+      "key": "ref21/cit21",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1103/PhysRevLett.120.145301"
+    },
+    {
+      "key": "ref22/cit22",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41524-023-01062-z"
+    },
+    {
+      "key": "ref23/cit23",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1021/acs.jpcc.4c01124"
+    },
+    {
+      "key": "ref24/cit24",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1063/5.0176333"
+    },
+    {
+      "key": "ref25/cit25",
+      "volume-title": "Proceedings Of The AAAI Conference On Artificial Intelligence",
+      "volume": "32",
+      "author": "Li Q.",
+      "year": "2018"
+    },
+    {
+      "key": "ref26/cit26",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10462-022-10146-z"
+    },
+    {
+      "key": "ref27/cit27",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/jcc.25213"
+    },
+    {
+      "key": "ref28/cit28",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pcbi.1005690"
+    },
+    {
+      "key": "ref29/cit29",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41524-021-00493-w"
+    },
+    {
+      "key": "ref30/cit30",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1551-2916.2009.03061.x"
+    },
+    {
+      "key": "ref31/cit31",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1017/9781009099950",
+      "volume-title": "Computational topology for data analysis",
+      "author": "Dey T. K.",
+      "year": "2022"
+    },
+    {
+      "key": "ref32/cit32",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s41109-019-0179-3"
+    },
+    {
+      "key": "ref33/cit33",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10462-024-10710-9"
+    },
+    {
+      "key": "ref34/cit34",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41524-024-01283-w"
+    },
+    {
+      "key": "ref35/cit35",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1063/1.4812323"
+    },
+    {
+      "key": "ref36/cit36",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1609/aaai.v33i01.33014602"
+    },
+    {
+      "key": "ref37/cit37",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s43246-022-00315-6"
+    },
+    {
+      "key": "ref38/cit38",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.48550/arXiv.1710.10903"
+    },
+    {
+      "key": "ref39/cit39",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.48550/arXiv.2105.14491"
+    },
+    {
+      "key": "ref40/cit40",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.24963/ijcai.2021/214"
+    },
+    {
+      "key": "ref41/cit41",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.aiopen.2021.01.001"
+    },
+    {
+      "key": "ref42/cit42",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41467-022-29939-5"
+    },
+    {
+      "key": "ref43/cit43",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1103/PhysRevB.90.075202"
+    },
+    {
+      "key": "ref44/cit44",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1103/PhysRevLett.102.016402"
+    },
+    {
+      "key": "ref45/cit45",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41524-021-00650-1"
+    },
+    {
+      "key": "ref46/cit46",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41524-018-0096-5"
+    },
+    {
+      "key": "ref47/cit47",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1039/C6CP00415F"
+    },
+    {
+      "key": "ref48/cit48",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cpc.2019.106949"
+    },
+    {
+      "key": "ref49/cit49",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s43586-023-00209-y"
+    },
+    {
+      "key": "ref50/cit50",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1039/D1CP02066H"
+    },
+    {
+      "key": "ref51/cit51",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1021/acsmaterialslett.3c00636"
+    },
+    {
+      "key": "ref52/cit52",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1021/acs.chemmater.3c02251"
+    },
+    {
+      "key": "ref53/cit53",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/inf2.12147"
+    },
+    {
+      "key": "ref54/cit54",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1103/PhysRevB.47.558"
+    },
+    {
+      "key": "ref55/cit55",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0927-0256(96)00008-0"
+    },
+    {
+      "key": "ref56/cit56",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1103/PhysRevB.59.1758"
+    },
+    {
+      "key": "ref57/cit57",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1103/PhysRevB.50.17953"
+    },
+    {
+      "key": "ref58/cit58",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1103/PhysRevLett.77.3865"
+    },
+    {
+      "key": "ref59/cit59",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1063/1.3382344"
+    },
+    {
+      "key": "ref60/cit60",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/jcc.21759"
+    },
+    {
+      "key": "ref61/cit61",
+      "doi-asserted-by": "crossref",
+      "first-page": "2623",
+      "DOI": "10.1145/3292500.3330701",
+      "volume-title": "Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery & data mining",
+      "author": "Akiba T.",
+      "year": "2019"
+    },
+    {
+      "key": "ref62/cit62",
+      "volume-title": "Advances in Neural Information Processing Systems",
+      "volume": "24",
+      "author": "Bergstra J.",
+      "year": "2011"
+    }
+  ],
+  "container-title": [
+    "Chemistry of Materials"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://pubs.acs.org/doi/pdf/10.1021/acs.chemmater.4c03028",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "unspecified"
+    },
+    {
+      "URL": "https://pubs.acs.org/doi/pdf/10.1021/acs.chemmater.4c03028",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        25
+      ]
+    ],
+    "date-time": "2025-02-25T06:30:48Z",
+    "timestamp": 1740465048000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://pubs.acs.org/doi/10.1021/acs.chemmater.4c03028"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        6
+      ]
+    ]
+  },
+  "references-count": 62,
+  "journal-issue": {
+    "issue": "4",
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          25
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1021/acs.chemmater.4c03028"
+  ],
+  "URL": "https://doi.org/10.1021/acs.chemmater.4c03028",
+  "relation": {},
+  "ISSN": [
+    "0897-4756",
+    "1520-5002"
+  ],
+  "issn-type": [
+    {
+      "value": "0897-4756",
+      "type": "print"
+    },
+    {
+      "value": "1520-5002",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        6
+      ]
+    ]
+  }
+}
